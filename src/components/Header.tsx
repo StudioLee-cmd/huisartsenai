@@ -31,7 +31,7 @@ const Header: React.FC = () => {
                             alt={siteDetails.siteName}
                             width={400}
                             height={120}
-                            className="h-36 md:h-48 w-auto object-contain"
+                            className="h-20 md:h-48 w-auto object-contain"
                         />
                     </Link>
 
