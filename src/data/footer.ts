@@ -34,7 +34,7 @@ export const footerDetails: {
             url: "/gratis-scan"
         }
     ],
-    email: 'tim@huisartenai.nl',
+    email: 'tim@huisartsenai.nl',
     telephone: '+31612345678',
     socials: {
         instagram: 'https://www.instagram.com',
