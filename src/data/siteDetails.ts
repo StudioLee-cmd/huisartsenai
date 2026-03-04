@@ -1,12 +1,12 @@
 export const siteDetails = {
-    siteName: 'Dakdekker AI',
-    siteUrl: 'https://dakdekkerai.nl/',
+    siteName: 'HuisartsenAI',
+    siteUrl: 'https://huisartenai.nl/',
     metadata: {
-        title: 'Dakdekker AI - De slimme assistent voor jouw dakdekkersbedrijf',
-        description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. Dakdekker AI regelt je agenda, telefoon en administratie volledig automatisch.',
+        title: 'HuisartsenAI - AI Telefoniste & Automatisering voor Huisartsenpraktijken',
+        description: 'HuisartsenAI helpt huisartsenpraktijken moderniseren met AI. Van automatische patiëntenbeantwoording tot slimme triage & administratie.',
     },
     language: 'nl-nl',
     locale: 'nl-NL',
-    siteLogo: '/images/logo-transparent.png', // Transparent logo for dark mode support
+    siteLogo: '/images/logo.png',
     googleAnalyticsId: '', // e.g. G-XXXXXXX,
 }

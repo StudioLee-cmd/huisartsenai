@@ -7,36 +7,31 @@ export const benefits: IBenefit[] = [
     {
         title: "AI Telefoniste",
         tier: 'basis',
-        description: "Configureert de spraakassistent en instellingen direct in het dashboard.",
+        description: "De medische spraakassistent die patiënten te woord staat volgens NHG-richtlijnen.",
         bullets: [
             {
-                title: "Meertalig & Intelligent",
-                description: "Spreekt vloeiend Nederlands, Engels & meer. Herkent direct de taal van de beller.",
-                icon: <FiGlobe size={26} />
+                title: "Vloeiende Triage",
+                description: "Vraagt direct naar urgentie en signaleert spoed volgens medische standaarden.",
+                icon: <FiShield size={26} />
             },
             {
-                title: "Klantgeheugen & Historie",
-                description: "Herkent terugkerende klanten en heeft direct inzicht in alle eerdere klussen en klantdata.",
+                title: "Patiëntgeheugen",
+                description: "Herkent terugkerende patiënten en heeft direct inzicht in eerdere contacten.",
                 icon: <FiUsers size={26} />
             },
             {
                 title: "Slimme Routing",
-                description: "Verbind door naar de juiste persoon op basis van specifieke woorden of situaties.",
+                description: "Verbindt direct door naar de assistente bij complexe zorgvragen.",
                 icon: <FiZap size={26} />
             },
             {
-                title: "Zelfstandig Uitbellen",
-                description: "Kan zelf klanten bellen voor opvolging, bevestigingen of het inplannen van afspraken.",
-                icon: <FiPhoneMissed size={26} />
-            },
-            {
-                title: "Multi-Agenda Beheer",
-                description: "Real-time sync met meerdere agenda's. Boekt direct zonder dubbele afspraken te maken.",
+                title: "Afspraken Planner",
+                description: "Patiënten kunnen zelf hun afspraken plannen en verzetten via de AI-lijn.",
                 icon: <FiCalendar size={26} />
             },
             {
                 title: "Alles Inbegrepen",
-                description: "Alle geavanceerde features en koppelingen zijn standaard inbegrepen.",
+                description: "Alle spraakfunctionaliteiten zijn standaard onderdeel van HuisartsenAI.",
                 icon: <FiCheckCircle size={26} />,
                 isHighlighted: true
             }
@@ -48,110 +43,93 @@ export const benefits: IBenefit[] = [
     {
         title: "Social Media Planner",
         tier: 'basis',
-        description: "De krachtige Social Media Scheduler in app.AIReclameStudio.nl. Connecteert met FB, IG, LinkedIn, TikTok en X.",
+        description: "Houd uw patiënten op de hoogte via al uw digitale kanalen vanuit één dashboard.",
         bullets: [
             {
-                title: "Posting Engine",
-                description: "Dit is de motor voor het plaatsen; creatie doe je met 'Social Media Content'.",
+                title: "Patiëntencommunicatie",
+                description: "Deel eenvoudig nieuws over de praktijk, vaccinaties of openingstijden.",
                 icon: <FiShare2 size={26} />
             },
             {
                 title: "Automatisering",
-                description: "Plan en publiceer content automatisch op al je kanalen.",
+                description: "Plan herinneringen voor belangrijke gezondheidsthema's vooruit.",
                 icon: <FiCalendar size={26} />
             },
             {
-                title: "Visuele Kalender",
-                description: "Houd overzicht met een handige drag-and-drop kalender.",
-                icon: <FiLayout size={26} />
-            },
-            {
                 title: "Cross-Platform",
-                description: "Beheer Facebook, Instagram, LinkedIn, TikTok en Twitter vanuit één plek.",
+                description: "Beheer Facebook, Instagram en LinkedIn tegelijk vanuit één scherm.",
                 icon: <FiGlobe size={26} />
             },
             {
                 title: "Gratis Inbegrepen",
-                description: "Deze krachtige tool is standaard onderdeel van je licentie.",
+                description: "Standaard onderdeel om de verbinding met uw patiënten te versterken.",
                 icon: <FiCheckCircle size={26} />,
                 isHighlighted: true
             }
         ],
-        imageSrc: "/images/benefits/social-media-planner.png"
+        imageSrc: "/images/benefits/social-media.png"
     },
 
     // 3. Reputatie Manager
     {
         title: "Reputatie Manager",
         tier: 'basis',
-        description: "Automatiseert je Reputatie Management.",
+        description: "Automatiseer het verzamelen van waardevolle feedback en verbeter uw online reputatie.",
         bullets: [
             {
-                title: "Automatisering",
-                description: "Verstuurt automatische SMS/Emails voor Google Reviews na een afspraak.",
+                title: "Feedback Automatisering",
+                description: "Verstuurt automatisch uitnodigingen voor patiëntwaarderingen na contact.",
                 icon: <FiStar size={26} />
             },
             {
                 title: "Review Widget",
-                description: "Toont je laatste 5-sterren reviews direct op je website.",
+                description: "Toont uw laatste 5-sterren waarderingen direct op de openingspagina.",
                 icon: <FiLayout size={26} />
             },
             {
-                title: "Google Ranking",
-                description: "Meer reviews = betere vindbaarheid in Google Maps.",
+                title: "Vindbaarheid",
+                description: "Goede waarderingen zorgen voor een sterke positie in Google Maps.",
                 icon: <FiMapPin size={26} />
             },
             {
-                title: "Feedback Shield",
-                description: "Vangt negatieve feedback af voordat het online komt.",
-                icon: <FiShield size={26} />
-            },
-            {
-                title: "Reputatie",
-                description: "Bouw een 5-sterren reputatie op de automatische piloot.",
+                title: "Vertrouwen",
+                description: "Bouw aan een vertrouwd en kwalitatief imago voor uw praktijk.",
                 icon: <FiThumbsUp size={26} />,
                 isHighlighted: true
             }
         ],
-        imageSrc: "/images/benefits/reputatie-manager.png"
+        imageSrc: "/images/benefits/review-manager.png"
     },
 
     // 4. Factuur AI & Sales Deck AI
     {
         title: "Factuur AI & Sales Deck AI",
         tier: 'basis',
-        description: "Creëer professionele facturen en overtuigende sales presentaties binnen minuten. Volledig automatisch met AI-gegenereerde visuals.",
+        description: "Creëer professionele facturen en medische presentaties binnen enkele minuten.",
         bullets: [
             {
-                title: "Sales Deck Generator",
-                description: "Maak in 5 minuten een complete verkooppresentatie met custom AI-afbeeldingen.",
-                icon: <FiImage size={26} />
-            },
-            {
-                title: "Slimme Facturen",
-                description: "Vul je pakketten en prijzen in, krijg direct een professionele factuur.",
+                title: "Slimme Facturatie",
+                description: "Snel en foutloos factureren voor niet-verzekerde zorg of passanten.",
                 icon: <FiFileText size={26} />
             },
             {
-                title: "Betalingsherinneringen",
-                description: "Automatische herinneringen bij openstaande facturen verlichten je werkdruk.",
-                icon: <FiBell size={26} />
+                title: "Presentatie AI",
+                description: "Maak in een handomdraai visuele presentaties over uw praktijk en diensten.",
+                icon: <FiImage size={26} />
             },
             {
                 title: "Online Betalingen",
-                description: "Klanten betalen direct via iDEAL, creditcard of bankoverschrijving.",
+                description: "Patiënten kunnen direct via iDEAL betalen voor administratieve snelheid.",
                 icon: <FiCreditCard size={26} />
             },
             {
                 title: "Sneller Betaald",
-                description: "Professionele presentaties + automatische opvolging = minder gedoe.",
-                icon: <FiCheckCircle size={26} />,
+                description: "Minder rompslomp met papieren facturen en snellere afhandeling.",
+                icon: <FiZap size={26} />,
                 isHighlighted: true
             }
         ],
-
-
-        imageSrc: "/images/benefits/factuur-ai.png",
+        imageSrc: "/images/benefits/factuur.png",
         videoSrc: "/videos/benefits/sales-deck-ai.mp4"
     },
 
@@ -159,221 +137,187 @@ export const benefits: IBenefit[] = [
     {
         title: "Afspraak Herinneringen",
         tier: 'basis',
-        description: "Update de Afspraak Herinnering workflows.",
+        description: "Voorkom no-shows en optimaliseer uw spreekuur met automatische reminders.",
         bullets: [
             {
-                title: "No-Show Reductie",
-                description: "Bewezen SMS/Email sequenties om no-shows te voorkomen.",
-                icon: <FiBell size={26} />
+                title: "SMS & Email",
+                description: "Bevestigingen en herinneringen via het kanaal van voorkeur van de patiënt.",
+                icon: <FiMessageSquare size={26} />
             },
             {
                 title: "Sequenties",
-                description: "Standaard 24u, 1u en 10min herinneringen.",
+                description: "Standaard herinneringen op 24 uur en 2 uur voor aanvang van het consult.",
                 icon: <FiClock size={26} />
             },
             {
-                title: "Bevelliging",
-                description: "Zorgt dat klanten hun afspraak niet vergeten.",
-                icon: <FiShield size={26} />
-            },
-            {
-                title: "Wachtlijst",
-                description: "Kan geannuleerde plekken opvullen via wachtlijst.",
+                title: "Wachtlijst Beheer",
+                description: "Bij annulering kan de AI direct een patiënt van de wachtlijst benaderen.",
                 icon: <FiUsers size={26} />
             },
             {
-                title: "Volle Agenda",
-                description: "Maximaliseer je declarabele uren.",
-                icon: <FiCalendar size={26} />,
+                title: "Optimale Flow",
+                description: "Een strakkere planning zorgt voor minder wachttijd in de praktijk.",
+                icon: <FiRefreshCw size={26} />,
                 isHighlighted: true
             }
         ],
-        imageSrc: "/images/benefits/reminder-ai.png"
+        imageSrc: "/images/benefits/reminder.png"
     },
 
     // 6. Gemiste Oproep Service
     {
         title: "Gemiste Oproep Service",
         tier: 'basis',
-        description: "Configureert de 'Missed Call Text Back' workflow.",
+        description: "Zorg dat geen enkele zorgvraag onbeantwoord blijft, ook niet bij extreme drukte.",
         bullets: [
             {
-                title: "Direct Contact",
-                description: "SMS klanten direct als je niet kunt opnemen.",
-                icon: <FiMessageSquare size={26} />
+                title: "SMS Terugbel",
+                description: "Stuurt direct een SMS als de lijn bezet is om de patiënt gerust te stellen.",
+                icon: <FiSmartphone size={26} />
             },
             {
-                title: "Red de Lead",
-                description: "Voorkom dat klanten naar de concurrent bellen.",
+                title: "Zorgcontinuïteit",
+                description: "Bied direct een alternatief aan zoals de chatbot of de spoedlijn.",
                 icon: <FiLifeBuoy size={26} />
             },
             {
-                title: "Gespreksstarter",
-                description: "Start automatisch een conversatie om de afspraak alsnog te maken.",
-                icon: <FiShare2 size={26} />
+                title: "Piekuropvang",
+                description: "Ideaal voor de drukke maandagochtend: nooit meer een 'ingesprektoon'.",
+                icon: <FiTrendingUp size={26} />
             },
             {
-                title: "Altijd Aan",
-                description: "Werkt 24/7, ook in het weekend.",
-                icon: <FiCpu size={26} />
-            },
-            {
-                title: "Omzetbehoud",
-                description: "Elke geredde lead is extra omzet.",
-                icon: <FiTrendingUp size={26} />,
+                title: "Patiënttevredenheid",
+                description: "Directe respons verlaagt de drempel en verhoogt het vertrouwen.",
+                icon: <FiThumbsUp size={26} />,
                 isHighlighted: true
             }
         ],
-        imageSrc: "/images/benefits/call-back-ai.png"
+        imageSrc: "/images/benefits/missed-call.png"
     },
 
     // 7. Slimme Website Chat
     {
         title: "Slimme Website Chat",
         tier: 'basis',
-        description: "Past de Website Chat Widget instellingen aan.",
+        description: "Beantwoord veelgestelde vragen automatisch en screen patiënten via uw website.",
         bullets: [
             {
-                title: "24/7 Q&A",
-                description: "Antwoordt vragen op basis van jouw Kennisbank.",
-                icon: <FiMessageSquare size={26} />
+                title: "Medische Kennisbank",
+                description: "Antwoordt op basis van Thuisarts.nl of uw eigen praktijkinformatie.",
+                icon: <FiGlobe size={26} />
             },
             {
-                title: "Lead Capture",
-                description: "Vangt leads direct op in je CRM.",
-                icon: <FiUsers size={26} />
-            },
-            {
-                title: "Design",
-                description: "Pas de kleuren en begroeting aan op jouw huisstijl.",
-                icon: <FiPenTool size={26} />
-            },
-            {
-                title: "Conversie",
-                description: "Zet websitebezoekers om in afspraken.",
+                title: "Triage Chat",
+                description: "Vangt de eerste gegevens op en bepaalt de urgentie van de klacht.",
                 icon: <FiTarget size={26} />
             },
             {
+                title: "Volledig Veilig",
+                description: "AVG-compliant chat met versleutelde gegevensuitwisseling.",
+                icon: <FiShield size={26} />
+            },
+            {
                 title: "Altijd Bereikbaar",
-                description: "Je website is nooit meer gesloten.",
+                description: "Uw assistent die nooit slaapt, ook in de avond en het weekend.",
                 icon: <FiCheckCircle size={26} />,
                 isHighlighted: true
             }
         ],
-        imageSrc: "/images/benefits/chatbot-ai.png"
+        imageSrc: "/images/benefits/chatbot.png"
     },
 
     // 8. Workflow Automatisering
     {
         title: "Workflow Automatisering",
         tier: 'basis',
-        description: "Het 'Brein' dat apps verbindt. Oneindige mogelijkheden via Marketing Automations.",
+        description: "Het digitale brein dat al uw systemen verbindt voor een vlekkeloze flow.",
         bullets: [
             {
-                title: "If This, Then That",
-                description: "Triggers complexe acties over apps heen (Email -> Trello -> Slack).",
-                icon: <FiCpu size={26} />
-            },
-            {
-                title: "Lead Scraping",
-                description: "Vindt en verrijkt leads automatisch.",
-                icon: <FiTarget size={26} />
-            },
-            {
-                title: "Cross-Platform",
-                description: "Sync Calendar, Email, Socials en Facturatie.",
+                title: "HIS Koppeling",
+                description: "Synchroniseer automatisch gegevens met uw Huisarts Informatie Systeem.",
                 icon: <FiRefreshCw size={26} />
             },
             {
-                title: "Email Outreach",
-                description: "Automatische nurturing sequenties die stoppen bij antwoord.",
-                icon: <FiMail size={26} />
+                title: "Herhaalrecepten Flex",
+                description: "Automatische processen voor recepten en apotheeknotificaties.",
+                icon: <FiZap size={26} />
             },
             {
-                title: "Automatisering",
-                description: "Bespaar uren werk door saaie taken te automatiseren.",
-                icon: <FiZap size={26} />,
+                title: "Data Veiligheid",
+                description: "Strikte medische protocollen voor veilige gegevensuitwisseling.",
+                icon: <FiShield size={26} />
+            },
+            {
+                title: "Efficiëntie Boost",
+                description: "Bespaar uren werk door repetitieve praktijktaken te automatiseren.",
+                icon: <FiCheckCircle size={26} />,
                 isHighlighted: true
             }
         ],
-        imageSrc: "/images/benefits/workflow-ai.png"
+        imageSrc: "/images/benefits/workflows.png"
     },
 
     // 9. SEO Tekstschrijver
     {
         title: "SEO Tekstschrijver",
         tier: 'basis',
-        description: "Genereert hoog scorende Google artikelen door slim gebruik van AI.",
+        description: "Genereert medisch relevante content die hoog scoort in de lokale zoekresultaten.",
         bullets: [
             {
-                title: "Slimme Ideeën",
-                description: "Genereert onderwerpen gebaseerd op jouw specifieke Niche.",
-                icon: <FiTool size={26} />
-            },
-            {
-                title: "Elite Editor",
-                description: "Geavanceerde tools voor perfectie en Interne Links.",
+                title: "Medische Blogs",
+                description: "AI-gestuurde artikelen over gezondheid, preventie en praktijknieuws.",
                 icon: <FiEdit3 size={26} />
             },
             {
-                title: "Zoekwoord Exploratie",
-                description: "Vindt kansen met weinig concurrentie en veel volume.",
+                title: "Lokale SEO",
+                description: "Word de best vindbare huisartsenpraktijk in uw regio of wijk.",
                 icon: <FiTarget size={26} />
             },
             {
-                title: "Auto-Publishing",
-                description: "Publiceert direct naar WordPress of jouw website.",
+                title: "Auto-Publish",
+                description: "Plaatst de content direct op uw website na uw goedkeuring.",
                 icon: <FiGlobe size={26} />
             },
             {
-                title: "Google Dominantie",
-                description: "Wordt de autoriteit in jouw markt.",
+                title: "Autoriteit",
+                description: "Bouw online expertise op en informeer uw patiënten proactief.",
                 icon: <FiTrendingUp size={26} />,
                 isHighlighted: true
             }
         ],
-
-
+        imageSrc: "/images/benefits/seo-editor.png",
         videoSrc: "/videos/benefits/seo-blog-writer.mp4"
     },
 
-
-
-    // 11. Social Media Content
+    // 10. Social Media Content
     {
         title: "Social Media Content",
         tier: 'basis',
-        description: "Genereert indrukwekkende visuals en captions voor al je kanalen.",
+        description: "Creëert professionele visuals en captions voor een sterke online aanwezigheid.",
         bullets: [
             {
-                title: "Multi-Format",
-                description: "Instagram (1:1, 4:5), TikTok (9:16), LinkedIn (16:9).",
-                icon: <FiLayout size={26} />
-            },
-            {
-                title: "Visuele Stijlen",
-                description: "Kies uit Fotorealistisch, 3D Render, Minimalist of Artistiek.",
+                title: "Praktijk Visibiliteit",
+                description: "Toon de menselijke kant van uw praktijk met hoogwaardige content.",
                 icon: <FiImage size={26} />
             },
             {
-                title: "Video Generatie",
-                description: "Zet tekst om in korte video's met AI voiceovers.",
+                title: "Patiënteninformatie",
+                description: "Deel tips en updates op een visueel aantrekkelijke manier.",
+                icon: <FiCamera size={26} />
+            },
+            {
+                title: "Video Content",
+                description: "Genereer korte voorlichtingsvideo's voor social media.",
                 icon: <FiVideo size={26} />
             },
             {
-                title: "Captions & Hashtags",
-                description: "Schrijft direct pakkende teksten en hashtags.",
-                icon: <FiMessageSquare size={26} />
-            },
-            {
                 title: "Content Machine",
-                description: "Nooit meer zonder content zitten.",
-                icon: <FiCamera size={26} />,
+                description: "Nooit meer zonder relevante berichten voor uw patiënten.",
+                icon: <FiZap size={26} />,
                 isHighlighted: true
             }
         ],
-
-
+        imageSrc: "/images/benefits/social-media.png",
         videoSrc: "/videos/benefits/reclame-ai.mp4"
     },
 
@@ -381,367 +325,305 @@ export const benefits: IBenefit[] = [
     {
         title: "Offertes & Contracten",
         tier: 'basis',
-        description: "Genereert visuele verkooppresentaties en contracten die indruk maken.",
+        description: "Automatiseer administratieve afhandeling voor behandelingen en zorgovereenkomsten.",
         bullets: [
             {
-                title: "Dynamische Prijzen",
-                description: "Ondersteunt '3 Pakketten' model of 'Vrije invoer'.",
-                icon: <FiPieChart size={26} />
-            },
-            {
-                title: "Visuele Presentaties",
-                description: "Maakt een visuele slide deck i.p.v. een saaie PDF.",
-                icon: <FiImage size={26} />
-            },
-            {
                 title: "Digitale Handtekening",
-                description: "Ingebouwde Digitale Handtekening en validatie voor snelle akkoorden.",
+                description: "Snel en veilig akkoord op behandelplannen of contracten.",
                 icon: <FiPenTool size={26} />
             },
             {
-                title: "Niche Pitching",
-                description: "Schrijft Probleem/Oplossing slides op maat voor jouw klant.",
-                icon: <FiTarget size={26} />
+                title: "Behandeloverzichten",
+                description: "Duidelijke, visuele overzichten van voorgestelde zorgtrajecten.",
+                icon: <FiLayout size={26} />
+            },
+            {
+                title: "Kostenramingen",
+                description: "Geef patiënten direct inzicht in eventuele eigen bijdragen.",
+                icon: <FiPieChart size={26} />
             },
             {
                 title: "Conversie",
-                description: "Sluit meer deals met professionele presentaties.",
+                description: "Professionaliseer het contact buiten de standaard verzekerde zorg.",
                 icon: <FiCheckCircle size={26} />,
                 isHighlighted: true
             }
         ],
-
-        imageSrc: "/images/benefits/offerte-ai.png"
+        imageSrc: "/images/benefits/factuur.png"
     },
 
     // 12. AI Email Assistent
     {
         title: "AI Email Assistent",
         tier: 'basis',
-        description: "Leest en labelt inkomende mails en zet concepten klaar via workflows.",
+        description: "De slimme assistent die uw praktijkmail filtert en herkent wat prioriteit heeft.",
         bullets: [
             {
-                title: "Slim Labelen",
-                description: "AI herkent of een mail een lead, spam of vraag is.",
-                icon: <FiCheckCircle size={26} />
+                title: "Prioriteiten Stellen",
+                description: "Herken direct medische urgentie in inkomende e-mails.",
+                icon: <FiShield size={26} />
             },
             {
-                title: "Auto-Drafting",
-                description: "Zet automatisch een concept antwoord klaar in je drafts.",
+                title: "Concept Antwoorden",
+                description: "Zet automatisch een concept klaar om tijd te besparen bij de balie.",
                 icon: <FiEdit3 size={26} />
             },
             {
                 title: "Workflow Triggers",
-                description: "Start specifieke acties op basis van de inhoud van de email.",
+                description: "Start automatisch acties op basis van de inhoud van een mail.",
                 icon: <FiCpu size={26} />
             },
             {
                 title: "Tijdbesparing",
-                description: "Bespaar uren per week aan email beheer.",
-                icon: <FiClock size={26} />
-            },
-            {
-                title: "Inbox Zero",
-                description: "Houd je inbox schoon en georganiseerd.",
-                icon: <FiInbox size={26} />,
+                description: "Besteed minder tijd aan het handmatig labelen van de inbox.",
+                icon: <FiZap size={26} />,
                 isHighlighted: true
             }
         ],
-        imageSrc: "/images/benefits/email-draft-ai.png"
+        imageSrc: "/images/benefits/email-automation.png"
     },
 
     // 13. Centrale Inbox
     {
         title: "Centrale Inbox",
         tier: 'basis',
-        description: "Bespaar tijd en mis nooit meer een lead. Al je communicatie en data slim op één plek.",
+        description: "Al uw communicatiekanalen veilig op één plek voor het hele team.",
         bullets: [
             {
-                title: "Alles-in-1",
-                description: "Email, SMS, WhatsApp, FB Messenger, IG DM in één scherm.",
+                title: "Omnichannel",
+                description: "Beheer Email, SMS en Chat vanuit één overzichtelijk dashboard.",
                 icon: <FiInbox size={26} />
             },
             {
-                title: "Team Chat",
-                description: "Wijs gesprekken toe aan specifieke teamleden.",
+                title: "Team Assign",
+                description: "Wijs gesprekken toe aan de juiste assistent of arts.",
                 icon: <FiUsers size={26} />
             },
             {
                 title: "Mobile App",
-                description: "Reageer onderweg via de Native Mobile App.",
+                description: "Blijf op de hoogte van belangrijke berichten via de praktijk app.",
                 icon: <FiSmartphone size={26} />
             },
             {
-                title: "Templates & Snippets",
-                description: "Gebruik snelle antwoorden op veelgestelde vragen.",
-                icon: <FiZap size={26} />
-            },
-            {
                 title: "Zero Missed",
-                description: "Nooit meer inloggen op 5 verschillende platformen.",
+                description: "Vergeet nooit meer een reactie op een patiëntenvraag.",
                 icon: <FiCheckCircle size={26} />,
                 isHighlighted: true
             }
         ],
-        imageSrc: "/images/benefits/centrale-inbox.png"
+        imageSrc: "/images/benefits/inbox.png"
     },
 
-    // 13. Advertentie Dashboard
+    // 14. Advertentie Dashboard
     {
         title: "Advertentie Dashboard",
         tier: 'basis',
-        description: "Beheer en analyseer je Google & Facebook campagnes.",
+        description: "Meet de resultaten van uw online campagnes en praktijkvindbaarheid.",
         bullets: [
             {
-                title: "Rapportage",
-                description: "Zie exact wat je uitgeeft en wat het oplevert (ROI).",
-                icon: <FiBarChart2 size={26} />
+                title: "Google Sync",
+                description: "Real-time inzicht in uw Google Business Profile en advertenties.",
+                icon: <FiGlobe size={26} />
             },
             {
                 title: "Lead Tracking",
-                description: "Zie precies welke advertentie de lead heeft gebracht.",
+                description: "Zie precies welke kanalen zorgen voor nieuwe patiënten.",
                 icon: <FiTarget size={26} />
             },
             {
-                title: "Google & FB Sync",
-                description: "Verbind beide platformen in één dashboard.",
-                icon: <FiRefreshCw size={26} />
-            },
-            {
-                title: "Live Inzicht",
-                description: "Neem beslissingen op basis van real-time data.",
+                title: "ROI Monitor",
+                description: "Krijg grip op uw marketingbudget en zie het effect op ramingen.",
                 icon: <FiTrendingUp size={26} />
             },
             {
-                title: "Optimalisatie",
-                description: "Stop met gokken, start met meten.",
-                icon: <FiAward size={26} />,
+                title: "Dashboarding",
+                description: "Alle data overzichtelijk in één visueel krachtig dashboard.",
+                icon: <FiBarChart2 size={26} />,
                 isHighlighted: true
             }
         ],
-        imageSrc: "/images/benefits/ad-manager.png"
+        imageSrc: "/images/benefits/ads-dashboard.png"
     },
 
-    // 14. Websites & Funnels
+    // 15. Websites & Funnels
     {
         title: "Websites & Funnels",
         tier: 'basis',
-        description: "Bouw professionele websites en landingspagina's zonder code.",
+        description: "Moderne praktijkwebsites die patiënten helpen bij het vinden van de juiste weg.",
         bullets: [
             {
-                title: "Drag & Drop",
-                description: "Eenvoudige editor: sleep elementen op hun plek.",
+                title: "Patiëntvriendelijk",
+                description: "Design gericht op gebruiksgemak voor jong en oud.",
+                icon: <FiSmartphone size={26} />
+            },
+            {
+                title: "Landing Pages",
+                description: "Specifieke pagina's voor vaccinaties, spreekuur of nieuwe patiënten.",
                 icon: <FiLayout size={26} />
             },
             {
-                title: "A/B Testen",
-                description: "Test verschillende varianten om je conversie te verhogen.",
-                icon: <FiTrendingUp size={26} />
-            },
-            {
-                title: "Templates",
-                description: "Start direct met bewezen, converterende layouts.",
-                icon: <FiLayers size={26} />
-            },
-            {
                 title: "Snelheid",
-                description: "Bliksemsnelle laadtijden voor betere SEO.",
+                description: "Geen laadtijden meer, een soepele ervaring op elk apparaat.",
                 icon: <FiZap size={26} />
             },
             {
-                title: "Responsive",
-                description: "Ziet er geweldig uit op desktop, tablet en mobiel.",
-                icon: <FiSmartphone size={26} />,
+                title: "Beheer",
+                description: "Pas zelf eenvoudig openingstijden of praktijknieuws aan.",
+                icon: <FiCheckCircle size={26} />,
                 isHighlighted: true
             }
         ],
-        imageSrc: "/images/benefits/websites-funnels.png"
+        imageSrc: "/images/benefits/funnel.png"
     },
 
-    // 15. Klantrelatiebeheer
+    // 16. Klantrelatiebeheer
     {
         title: "Klantrelatiebeheer",
         tier: 'basis',
-        description: "Beheer al je relaties en verkoopkansen in één systeem.",
+        description: "Beheer relaties met patiënten en zorgpartners in een flexibel CRM.",
         bullets: [
             {
-                title: "Smart Lists",
-                description: "Filter klanten automatisch op gedrag, tags en status.",
+                title: "Populatie Beheer",
+                description: "Segmenteer uw patiëntenbestand op basis van zorgprofielen.",
                 icon: <FiUsers size={26} />
             },
             {
-                title: "Pipelines",
-                description: "Visueel overzicht van waar elke lead zich bevindt.",
-                icon: <FiTrendingUp size={26} />
-            },
-            {
-                title: "Actie Historie",
-                description: "Zie elk mailtje, belletje en notitie in één tijdlijn.",
+                title: "Historie",
+                description: "Een complete tijdlijn van elk contactmoment en elke afspraak.",
                 icon: <FiClock size={26} />
             },
             {
-                title: "Automatisering",
-                description: "Start workflows direct vanuit een contactkaart.",
-                icon: <FiCpu size={26} />
+                title: "Taken & Follow-up",
+                description: "Wijs taken toe aan teamleden voor administratieve opvolging.",
+                icon: <FiTarget size={26} />
             },
             {
-                title: "Klantinzicht",
-                description: "Leer je klant kennen en verkoop meer.",
-                icon: <FiTarget size={26} />,
+                title: "Relatie Focus",
+                description: "Verbeter de binding met uw patiënten door proactief contact.",
+                icon: <FiCheckCircle size={26} />,
                 isHighlighted: true
             }
         ],
-        imageSrc: "/images/benefits/klantebeheer.png"
+        imageSrc: "/images/benefits/klantrelatiebeheer.png"
     },
 
-    // 16. AI Fotostudio
+    // 17. AI Fotostudio
     {
         title: "AI Fotostudio",
         tier: 'basis',
-        description: "Genereer hyper-realistische beelden met de allerbeste nieuwe AI modellen.",
+        description: "Genereer realistische beelden voor uw praktijkvoorlichting en website.",
         bullets: [
             {
-                title: "Top Kwaliteit",
-                description: "Gebruikt de kracht van de allerbeste nieuwe generatie beeldmodellen.",
+                title: "Medische Visuals",
+                description: "Creëer passend beeldmateriaal zonder dure fotoshoots.",
                 icon: <FiImage size={26} />
             },
             {
-                title: "Fotorealisme",
-                description: "Niet van echt te onderscheiden beelden.",
+                title: "Top Kwaliteit",
+                description: "Hyper-realistische beelden die de juiste sfeer uitstralen.",
                 icon: <FiCamera size={26} />
             },
             {
-                title: "Creatieve Vrijheid",
-                description: "Van productfoto's tot artistieke concepten.",
-                icon: <FiPenTool size={26} />
-            },
-            {
                 title: "Rechtenvrij",
-                description: "100% eigendom voor commercieel gebruik.",
+                description: "Alle gegenereerde beelden zijn uw eigendom om te gebruiken.",
                 icon: <FiCheckCircle size={26} />
             },
             {
                 title: "Snelheid",
-                description: "Geen dure fotoshoots of wachttijden. Direct resultaat wanneer jij het nodig hebt.",
+                description: "Direct resultaat voor uw presentaties of social media posts.",
                 icon: <FiZap size={26} />,
                 isHighlighted: true
             }
         ],
-
-
         videoSrc: "/videos/benefits/photo-ai.mp4"
     },
 
-    // 17. Zakelijke Videoproductie
+    // 18. Zakelijke Videoproductie
     {
         title: "Zakelijke Videoproductie",
         tier: 'basis',
-        description: "Creëer cinematische video's met de nieuwste bewegende beeld modellen.",
+        description: "Maak cinematische instructievideo's en praktijkupdates voor uw patiënten.",
         bullets: [
             {
-                title: "Next-Gen Video",
-                description: "Aangedreven door revolutionaire nieuwe video modellen.",
+                title: "Voorlichting",
+                description: "Leg complexe zorgvragen uit in duidelijke, bewegende beelden.",
                 icon: <FiVideo size={26} />
             },
             {
-                title: "Text-to-Video",
-                description: "Typ een prompt en zie je verhaal tot leven komen.",
-                icon: <FiFileText size={26} />
-            },
-            {
                 title: "Image-to-Video",
-                description: "Laat statische afbeeldingen bewegen.",
+                description: "Breng praktijkfoto's tot leven voor meer engagement.",
                 icon: <FiImage size={26} />
             },
             {
-                title: "Sales & Info",
-                description: "Focus op informatieve video's die sales genereren, niet op 'viral' entertainment.",
-                icon: <FiTrendingUp size={26} />
+                title: "High Definition",
+                description: "Professionele kwaliteit voor uw wachtkamer of website.",
+                icon: <FiAward size={26} />
             },
             {
-                title: "High Definition",
-                description: "Haarscherpe kwaliteit voor professioneel gebruik.",
-                icon: <FiAward size={26} />,
+                title: "Innovatie",
+                description: "Loop voorop in de zorg met moderne communicatiemiddelen.",
+                icon: <FiCheckCircle size={26} />,
                 isHighlighted: true
             }
         ],
-
-
         videoSrc: "/videos/benefits/video-ai.mp4"
     },
 
-    // 18. SEO Editor (Pro)
+    // 19. SEO Editor (Pro)
     {
         title: "SEO Editor (Pro)",
         tier: 'pro',
-        description: "Geavanceerde editor voor het optimaliseren van bestaande teksten. (Binnenkort beschikbaar).",
+        description: "Geavanceerde editor voor het optimaliseren van uw medische content.",
         bullets: [
             {
-                title: "One-Click Optimalisatie",
-                description: "Verbeter je volledige tekst direct met één klik voor hogere rankings.",
+                title: "One-Click Scan",
+                description: "Scan en verbeter uw teksten direct voor betere vindbaarheid.",
                 icon: <FiZap size={26} />
             },
             {
-                title: "Smart Interne Links",
-                description: "Plaats automatisch relevante interne links naar andere artikelen.",
+                title: "Internal Links",
+                description: "Plaatst automatisch slimme links naar andere medische pagina's.",
                 icon: <FiLink size={26} />
             },
             {
-                title: "SEO Score",
-                description: "Real-time feedback op je content kwaliteit.",
+                title: "Real-time Feedback",
+                description: "Direct inzicht in hoe uw tekst presteert in Google.",
                 icon: <FiBarChart2 size={26} />
             },
             {
-                title: "Concurrentie Analyse",
-                description: "Zie wat werkt voor de top 10 resultaten.",
-                icon: <FiGlobe size={26} />
-            },
-            {
-                title: "Pro Tool",
-                description: "De ultieme tool voor SEO professionals.",
+                title: "Professioneel",
+                description: "De krachtigste tool voor de serieuze online praktijk.",
                 icon: <FiAward size={26} />,
                 isHighlighted: true
             }
         ],
-        imageSrc: "/images/benefits/seo-editor-ai.png"
+        imageSrc: "/images/benefits/seo-editor.png"
     },
 
-    // 19. Elite Managed Service
+    // 20. Elite Managed Service
     {
         title: "Elite Managed Service",
         tier: 'elite',
-        description: "Domineer jouw markt in het AI-tijdperk zonder technische zorgen. Wij automatiseren alles: van dagelijkse content tot complexe workflows.",
-        buttonText: "Plan een Strategie Call",
-        buttonUrl: "https://calendly.com/tim-studiolee",
+        description: "Volledige ontzorging: wij bouwen en onderhouden uw volledige AI-praktijk.",
         bullets: [
             {
-                title: "AI Dominantie",
-                description: "Wij denken proactief mee over nieuwe kansen om jouw concurrentie voor te blijven.",
+                title: "Strategie",
+                description: "Wij denken mee over nieuwe kansen voor uw praktijkautomatisering.",
                 icon: <FiTrendingUp size={26} />
             },
             {
-                title: "Dagelijkse Automatisering",
-                description: "Social media, website updates en email campagnes draaien volledig automatisch.",
-                icon: <FiRefreshCw size={26} />
-            },
-            {
-                title: "Strategie & Uitvoering",
-                description: "Tijdens de maandelijkse 1 uur strategie sessie bespreken we wensen; wij voeren het direct uit.",
-                icon: <FiUsers size={26} />
-            },
-            {
-                title: "Advanced Setup",
-                description: "Complexe wensen? Wij regelen het (bij veel werk geldt een eenmalige setup fee).",
+                title: "Volledig Beheer",
+                description: "Al uw flows, chatbots en telefonie-instellingen door ons beheerd.",
                 icon: <FiTool size={26} />
             },
             {
-                title: "Client App",
-                description: "Uw klanten kunnen zelf afspraken inplannen via een gepersonaliseerde app.",
-                icon: <FiSmartphone size={26} />
+                title: "Maatwerk",
+                description: "Koppelingen met specialistische HIS of andere zorgapps mogelijk.",
+                icon: <FiLink size={26} />
             },
             {
-                title: "Focus op je Vak",
-                description: "Stop met tijdverspilling aan bijzaken. Jij doet het echte werk, wij de rest.",
+                title: "Focus op Zorg",
+                description: "Jij doet het werk als huisarts, wij regelen de rest.",
                 icon: <FiCheckCircle size={26} />,
                 isHighlighted: true
             }
