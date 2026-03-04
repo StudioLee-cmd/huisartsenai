@@ -65,38 +65,38 @@ const FallingText = () => {
         });
 
         const allWords = [
-            // HERO USPs (DAKDEKKER EDITION)
-            "Meer Winst per Dak 🏠",
-            "Alles-in-1 Systeem 🛠️",
-            "Nooit Meer Gemiste Oproepen 📞",
-            "Je Werkbonnen op Orde 📋",
+            // HERO USPs (HUISARTS EDITION)
+            "Meer Tijd voor je Patiënten 🩺",
+            "Alles-in-1 Systeem 📱",
+            "Nooit Meer Gemiste Afspraken 📅",
+            "Je Praktijk op Orde 🏥",
             "Ondernemen Zonder Zorgen 🚀",
-            "Je Kantoor in je Broekzak 📱",
+            "Je Praktijk in je Broekzak 📱",
             "Jouw AI Receptioniste 🤖",
-            "Je Cijfers Waterdicht 💧",
-            "Geen Gedoe Met Facturen 🧾",
+            "Stop Omzetlekkages 💸",
+            "Geen Gedoe Met Administratie 🧾",
             "Alle Tools in 1 App 📱",
             "Meer Vrijheid, Minder Stress 🧘",
-            "100% Jouw Eigen Stijl 🎨",
-            "Klanten & AI in 1 Systeem 🤝",
+            "100% Jouw Eigen Werkwijze 🎯",
+            "Patiënten & AI in 1 Systeem 🤝",
             "Volgeboekte Agenda 📈",
-            "Offertes die scoren 📝",
-            "Slapende klanten wakker schudden ⏰",
+            "Patiënten die blijven komen 🪃",
+            "Slapende administratie wakker schudden ⏰",
 
-            // DAKDEKKER PUNS & FUN
-            "Minder kantoor, meer dak op 🏠",
-            "Tijd voor koffie & je klus ☕",
+            // HUISARTS PUNS & FUN
+            "Minder formulieren, meer helpen 🩺",
+            "Tijd voor koffie & je stethoscoop ☕",
             "Laat de telefoon maar rinkelen (AI pakt op) 📞",
-            "Laat de AI je planning doen 🤖",
-            "Sleutelen, niet telefoneren 🔨",
-            "Geen lekkage in je planning 📅",
-            "Geknipt voor Jouw Business ✂️",
-            "Jij de vakman, AI de rest 👷‍♂️",
-            "Van dakdekker naar top-ondernemer 🚀",
-            "Handen in het haar? Nergens voor nodig! 👐",
-            "Meer omzet in minder tijd ⏳",
-            "Altijd scherp, net als je tools 🔪",
-            "Strakke planning, blije klanten 📅",
+            "Laat de AI je agenda vullen 🤖",
+            "Onderzoeken, niet telefoneren 🏥",
+            "Geen wachtrij in je planning 📅",
+            "Dokter AI schrijft het recept 💊",
+            "Jij de diagnose, AI de rest 🤖",
+            "Van huisarts naar top-ondernemer 🚀",
+            "Uitgeschreven? AI helpt je verder 📋",
+            "Meer patiënten in minder tijd ⏳",
+            "Altijd scherp, net als je reflexhamer 🔨",
+            "Gezonde praktijk, gezonde planning 🩺",
             "Eindelijk rustig lunchen 🥪"
         ];
 
