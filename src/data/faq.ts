@@ -24,5 +24,9 @@ export const faqs: IFAQ[] = [
     {
         question: "Is dit geschikt voor solopraktijken?",
         answer: "Zeker. Juist voor solopraktijken is HuisartsenAI een uitkomst. U heeft een volwaardige 'digitale assistent' die de telefoon opneemt terwijl u spreekuur houdt, voor een fractie van de kosten.",
+    },
+    {
+        question: "Wat moet ik zelf nog doen?",
+        answer: "Dat bepaal je helemaal zelf. Je kunt kiezen tussen Self-Service, waarbij je alles zelf beheert via ons gebruiksvriendelijke dashboard, of onze Managed Service, waarbij wij alles voor je regelen. Bij de managed optie hoef je slechts ~15 minuten per maand te bellen met je vaste accountmanager voor updates en afstemming. De rest doen wij.",
     }
 ];
