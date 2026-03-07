@@ -7,6 +7,8 @@ image: "/images/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-huisartsenpraktijk.pn
 tags: ["Tools", "ChatGPT", "Huisartsen"]
 ---
 
+
+
 ChatGPT wordt steeds vaker genoemd in de zorg. Miljoenen mensen gebruiken het voor teksten, antwoorden en ideeën. Maar wat kan het concreet voor een huisartsenpraktijk? En waar moet je oppassen? In dit artikel leggen we uit wat ChatGPT is, hoe je het verantwoord inzet, en waarom een gespecialiseerd platform als HuisartsenAI meer oplevert.
 
 ## Wat is ChatGPT?
@@ -83,3 +85,4 @@ Met onze managed service hoef je zelf niets te doen. We houden alles draaiend �
 ChatGPT is nuttig voor teksten en interne communicatie. Maar het vervangt geen automatisering. HuisartsenAI is het systeem dat je praktijk efficiënter maakt en bereikbaarder voor patiënten — AVG-conform, branchespecifiek en volledig geautomatiseerd.
 
 Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://studiolee.nl) om te ontdekken wat er mogelijk is.
+
