@@ -3,7 +3,7 @@ title: "Hogere Patiënttevredenheid door Betere Bereikbaarheid"
 excerpt: "Patiënten haten wachttijden aan de telefoon. Ontdek hoe u met AI-technologie zorgt dat uw patiënten zich altijd gehoord voelen."
 date: "2026-02-14"
 authorSlug: "tim-van-der-lee"
-image: "/images/benefits/reputatie-manager.png"
+image: "/images/blog/patienttevredenheid-ai.png"
 tags: ["Patiëntenzorg", "Bereikbaarheid"]
 ---
 

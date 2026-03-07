@@ -3,7 +3,7 @@ title: "Slimme Triage: De Toekomst van de Huisartsenpost"
 excerpt: "Hoe AI-gestuurde triage helpt bij het prioriteren van zorgvragen en de werkdruk van assistentes verlaagt."
 date: "2026-02-14"
 authorSlug: "tim-van-der-lee"
-image: "/images/benefits/voice-ai.png"
+image: "/images/blog/triage-automatisering.png"
 tags: ["Medische IT", "Triage", "Innovatie"]
 ---
 
