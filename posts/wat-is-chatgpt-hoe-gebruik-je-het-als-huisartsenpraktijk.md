@@ -84,5 +84,5 @@ Met onze managed service hoef je zelf niets te doen. We houden alles draaiend �
 
 ChatGPT is nuttig voor teksten en interne communicatie. Maar het vervangt geen automatisering. HuisartsenAI is het systeem dat je praktijk efficiënter maakt en bereikbaarder voor patiënten — AVG-conform, branchespecifiek en volledig geautomatiseerd.
 
-Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://studiolee.nl) om te ontdekken wat er mogelijk is.
+Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://www.studiolee.nl) om te ontdekken wat er mogelijk is.
 
