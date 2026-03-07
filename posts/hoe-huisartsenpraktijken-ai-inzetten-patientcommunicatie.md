@@ -34,4 +34,4 @@ AI in de zorg moet voldoen aan AVG en NEN 7510. Nederlandse AI-oplossingen voor 
 
 ## Conclusie
 
-Huisartsenpraktijken die AI inzetten, verlichten de administratieve druk, verbeteren de bereikbaarheid en zorgen voor tevreden patiënten. Meer weten? Ga naar [huisartsenai.nl](https://huisartsenai.nl).
+Huisartsenpraktijken die AI inzetten, verlichten de administratieve druk, verbeteren de bereikbaarheid en zorgen voor tevreden patiënten. Meer weten? Ga naar [huisartsenai.nl](https://www.huisartsenai.nl).
