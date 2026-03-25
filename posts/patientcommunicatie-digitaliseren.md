@@ -31,7 +31,7 @@ De meest directe winst: automatische afspraakbevestigingen en herinneringen per 
 - **24 uur voor de afspraak**: herinnering — vermindert no-shows met 30-40%
 - **Na de afspraak**: bedankbericht met eventuele vervolginstructies
 
-De meeste HIS-systemen (Medicom, Promedico) ondersteunen dit. Het kost eenmalig een uur om in te stellen en bespaart daarna dagelijks telefoonwerk. Lees meer over hoe je de [telefoondruk verlaagt](/blog/telefoondruk-verlagen-huisartsenpraktijk) in je praktijk.
+De meeste HIS-systemen (Medicom, Promedico) ondersteunen dit. Het kost eenmalig een uur om in te stellen en bespaart daarna dagelijks telefoonwerk. Lees meer over hoe je de [telefoondruk verlaagt](/blog/telefoondruk-huisartsenpraktijk-verlagen) in je praktijk.
 
 ## Patiëntenportaal en e-consult
 
@@ -53,7 +53,7 @@ Digitale communicatie vereist aandacht voor privacy:
 - **Verwerkersovereenkomst**: met elke digitale dienstverlener
 - **Toestemming**: voor marketingcommunicatie (nieuwsbrieven) is expliciete toestemming nodig
 
-Afspraakherinneringen vallen onder de behandelrelatie en vereisen geen aparte toestemming. Maar houd het gescheiden van promotionele communicatie. Combineer dit met de bredere [AI-mogelijkheden](/blog/ai-huisartsen-technologie-praktijk) voor je praktijk.
+Afspraakherinneringen vallen onder de behandelrelatie en vereisen geen aparte toestemming. Maar houd het gescheiden van promotionele communicatie. Combineer dit met de bredere [AI-mogelijkheden](/blog/ai-voor-huisartsen-praktijk-efficientie) voor je praktijk.
 
 ## Conclusie
 

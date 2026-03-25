@@ -11,7 +11,7 @@ tags: ["online reputatie", "huisarts", "vertrouwen"]
 
 ## Waarom online reputatie ertoe doet
 
-Nieuwe patienten googelen je praktijk voordat ze zich inschrijven. Ze lezen [Google reviews](/blog/meer-google-reviews-als-huisarts), bekijken je [website](/blog/huisartsenwebsite-afsprakenmachine) en vormen een beeld. Dat beeld bepaalt of ze zich aanmelden of een andere praktijk kiezen.
+Nieuwe patienten googelen je praktijk voordat ze zich inschrijven. Ze lezen [Google reviews](/blog/meer-google-reviews-huisartsenpraktijk), bekijken je [website](/blog/huisartsenwebsite-minder-telefoon) en vormen een beeld. Dat beeld bepaalt of ze zich aanmelden of een andere praktijk kiezen.
 
 Maar ook bestaande patienten worden beinvloed door wat ze online lezen. Een reeks negatieve reviews kan twijfel zaaien bij patienten die al jaren bij je komen.
 
@@ -53,7 +53,7 @@ Naast reviews zijn er meer manieren om je reputatie te versterken:
 
 **[Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-huisarts)** actueel houden. Goede foto's, actuele openingstijden, regelmatige posts met gezondheids­tips.
 
-**Website met patientinformatie**. Een goed gevulde website met informatie over je team, werkwijze en [bereikbaarheid](/blog/telefoondruk-verlagen-huisartsenpraktijk) wekt vertrouwen.
+**Website met patientinformatie**. Een goed gevulde website met informatie over je team, werkwijze en [bereikbaarheid](/blog/telefoondruk-huisartsenpraktijk-verlagen) wekt vertrouwen.
 
 **Professionele profielen**. Zorg dat je BIG-registratie, specialisaties en ervaring online vindbaar zijn.
 

@@ -23,7 +23,7 @@ Preventieve zorg verlaagt de werkdruk op de langere termijn. Een patiënt met go
 
 ### Patiënttevredenheid
 
-Patiënten waarderen een huisartsenpraktijk die proactief contact opneemt. Het geeft hen het gevoel dat hun huisarts om hen geeft — niet alleen als ze bellen met klachten, maar ook preventief. Dit versterkt de relatie en [het patientbehoud](/blog/patientbehoud-huisartsenpraktijk-sterke-relatie).
+Patiënten waarderen een huisartsenpraktijk die proactief contact opneemt. Het geeft hen het gevoel dat hun huisarts om hen geeft — niet alleen als ze bellen met klachten, maar ook preventief. Dit versterkt de relatie en [het patientbehoud](/blog/telefoondruk-huisartsenpraktijk-verlagen).
 
 ## Welke preventieve zorg kun je promoten?
 
@@ -51,7 +51,7 @@ Patiënten waarderen een huisartsenpraktijk die proactief contact opneemt. Het g
 
 ### Automatische herinneringen
 
-De effectiefste manier om preventieve zorg te promoten is via automatische herinneringen. [Digitale communicatietools](/blog/patientcommunicatie-digitaliseren-minder-druk) maken dit schaalbaar:
+De effectiefste manier om preventieve zorg te promoten is via automatische herinneringen. [Digitale communicatietools](/blog/patientcommunicatie-digitaliseren) maken dit schaalbaar:
 
 - **SMS/email herinneringen** voor griepvaccinaties in oktober-november
 - **Automatische oproepen** voor periodieke controles (bijv. CVRM elke 2 jaar)
@@ -73,7 +73,7 @@ Je praktijkwebsite is een uitstekend kanaal voor gezondheidsvoorlichting:
 - Informatie over beschikbare screenings
 - Online afspraken maken voor preventieve checks
 
-Dit verbetert ook je [online vindbaarheid](/blog/hoe-huisartsenpraktijken-nieuwe-patienten-vinden-online) — patiënten die zoeken op gezondheidsonderwerpen vinden jouw praktijk.
+Dit verbetert ook je [online vindbaarheid](/blog/hoe-huisartsenpraktijken-ai-inzetten-patientcommunicatie) — patiënten die zoeken op gezondheidsonderwerpen vinden jouw praktijk.
 
 ### Proactief bellen
 
@@ -83,7 +83,7 @@ Voor de belangrijkste preventieve interventies kan proactief bellen effectief zi
 - Risicogroepen die de griepvaccinatie overslaan
 - Patiënten met een familiegeschiedenis van specifieke aandoeningen
 
-Dit kost tijd, maar de gezondheidswinst is aanzienlijk. [Telefoondruk verlagen](/blog/telefoondruk-verlagen-huisartsenpraktijk) met slimme automatisering maakt ruimte voor dit proactieve contact.
+Dit kost tijd, maar de gezondheidswinst is aanzienlijk. [Telefoondruk verlagen](/blog/telefoondruk-huisartsenpraktijk-verlagen) met slimme automatisering maakt ruimte voor dit proactieve contact.
 
 ## Seizoensgebonden preventieplanning
 
@@ -117,4 +117,4 @@ De Groei-of-Geld-Terug Garantie maakt het risicovloos: geen groei in bereik? Gel
 
 Preventieve zorg promoten is een investering in de gezondheid van je patiënten én in de efficiëntie van je praktijk. Door automatische herinneringen, seizoensgebonden campagnes en proactieve communicatie in te zetten, bereik je patiënten voordat ze ziek worden. Het resultaat: gezondere patiënten, minder werkdruk, en een sterkere relatie met je praktijk.
 
-Lees ook hoe je [personeelstekort oplost met technologie](/blog/personeelstekort-huisartsenpraktijk-technologie) en hoe [AI je praktijk efficiënter maakt](/blog/ai-huisartsen-slimme-technologie-praktijk).
+Lees ook hoe je [personeelstekort oplost met technologie](/blog/personeelstekort-huisartsenpraktijk-technologie) en hoe [AI je praktijk efficiënter maakt](/blog/ai-voor-huisartsen-praktijk-efficientie).

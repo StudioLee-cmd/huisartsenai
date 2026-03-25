@@ -23,7 +23,7 @@ Het eerste consult met een nieuwe patient is bepalend. In die tien tot vijftien 
 
 **Neem de tijd voor kennismaking**. Vraag niet alleen naar de klacht waarmee de patient komt, maar ook naar de medische voorgeschiedenis, de thuissituatie en verwachtingen. Een patient die zich gehoord voelt bij het eerste consult, blijft langer.
 
-**Leg de werkwijze uit**. Hoe werkt de praktijk? Hoe maak je een afspraak? Wanneer kun je bellen? Hoe werkt het [online portaal](/blog/huisartsenwebsite-afsprakenmachine)? Duidelijke verwachtingen voorkomen frustratie later.
+**Leg de werkwijze uit**. Hoe werkt de praktijk? Hoe maak je een afspraak? Wanneer kun je bellen? Hoe werkt het [online portaal](/blog/huisartsenwebsite-minder-telefoon)? Duidelijke verwachtingen voorkomen frustratie later.
 
 **Geef een welkomstpakket**. Digitaal of fysiek: een overzicht van de praktijk, de huisartsen, de openingstijden en de spoedlijn. Het klinkt simpel, maar weinig praktijken doen het — en het maakt een professionele indruk.
 
@@ -41,7 +41,7 @@ Continuiteit is de kern van goede huisartsenzorg. Patienten die steeds een ander
 
 Digitale tools kunnen de patient-relatie versterken zonder extra werkdruk voor de praktijk:
 
-**Online afspraken maken**. Steeds meer patienten willen buiten kantoortijden een afspraak boeken. Een online systeem bespaart [telefoondruk](/blog/telefoondruk-verlagen-huisartsenpraktijk) en geeft patienten controle.
+**Online afspraken maken**. Steeds meer patienten willen buiten kantoortijden een afspraak boeken. Een online systeem bespaart [telefoondruk](/blog/telefoondruk-huisartsenpraktijk-verlagen) en geeft patienten controle.
 
 **Herhaalrecepten digitaal**. Een paar klikken in de app in plaats van bellen en wachten. Voor patienten met chronische medicatie is dit een enorme verbetering in gemak.
 
@@ -55,9 +55,9 @@ Je kunt patientbehoud niet verbeteren als je niet weet waar het probleem zit.
 
 **Jaarlijks patienttevredenheidsonderzoek**. Een korte enquete (vijf tot tien vragen) over bereikbaarheid, wachttijden, bejegening en informatie. Dit geeft je concrete verbeterpunten.
 
-**[Google reviews](/blog/meer-google-reviews-als-huisarts) monitoren**. Positieve reviews bevestigen wat goed gaat. Negatieve reviews — hoe pijnlijk ook — geven de eerlijkste feedback.
+**[Google reviews](/blog/meer-google-reviews-huisartsenpraktijk) monitoren**. Positieve reviews bevestigen wat goed gaat. Negatieve reviews — hoe pijnlijk ook — geven de eerlijkste feedback.
 
-**Uitschrijvingsanalyse**. Als patienten zich uitschrijven, vraag waarom. Niet om ze te overtuigen om te blijven, maar om patronen te herkennen. Als vijf patienten in een maand uitschrijven vanwege [bereikbaarheid](/blog/telefoondruk-verlagen-huisartsenpraktijk), is dat een signaal.
+**Uitschrijvingsanalyse**. Als patienten zich uitschrijven, vraag waarom. Niet om ze te overtuigen om te blijven, maar om patronen te herkennen. Als vijf patienten in een maand uitschrijven vanwege [bereikbaarheid](/blog/telefoondruk-huisartsenpraktijk-verlagen), is dat een signaal.
 
 ## Aan de slag
 

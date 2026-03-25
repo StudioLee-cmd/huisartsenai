@@ -78,7 +78,7 @@ Het resultaat? Huisartsenpraktijken die dit systeem gebruiken zien gemiddeld 3 t
 
 En het mooiste: je hoeft er maar **15 minuten per maand** aan te besteden. Dat is één kort telefoontje voor een update. De rest regelen wij.
 
-Lees ook hoe je [meer patiënten online](/blog/hoe-huisartspraktijken-nieuwe-patienten-vinden-online) om je volledige online strategie te versterken.
+Lees ook hoe je [meer patiënten online](/blog/hoe-huisartsenpraktijken-ai-inzetten-patientcommunicatie) om je volledige online strategie te versterken.
 
 ## Groei-of-Geld-Terug Garantie
 

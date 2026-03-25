@@ -43,7 +43,7 @@ Als huisarts draait alles om zorg. Maar achter de schermen heb je een HIS (Huisa
 
 [HuisartsenAI](/) is een AI-systeem dat huisartspraktijken helpt met de niet-medische kant: afsprakenbeheer, automatische patiëntcommunicatie, reviews, AI-chatbot voor veelgestelde vragen, Voice AI-telefonist en optimalisatie voor vindbaarheid.
 
-**Sterkste punt:** Alles wat buiten het EPD valt op autopilot: afsprakenbeheer, patiëntcommunicatie via WhatsApp, automatische reviews, AI-chatbot voor veelgestelde vragen, Voice AI die de telefoon opneemt bij drukte, en [betere online vindbaarheid](/blog/hoe-huisartsen-beter-vindbaar-worden-online).
+**Sterkste punt:** Alles wat buiten het EPD valt op autopilot: afsprakenbeheer, patiëntcommunicatie via WhatsApp, automatische reviews, AI-chatbot voor veelgestelde vragen, Voice AI die de telefoon opneemt bij drukte, en [betere online vindbaarheid](/blog/hoe-ai-huisartsen-helpt).
 
 **Nadeel:** Geen EPD of medisch dossiersysteem — voor medische patiëntenzorg blijf je Medicom of Promedico gebruiken.
 

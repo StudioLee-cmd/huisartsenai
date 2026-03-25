@@ -60,23 +60,23 @@ Timing is alles bij preventieve communicatie.
 
 ### Via de praktijk-website
 
-Publiceer seizoensgebonden blogartikelen en gezondheidsadvies. Dit verbetert ook je [online vindbaarheid](/blog/hoe-huisartsenpraktijken-nieuwe-patienten-vinden-online).
+Publiceer seizoensgebonden blogartikelen en gezondheidsadvies. Dit verbetert ook je [online vindbaarheid](/blog/hoe-huisartsenpraktijken-ai-inzetten-patientcommunicatie).
 
 ### Via email
 
-[Email marketing](/blog/nieuwsbrief-huisartsenpraktijk-patienten-informeren) is het meest effectieve kanaal voor seizoenscampagnes:
+[Email marketing](/blog/social-media-huisartsen-patienten) is het meest effectieve kanaal voor seizoenscampagnes:
 
 - Stuur 1 nieuwsbrief per seizoen (4x per jaar)
 - Personaliseer op basis van risicogroep
 - Voeg altijd een concrete actie toe ("Plan uw griepprik")
 
-### Via het [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-huisarts-meer-patienten)
+### Via het [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-huisarts)
 
 Gebruik Google Posts om seizoensgebonden tips te delen. Dit is gratis en bereikt patienten die naar je praktijk zoeken.
 
 ### Via social media
 
-[Social media](/blog/social-media-huisartsen-meer-patienten) biedt een laagdrempelig platform voor gezondheidstips. Deel korte, visuele posts over seizoensgebonden thema's.
+[Social media](/blog/social-media-huisartsen-patienten) biedt een laagdrempelig platform voor gezondheidstips. Deel korte, visuele posts over seizoensgebonden thema's.
 
 ## De resultaten meten
 
@@ -90,7 +90,7 @@ Na een jaar heb je een datagedreven campagne-kalender die je elk jaar kunt herha
 
 ## Geen tijd om campagnes te plannen?
 
-Bij StudioLee nemen we de seizoenscommunicatie over. Van [patientcommunicatie](/blog/patientcommunicatie-digitaliseren-minder-druk) tot content die patienten activeert. Met slechts **15 minuten per maand** aan jouw kant.
+Bij StudioLee nemen we de seizoenscommunicatie over. Van [patientcommunicatie](/blog/patientcommunicatie-digitaliseren) tot content die patienten activeert. Met slechts **15 minuten per maand** aan jouw kant.
 
 De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
 

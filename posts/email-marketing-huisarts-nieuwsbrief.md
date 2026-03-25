@@ -30,7 +30,7 @@ Een kwartaalnieuwsbrief bereikt duizenden patienten tegelijk. Het kost je een uu
 
 **Digitale diensten promoten**:
 - Online herhaalrecepten aanvragen
-- [E-consult](/blog/telefoondruk-verlagen-huisartsenpraktijk) gebruiken in plaats van bellen
+- [E-consult](/blog/telefoondruk-huisartsenpraktijk-verlagen) gebruiken in plaats van bellen
 - [Digitale triage](/blog/digitale-triage-huisartsenpraktijk) uitleggen
 
 ## Frequentie en timing
@@ -71,14 +71,14 @@ De meeste huisartsenpraktijken komen prima uit met Mailchimp. Maak een template 
 - **Telefoondruk**: vergelijk het aantal telefoontjes in de week na de nieuwsbrief met een normale week
 - **Online receptaanvragen**: stijgt het gebruik van digitale diensten na promotie via de nieuwsbrief?
 
-De meeste praktijken zien na drie tot vier nieuwsbrieven een meetbaar effect op de [telefoondruk](/blog/telefoondruk-verlagen-huisartsenpraktijk) en het gebruik van digitale diensten.
+De meeste praktijken zien na drie tot vier nieuwsbrieven een meetbaar effect op de [telefoondruk](/blog/telefoondruk-huisartsenpraktijk-verlagen) en het gebruik van digitale diensten.
 
 ## Veelgemaakte fouten
 
 - **Te veel medisch jargon**: schrijf in begrijpelijke taal, niet in dokterspraat
 - **Alleen praktische mededelingen**: een nieuwsbrief die alleen zegt "we zijn dicht op vrijdag" is geen nieuwsbrief
 - **Onregelmatig versturen**: als je vier maanden niets stuurt en dan ineens twee mails in een week, voelt het raar
-- **[Personeelstekort](/blog/personeelstekort-huisartsenpraktijk) als excuus gebruiken**: juist bij personeelstekort helpt een nieuwsbrief om patienten naar digitale kanalen te sturen
+- **[Personeelstekort](/blog/personeelstekort-huisartsenpraktijk-technologie) als excuus gebruiken**: juist bij personeelstekort helpt een nieuwsbrief om patienten naar digitale kanalen te sturen
 - **Geen link met je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-huisarts)**: gebruik de nieuwsbrief om reviews te stimuleren
 
 ## Aan de slag

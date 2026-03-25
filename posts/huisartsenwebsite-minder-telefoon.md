@@ -11,7 +11,7 @@ tags: ["Website", "Telefoon", "Digitalisering"]
 
 Elke huisartsenpraktijk kent het: de telefoon staat 's ochtends roodgloeiend. Patiënten bellen voor afspraken, herhaalrecepten, uitslagen en vragen. De assistente kan het nauwelijks bijhouden, patiënten hangen in de wacht en de sfeer raakt gespannen.
 
-Het probleem is niet de patiënt — het is de website. Als je website patiënten niet helpt om zaken online te regelen, grijpen ze naar de telefoon. Een goed ingerichte website kan 40-60% van het telefoonverkeer overnemen. Lees ook hoe je als huisartsenpraktijk [beter gevonden wordt online](/blog/hoe-huisartspraktijken-nieuwe-patienten-vinden-online).
+Het probleem is niet de patiënt — het is de website. Als je website patiënten niet helpt om zaken online te regelen, grijpen ze naar de telefoon. Een goed ingerichte website kan 40-60% van het telefoonverkeer overnemen. Lees ook hoe je als huisartsenpraktijk [beter gevonden wordt online](/blog/hoe-huisartsenpraktijken-ai-inzetten-patientcommunicatie).
 
 ## Online herhaalrecepten en e-consult
 

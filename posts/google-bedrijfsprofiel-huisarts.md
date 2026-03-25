@@ -17,7 +17,7 @@ Je Google Bedrijfsprofiel is vaak het eerste contactpunt met nieuwe patienten. Z
 
 Maar het profiel helpt ook bestaande patienten. In plaats van te bellen voor je openingstijden of adres, vinden ze het op Google. Dat vermindert de [telefoondruk op je praktijk](/blog/telefoondruk-huisartsenpraktijk-verlagen) — een welkome bijkomstigheid.
 
-Praktijken die [goed vindbaar zijn online](/blog/hoe-huisartspraktijken-nieuwe-patienten-vinden-online) trekken ook meer patienten aan die bewust kiezen in plaats van willekeurig een praktijk bellen.
+Praktijken die [goed vindbaar zijn online](/blog/hoe-huisartsenpraktijken-ai-inzetten-patientcommunicatie) trekken ook meer patienten aan die bewust kiezen in plaats van willekeurig een praktijk bellen.
 
 ## Je praktijkprofiel optimaliseren
 
