@@ -7,8 +7,6 @@ image: "/images/blog/beste-his-systeem-2026.png"
 tags: ["Software", "Vergelijking", "Tools"]
 ---
 
-# Beste HIS-systeem 2026: software voor huisartsen vergeleken
-
 Als huisarts draait alles om zorg. Maar achter de schermen heb je een HIS (Huisartsen Informatie Systeem) nodig dat meewerkt: dossiers, recepten, verwijzingen en facturatie. Welk systeem past bij jouw praktijk in 2026?
 
 ## Wat zoekt een huisarts in een HIS?

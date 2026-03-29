@@ -7,8 +7,6 @@ image: "/images/blog/specialiseren-huisartsenpraktijk.png"
 tags: ["specialisatie", "huisartsenpraktijk", "groei"]
 ---
 
-# Specialiseren als huisartsenpraktijk: focus die patienten trekt en bindt
-
 Elke huisartsenpraktijk biedt dezelfde basiszorg. Maar de praktijken die het hardst groeien, hebben een extra focus die ze onderscheidt. Specialisatie maakt je praktijk aantrekkelijker voor specifieke patientengroepen — en helpt bij het binden van bestaande patienten.
 
 ## Waarom specialisatie werkt in de huisartsenzorg

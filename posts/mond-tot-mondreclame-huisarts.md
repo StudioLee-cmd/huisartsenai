@@ -7,8 +7,6 @@ image: "/images/blog/mond-tot-mondreclame-huisarts.png"
 tags: ["mond-tot-mond", "huisartsenpraktijk", "marketing"]
 ---
 
-# Mond-tot-mondreclame als huisartsenpraktijk: waarom patienten je aanbevelen
-
 "Ken je een goede huisarts?" Het is een vraag die dagelijks wordt gesteld in elke buurt. Het antwoord bepaalt waar nieuwe patienten zich inschrijven. Mond-tot-mondreclame is voor huisartsenpraktijken nog steeds de krachtigste groeistrategie.
 
 ## Waarom mond-tot-mond werkt in de huisartsenzorg

@@ -7,8 +7,6 @@ image: "/images/blog/digitale-triage-huisartsenpraktijk.png"
 tags: ["Triage", "Digitaal", "Efficiëntie"]
 ---
 
-# Digitale triage in de huisartsenpraktijk: minder telefoonverkeer
-
 Elke ochtend om 8 uur gaat de telefoon. En hij stopt niet tot 10 uur. Assistentes beantwoorden tientallen telefoontjes, proberen de urgentie in te schatten, plannen afspraken in, en verwijzen door — allemaal onder tijdsdruk. Het resultaat: lange wachttijden aan de telefoon, gefrustreerde patiënten, en overbelaste medewerkers.
 
 Digitale triage biedt een uitweg. Niet als vervanging van de telefonische triage, maar als aanvulling die het volume verlaagt en de kwaliteit verhoogt. In dit artikel leggen we uit hoe het werkt en waarom steeds meer huisartsenpraktijken de overstap maken.

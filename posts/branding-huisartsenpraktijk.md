@@ -7,8 +7,6 @@ image: "/images/blog/branding-huisartsenpraktijk.png"
 tags: ["branding", "huisartsenpraktijk", "vertrouwen"]
 ---
 
-# Branding als huisartsenpraktijk: vertrouwen opbouwen voor je praktijk
-
 Huisartsenpraktijken hadden vroeger geen marketing nodig. Patienten gingen naar de dichtstbijzijnde huisarts en bleven er hun hele leven. Die tijd is voorbij. Patienten vergelijken praktijken online, lezen reviews en kiezen bewust.
 
 Branding betekent niet dat je reclame gaat maken. Het betekent dat je bewust werkt aan het beeld dat patienten van je praktijk hebben — en dat dat beeld vertrouwen wekt.

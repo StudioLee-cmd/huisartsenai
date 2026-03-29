@@ -7,8 +7,6 @@ image: "/images/blog/seizoenscampagnes-huisarts.png"
 tags: ["seizoenswerk", "huisarts", "preventie"]
 ---
 
-# Seizoenscampagnes als huisarts: het juiste moment voor preventie
-
 De telefoon staat rood in griepseizoen, maar in de zomer is het rustig. Herkenbaar? Die seizoenspatronen zijn niet alleen een operationeel gegeven — ze zijn een kans. Door gerichte seizoenscampagnes te voeren, spreid je de werkdruk en versterk je de band met je patienten.
 
 ## Waarom seizoensgebonden campagnes werken
