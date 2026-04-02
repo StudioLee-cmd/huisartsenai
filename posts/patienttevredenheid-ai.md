@@ -5,6 +5,7 @@ date: "2026-02-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patienttevredenheid-ai.png"
 tags: ["Patiëntenzorg", "Bereikbaarheid"]
+cluster: ""
 ---
 
 De grootste frustratie van patiënten? "Ik hang al 15 minuten in de wacht bij de dokter." In een tijd waarin we alles direct via onze smartphone regelen, voelt de ouderwetse telefoonlijn van de huisarts als een relikwie uit het verleden. Voor de patiënt betekent slechte bereikbaarheid onzekerheid en stress, zeker bij medische klachten.

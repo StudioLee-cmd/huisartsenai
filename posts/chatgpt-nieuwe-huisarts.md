@@ -5,6 +5,7 @@ date: "2026-04-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/chatgpt-nieuwe-huisarts.jpg"
 tags: ["1 April", "Leads", "AI"]
+cluster: "lead-opvolging"
 ---
 
 ## ChatGPT als huisarts — kan dat?

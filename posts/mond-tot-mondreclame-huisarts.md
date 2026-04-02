@@ -5,6 +5,7 @@ date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-huisarts.png"
 tags: ["mond-tot-mond", "huisartsenpraktijk", "marketing"]
+cluster: "mond-tot-mondreclame"
 ---
 
 "Ken je een goede huisarts?" Het is een vraag die dagelijks wordt gesteld in elke buurt. Het antwoord bepaalt waar nieuwe patienten zich inschrijven. Mond-tot-mondreclame is voor huisartsenpraktijken nog steeds de krachtigste groeistrategie.

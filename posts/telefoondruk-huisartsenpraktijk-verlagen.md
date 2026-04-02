@@ -5,6 +5,7 @@ date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/telefoondruk-huisartsenpraktijk-verlagen.png"
 tags: ["Huisarts", "Telefoondruk", "Bereikbaarheid"]
+cluster: "voice-ai"
 ---
 
 ## De telefoondruk in huisartsenpraktijken is onhoudbaar

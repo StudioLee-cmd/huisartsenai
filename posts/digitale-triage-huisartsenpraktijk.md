@@ -5,6 +5,7 @@ date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/digitale-triage-huisartsenpraktijk.png"
 tags: ["Triage", "Digitaal", "Efficiëntie"]
+cluster: "digitale-triage"
 ---
 
 Elke ochtend om 8 uur gaat de telefoon. En hij stopt niet tot 10 uur. Assistentes beantwoorden tientallen telefoontjes, proberen de urgentie in te schatten, plannen afspraken in, en verwijzen door — allemaal onder tijdsdruk. Het resultaat: lange wachttijden aan de telefoon, gefrustreerde patiënten, en overbelaste medewerkers.

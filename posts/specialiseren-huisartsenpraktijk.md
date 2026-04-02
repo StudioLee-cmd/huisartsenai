@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialiseren-huisartsenpraktijk.png"
 tags: ["specialisatie", "huisartsenpraktijk", "groei"]
+cluster: "specialisatie"
 ---
 
 Elke huisartsenpraktijk biedt dezelfde basiszorg. Maar de praktijken die het hardst groeien, hebben een extra focus die ze onderscheidt. Specialisatie maakt je praktijk aantrekkelijker voor specifieke patientengroepen — en helpt bij het binden van bestaande patienten.

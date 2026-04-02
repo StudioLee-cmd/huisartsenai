@@ -5,6 +5,7 @@ date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-voor-huisartsen-praktijk-efficientie.png"
 tags: ["Huisarts", "AI", "Praktijkefficiëntie"]
+cluster: "AI voor huisartsen"
 ---
 
 ## De huisartsenpraktijk staat onder druk

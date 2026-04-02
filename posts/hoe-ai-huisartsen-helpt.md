@@ -5,6 +5,7 @@ date: "2026-02-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-huisartsen-helpt.png"
 tags: ["Zorg", "Efficiëntie", "Automatisering"]
+cluster: ""
 ---
 
 Het runnen van een huisartsenpraktijk anno 2026 is topsport. U bent niet alleen de medicus die levens redt en zorg verleent, maar ook manager, planner, en administratief expert. Veel huisartsen die wij spreken, hebben een overvol spreekuur, maar zijn 's avonds nog uren bezig met randzaken. Ruis in de vorm van eindeloze telefoontjes, herhaalrecepten en verslaglegging.

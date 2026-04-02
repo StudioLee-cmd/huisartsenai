@@ -7,6 +7,7 @@ image: "/images/blog/klantbehoud-huisarts-patientrelatie.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["klantbehoud", "huisarts", "patientrelatie"]
+cluster: "crm-klantbeheer"
 ---
 
 ## Waarom patientbehoud belangrijk is

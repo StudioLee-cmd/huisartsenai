@@ -5,6 +5,7 @@ date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/branding-huisartsenpraktijk.png"
 tags: ["branding", "huisartsenpraktijk", "vertrouwen"]
+cluster: "branding"
 ---
 
 Huisartsenpraktijken hadden vroeger geen marketing nodig. Patienten gingen naar de dichtstbijzijnde huisarts en bleven er hun hele leven. Die tijd is voorbij. Patienten vergelijken praktijken online, lezen reviews en kiezen bewust.

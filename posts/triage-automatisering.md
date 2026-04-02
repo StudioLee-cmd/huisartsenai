@@ -5,6 +5,7 @@ date: "2026-02-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/triage-automatisering.png"
 tags: ["Medische IT", "Triage", "Innovatie"]
+cluster: ""
 ---
 
 Triage is het hart van de praktijkvoering. Het bepaalt wie u direct moet zien en wie nog even kan wachten. De druk op de assistente om dit onder tijdsdruk en aan een drukke balie te doen is enorm. HuisartsenAI ondersteunt dit proces door een gestructureerde, NHG-gebaseerde uitvraag te doen bij elke beller.

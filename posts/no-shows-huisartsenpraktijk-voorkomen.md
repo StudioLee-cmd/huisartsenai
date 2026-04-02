@@ -5,6 +5,7 @@ date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-huisartsenpraktijk-voorkomen.jpg"
 tags: ["No-shows", "Praktijkmanagement", "Groei"]
+cluster: "no-shows"
 ---
 
 ## Hoeveel kost een no-show je praktijk echt?

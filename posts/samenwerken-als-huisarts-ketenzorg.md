@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-huisarts-ketenzorg.png"
 tags: ["samenwerkingen", "huisartsenpraktijk", "ketenzorg"]
+cluster: "samenwerkingen"
 ---
 
 De huisartsenpraktijk is de spil van de eerstelijnszorg. Maar geen huisarts kan alles alleen. Ketenzorg — gestructureerde samenwerking met andere zorgverleners — is de sleutel tot betere patientenzorg, minder werkdruk en een efficienter praktijk.

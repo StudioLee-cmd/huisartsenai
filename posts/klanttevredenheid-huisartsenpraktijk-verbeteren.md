@@ -5,6 +5,7 @@ date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-huisartsenpraktijk-verbeteren.jpg"
 tags: ["Patiënttevredenheid", "Huisartsenzorg", "Verbetering"]
+cluster: "klanttevredenheid"
 ---
 
 ## Het belang van patiënttevredenheid
