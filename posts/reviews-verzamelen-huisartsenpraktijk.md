@@ -1,7 +1,7 @@
 ---
 title: "Reviews verzamelen als huisartsenpraktijk"
 excerpt: "Patiënttevredenheid meten en zichtbaar maken met reviews. Praktische aanpak voor huisartsenpraktijken."
-date: "2026-04-01"
+date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-verzamelen-huisartsenpraktijk.png"
 tags: ["Reviews", "Pati\u00ebntcommunicatie"]
