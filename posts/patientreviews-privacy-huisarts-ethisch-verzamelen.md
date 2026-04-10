@@ -59,4 +59,4 @@ Nooit inhoudelijk ingaan op de zorginhoud. Nooit bevestigen of ontkennen dat iem
 
 Ethisch reviews verzamelen als huisartsenpraktijk is mogelijk met de juiste aanpak: algemene verzoeken, juiste timing, geen medische verwijzingen, en automatisering die privacy respecteert.
 
-Wil je weten hoe een privacy-proof review-systeem werkt voor jouw praktijk? Vraag een [gratis scan](/gratis-scan) aan en we laten het zien.
+Een goed [review-systeem](/reviews) respecteert de privacy en groeit je online reputatie tegelijk. Wil je weten hoe een privacy-proof review-systeem werkt voor jouw praktijk? Vraag een [gratis scan](/gratis-scan) aan en we laten het zien.
