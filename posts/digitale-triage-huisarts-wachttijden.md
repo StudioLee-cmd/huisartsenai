@@ -2,11 +2,11 @@
 title: "Digitale triage voor huisartsen: hoe je wachttijden halveert"
 excerpt: "Patienten wachten te lang, assistenten zijn overbelast en de telefoon staat roodgloeiend. Digitale triage lost dit op. Zo implementeer je het in je praktijk."
 date: "2026-04-14"
+cluster: "digitale-triage"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/digitale-triage-huisarts-wachttijden.jpg"
 tags: ["Digitale Triage", "Huisarts", "Efficientie"]
 ---
-
 ## De telefoon is het knelpunt
 
 Maandagochtend half negen. De telefoon gaat onafgebroken, de wachtrij loopt op tot twintig minuten en de assistenten proberen tegelijkertijd patienten te woord te staan, door te verbinden en afspraken in te plannen. Drie op de tien bellers hangen op voordat ze iemand spreken.

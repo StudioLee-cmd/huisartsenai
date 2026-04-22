@@ -2,11 +2,11 @@
 title: "Online intake als huisarts: minder telefoon, betere voorbereiding"
 excerpt: "Laat nieuwe patiënten zich online inschrijven in plaats van te bellen. Zo verlaag je de telefoondruk en verbeter je de eerste afspraak."
 date: "2026-04-12"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patient-intake-online-huisarts.jpg"
 tags: ["Patiënten", "Digitalisering", "Groei"]
 ---
-
 ## Waarom het eerste telefoontje een probleem is
 
 Een nieuwe patiënt belt je praktijk. De assistente beantwoordt de telefoon terwijl ze twee andere lijnen in de wacht heeft en een patiënt aan de balie helpt. Ze noteert naam, adres, geboortedatum, BSN, vorige huisarts en de reden van inschrijving. Dat kost vijf tot acht minuten per inschrijving. Ondertussen wachten drie andere bellers.

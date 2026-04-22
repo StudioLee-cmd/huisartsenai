@@ -2,11 +2,11 @@
 title: "Digitale triage in de huisartsenpraktijk: zo werkt het"
 excerpt: "Digitale triage helpt huisartsenpraktijken de werkdruk te verlagen en patienten sneller te helpen. Ontdek hoe het werkt en wat het oplevert."
 date: "2026-04-14"
+cluster: "digitale-triage"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/digitale-triage-huisartsenpraktijk-werking.jpg"
 tags: ["Digitale Triage", "Huisartsenpraktijk", "Innovatie"]
 ---
-
 ## De telefoon staat niet meer stil
 
 Elke huisartsenpraktijk kent het probleem: maandagochtend om 08:00 uur gaat de telefoon onophoudelijk. Patienten die een afspraak willen, herhaalrecepten aanvragen, uitslagen willen horen of gewoon een vraag hebben. De assistenten draaien overuren en de wachttijden lopen op.

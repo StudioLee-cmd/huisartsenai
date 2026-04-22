@@ -2,11 +2,11 @@
 title: "No-shows in je huisartsenpraktijk: zo verminder je gemiste consulten"
 excerpt: "Gemiste consulten kosten je praktijk tijd en geld. Ontdek effectieve aanpakken om no-shows als huisarts te verminderen."
 date: "2026-04-17"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-huisartsenpraktijk-minder-gemist.jpg"
 tags: ["No-shows", "Huisarts", "Consulten"]
 ---
-
 ## Lege consulten stapelen op
 
 Een consult van 10 minuten dat niet doorgaat lijkt klein. Maar drie gemiste consulten per dag, vijf dagen per week, zijn 15 lege slots. Dat is meer dan twee uur per dag die niet worden benut. Bij een consultprijs van 30 tot 50 euro loopt het verlies op tot 1.500 tot 2.500 euro per maand.

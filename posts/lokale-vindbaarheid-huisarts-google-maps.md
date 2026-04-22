@@ -2,11 +2,11 @@
 title: "Lokale vindbaarheid als huisarts verbeteren"
 excerpt: "Nieuwe patiënten zoeken een huisarts via Google. Ontdek hoe je met lokale SEO je praktijk zichtbaar maakt en je patiëntenbestand uitbreidt."
 date: "2026-04-03"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-vindbaarheid-huisarts-google-maps.jpg"
 tags: ["Lokale SEO", "Vindbaarheid", "Huisarts", "Google Maps"]
 ---
-
 ## Waarom online vindbaarheid belangrijk is voor huisartsen
 
 Nieuwe inwoners in een gemeente zoeken als eerste naar een huisarts. Ze googelen "huisarts [stad] aanmelden" of "huisartsenpraktijk [wijk] patiënt worden". Als jouw praktijk daar niet verschijnt, melden ze zich aan bij een concurrent.

@@ -2,11 +2,11 @@
 title: "Bereikbaarheid huisarts: zo mis je geen nieuwe patiënten"
 excerpt: "Bellen patiënten maar krijgen ze geen gehoor? Ontdek hoe je als huisartsenpraktijk bereikbaar blijft en geen nieuwe inschrijvingen misloopt."
 date: "2026-04-11"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/telefonische-bereikbaarheid-huisarts-nieuwe-patienten.jpg"
 tags: ["Bereikbaarheid", "Patiënten", "Groei"]
 ---
-
 ## Het probleem dat elke huisartsenpraktijk herkent
 
 Het is maandagochtend half negen. De telefoon gaat onafgebroken. De assistente helpt een patiënt aan de balie, beantwoordt tegelijk een vraag via het systeem en probeert tussendoor de volgende beller op te nemen. Ondertussen hangt er iemand al vijf minuten in de wacht.

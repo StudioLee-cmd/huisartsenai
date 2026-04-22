@@ -2,11 +2,11 @@
 title: "Patientreviews en privacy als huisarts: ethisch reviews verzamelen"
 excerpt: "Reviews verzamelen als huisartsenpraktijk vereist extra zorgvuldigheid rondom privacy. Zo doe je het ethisch en AVG-proof."
 date: "2026-04-10"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patientreviews-privacy-huisarts-ethisch-verzamelen.jpg"
 tags: ["Reviews", "Huisarts", "Privacy"]
 ---
-
 ## Reviews zijn belangrijk, privacy is heilig
 
 Als huisartsenpraktijk heb je baat bij Google reviews. Nieuwe patienten zoeken online naar "huisarts in de buurt" en laten hun keuze deels afhangen van beoordelingen. Een praktijk met 30 positieve reviews straalt meer vertrouwen uit dan een praktijk zonder reviews.

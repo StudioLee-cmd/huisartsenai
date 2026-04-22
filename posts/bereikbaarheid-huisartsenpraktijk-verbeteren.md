@@ -2,11 +2,11 @@
 title: "Bereikbaarheid van je huisartsenpraktijk verbeteren"
 excerpt: "Patienten klagen over de telefoon die niet opgenomen wordt. Ontdek hoe je als huisartsenpraktijk beter bereikbaar wordt zonder extra personeel."
 date: "2026-04-18"
+cluster: "bereikbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/bereikbaarheid-huisartsenpraktijk-verbeteren.jpg"
 tags: ["Bereikbaarheid", "Huisarts", "Automatisering"]
 ---
-
 ## Het telefonische knelpunt
 
 Elke ochtend om 8:00 begint de storm. Tientallen patienten bellen tegelijk voor een afspraak, een herhaalrecept of een vraag. De assistent kan maar een gesprek tegelijk voeren. De rest hoort een bezettoon of staat in de wacht. Na tien minuten hangen ze op, gefrustreerd.

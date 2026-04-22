@@ -2,11 +2,11 @@
 title: "Online vindbaarheid van je huisartsenpraktijk verbeteren"
 excerpt: "Nieuwe patienten zoeken online naar een huisarts. Zo zorg je dat jouw praktijk goed vindbaar is op Google."
 date: "2026-04-17"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-vindbaarheid-huisartsenpraktijk.jpg"
 tags: ["Vindbaarheid", "Google", "Huisarts"]
 ---
-
 ## Nieuwe patienten zoeken online
 
 Verhuizers, starters en mensen die ontevreden zijn bij hun huidige huisarts zoeken op Google: "huisarts [wijk/stad] accepteert nieuwe patienten." Als je praktijk niet verschijnt of als je profiel onvolledig is, schrijven ze zich elders in.

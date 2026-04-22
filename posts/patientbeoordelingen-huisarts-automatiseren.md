@@ -2,11 +2,11 @@
 title: "Patiëntbeoordelingen automatiseren als huisartsenpraktijk"
 excerpt: "Ontdek hoe huisartsenpraktijken automatisch patiëntbeoordelingen verzamelen en hun online reputatie versterken — zonder extra werkdruk voor het team."
 date: "2026-04-04"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patientbeoordelingen-huisarts-automatiseren.jpg"
 tags: ["Reviews", "Huisarts", "Patiënttevredenheid"]
 ---
-
 ## Waarom online beoordelingen steeds belangrijker worden voor huisartsen
 
 De tijd dat patiënten uitsluitend via mond-tot-mondreclame een huisarts kozen, is voorbij. Nieuwe inwoners in een wijk zoeken op Google naar 'huisarts in de buurt' en baseren hun keuze mede op online beoordelingen. Een praktijk met 50+ positieve beoordelingen wekt meer vertrouwen dan een praktijk zonder enige online aanwezigheid.

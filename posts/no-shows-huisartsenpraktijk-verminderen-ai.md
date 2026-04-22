@@ -2,11 +2,11 @@
 title: "No-shows in de huisartsenpraktijk verminderen met AI"
 excerpt: "No-shows kosten huisartsenpraktijken duizenden euro's en consultcapaciteit per jaar. Ontdek hoe AI-herinneringen het probleem aanpakken."
 date: "2026-04-07"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-huisartsenpraktijk-verminderen-ai.jpg"
 tags: ["No-shows", "Huisarts", "AI"]
 ---
-
 ## Het no-show probleem in de huisartsenzorg
 
 Elke huisartsenpraktijk kent het: patienten die niet op hun afspraak verschijnen. Geen afmelding, geen bericht, gewoon een lege stoel in de wachtkamer. Gemiddeld is 5 tot 10 procent van alle huisartsenconsulten een no-show. Bij sommige praktijken loopt dat op tot 15 procent.

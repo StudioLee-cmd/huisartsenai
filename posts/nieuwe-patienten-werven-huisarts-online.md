@@ -2,11 +2,11 @@
 title: "Nieuwe patiënten werven als huisarts via online"
 excerpt: "Nieuwe inwoners zoeken een huisarts via Google. Ontdek hoe je als huisartsenpraktijk online beter vindbaar wordt en het juiste type patiënten aantrekt."
 date: "2026-04-03"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nieuwe-patienten-werven-huisarts-online.jpg"
 tags: ["Patiëntwerving", "Lead opvolging", "Huisarts", "Online zichtbaarheid"]
 ---
-
 ## Waarom huisartsen ook aan online zichtbaarheid moeten denken
 
 Het lijkt tegenstrijdig: huisartsenpraktijken zitten vaak vol. Maar de werkelijkheid is genuanceerder. Sommige praktijken willen groeien, anderen willen het juiste type patiënten aantrekken, en nieuwe praktijken moeten hun bestand opbouwen.

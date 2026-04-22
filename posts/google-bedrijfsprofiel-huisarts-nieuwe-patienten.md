@@ -2,11 +2,11 @@
 title: "Google Bedrijfsprofiel als huisarts: zo vinden patiënten jou"
 excerpt: "Patiënten zoeken online naar een huisarts in de buurt. Je Google profiel bepaalt of ze jou vinden of de concurrent. Zo maak je het compleet."
 date: "2026-04-12"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-huisarts-nieuwe-patienten.jpg"
 tags: ["Vindbaarheid", "Google", "Groei"]
 ---
-
 ## Patiënten zoeken niet in het telefoonboek
 
 Verhuisd naar een nieuwe wijk? Ontevreden over je huidige huisarts? De eerste stap is altijd Google: "huisarts [wijk]" of "huisartsenpraktijk [stad]." Google toont drie praktijken met adres, openingstijden, reviews en telefoonnummer. Als jouw praktijk daar niet tussen staat, mis je elke nieuwe patiënt die online zoekt.

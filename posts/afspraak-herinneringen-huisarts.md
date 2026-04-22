@@ -2,11 +2,11 @@
 title: "Afspraakherinneringen voor de huisartsenpraktijk: minder no-shows, betere zorg"
 excerpt: "No-shows bij de huisarts kosten de Nederlandse gezondheidszorg miljoenen per jaar. Automatische herinneringen bieden de oplossing."
 date: "2026-04-05"
+cluster: "afspraak-herinneringen"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraak-herinneringen-huisarts.jpg"
 tags: ["Herinneringen", "Huisarts", "No-shows"]
 ---
-
 ## Het consult dat niemand bijwoonde
 
 De assistent had 10 minuten gereserveerd. De patiënt komt niet. Geen afmelding. Het volgende consult begint over 3 minuten — het gat is niet meer op te vullen.

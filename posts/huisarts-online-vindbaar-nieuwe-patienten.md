@@ -2,11 +2,11 @@
 title: "Online vindbaar als huisarts: meer nieuwe patiënten"
 excerpt: "Patiënten zoeken hun huisarts op Google. Als jouw praktijk niet vindbaar is, kiezen ze een concurrent. Zo verbeter je je online zichtbaarheid als huisarts."
 date: "2026-04-19"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/huisarts-online-vindbaar-nieuwe-patienten.jpg"
 tags: ["Vindbaarheid", "Google", "Groei"]
 ---
-
 ## Patiënten kiezen online, niet op de hoek
 
 Vroeger koos je de huisarts om de hoek. Nu googelt een verhuizer "huisarts [nieuwe woonplaats]" en kiest de praktijk met de beste reviews en een duidelijke website. Als jouw praktijk niet verschijnt in dat zoekresultaat, besta je niet voor die nieuwe bewoner.

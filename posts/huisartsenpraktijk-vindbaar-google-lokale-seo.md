@@ -2,11 +2,11 @@
 title: "Huisartsenpraktijk vindbaar op Google: lokale SEO in 8 stappen"
 excerpt: "Nieuwe patienten zoeken hun huisarts via Google. Ontdek hoe je je praktijk vindbaar maakt zonder de privacy en NHG-richtlijnen te schenden."
 date: "2026-04-08"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/huisartsenpraktijk-vindbaar-google-lokale-seo.jpg"
 tags: ["SEO", "Huisartsenpraktijk", "Vindbaarheid"]
 ---
-
 ## Waarom vindbaarheid voor huisartsenpraktijken echt relevant is
 
 Een gezin verhuist naar een nieuwe stad. Hun huidige huisarts is te ver weg. Wat doen ze? Niet de Telefoongids erbij pakken, niet de gemeente bellen. Ze openen Google en typen "huisarts [nieuwe stad]" of "huisartsenpraktijk in de buurt". De drie praktijken die in het kaartresultaat verschijnen krijgen 80 procent van de kliks.

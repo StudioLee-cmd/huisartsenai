@@ -2,11 +2,11 @@
 title: "Huisartsenpraktijk automatiseren: minder werkdruk, betere zorg"
 excerpt: "Huisartsenpraktijken kampen met hoge werkdruk. Ontdek hoe automatisering het team ontlast zonder patiëntcontact te verliezen."
 date: "2026-04-06"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/huisartsenpraktijk-automatiseren.jpg"
 tags: ["Automatisering", "Huisarts", "Werkdruk"]
 ---
-
 ## De huisarts die niet meer toekomt aan huisartsenwerk
 
 Het is maandagochtend 8:00. De telefoon gaat al voordat de praktijk open is. Assistentes nemen gelijktijdig drie lijnen op. Patiënten die een herhaalrecept willen, een verwijsbrief nodig hebben, een afspraak willen maken of "even snel een vraag" hebben. Tegen de tijd dat het spreekuur begint, is de wachtrij al opgebouwd.

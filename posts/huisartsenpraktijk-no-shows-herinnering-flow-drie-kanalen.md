@@ -2,11 +2,11 @@
 title: "Huisartsenpraktijk no-shows: 3-kanaal herinnering-flow"
 excerpt: "Een herinnering-flow via drie kanalen (SMS, WhatsApp, telefoon) die huisartsenpraktijk no-shows in drie maanden halveert zonder dat de assistente er extra werk van heeft."
 date: "2026-04-22"
+cluster: "afspraak-herinneringen"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/huisartsenpraktijk-no-shows-herinnering-flow-drie-kanalen.jpg"
 tags: ["Huisarts", "No-shows", "Patiëntcommunicatie", "Automatisering"]
 ---
-
 Een gemiddelde huisartsenpraktijk in Nederland heeft een no-show-ratio tussen de 4 en 9 procent. Op 120 afspraken per dag zijn dat 5 tot 11 gaten per dag, wat neerkomt op 25 tot 55 uur aan verloren productiviteit per maand. Elke no-show kost de praktijk gemiddeld €18 aan directe middelen (assistentenuren, gereserveerd consult-tijd) plus indirecte kosten doordat de wachttijd voor andere patiënten langer wordt.
 
 No-shows verminderen is daarom niet een administratief doel, maar een operationele noodzaak. In deze gids staat de drie-kanaal herinnering-flow die, goed geïmplementeerd, de no-show-ratio binnen drie maanden halveert (van bijvoorbeeld 7 procent naar 3 procent) zonder dat de assistente er één minuut extra werk van heeft.

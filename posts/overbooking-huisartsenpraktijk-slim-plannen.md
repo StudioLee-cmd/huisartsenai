@@ -2,11 +2,11 @@
 title: "Overbooking in de huisartsenpraktijk: slim plannen zonder lege plekken"
 excerpt: "Strategische overbooking helpt huisartsenpraktijken om no-shows op te vangen zonder de wachtkamer te overbelasten. Zo pas je het toe."
 date: "2026-04-09"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/overbooking-huisartsenpraktijk-slim-plannen.jpg"
 tags: ["No-shows", "Huisarts", "Planning"]
 ---
-
 ## Het no-show probleem in de huisartsenpraktijk
 
 In de gemiddelde huisartsenpraktijk verschijnt 5 tot 10 procent van de patienten niet op hun afspraak. Bij een praktijk met 40 consulten per dag zijn dat 2 tot 4 lege plekken, dagelijks. Vermenigvuldig dat met het gemiddelde consulttarief en je praat over duizenden euro's per maand aan verloren capaciteit.

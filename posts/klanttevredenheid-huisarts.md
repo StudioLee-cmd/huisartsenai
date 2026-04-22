@@ -2,11 +2,11 @@
 title: "Klanttevredenheid meten als huisartsenpraktijk: zo verbeter je de patiëntervaring"
 excerpt: "Patiënten klagen zelden maar kiezen stilletjes een andere huisarts. Zo meet en verbeter je de tevredenheid in je praktijk."
 date: "2026-04-05"
+cluster: "klanttevredenheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-huisarts.jpg"
 tags: ["Klanttevredenheid", "Huisarts", "Patiëntervaring"]
 ---
-
 ## Patiënten stemmen met hun voeten
 
 Een patiënt die ontevreden is over de wachttijd, de bereikbaarheid of de bejegening, klaagt meestal niet. Hij schrijft zich stilletjes uit en gaat naar de praktijk verderop. Je merkt het pas als je patiëntenaantal langzaam daalt.

@@ -2,11 +2,11 @@
 title: "Digitale wachtlijst huisartsenpraktijk: nieuwe aanmeldingen"
 excerpt: "Een digitale wachtlijst vangt nieuwe aanmeldingen automatisch op, filtert postcodes en houdt patiënten zelf op de hoogte. Zo richt je 'm in zonder admin-rompslomp."
 date: "2026-04-16"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/digitale-wachtlijst-huisartsenpraktijk-nieuwe-aanmeldingen.jpg"
 tags: ["Huisarts", "Wachtlijst", "Digitalisering"]
 ---
-
 ## Wat een digitale wachtlijst is — en waarom bellen "we zijn vol" niet langer werkt
 
 De receptioniste pakt op. "Goedemorgen, ik wil me graag inschrijven bij jullie praktijk." Antwoord: "Sorry, we zijn vol op dit moment. U kunt het over zes maanden nog eens proberen." Klik. De patiënt belt verder, jij hoort hem nooit terug, en zes maanden later vergeet hij of hij belde.
