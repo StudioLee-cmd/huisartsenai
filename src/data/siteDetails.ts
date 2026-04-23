@@ -3,7 +3,7 @@ export const siteDetails = {
     niche: 'Huisartsen',
     siteUrl: 'https://www.huisartsenai.nl/',
     metadata: {
-        title: 'HuisartsenAI - AI Telefoniste & Automatisering voor Huisartsenpraktijken',
+        title: 'HuisartsenAI - AI voor huisartsenpraktijken',
         description: 'HuisartsenAI helpt huisartsenpraktijken moderniseren met AI. Van automatische patiëntenbeantwoording tot slimme triage & administratie.',
     },
     language: 'nl-NL',
