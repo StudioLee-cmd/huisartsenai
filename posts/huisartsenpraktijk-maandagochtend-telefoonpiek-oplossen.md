@@ -1,5 +1,5 @@
 ---
-title: "Maandagochtend telefoonpiek bij huisartsen oplossen: 5 systemen die werken"
+title: "Maandagochtend telefoonpiek huisartsen: 5 systemen"
 slug: huisartsenpraktijk-maandagochtend-telefoonpiek-oplossen
 date: "2026-05-01"
 excerpt: "Maandagochtend belt iedereen tegelijk de huisarts. Vijf concrete systemen die de pieklast verlagen zonder personeel uit te branden of patiënten te frustreren."
