@@ -2,7 +2,7 @@
 title: "Preventieve ketenzorg-recall in de huisartspraktijk: hoe je risicopatiënten elk kwartaal terugziet zonder rinkelende telefoon"
 excerpt: "Een gemiddelde huisartspraktijk verliest 20-30% van haar DM-, COPD- en CVRM-patiënten uit het recall-protocol per jaar, vrijwel altijd door telefonische uitval. Dit recall-systeem houdt ze in beeld zonder dat de assistente extra belrondes hoeft te draaien."
 date: "2026-04-25"
-cluster: "preventieve-zorg"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/preventieve-ketenzorg-recall-huisartspraktijk-risicopatienten-kwartaal.jpg"
 tags: ["Huisartspraktijk", "Ketenzorg", "Preventieve zorg", "Recall"]

@@ -5,7 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seizoenscampagnes-huisarts.png"
 tags: ["seizoenswerk", "huisarts", "preventie"]
-cluster: "seizoenswerk"
+cluster: "automatisering"
 ---
 
 De telefoon staat rood in griepseizoen, maar in de zomer is het rustig. Herkenbaar? Die seizoenspatronen zijn niet alleen een operationeel gegeven — ze zijn een kans. Door gerichte seizoenscampagnes te voeren, spreid je de werkdruk en versterk je de band met je patienten.

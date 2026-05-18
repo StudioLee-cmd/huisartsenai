@@ -5,7 +5,7 @@ date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-verzamelen-huisartsenpraktijk.jpg"
 tags: ["Reviews", "Patiëntcommunicatie"]
-cluster: ""
+cluster: "reviews"
 ---
 
 Wanneer iemand verhuist naar een nieuwe wijk, is een van de eerste zoekopdrachten: "huisarts bij mij in de buurt." Google toont dan een kaart met praktijken — en bij elke praktijk een sterrenscore. Die score bepaalt voor een groot deel bij welke huisarts de nieuwe bewoner zich aanmeldt.

@@ -5,7 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patientcommunicatie-digitaliseren.png"
 tags: ["Digitalisering", "Communicatie", "Efficiëntie"]
-cluster: "patientcommunicatie"
+cluster: "automatisering"
 ---
 
 ## Waarom digitale communicatie de toekomst is

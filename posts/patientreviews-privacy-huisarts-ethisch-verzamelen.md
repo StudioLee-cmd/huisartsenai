@@ -2,7 +2,7 @@
 title: "Patientreviews en privacy als huisarts: ethisch reviews verzamelen"
 excerpt: "Reviews verzamelen als huisartsenpraktijk vereist extra zorgvuldigheid rondom privacy. Zo doe je het ethisch en AVG-proof."
 date: "2026-04-10"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patientreviews-privacy-huisarts-ethisch-verzamelen.jpg"
 tags: ["Reviews", "Huisarts", "Privacy"]

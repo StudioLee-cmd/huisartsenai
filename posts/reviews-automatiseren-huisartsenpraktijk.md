@@ -5,7 +5,7 @@ date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-automatiseren-huisartsenpraktijk.jpg"
 tags: ["Reviews", "Automatisering", "Patiëntervaring"]
-cluster: "review-automatisering"
+cluster: "reviews"
 ---
 
 ## Waarom patiëntreviews steeds belangrijker worden

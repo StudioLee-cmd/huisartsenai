@@ -2,7 +2,7 @@
 title: "Online intake als huisarts: minder telefoon, betere voorbereiding"
 excerpt: "Laat nieuwe patiënten zich online inschrijven in plaats van te bellen. Zo verlaag je de telefoondruk en verbeter je de eerste afspraak."
 date: "2026-04-12"
-cluster: "lead-opvolging"
+cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patient-intake-online-huisarts.jpg"
 tags: ["Patiënten", "Digitalisering", "Groei"]

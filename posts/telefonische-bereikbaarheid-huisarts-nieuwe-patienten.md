@@ -2,7 +2,7 @@
 title: "Bereikbaarheid huisarts: zo mis je geen nieuwe patiënten"
 excerpt: "Bellen patiënten maar krijgen ze geen gehoor? Ontdek hoe je als huisartsenpraktijk bereikbaar blijft en geen nieuwe inschrijvingen misloopt."
 date: "2026-04-11"
-cluster: "lead-opvolging"
+cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/telefonische-bereikbaarheid-huisarts-nieuwe-patienten.jpg"
 tags: ["Bereikbaarheid", "Patiënten", "Groei"]

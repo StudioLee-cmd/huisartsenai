@@ -5,7 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/huisartsenwebsite-minder-telefoon.png"
 tags: ["Website", "Telefoon", "Digitalisering"]
-cluster: "website-conversie"
+cluster: "website"
 ---
 
 ## Het telefoonprobleem in de huisartsenpraktijk

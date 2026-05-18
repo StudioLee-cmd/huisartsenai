@@ -2,7 +2,7 @@
 title: "Nieuwe patiënten werven als huisarts via online"
 excerpt: "Nieuwe inwoners zoeken een huisarts via Google. Ontdek hoe je als huisartsenpraktijk online beter vindbaar wordt en het juiste type patiënten aantrekt."
 date: "2026-04-03"
-cluster: "lead-opvolging"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nieuwe-patienten-werven-huisarts-online.jpg"
 tags: ["Patiëntwerving", "Lead opvolging", "Huisarts", "Online zichtbaarheid"]

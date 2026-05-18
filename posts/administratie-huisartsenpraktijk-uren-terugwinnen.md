@@ -2,7 +2,7 @@
 title: "Administratie huisartsenpraktijk: 10 uur per week terug"
 excerpt: "Administratieve lasten in de huisartsenpraktijk: waar die uren echt vandaan gaan en welke vijf processen je kunt automatiseren zonder nieuwe software."
 date: "2026-04-21"
-cluster: "administratie"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratie-huisartsenpraktijk-uren-terugwinnen.jpg"
 tags: ["Huisartsen", "Administratie", "Praktijkmanagement", "Automatisering"]

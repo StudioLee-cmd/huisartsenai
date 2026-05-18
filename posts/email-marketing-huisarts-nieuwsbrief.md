@@ -7,7 +7,7 @@ image: "/images/blog/email-marketing-huisarts-nieuwsbrief.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["email marketing", "huisarts", "communicatie"]
-cluster: "email-marketing"
+cluster: "automatisering"
 ---
 
 ## Waarom een praktijknieuwsbrief werkt

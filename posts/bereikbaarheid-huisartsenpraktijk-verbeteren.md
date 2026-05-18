@@ -2,7 +2,7 @@
 title: "Bereikbaarheid van je huisartsenpraktijk verbeteren"
 excerpt: "Patienten klagen over de telefoon die niet opgenomen wordt. Ontdek hoe je als huisartsenpraktijk beter bereikbaar wordt zonder extra personeel."
 date: "2026-04-18"
-cluster: "bereikbaarheid"
+cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/bereikbaarheid-huisartsenpraktijk-verbeteren.jpg"
 tags: ["Bereikbaarheid", "Huisarts", "Automatisering"]

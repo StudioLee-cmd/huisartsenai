@@ -2,7 +2,7 @@
 title: "Digitale triage voor huisartsen: hoe je wachttijden halveert"
 excerpt: "Patienten wachten te lang, assistenten zijn overbelast en de telefoon staat roodgloeiend. Digitale triage lost dit op. Zo implementeer je het in je praktijk."
 date: "2026-04-14"
-cluster: "digitale-triage"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/digitale-triage-huisarts-wachttijden.jpg"
 tags: ["Digitale Triage", "Huisarts", "Efficientie"]

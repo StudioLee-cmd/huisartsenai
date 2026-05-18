@@ -5,7 +5,7 @@ date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-huisarts.png"
 tags: ["Google", "Vindbaarheid", "Huisartsen"]
-cluster: "google-bedrijfsprofiel"
+cluster: "vindbaarheid"
 ---
 
 Nieuwe bewoners in de buurt, studenten die op kamers gaan, gezinnen die verhuizen — ze zoeken allemaal op Google naar een huisarts. "Huisarts bij mij in de buurt" en "huisartsenpraktijk [plaatsnaam]" zijn zoektermen die dagelijks duizenden keren worden ingevoerd. Je Google Bedrijfsprofiel bepaalt of jouw praktijk in die resultaten verschijnt.

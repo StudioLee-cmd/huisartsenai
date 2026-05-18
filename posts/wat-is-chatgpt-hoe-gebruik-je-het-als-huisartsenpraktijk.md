@@ -5,7 +5,7 @@ date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-huisartsenpraktijk.png"
 tags: ["Tools", "ChatGPT", "Huisartsen"]
-cluster: "tools-uitleg"
+cluster: "automatisering"
 ---
 
 ChatGPT wordt steeds vaker genoemd in de zorg. Miljoenen mensen gebruiken het voor teksten, antwoorden en ideeën. Maar wat kan het concreet voor een huisartsenpraktijk? En waar moet je oppassen? In dit artikel leggen we uit wat ChatGPT is, hoe je het verantwoord inzet, en waarom een gespecialiseerd platform als HuisartsenAI meer oplevert.

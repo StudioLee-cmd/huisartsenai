@@ -5,7 +5,7 @@ date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/personeelstekort-huisartsenpraktijk-technologie.png"
 tags: ["Huisarts", "Personeelstekort", "Technologie"]
-cluster: "personeelstekort"
+cluster: "automatisering"
 ---
 
 ## Het huisartsentekort in cijfers

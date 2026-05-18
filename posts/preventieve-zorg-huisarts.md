@@ -5,7 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/preventieve-zorg-huisarts.png"
 tags: ["Preventieve zorg", "Huisarts", "Groei"]
-cluster: "preventieve-zorg"
+cluster: "automatisering"
 ---
 
 Elke huisarts weet het: voorkomen is beter dan genezen. Toch besteden de meeste praktijken het overgrote deel van hun tijd aan curatieve zorg. De patiënt belt als het al te laat is — hoge bloeddruk die niet is gecontroleerd, diabetes die eerder ontdekt had kunnen worden, griepvaccinaties die zijn overgeslagen.

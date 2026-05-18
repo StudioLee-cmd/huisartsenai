@@ -2,7 +2,7 @@
 title: "Afspraakherinneringen voor de huisartsenpraktijk: minder no-shows, betere zorg"
 excerpt: "No-shows bij de huisarts kosten de Nederlandse gezondheidszorg miljoenen per jaar. Automatische herinneringen bieden de oplossing."
 date: "2026-04-05"
-cluster: "afspraak-herinneringen"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraak-herinneringen-huisarts.jpg"
 tags: ["Herinneringen", "Huisarts", "No-shows"]

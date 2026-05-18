@@ -2,7 +2,7 @@
 title: "Nieuwe patiënten aanmelden bij je huisartsenpraktijk: zo stroomlijn je het"
 excerpt: "Het aanmeldproces bepaalt de eerste indruk. Zo maak je het snel, soepel en automatisch voor je huisartsenpraktijk."
 date: "2026-04-15"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patient-aanmelding-huisarts-opvolging.jpg"
 tags: ["Patiënten", "Aanmelding", "Automatisering"]

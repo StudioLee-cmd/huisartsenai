@@ -6,7 +6,7 @@ excerpt: "NHG-compliance, NPA-keurmerk en kwaliteitsindicatoren op je huisartsen
 image: "/images/blog/nhg-richtlijnen-tonen-huisartsen-website-trust.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Specialisatie", "NHG", "Trust", "Website", "Huisarts"]
-cluster: "specialisatie"
+cluster: "website"
 ---
 
 **In het kort:**
