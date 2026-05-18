@@ -2,7 +2,7 @@
 title: "Huisartsenpraktijk automatiseren: minder werkdruk, betere zorg"
 excerpt: "Huisartsenpraktijken kampen met hoge werkdruk. Ontdek hoe automatisering het team ontlast zonder patiëntcontact te verliezen."
 date: "2026-04-06"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/huisartsenpraktijk-automatiseren.jpg"
 tags: ["Automatisering", "Huisarts", "Werkdruk"]
