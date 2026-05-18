@@ -2,7 +2,7 @@
 title: "Patiëntbeoordelingen automatiseren als huisartsenpraktijk"
 excerpt: "Ontdek hoe huisartsenpraktijken automatisch patiëntbeoordelingen verzamelen en hun online reputatie versterken — zonder extra werkdruk voor het team."
 date: "2026-04-04"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patientbeoordelingen-huisarts-automatiseren.jpg"
 tags: ["Reviews", "Huisarts", "Patiënttevredenheid"]
