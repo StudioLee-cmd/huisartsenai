@@ -1,0 +1,25 @@
+{
+  "slug": "ai-chatbot-huisartsenpraktijk-4-vragen-veilig-automatiseren",
+  "supporting": {
+    "model": "gpt-image-2-text-to-image",
+    "cost": "$0.03",
+    "task_id": "07072e60dc22eb2cc12353ef8d66aefc",
+    "aspect_ratio": "1:1",
+    "resolution": "1K",
+    "output_url": "https://tempfile.aiquickdraw.com/images/chatgpt/07072e60dc22eb2cc12353ef8d66aefc_76004dfd26a4402e9ac0bc24bcbf8ea1.png",
+    "prompt": "Photographic close-up of a calm Dutch huisartsen-praktijk reception desk, soft afternoon daylight from a tall window with linen curtains. On the warm-light wooden desk: a brass-coloured stethoscope coiled neatly, an open paper appointment book with handwritten pencil scheduling entries (no readable Dutch text, just abstract pen marks), a small clear glass with water, a single wrapped throat-lozenge, and a small green potted plant (zamioculcas). Behind, slightly blurred: a soft waiting-area corner with two upholstered chairs and a wooden side-table. No people, no faces, no logos, no readable text or screens. Photographic realism, calm professional medical atmosphere, warm muted color palette (sage green, walnut, off-white)."
+  },
+  "hero": {
+    "model": "nano-banana-2",
+    "cost": "$0.04",
+    "task_id": "e39dca646d8a34f5ca8989ce62793ee0",
+    "aspect_ratio": "16:9",
+    "resolution": "1K",
+    "output_format": "jpg",
+    "image_input": "[supporting URL]",
+    "output_url": "https://tempfile.aiquickdraw.com/na2/e39dca646d8a34f5ca8989ce62793ee01834073.jpeg",
+    "prompt": "Wide cinematic photo 16:9 of the same calm Dutch huisartsenpraktijk reception, soft late-afternoon daylight from a tall window with linen curtains. In the foreground a woman's hands (no face visible, only hands and forearms in a white nurse-style blouse cuff) writing with a fountain pen in the SAME open paper appointment book from the reference image. Next to the book on the warm walnut desk: the SAME brass-coloured stethoscope, the SAME water glass half-empty, the SAME wrapped throat-lozenge, the SAME small green zamioculcas plant in the dark-green ceramic pot. A small black smartphone propped on a tiny stand to the right of the book, screen showing soft sage-green wallpaper with two pale grey abstract speech-bubble shapes (no readable text). Behind, slightly blurred: the same sage-green waiting area with two upholstered chairs and the wooden side-table. Photographic realism, NO faces, NO logos, NO readable text on the appointment book or screen, single coherent scene matching the reference image lighting, palette and anchor objects. Action conveys 'morning check-in routine being completed': pen is mid-stroke, scheduling entry in progress."
+  },
+  "total_cost": "$0.07",
+  "date": "2026-05-18"
+}
