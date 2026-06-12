@@ -1,5 +1,6 @@
 ---
 title: "Hoe huisartsenpraktijken AI inzetten voor patiëntcommunicatie"
+seoTitle: "AI inzetten voor patiëntcommunicatie als huisarts"
 excerpt: "AI helpt huisartsenpraktijken bij afsprakenbeheer, triagecommunicatie en administratie — voor kortere wachttijden en efficiëntere zorg."
 date: "2026-03-06"
 authorSlug: "tim-van-der-lee"

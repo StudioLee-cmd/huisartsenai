@@ -1,5 +1,6 @@
 ---
 title: "Seizoenscampagnes als huisarts: het juiste moment voor preventie"
+seoTitle: "Seizoenscampagnes als huisarts"
 excerpt: "Elk seizoen biedt kansen voor gerichte gezondheidscampagnes. Ontdek hoe je als huisarts het hele jaar door relevant blijft."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"

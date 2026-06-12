@@ -1,5 +1,6 @@
 ---
 title: "Personeelstekort in de huisartsenpraktijk: hoe technologie het gat dicht"
+seoTitle: "Personeelstekort in de huisartsenpraktijk"
 excerpt: "Het huisartsentekort groeit. Technologie kan het gat niet volledig dichten, maar wel de druk op je team aanzienlijk verlichten."
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"

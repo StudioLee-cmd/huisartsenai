@@ -1,5 +1,6 @@
 ---
 title: "Digitale triage voor huisartsenpraktijken: 4 modellen die werken in 2026"
+seoTitle: "Digitale triage voor huisartsenpraktijken"
 excerpt: "Huisartsenpraktijken die digitale triage goed inzetten halveren de werkdruk op de assistente en verkorten patiënten-wachttijden met 30-50%."
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"

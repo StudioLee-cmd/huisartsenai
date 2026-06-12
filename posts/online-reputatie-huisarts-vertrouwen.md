@@ -1,5 +1,6 @@
 ---
 title: "Online reputatie als huisarts: zo bescherm en versterk je het vertrouwen in je praktijk"
+seoTitle: "Online reputatie als huisarts"
 slug: "online-reputatie-huisarts-vertrouwen"
 date: "2026-03-23"
 excerpt: "Steeds meer patienten lezen online reviews voordat ze een huisarts kiezen. Ontdek hoe je je online reputatie beschermt en versterkt."

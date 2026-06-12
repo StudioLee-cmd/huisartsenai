@@ -1,5 +1,6 @@
 ---
 title: "Specialiseren als huisartsenpraktijk: focus die patienten trekt en bindt"
+seoTitle: "Specialiseren als huisartsenpraktijk"
 excerpt: "Niet elke huisartsenpraktijk hoeft hetzelfde te bieden. Ontdek hoe specialisatie je praktijk onderscheidt en meer patienten aantrekt."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"

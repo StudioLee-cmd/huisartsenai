@@ -1,5 +1,6 @@
 ---
 title: "Patientbehoud in de huisartsenpraktijk: een sterke relatie van eerste consult tot nazorg"
+seoTitle: "Patientbehoud in de huisartsenpraktijk"
 slug: "klantbehoud-huisarts-patientrelatie"
 date: "2026-03-22"
 excerpt: "Patientbehoud is meer dan een volle praktijk. Het gaat om continuiteit van zorg, vertrouwen opbouwen en een relatie die verder gaat dan het consult."

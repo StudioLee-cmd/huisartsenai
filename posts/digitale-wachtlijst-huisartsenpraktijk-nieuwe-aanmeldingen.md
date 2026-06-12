@@ -1,6 +1,6 @@
 ---
 title: "Digitale wachtlijst huisartsenpraktijk: nieuwe aanmeldingen"
-excerpt: "Een digitale wachtlijst vangt nieuwe aanmeldingen automatisch op, filtert postcodes en houdt patiënten zelf op de hoogte. Zo richt je 'm in zonder admin-rompslomp."
+excerpt: "Een digitale wachtlijst vangt nieuwe aanmeldingen automatisch op, filtert postcodes en houdt patiënten zelf op de hoogte."
 date: "2026-04-16"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

@@ -1,5 +1,6 @@
 ---
 title: "Huisartsenpraktijk vindbaar op Google: lokale SEO in 8 stappen"
+seoTitle: "Huisartsenpraktijk vindbaar op Google"
 excerpt: "Nieuwe patienten zoeken hun huisarts via Google. Ontdek hoe je je praktijk vindbaar maakt zonder de privacy en NHG-richtlijnen te schenden."
 date: "2026-04-08"
 cluster: "vindbaarheid"

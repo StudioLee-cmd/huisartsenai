@@ -1,5 +1,6 @@
 ---
 title: "Email marketing voor huisartsen: nieuwsbrieven die patienten helpen"
+seoTitle: "Email marketing voor huisartsen"
 slug: "email-marketing-huisarts-nieuwsbrief"
 date: "2026-03-21"
 excerpt: "Een praktijknieuwsbrief verlaagt de telefoondruk, verbetert de patientcommunicatie en versterkt de band met je praktijk."

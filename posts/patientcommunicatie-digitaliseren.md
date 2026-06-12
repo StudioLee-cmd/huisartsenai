@@ -1,6 +1,7 @@
 ---
 title: "Patiëntcommunicatie digitaliseren: van folders naar online berichten"
-excerpt: "Leer hoe je als huisartsenpraktijk de overstap maakt van papieren communicatie naar efficiënte digitale kanalen."
+seoTitle: "Patiëntcommunicatie digitaliseren"
+excerpt: "Leer hoe je als huisartsenpraktijk de overstap maakt van papieren communicatie naar efficiënte digitale kanalen. Praktisch stappenplan."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patientcommunicatie-digitaliseren.png"

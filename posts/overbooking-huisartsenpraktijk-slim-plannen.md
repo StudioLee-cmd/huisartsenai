@@ -1,5 +1,6 @@
 ---
 title: "Overbooking in de huisartsenpraktijk: slim plannen zonder lege plekken"
+seoTitle: "Overbooking in de huisartsenpraktijk"
 excerpt: "Strategische overbooking helpt huisartsenpraktijken om no-shows op te vangen zonder de wachtkamer te overbelasten. Zo pas je het toe."
 date: "2026-04-09"
 cluster: "automatisering"

@@ -1,5 +1,6 @@
 ---
 title: "Reviews verzamelen als huisartsenpraktijk: patiënttevredenheid meten"
+seoTitle: "Reviews verzamelen als huisartsenpraktijk"
 excerpt: "Google reviews helpen nieuwe patiënten bij het kiezen van een huisarts. Leer hoe je structureel reviews verzamelt en je patiënttevredenheid zichtbaar maakt."
 date: "2026-04-02"
 authorSlug: "tim-van-der-lee"

@@ -1,5 +1,6 @@
 ---
 title: "Telefoondruk verlagen in je huisartsenpraktijk: slimme oplossingen die werken"
+seoTitle: "Telefoondruk verlagen in je huisartsenpraktijk"
 excerpt: "De telefoon staat roodgloeiend, de wachtrij loopt op, en je assistentes draaien overuren. Deze oplossingen verlichten de druk."
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"

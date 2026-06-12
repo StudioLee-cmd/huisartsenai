@@ -1,5 +1,6 @@
 ---
 title: "Social media voor huisartsen: bereik meer patiënten en versterk je praktijk online"
+seoTitle: "Social media voor huisartsen"
 excerpt: "Ontdek hoe huisartsen social media inzetten om meer klanten te bereiken. Praktische tips, de beste platforms en slimme AI-tools voor huisartsen in 2026."
 date: "2026-03-09"
 authorSlug: "tim-van-der-lee"

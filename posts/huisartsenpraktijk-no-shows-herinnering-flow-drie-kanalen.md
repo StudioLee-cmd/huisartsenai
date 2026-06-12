@@ -1,6 +1,6 @@
 ---
 title: "Huisartsenpraktijk no-shows: 3-kanaal herinnering-flow"
-excerpt: "Een herinnering-flow via drie kanalen (SMS, WhatsApp, telefoon) die huisartsenpraktijk no-shows in drie maanden halveert zonder dat de assistente er extra werk van heeft."
+excerpt: "Een herinnering-flow via SMS, WhatsApp en telefoon die no-shows in drie maanden halveert zonder extra werk voor de assistente."
 date: "2026-04-22"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

@@ -1,6 +1,7 @@
 ---
 title: "Hoe AI Huisartsen Helpt Bij Het Besparen Van Tijd (En De Werkdruk Verlaagt)"
-excerpt: "Ontdek hoe kunstmatige intelligentie de dagelijkse taken van huisartsenpraktijken kan automatiseren. Van triage tot verslaglegging: uw nieuwe digitale assistent."
+seoTitle: "Hoe AI Huisartsen Helpt Bij Het Besparen Van Tijd"
+excerpt: "Ontdek hoe kunstmatige intelligentie de dagelijkse taken van huisartsenpraktijken automatiseert. Van triage tot verslaglegging: uw digitale assistent."
 date: "2026-02-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-huisartsen-helpt.png"

@@ -1,5 +1,6 @@
 ---
 title: "Samenwerken als huisarts: ketenzorg en partnerschappen die je praktijk versterken"
+seoTitle: "Samenwerken als huisarts"
 excerpt: "Strategische samenwerkingen met fysiotherapeuten, psychologen en apothekers helpen huisartsen aan betere zorg en een efficienter praktijk."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"

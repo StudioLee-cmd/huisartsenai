@@ -1,6 +1,7 @@
 ---
 title: "Google Bedrijfsprofiel als huisarts: zo vinden patienten jouw praktijk"
-excerpt: "Leer hoe je als huisartsenpraktijk je Google Bedrijfsprofiel optimaal inzet voor betere vindbaarheid."
+seoTitle: "Google Bedrijfsprofiel als huisarts"
+excerpt: "Leer hoe je als huisartsenpraktijk je Google Bedrijfsprofiel optimaal inzet voor betere vindbaarheid. Met praktische optimalisatietips en voorbeelden."
 date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-huisarts.png"

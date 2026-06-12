@@ -1,5 +1,6 @@
 ---
 title: "Patientreviews en privacy als huisarts: ethisch reviews verzamelen"
+seoTitle: "Patientreviews en privacy als huisarts"
 excerpt: "Reviews verzamelen als huisartsenpraktijk vereist extra zorgvuldigheid rondom privacy. Zo doe je het ethisch en AVG-proof."
 date: "2026-04-10"
 cluster: "reviews"

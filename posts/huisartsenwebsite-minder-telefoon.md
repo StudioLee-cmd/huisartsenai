@@ -1,6 +1,7 @@
 ---
 title: "Je huisartsenwebsite laten werken: minder telefoon, meer online"
-excerpt: "Leer hoe je als huisartsenpraktijk je website inricht zodat patiënten meer online regelen en minder bellen."
+seoTitle: "Je huisartsenwebsite laten werken"
+excerpt: "Leer hoe je als huisartsenpraktijk je website inricht zodat patiënten meer online regelen en minder bellen. Met concrete voorbeelden."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/huisartsenwebsite-minder-telefoon.png"

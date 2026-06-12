@@ -1,5 +1,6 @@
 ---
 title: "Klanttevredenheid meten als huisartsenpraktijk: zo verbeter je de patiëntervaring"
+seoTitle: "Klanttevredenheid meten als huisartsenpraktijk"
 excerpt: "Patiënten klagen zelden maar kiezen stilletjes een andere huisarts. Zo meet en verbeter je de tevredenheid in je praktijk."
 date: "2026-04-05"
 cluster: "automatisering"

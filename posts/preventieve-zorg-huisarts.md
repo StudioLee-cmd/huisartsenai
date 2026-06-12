@@ -1,5 +1,6 @@
 ---
 title: "Preventieve zorg promoten als huisarts: gezondheidsvoorlichting die werkt"
+seoTitle: "Preventieve zorg promoten als huisarts"
 excerpt: "Preventie is beter dan genezen — maar hoe bereik je patiënten met voorlichting? Ontdek effectieve strategieën voor preventieve zorg in de huisartsenpraktijk."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"

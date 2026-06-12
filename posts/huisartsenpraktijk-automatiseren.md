@@ -1,5 +1,6 @@
 ---
 title: "Huisartsenpraktijk automatiseren: minder werkdruk, betere zorg"
+seoTitle: "Huisartsenpraktijk automatiseren"
 excerpt: "Huisartsenpraktijken kampen met hoge werkdruk. Ontdek hoe automatisering het team ontlast zonder patiëntcontact te verliezen."
 date: "2026-04-06"
 cluster: "automatisering"

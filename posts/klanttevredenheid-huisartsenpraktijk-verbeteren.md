@@ -1,6 +1,7 @@
 ---
 title: "Patiënttevredenheid in de huisartsenpraktijk: concrete verbeterpunten"
-excerpt: "Ontdek hoe je als huisartsenpraktijk patiënttevredenheid structureel meet en verbetert."
+seoTitle: "Patiënttevredenheid in de huisartsenpraktijk"
+excerpt: "Ontdek hoe je als huisartsenpraktijk patiënttevredenheid structureel meet en verbetert. Met concrete meetpunten en een praktisch verbeterplan."
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-huisartsenpraktijk-verbeteren.jpg"

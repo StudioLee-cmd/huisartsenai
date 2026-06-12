@@ -1,5 +1,6 @@
 ---
 title: "Online intake als huisarts: minder telefoon, betere voorbereiding"
+seoTitle: "Online intake als huisarts"
 excerpt: "Laat nieuwe patiënten zich online inschrijven in plaats van te bellen. Zo verlaag je de telefoondruk en verbeter je de eerste afspraak."
 date: "2026-04-12"
 cluster: "website"

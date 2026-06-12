@@ -1,6 +1,6 @@
 ---
 title: "Beste HIS-systeem 2026: software voor huisartsen vergeleken"
-excerpt: "Welk HIS-systeem past bij jouw huisartsenpraktijk? Een eerlijke vergelijking van de populairste systemen in 2026."
+excerpt: "Welk HIS-systeem past bij jouw huisartsenpraktijk? Een eerlijke vergelijking van de populairste systemen in 2026. Met praktijkervaringen."
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-his-systeem-2026.png"

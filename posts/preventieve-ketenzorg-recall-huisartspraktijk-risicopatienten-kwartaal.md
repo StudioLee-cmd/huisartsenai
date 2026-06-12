@@ -1,6 +1,7 @@
 ---
 title: "Preventieve ketenzorg-recall in de huisartspraktijk: hoe je risicopatiënten elk kwartaal terugziet zonder rinkelende telefoon"
-excerpt: "Een gemiddelde huisartspraktijk verliest 20-30% van haar DM-, COPD- en CVRM-patiënten uit het recall-protocol per jaar, vrijwel altijd door telefonische uitval. Dit recall-systeem houdt ze in beeld zonder dat de assistente extra belrondes hoeft te draaien."
+seoTitle: "Preventieve ketenzorg-recall in de huisartspraktijk"
+excerpt: "Praktijken verliezen 20-30% van hun DM-, COPD- en CVRM-patiënten uit het recall-protocol. Dit systeem houdt ze in beeld zonder extra belrondes."
 date: "2026-04-25"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

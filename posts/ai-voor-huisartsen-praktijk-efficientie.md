@@ -1,5 +1,6 @@
 ---
 title: "AI voor huisartsen: hoe slimme technologie je praktijk efficiënter maakt"
+seoTitle: "AI voor huisartsen: een efficiëntere praktijk"
 excerpt: "Van telefoonbeantwoording tot triage en herhaalrecepten: AI maakt de huisartsenpraktijk slimmer, sneller en menselijker."
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"

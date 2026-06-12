@@ -1,6 +1,7 @@
 ---
 title: "Nieuwe patiënten aanmelden bij je huisartsenpraktijk: zo stroomlijn je het"
-excerpt: "Het aanmeldproces bepaalt de eerste indruk. Zo maak je het snel, soepel en automatisch voor je huisartsenpraktijk."
+seoTitle: "Nieuwe patiënten aanmelden bij je huisartsenpraktijk"
+excerpt: "Het aanmeldproces bepaalt de eerste indruk. Zo maak je het snel, soepel en automatisch voor je huisartsenpraktijk. Stap voor stap."
 date: "2026-04-15"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

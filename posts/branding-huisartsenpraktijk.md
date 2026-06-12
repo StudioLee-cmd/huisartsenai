@@ -1,5 +1,6 @@
 ---
 title: "Branding als huisartsenpraktijk: vertrouwen opbouwen voor je praktijk"
+seoTitle: "Branding als huisartsenpraktijk"
 excerpt: "Branding is voor huisartsenpraktijken essentieel geworden. Leer hoe je vertrouwen opbouwt en je onderscheidt in een veranderende zorgmarkt."
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"

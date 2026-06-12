@@ -1,5 +1,6 @@
 ---
 title: "Mond-tot-mondreclame als huisartsenpraktijk: waarom patienten je aanbevelen"
+seoTitle: "Mond-tot-mondreclame als huisartsenpraktijk"
 excerpt: "Mond-tot-mondreclame is de belangrijkste groeistrategie voor huisartsenpraktijken. Leer hoe je patienten activeert als ambassadeurs."
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"

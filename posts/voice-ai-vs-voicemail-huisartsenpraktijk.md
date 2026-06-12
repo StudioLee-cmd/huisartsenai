@@ -2,7 +2,7 @@
 title: "Voice AI vs voicemail in de huisartsenpraktijk: wat werkt?"
 slug: "voice-ai-vs-voicemail-huisartsenpraktijk"
 date: "2026-05-27"
-excerpt: "Minder dan één op de vijf bellers spreekt voicemail in. Bij een huisartsenpraktijk telt dat dubbel — wat een ai telefonist voor huisartsen anders doet, en waar de AVG-grens ligt."
+excerpt: "Minder dan één op de vijf bellers spreekt voicemail in. Bij een huisartsenpraktijk telt dat dubbel — wat een ai telefonist voor huisartsen anders doet."
 image: "/images/blog/voice-ai-vs-voicemail-huisartsenpraktijk.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["voice-ai", "bereikbaarheid", "telefonie"]
