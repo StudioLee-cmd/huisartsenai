@@ -44,7 +44,7 @@ Een FAQ-pagina is je meest onderschatte wapen tegen telefoondruk. Inventariseer 
 - "Hoe schrijf ik mij in als nieuwe patiënt?"
 - "Kan ik online een afspraak maken?"
 
-Houd de antwoorden kort en duidelijk. Link door naar de relevante actie (online formulier, portaal, telefoonnummer voor spoed). Combineer dit met de [digitale triage](/blog/digitale-triage-huisartsenpraktijk) die je al hebt ingericht.
+Houd de antwoorden kort en duidelijk. Link door naar de relevante actie (online formulier, portaal, telefoonnummer voor spoed). Combineer dit met de digitale triage die je al hebt ingericht.
 
 ## Integratie met het HIS
 

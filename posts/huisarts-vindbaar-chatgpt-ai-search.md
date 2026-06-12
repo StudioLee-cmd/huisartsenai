@@ -82,7 +82,7 @@ AI-modellen extraheren content op een hele specifieke manier. Drie regels die he
 
 **Vermijd promotie-taal.** ChatGPT is getraind om reclame eruit te filteren. Een zin als "Bij ons krijg je de beste zorg" wordt overgeslagen. Een zin als "Onze praktijk werkt sinds 2018 met digitale triage en heeft sindsdien de gemiddelde wachttijd voor consult-aanvragen teruggebracht van 4 dagen naar 1.5 dag" wordt opgepakt omdat het feitelijk en verifieerbaar is.
 
-Een aanvullende technische tip: zie ook onze gids over [Google Bedrijfsprofiel als huisarts](/blog/google-bedrijfsprofiel-huisarts-nieuwe-patienten) want je GBP is één van de belangrijkste structured-data bronnen die AI-modellen oppakken.
+Een aanvullende technische tip: zie ook onze gids over Google Bedrijfsprofiel als huisarts want je GBP is één van de belangrijkste structured-data bronnen die AI-modellen oppakken.
 
 ## Hoe meet je vindbaarheid in ChatGPT?
 

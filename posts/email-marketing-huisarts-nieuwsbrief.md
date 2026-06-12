@@ -32,7 +32,7 @@ Een kwartaalnieuwsbrief bereikt duizenden patienten tegelijk. Het kost je een uu
 **Digitale diensten promoten**:
 - Online herhaalrecepten aanvragen
 - [E-consult](/blog/telefoondruk-huisartsenpraktijk-verlagen) gebruiken in plaats van bellen
-- [Digitale triage](/blog/digitale-triage-huisartsenpraktijk) uitleggen
+- Digitale triage uitleggen
 
 ## Frequentie en timing
 

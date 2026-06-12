@@ -164,7 +164,7 @@ Wat huisartsenpraktijken vaak fout doen:
 4. **Maand 2-3**: test eerst met 100 patiënten in pilot.
 5. **Maand 3**: full-rollout met training voor team en patient-communicatie.
 
-Wil je weten welk model past bij jouw praktijk en patiëntpopulatie? Vraag een [gratis AI-scan voor huisartsenpraktijken](/gratis-scan), we analyseren je huidige werkdruk en oproep-stroom en geven een concrete implementatie-roadmap. Het past goed in een bredere [praktijk-automatisering](/automations) waarmee ook andere terugkerende processen worden afgehandeld.
+Wil je weten welk model past bij jouw praktijk en patiëntpopulatie? Vraag een [gratis AI-scan voor huisartsenpraktijken](/gratis-scan), we analyseren je huidige werkdruk en oproep-stroom en geven een concrete implementatie-roadmap. Het past goed in een bredere [praktijk-automatisering](/automatisering) waarmee ook andere terugkerende processen worden afgehandeld.
 
 ## Wat dit oplevert na 6 maanden
 
