@@ -1,5 +1,5 @@
 ---
-title: "AVG en patiëntfoto's: toestemming regelen in je praktijk"
+title: "AVG en beeld van patiënten: toestemming in je praktijk"
 slug: avg-patientfotos-toestemming-huisartsenpraktijk
 date: "2026-07-22"
 excerpt: "Een foto van een patiënt op je praktijk-Instagram vraagt om toestemming. Zo richt je dat proces in zonder dat het een papieren rompslomp wordt."
