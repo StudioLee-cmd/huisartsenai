@@ -39,9 +39,9 @@ export const benefits: IBenefit[] = [
         imageSrc: "/images/benefits/voice-ai.png"
     },
 
-    // 2. Social Media Planner
+    // 2. Social: de uitkomst, niet de tool (PROPOSITIE-CONTRACT ⛔1)
     {
-        title: "Social Media Planner",
+        title: "Je social loopt door",
         tier: 'basis',
         description: "Houd uw patiënten op de hoogte via al uw digitale kanalen vanuit één dashboard.",
         bullets: [
