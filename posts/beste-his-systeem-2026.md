@@ -66,4 +66,4 @@ Als huisarts draait alles om zorg. Maar achter de schermen heb je een HIS (Huisa
 - **EPD nodig?** Medicom of Promedico — de basis voor elke huisartspraktijk.
 - **Betere bereikbaarheid?** [HuisartsenAI](/) lost het telefoonprobleem op met Voice AI, en automatiseert afspraken, reviews en communicatie — als aanvulling op je HIS.
 
-Benieuwd wat HuisartsenAI voor jouw praktijk kan betekenen? [Plan een gratis gesprek](https://calendly.com/tim-studiolee).
+Benieuwd wat HuisartsenAI voor jouw praktijk kan betekenen? [Plan een gratis gesprek](https://cal.com/studiolee).

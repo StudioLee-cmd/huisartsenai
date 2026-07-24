@@ -106,6 +106,6 @@ AI maakt de huisartsenpraktijk niet onpersoonlijker — het maakt de praktijk ju
 
 Met [HuisartsenAI](/) helpen we praktijken bij het stap voor stap implementeren van AI-oplossingen. Onze managed service kost slechts 15 minuten van je tijd per maand — wij regelen de techniek. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico: geen meetbare verbetering? Dan betaal je niet.
 
-Plan een [gratis adviesgesprek](https://calendly.com/tim-studiolee) en ontdek wat AI voor jouw praktijk kan betekenen.
+Plan een [gratis adviesgesprek](https://cal.com/studiolee) en ontdek wat AI voor jouw praktijk kan betekenen.
 
 Lees ook onze andere artikelen over [online groei voor huisartsenpraktijken](/blog).
