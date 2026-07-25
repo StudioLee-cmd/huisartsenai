@@ -7,7 +7,6 @@ image: "/images/blog/beste-his-systeem-2026.png"
 tags: ["Software", "Vergelijking", "Tools"]
 cluster: "automatisering"
 ---
-
 Als huisarts draait alles om zorg. Maar achter de schermen heb je een HIS (Huisartsen Informatie Systeem) nodig dat meewerkt: dossiers, recepten, verwijzingen en facturatie. Welk systeem past bij jouw praktijk in 2026?
 
 ## Wat zoekt een huisarts in een HIS?
@@ -60,6 +59,8 @@ Als huisarts draait alles om zorg. Maar achter de schermen heb je een HIS (Huisa
 | **Review-automatisering** | ✗ | ✗ | ✓ |
 | **AI-chatbot** | ✗ | ✗ | ✓ |
 | **Voice AI-telefonist** | ✗ | ✗ | ✓ |
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/e-health-stack-luscii-quli-mijnquarant-vergeleken" class="text-dark fw-semibold">E-health stack: Luscii, Quli en MijnQuarant vergeleken</a> →</p></div></div></div>
 
 ## Conclusie
 
