@@ -27,6 +27,8 @@ Een extra assistente voor de telefoon kost 1.500 tot 2.500 euro per maand. En ze
 
 ![Receptie van een huisartsenpraktijk met telefoon](/images/blog/bereikbaarheid-huisartsenpraktijk-verbeteren-2.jpg)
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/telefonische-bereikbaarheid-huisarts-nieuwe-patienten" class="text-dark fw-semibold">Bereikbaarheid huisarts: zo mis je geen nieuwe patiënten</a> →</p></div></div></div>
+
 ## Het effect op patienttevredenheid
 
 Praktijken die telefonische triage en online afspraken combineren, rapporteren een daling van 30 tot 50 procent in telefoontjes naar de balie. De wachttijd daalt, de frustatie verdwijnt en de assistente heeft meer tijd voor de patienten die in de praktijk zijn.
