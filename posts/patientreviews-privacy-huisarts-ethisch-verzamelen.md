@@ -56,8 +56,10 @@ Negatieve reviews raken in de zorg extra hard. "Onvriendelijke arts" of "lange w
 
 Nooit inhoudelijk ingaan op de zorginhoud. Nooit bevestigen of ontkennen dat iemand patient is. Een veilige reactie: "We nemen uw feedback serieus. Neem gerust contact op met onze praktijkmanager om uw ervaring te bespreken."
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/review-hardware-huisartsenpraktijk-nfc-qr-poster" class="text-dark fw-semibold">Review-hardware huisartsenpraktijk: NFC, QR of poster?</a> →</p></div></div></div>
+
 ## Conclusie: reviews en privacy in balans
 
-Ethisch reviews verzamelen als huisartsenpraktijk is mogelijk met de juiste aanpak: algemene verzoeken, juiste timing, geen medische verwijzingen, en automatisering die privacy respecteert.
+Ethisch [reviews verzamelen als huisartsenpraktijk](/blog/reviews-verzamelen-huisartsenpraktijk) is mogelijk met de juiste aanpak: algemene verzoeken, juiste timing, geen medische verwijzingen, en automatisering die privacy respecteert.
 
 Een goed [review-systeem](/reviews) respecteert de privacy en groeit je online reputatie tegelijk. Wil je weten hoe een privacy-proof review-systeem werkt voor jouw praktijk? Vraag een [gratis scan](/gratis-scan) aan en we laten het zien.
