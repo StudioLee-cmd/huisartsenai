@@ -18,7 +18,7 @@ Het NHG schat dat 30 tot 40 procent van de telefoontjes naar een huisartsenprakt
 
 ### Online afspraken plannen
 
-Patiënten willen zelf hun afspraak inplannen. 45 procent van alle online afspraken wordt buiten kantooruren gemaakt. Een patiëntportaal waar ze zelf een tijdslot kiezen:
+Patiënten willen zelf hun afspraak inplannen. 45 procent van alle [online afspraken](/blog/online-afspraken-maken-huisartsenpraktijk) wordt buiten kantooruren gemaakt. Een patiëntportaal waar ze zelf een tijdslot kiezen:
 
 - Vermindert telefoonverkeer met 30 procent
 - Geeft patiënten controle over hun eigen zorg
