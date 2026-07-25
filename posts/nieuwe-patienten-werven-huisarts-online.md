@@ -66,6 +66,6 @@ Communiceer duidelijk op je website welke patiënten je aanneemt (werkgebied, le
 
 ## Conclusie
 
-Online zichtbaarheid als huisarts is geen marketing maar bereikbaarheid. Een duidelijke website, een soepel aanmeldproces en automatische opvolging zorgen dat nieuwe patiënten je vinden en zich welkom voelen.
+[Online zichtbaarheid](/social-media) als huisarts is geen marketing maar bereikbaarheid. Een duidelijke website, een soepel aanmeldproces en automatische opvolging zorgen dat nieuwe patiënten je vinden en zich welkom voelen.
 
 Wil je weten hoe HuisartsenAI je online aanwezigheid versterkt? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het — jij helpt patiënten.
