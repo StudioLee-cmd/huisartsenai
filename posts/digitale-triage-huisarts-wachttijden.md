@@ -57,6 +57,8 @@ Wanneer de huisarts een patient ziet, heeft hij al de digitale intake gelezen. H
 
 **Stap 4: Evalueer na drie maanden.** Meet de telefonische wachttijd voor en na. Meet het aantal digitale inzendingen. Vraag assistenten wat ze merken. Pas de vragenlijst aan op basis van feedback.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/digitale-wachtlijst-huisartsenpraktijk-nieuwe-aanmeldingen" class="text-dark fw-semibold">Digitale wachtlijst huisartsenpraktijk: nieuwe aanmeldingen</a> →</p></div></div></div>
+
 ## Digitale triage is geen luxe, het is noodzaak
 
 Het huisartsentekort groeit. De werklast per praktijk stijgt. Meer assistenten aannemen is duur en lost het structurele probleem niet op. Digitale triage wel. Het maakt je praktijk efficienter, je patienten tevredener en je team minder overbelast.
