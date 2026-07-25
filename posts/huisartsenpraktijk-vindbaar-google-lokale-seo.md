@@ -28,7 +28,7 @@ De eerste stel je in met de juiste categorieën. De tweede ligt vast (je locatie
 
 ## Stap 1: Claim en verifieer je Google Bedrijfsprofiel
 
-Heeft je praktijk al een Google Bedrijfsprofiel? Zoek 'm op en check of het geclaimd is. Zo niet, ga naar google.com/business en maak het aan, of klik op "Dit bedrijf claimen" als het al bestaat.
+Heeft je praktijk al een [Google Bedrijfsprofiel](/blog/google-qa-sectie-huisartsenpraktijk)? Zoek 'm op en check of het geclaimd is. Zo niet, ga naar google.com/business en maak het aan, of klik op "Dit bedrijf claimen" als het al bestaat.
 
 Verificatie gebeurt via een briefkaart die naar het praktijkadres komt (duurt ongeveer een week) of telefonisch. Voer de code in die je ontvangt en het profiel is van jou.
 
@@ -126,7 +126,7 @@ Wat een huisartsenpraktijk-website moet hebben:
 - **Team-pagina** met huisartsen en assistenten (met toestemming)
 - **Praktische info**: locatie, parkeren, OV-bereikbaarheid
 
-Een goede website in combinatie met een goed Bedrijfsprofiel is de basis voor lokale vindbaarheid.
+Een goede website in combinatie met een goed Bedrijfsprofiel is de basis voor [lokale vindbaarheid](/blog/lokale-vindbaarheid-huisarts-google-maps).
 
 ## Stap 8: Lokale signalen versterken
 
