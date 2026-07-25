@@ -8,7 +8,6 @@ image: "/images/blog/personeelstekort-huisartsenpraktijk-technologie.png"
 tags: ["Huisarts", "Personeelstekort", "Technologie"]
 cluster: "automatisering"
 ---
-
 ## Het huisartsentekort in cijfers
 
 Nederland heeft een groeiend huisartsentekort. In 2026 zijn er naar schatting 1.000-1.500 huisartsen te weinig. Maar het probleem zit niet alleen bij de artsen — het tekort aan praktijkassistentes en praktijkondersteuners is minstens zo groot.
@@ -58,7 +57,7 @@ Besparing: 1.5 uur per dag.
 
 ### 3. Automatische herinneringen
 
-No-shows kosten een huisartsenpraktijk gemiddeld 5-10% van de consultcapaciteit. Automatische herinneringen (SMS, 24 uur + 2 uur voor de afspraak) reduceren no-shows met 40-50%.
+No-shows kosten een huisartsenpraktijk gemiddeld 5-10% van de consultcapaciteit. Automatische [herinneringen](/automatisering) (SMS, 24 uur + 2 uur voor de afspraak) reduceren no-shows met 40-50%.
 
 Bij 10 consulten per arts per dag is dat 1-2 extra consulten die niet verloren gaan.
 
@@ -121,6 +120,8 @@ De meeste oplossingen kosten €200-500 per maand. Bij een besparing van 120 uur
 ### "Het is onpersoonlijk"
 
 Het tegendeel is waar. Door routinetaken te automatiseren, heeft je team meer tijd voor patienten die persoonlijke aandacht nodig hebben.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-huisartsenpraktijk" class="text-dark fw-semibold">Wat is ChatGPT en hoe gebruik je het als huisartsenpraktijk?</a> →</p></div></div></div>
 
 ## Conclusie
 
