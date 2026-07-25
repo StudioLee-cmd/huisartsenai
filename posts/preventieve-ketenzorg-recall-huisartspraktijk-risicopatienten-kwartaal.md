@@ -134,6 +134,8 @@ No-show binnen het ketenzorg-protocol heeft impact op zowel je rooster als je ta
 
 Meet 1 week. Laat de assistente bijhouden hoeveel telefoongesprekken zij voert die specifiek voor recall zijn (niet voor inkomende patiëntvragen). Typisch komt het uit op 6-9 uur per week, gespreid over 30-50 belletjes. Met het 4-staps protocol blijft daar 1-2 uur per week van over (alleen stap 4, de eindgesprekken).
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/cross-sell-ketenzorg-huisartsenpraktijk" class="text-dark fw-semibold">Ketenzorg-opvolging: van diabetescontrole tot griepprik</a> →</p></div></div></div>
+
 ## Conclusie
 
 De grootste verborgen kostenpost in een Nederlandse huisartspraktijk is niet personeel of huur — het is de patiënt die vorig jaar uit het ketenzorg-protocol viel zonder dat iemand het direct merkte. Een gestructureerd recall-protocol met digitale-eerste-touchpoints, kanaal-keuze per leeftijdscohort, en een eindgesprek door de assistente alleen voor de hardnekkige 10-15% verandert die kostenpost in een opbrengst en geeft je assistente 4-6 uur per week terug.
