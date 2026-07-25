@@ -75,7 +75,7 @@ De combinatie van chatbot en formulier vangt het merendeel van de nieuwe inschri
 
 Een formulier dat niemand vindt, wordt niet gebruikt. Zet het op drie plekken:
 - Een duidelijke knop op je homepage: "Inschrijven als nieuwe patiënt"
-- In je Google Bedrijfsprofiel als link
+- In je [Google Bedrijfsprofiel](/blog/praktijkinformatie-up-to-date-huisarts-nap) als link
 - Op het antwoordapparaat buiten kantoortijden: "Wilt u zich inschrijven? Ga naar [website] en vul het online formulier in"
 
 ## Begin met een simpele test
