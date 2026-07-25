@@ -7,10 +7,9 @@ image: "/images/blog/reviews-automatiseren-huisartsenpraktijk.jpg"
 tags: ["Reviews", "Automatisering", "Patiëntervaring"]
 cluster: "reviews"
 ---
-
 ## Waarom patiëntreviews steeds belangrijker worden
 
-Steeds meer patiënten kiezen hun huisarts op basis van online reviews. Vooral bij verhuizingen of ontevredenheid met de huidige praktijk zoeken mensen op Google naar "huisarts in de buurt" — en dan bepalen reviews wie ze bellen.
+Steeds meer patiënten kiezen hun huisarts op basis van [online reviews](/reviews). Vooral bij verhuizingen of ontevredenheid met de huidige praktijk zoeken mensen op Google naar "huisarts in de buurt" — en dan bepalen reviews wie ze bellen.
 
 Een huisartsenpraktijk met 30 positieve reviews straalt betrouwbaarheid uit. Het laat zien dat andere patiënten tevreden zijn over de wachttijden, de bereikbaarheid en de kwaliteit van zorg. Dat zijn precies de factoren die nieuwe patiënten willen weten.
 
