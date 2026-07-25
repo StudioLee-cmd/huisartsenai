@@ -7,12 +7,11 @@ image: "/images/blog/meer-google-reviews-huisartsenpraktijk.png"
 tags: ["Reviews", "Google", "Automatisering"]
 cluster: "reviews"
 ---
-
 ## Waarom Google reviews cruciaal zijn voor huisartsenpraktijken
 
 Stel: iemand zoekt een huisarts in de buurt. Google toont drie opties. Eentje heeft 47 reviews met een gemiddelde van 4,8 sterren. De ander heeft er 3. Op wie klik jij?
 
-Precies. Dat is de kracht van Google reviews. Ze bepalen niet alleen of mensen je vertrouwen, maar ook of Google je überhaupt laat zien in de zoekresultaten. Meer reviews met een hoge score betekent een hogere positie in Google Maps — en dat betekent meer patiënten.
+Precies. Dat is de kracht van [Google reviews](/reviews). Ze bepalen niet alleen of mensen je vertrouwen, maar ook of Google je überhaupt laat zien in de zoekresultaten. Meer reviews met een hoge score betekent een hogere positie in Google Maps — en dat betekent meer patiënten.
 
 Maar er is nog iets. AI-zoekmachines zoals ChatGPT en Perplexity gebruiken reviews nu ook om antwoorden te geven. Als iemand vraagt "wie is de beste huisarts in Amsterdam?", baseert de AI zich op Google reviews. Geen reviews? Dan besta je niet voor AI.
 
