@@ -47,6 +47,8 @@ Een website die geoptimaliseerd is voor [lokale zoekopdrachten](/seo) trekt pati
 
 Publiceer regelmatig korte artikelen over veelgestelde vragen: "Wanneer naar de huisarts met griep?", "Hoe vraag ik een herhaalrecept aan?", "Wat doet een POH-GGZ?" Elke vraag die je beantwoordt is een extra vindbare pagina.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/huisarts-vindbaar-chatgpt-ai-search" class="text-dark fw-semibold">Vindbaar in ChatGPT als huisarts: AI-search gids</a> →</p></div></div></div>
+
 ## De volgende stap
 
 Wil je weten hoe vindbaar jouw praktijk nu is? Vraag een [gratis scan](/gratis-scan) aan en krijg een helder overzicht van je Google-positie, je reviews en concrete verbeterpunten. Bekijk de [tarieven](/tarieven) voor een compleet pakket.
