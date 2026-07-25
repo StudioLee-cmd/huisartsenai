@@ -113,6 +113,8 @@ Een realistisch plan voor een gemiddelde huisartsenpraktijk:
 
 Dit doe je niet alleen. Een [gratis scan](/gratis-scan) van jouw huidige werkstromen brengt in kaart waar bij jouw praktijk de grootste winst zit. Wij bouwen deze complete administratie-reductie voor huisartsenpraktijken in onze managed service, in nauwe samenwerking met jouw HIS-leverancier. Meer over [tarieven](/tarieven) voor praktijken die het hele proces willen outsourcen. De [review-flow](/reviews) uit het afsprakensysteem trigger je ook automatisch voor positieve Google-reviews van tevreden patiënten.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/his-migratie-draaiboek-huisartsenpraktijk" class="text-dark fw-semibold">HIS-migratie draaiboek: zo stap je over zonder dataverlies</a> →</p></div></div></div>
+
 ## Groei-of-Geld-Terug Garantie
 
 Als je na zes maanden niet meetbaar minder uren aan administratie kwijt bent, krijg je je investering terug. Jij behandelt patiënten, wij zorgen dat alles eromheen minder tijd kost.
