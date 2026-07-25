@@ -8,7 +8,6 @@ image: "/images/blog/digitale-triage-huisarts-4-modellen-2026.jpg"
 tags: ["Triage", "Praktijkmanagement", "Huisarts"]
 cluster: "automatisering"
 ---
-
 De doktersassistente is de spil van een huisartsenpraktijk. Maar in veel praktijken wordt 80 procent van haar tijd besteed aan triage-vragen die eigenlijk geautomatiseerd kunnen worden: "Mijn kind heeft koorts, moet ik komen?", "Mag ik mijn pil ophalen?", "Hoe doe ik een herhaalrecept?". In de tussentijd wachten echte spoedgevallen aan de telefoon.
 
 Digitale triage neemt dit voorwerk over. Niet om de assistente te vervangen, maar om haar te ontlasten zodat ze tijd heeft voor wat écht aandacht vraagt. Dit artikel bespreekt 4 triage-modellen, met realistische cijfers per model, en welk model bij welke praktijkgrootte past.
@@ -126,7 +125,7 @@ Snelle beslis-regel:
 
 ## De NHG-richtlijn over digitale triage
 
-Het Nederlands Huisartsen Genootschap is voorzichtig positief over digitale triage, mits voldaan aan deze 5 voorwaarden:
+Het Nederlands Huisartsen Genootschap is voorzichtig positief over [digitale triage](/blog/digitale-triage-huisarts-wachttijden), mits voldaan aan deze 5 voorwaarden:
 
 1. Triage-regels moeten gevalideerd zijn (NTS Nederlands Triage Systeem of equivalent).
 2. Spoedgevallen worden altijd direct doorgezet naar telefonische contact.
@@ -166,6 +165,8 @@ Wat huisartsenpraktijken vaak fout doen:
 5. **Maand 3**: full-rollout met training voor team en patient-communicatie.
 
 Wil je weten welk model past bij jouw praktijk en patiëntpopulatie? Vraag een [gratis AI-scan voor huisartsenpraktijken](/gratis-scan), we analyseren je huidige werkdruk en oproep-stroom en geven een concrete implementatie-roadmap. Het past goed in een bredere [praktijk-automatisering](/automatisering) waarmee ook andere terugkerende processen worden afgehandeld.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/triage-automatisering" class="text-dark fw-semibold">Slimme Triage: De Toekomst van de Huisartsenpost</a> →</p></div></div></div>
 
 ## Wat dit oplevert na 6 maanden
 
