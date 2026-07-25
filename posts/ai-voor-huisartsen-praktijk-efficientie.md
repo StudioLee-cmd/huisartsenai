@@ -8,7 +8,6 @@ image: "/images/blog/ai-voor-huisartsen-praktijk-efficientie.png"
 tags: ["Huisarts", "AI", "Praktijkefficiëntie"]
 cluster: "automatisering"
 ---
-
 ## De huisartsenpraktijk staat onder druk
 
 Stijgend patiëntenaantal, huisartsentekort, toenemende werkdruk bij assistentes — het is een verhaal dat elke huisarts kent. Tegelijkertijd verwachten patiënten snellere service: online afspraken, directe communicatie, minder wachttijd aan de telefoon.
@@ -99,6 +98,8 @@ Je hoeft niet alles tegelijk te doen. Start met wat de meeste impact heeft:
 2. **Maand 2**: Digitaal herhaalreceptformulier — bespaart 3 uur per week
 3. **Maand 3**: Automatische afspraakherinneringen — vermindert no-shows met 30%
 4. **Maand 4-6**: Digitale triage + AI-telefoonbeantwoording — de grootste transformatie
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/seizoenscampagnes-huisarts" class="text-dark fw-semibold">Seizoenscampagnes als huisarts: het juiste moment voor preventie</a> →</p></div></div></div>
 
 ## Conclusie
 
