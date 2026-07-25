@@ -8,7 +8,6 @@ image: "/images/blog/telefoondruk-huisartsenpraktijk-verlagen.png"
 tags: ["Huisarts", "Telefoondruk", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
-
 ## De telefoondruk in huisartsenpraktijken is onhoudbaar
 
 Maandagochtend 08:00. De telefoon gaat. En gaat. En gaat. Binnen het eerste uur ontvangt een gemiddelde huisartsenpraktijk 80-120 telefoontjes. De assistentes werken onder hoge druk, patiënten hangen lang in de wacht, en de sfeer op de praktijk lijdt eronder.
@@ -80,7 +79,7 @@ Praktijken die deze maatregelen combineren, rapporteren:
 - 30-40% minder inkomende telefoontjes
 - Wachttijden van gemiddeld 12 minuten naar 3-4 minuten
 - Minder werkstress bij assistentes
-- Hogere patiënttevredenheid
+- [Hogere patiënttevredenheid](/blog/patienttevredenheid-ai)
 
 ## Conclusie
 
