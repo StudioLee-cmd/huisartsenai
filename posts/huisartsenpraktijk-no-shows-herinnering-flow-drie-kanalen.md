@@ -100,6 +100,8 @@ Een moderne huisartsenpraktijk-website toont niet alleen contactgegevens. Hij to
 
 Een [gratis review-flow](/reviews) versterkt dit effect nog: patiënten die een consult hebben gehad krijgen 48 uur later een korte WhatsApp met een reviewverzoek, wat voor de praktijk zowel de online reputatie versterkt als patiëntbetrokkenheid aangeeft.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klanttevredenheid-huisarts" class="text-dark fw-semibold">Klanttevredenheid meten als huisartsenpraktijk: zo verbeter je de patiëntervaring</a> →</p></div></div></div>
+
 ## Groei-of-Geld-Terug Garantie
 
 Als je no-show-ratio na drie maanden niet meetbaar is gedaald, krijg je je investering terug. Vraag een [gratis scan](/gratis-scan) aan om je huidige herinnering-flow te laten analyseren. Jij ziet patiënten, wij regelen de rest.
