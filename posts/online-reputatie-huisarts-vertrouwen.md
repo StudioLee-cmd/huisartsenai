@@ -10,7 +10,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["online reputatie", "huisarts", "vertrouwen"]
 cluster: "reviews"
 ---
-
 ## Waarom online reputatie ertoe doet
 
 Nieuwe patienten googelen je praktijk voordat ze zich inschrijven. Ze lezen [Google reviews](/blog/meer-google-reviews-huisartsenpraktijk), bekijken je [website](/blog/huisartsenwebsite-minder-telefoon) en vormen een beeld. Dat beeld bepaalt of ze zich aanmelden of een andere praktijk kiezen.
@@ -61,6 +60,6 @@ Naast reviews zijn er meer manieren om je reputatie te versterken:
 
 ## Aan de slag
 
-Online reputatie beheren kost een paar minuten per week maar beschermt het vertrouwen dat je in jaren hebt opgebouwd. Monitor je reviews, reageer altijd professioneel en stimuleer tevreden patienten om hun ervaring te delen.
+Online reputatie beheren kost een paar minuten per week maar beschermt het [vertrouwen](/reviews) dat je in jaren hebt opgebouwd. Monitor je reviews, reageer altijd professioneel en stimuleer tevreden patienten om hun ervaring te delen.
 
 Wil je ontdekken hoe je praktijk online beter vindbaar wordt? [Vraag een gratis scan aan](/gratis-scan) en ontdek wat er beter kan.
