@@ -8,10 +8,9 @@ image: "/images/blog/reviews-verzamelen-huisartsenpraktijk.jpg"
 tags: ["Reviews", "Patiëntcommunicatie"]
 cluster: "reviews"
 ---
-
 Wanneer iemand verhuist naar een nieuwe wijk, is een van de eerste zoekopdrachten: "huisarts bij mij in de buurt." Google toont dan een kaart met praktijken — en bij elke praktijk een sterrenscore. Die score bepaalt voor een groot deel bij welke huisarts de nieuwe bewoner zich aanmeldt.
 
-Toch zien veel huisartsenpraktijken reviews als iets dat ze niet actief hoeven te managen. Ze vertrouwen op hun reputatie in de buurt. Maar de buurt is veranderd — het is nu digitaal.
+Toch zien veel huisartsenpraktijken reviews als iets dat ze niet actief hoeven te managen. Ze [vertrouwen](/reviews) op hun reputatie in de buurt. Maar de buurt is veranderd — het is nu digitaal.
 
 ## Waarom reviews belangrijk zijn voor huisartsenpraktijken
 
@@ -78,6 +77,8 @@ Reageer professioneel: "Bedankt voor uw feedback. Wij nemen dit serieus. Neem co
 ### Moet ik reageren op elke review?
 
 Op negatieve reviews altijd. Op positieve reviews is het netjes om te bedanken, maar niet verplicht. Een mix van gereageerde en niet-gereageerde reviews oogt natuurlijk.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/patientbeoordelingen-huisarts-automatiseren" class="text-dark fw-semibold">Patiëntbeoordelingen automatiseren als huisartsenpraktijk</a> →</p></div></div></div>
 
 ## Conclusie
 
