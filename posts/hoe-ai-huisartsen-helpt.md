@@ -8,7 +8,6 @@ image: "/images/blog/hoe-ai-huisartsen-helpt.png"
 tags: ["Zorg", "Efficiëntie", "Automatisering"]
 cluster: "automatisering"
 ---
-
 Het runnen van een huisartsenpraktijk anno 2026 is topsport. U bent niet alleen de medicus die levens redt en zorg verleent, maar ook manager, planner, en administratief expert. Veel huisartsen die wij spreken, hebben een overvol spreekuur, maar zijn 's avonds nog uren bezig met randzaken. Ruis in de vorm van eindeloze telefoontjes, herhaalrecepten en verslaglegging.
 
 De realiteit is dat de zorgvraag stijgt terwijl de capaciteit afneemt. Patiënten verwachten snelle bereikbaarheid en directe antwoorden. Voor een moderne praktijk is dat bijna onmogelijk te bolwerken zonder dat de kwaliteit van zorg of het welzijn van het team eronder lijdt. Gelukkig is er een oplossing: Kunstmatige Intelligentie (AI).
@@ -32,7 +31,7 @@ In de zorg is veiligheid geen optie, maar een vereiste. HuisartsenAI is niet zom
 ## Wat automatiseert HuisartsenAI precies?
 
 Wij willen de huisarts niet vervangen, maar ondersteunen. Een AI kan geen diagnose stellen achter de ogen of een luisterend oor bieden bij zwaar leed. Wij vervangen de administratieve rompslomp:
-- **De Telefoonaanname:** Onze Voice AI (onderdeel van het Elite pakket) neemt 24/7 op, voert basistriage uit en plant afspraken.
+- **De Telefoonaanname:** Onze [Voice AI](/voice-ai) (onderdeel van het Elite pakket) neemt 24/7 op, voert basistriage uit en plant afspraken.
 - **Herhaalrecepten:** Patiënten kunnen via de AI-lijn direct hun recepten doorgeven, die na controle door de arts automatisch naar de apotheek gaan.
 - **Verslaglegging & Triage-samenvatting:** Geen handmatige invoer meer van standaard triagevragen. De AI zet een keurige samenvatting direct in het patiëntendossier.
 
