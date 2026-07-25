@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Chatbot", "Bereikbaarheid", "AVG"]
 cluster: "chatbot"
 ---
-
 Vrijdagmiddag, 14:50. De assistente in een huisartsenpraktijk in Apeldoorn staat aan de balie met drie patiënten in de wachtrij, de telefoon rinkelt al voor de vierde keer, en op haar tweede beeldscherm gaat het chat-widget van de praktijk-website ping-ping-ping. Vier nieuwe vragen in tien minuten: "Doen jullie ook een DTP-prik?", "Hoe verzet ik mijn afspraak van dinsdag?", "Wanneer kan ik mijn herhaalrecept ophalen?", "Is dokter Hovestadt vandaag aanwezig?"
 
 Ze beantwoordt ze in tussen-de-bedrijven-door tempo, gemiddeld 90 seconden per chatvraag, soms in haast en zonder eerst de agenda na te kijken. Het werkt, totdat het niet meer werkt en er een patiënt op een avond op de stoep staat omdat de assistente "ja, vanaf 17:00 kan dat" had getypt zonder te zien dat dokter Hovestadt om 16:30 al weg was.
@@ -126,6 +125,8 @@ Wil je weten hoe groot je tijdwinst kan zijn voor jouw praktijk specifiek, plan 
 Een AVG-conforme AI-chatbot inclusief de 4 vraag-categorieen, de 5 escalatie-regels, de praktijksysteem-koppeling en de continue verbetering door wekelijkse review-loop, zit inbegrepen in onze Managed Pro vanaf €179 per maand exclusief BTW. Plus de [Groei-of-Geld-Terug Garantie](/tarieven): als na 3 maanden je assistente-belasting op chat-vragen niet meetbaar omlaag is, krijg je je geld terug.
 
 Wat we niet doen: een chatbot leveren die de [voice ai voor huisartsen](/voice-ai) volledig vervangt. De chatbot is voor schriftelijke vragen via de website. De voice AI is voor telefoongesprekken. Samen dekken ze ~70% van het patient-contact dat tot nu door een mens werd afgehandeld, met de overige 30% naar de huisarts of triage-lijn.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/chatbot-functies-huisartsenpraktijk" class="text-dark fw-semibold">Chatbot-functies huisartsenpraktijk: wat moet hij kunnen?</a> →</p></div></div></div>
 
 ## Terug naar de balie
 
