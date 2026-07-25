@@ -7,7 +7,6 @@ image: "/images/blog/huisarts-vindbaar-chatgpt-ai-search.jpg"
 tags: ["SEO", "AI Search", "ChatGPT", "Huisarts"]
 cluster: "vindbaarheid"
 ---
-
 ## In het kort
 
 - **ChatGPT, Perplexity en Google AI Overviews kiezen welke huisartsenpraktijk ze noemen** op basis van autoriteit, reviews en gestructureerde data, niet op basis van klassieke Google-ranking.
@@ -99,7 +98,7 @@ Run dezelfde prompts ook in Perplexity en Google's AI Overview (de samenvatting 
 
 ## Een voorbeeld uit de praktijk
 
-Een groepspraktijk met drie huisartsen in Haarlem startte in januari 2026 met deze aanpak. Uitgangspositie: 19 Google-reviews, geen schema markup, FAQ van 8 vragen, één externe vermelding (oprichtingsbericht in een lokaal weekblad uit 2017). De praktijk werd in een baseline-test van 25 ChatGPT-prompts ("huisarts Haarlem nieuwe patiënten", "huisarts Haarlem-Centrum", etcetera) één keer genoemd.
+Een groepspraktijk met drie huisartsen in Haarlem startte in januari 2026 met deze aanpak. Uitgangspositie: 19 Google-reviews, geen schema markup, FAQ van 8 vragen, één externe vermelding (oprichtingsbericht in een lokaal weekblad uit 2017). De praktijk werd in een baseline-test van 25 ChatGPT-prompts ("huisarts Haarlem [nieuwe patiënten](/blog/nieuwe-patienten-werven-huisarts-online)", "huisarts Haarlem-Centrum", etcetera) één keer genoemd.
 
 In de eerste maand zijn drie acties uitgevoerd: MedicalClinic schema markup geïmplementeerd inclusief medicalSpecialty en areaServed met de 5 omliggende postcodes (6 uur werk), FAQ uitgebreid van 8 naar 32 vragen met vraag-antwoord-formaat (12 uur), en een geautomatiseerde Google-review-flow ingericht via SMS na passende consulten (4 uur opzet, daarna automatisch).
 
