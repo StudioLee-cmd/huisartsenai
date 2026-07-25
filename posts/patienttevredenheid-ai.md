@@ -7,8 +7,9 @@ image: "/images/blog/patienttevredenheid-ai.png"
 tags: ["Patiëntenzorg", "Bereikbaarheid"]
 cluster: "automatisering"
 ---
-
 De grootste frustratie van patiënten? "Ik hang al 15 minuten in de wacht bij de dokter." In een tijd waarin we alles direct via onze smartphone regelen, voelt de ouderwetse telefoonlijn van de huisarts als een relikwie uit het verleden. Voor de patiënt betekent slechte bereikbaarheid onzekerheid en stress, zeker bij medische klachten.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klanttevredenheid-huisartsenpraktijk-verbeteren" class="text-dark fw-semibold">Patiënttevredenheid in de huisartsenpraktijk: concrete verbeterpunten</a> →</p></div></div></div>
 
 ## De "Altijd Open" Praktijk
 
