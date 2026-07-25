@@ -7,7 +7,6 @@ image: "/images/blog/no-shows-huisartsenpraktijk-voorkomen.jpg"
 tags: ["No-shows", "Praktijkmanagement", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Hoeveel kost een no-show je praktijk echt?
 
 Een standaard consult bij de huisarts duurt 10 minuten. Dat lijkt kort, maar bij vier no-shows per dag verlies je 40 minuten aan productieve consultentijd. Op jaarbasis zijn dat meer dan 160 verloren uren — bijna een maand aan consulten.
@@ -59,6 +58,8 @@ Een AI-telefoniste lost dit op: 24 uur per dag bereikbaar, geen wachttijd, en pa
 De AI kan ook eenvoudige triage doen: is het een spoedvraag of kan het wachten? Moet de patiënt naar de huisartsenpost of is een consult morgen voldoende? Dit ontlast je assistente en zorgt ervoor dat patiënten sneller de juiste hulp krijgen.
 
 Vooral 's ochtends tussen 08:00 en 09:00 is de druk op de telefoon enorm. Een AI die de overflow opvangt, voorkomt dat patiënten gefrustreerd ophangen en hun afspraak "vergeten."
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/overbooking-huisartsenpraktijk-slim-plannen" class="text-dark fw-semibold">Overbooking in de huisartsenpraktijk: slim plannen zonder lege plekken</a> →</p></div></div></div>
 
 ## Kort consult als drempelverlagend alternatief
 
