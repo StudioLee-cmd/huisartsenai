@@ -8,7 +8,6 @@ image: "/images/blog/google-bedrijfsprofiel-huisarts.png"
 tags: ["Google", "Vindbaarheid", "Huisartsen"]
 cluster: "vindbaarheid"
 ---
-
 Nieuwe bewoners in de buurt, studenten die op kamers gaan, gezinnen die verhuizen — ze zoeken allemaal op Google naar een huisarts. "Huisarts bij mij in de buurt" en "huisartsenpraktijk [plaatsnaam]" zijn zoektermen die dagelijks duizenden keren worden ingevoerd. Je Google Bedrijfsprofiel bepaalt of jouw praktijk in die resultaten verschijnt.
 
 Veel huisartsenpraktijken hebben een profiel maar onderhouden het niet. Dat is jammer, want een goed profiel lost problemen op die je dagelijks tegenkomt: onnodig telefoonverkeer, verkeerde verwachtingen en patienten die niet weten hoe ze je bereiken.
@@ -53,6 +52,6 @@ Je kunt ook praktische updates plaatsen: gewijzigde openingstijden, een nieuwe h
 
 ## Conclusie
 
-Je Google Bedrijfsprofiel is meer dan een vermelding — het is een communicatiekanaal met bestaande en toekomstige patienten. Door het volledig in te vullen, actueel te houden en regelmatig te updaten, verbeter je je vindbaarheid, verminder je onnodig telefoonverkeer en bouw je vertrouwen op.
+Je Google Bedrijfsprofiel is meer dan een vermelding — het is een communicatiekanaal met bestaande en toekomstige patienten. Door het volledig in te vullen, actueel te houden en regelmatig te updaten, verbeter je je [vindbaarheid](/seo), verminder je onnodig telefoonverkeer en bouw je vertrouwen op.
 
 Benieuwd hoe jouw praktijkprofiel scoort? Vraag een [gratis scan aan](/gratis-scan) en krijg direct inzicht.
