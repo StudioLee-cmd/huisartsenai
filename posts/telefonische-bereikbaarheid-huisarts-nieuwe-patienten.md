@@ -71,6 +71,8 @@ Je kunt je bereikbaarheid pas verbeteren als je weet hoe je er nu voor staat. Ch
 
 De meeste telefooncentrales bieden deze gegevens standaard. Als je ze niet bijhoudt, begin daar dan vandaag mee. Je kunt niet verbeteren wat je niet meet.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/avondbandje-huisartsenpost-kosten-uitleggen" class="text-dark fw-semibold">Wat je avondbandje moet zeggen over de huisartsenpost</a> →</p></div></div></div>
+
 ## Maak bereikbaarheid een prioriteit
 
 Goede zorg begint voordat de patiënt in de spreekkamer zit. Het begint bij de eerste keer dat iemand contact probeert te leggen met je praktijk. Als dat contactmoment soepel verloopt, heb je er een patiënt bij. Als het frustrerend is, verlies je diegene aan de concurrent.
