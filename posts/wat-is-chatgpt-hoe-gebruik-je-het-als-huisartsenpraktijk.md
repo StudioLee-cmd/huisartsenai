@@ -7,7 +7,6 @@ image: "/images/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-huisartsenpraktijk.pn
 tags: ["Tools", "ChatGPT", "Huisartsen"]
 cluster: "automatisering"
 ---
-
 ChatGPT wordt steeds vaker genoemd in de zorg. Miljoenen mensen gebruiken het voor teksten, antwoorden en ideeën. Maar wat kan het concreet voor een huisartsenpraktijk? En waar moet je oppassen? In dit artikel leggen we uit wat ChatGPT is, hoe je het verantwoord inzet, en waarom een gespecialiseerd platform als HuisartsenAI meer oplevert.
 
 ## Wat is ChatGPT?
@@ -36,7 +35,7 @@ Wat ChatGPT niet kan:
 - Automatisch afspraken beheren of herinneringen sturen
 - Telefonische triage ondersteunen
 - Herhaalrecepten verwerken
-- Google Reviews verzamelen na afspraken
+- Google [Reviews verzamelen](/reviews) na afspraken
 - De praktijk vindbaar maken in Google of AI-chatbots
 - 24/7 de telefoon opnemen
 
