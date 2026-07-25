@@ -95,6 +95,8 @@ Een wachtlijst is een verwerking van persoonsgegevens en valt onder AVG. Praktis
 
 Een goed opgezette digitale wachtlijst voldoet automatisch aan deze regels. Een handmatig Excel-systeem zelden.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/administratie-huisartsenpraktijk-uren-terugwinnen" class="text-dark fw-semibold">Administratie huisartsenpraktijk: 10 uur per week terug</a> →</p></div></div></div>
+
 ## Naar een werkend systeem in twee weken
 
 Het opzetten van een complete digitale wachtlijst is geen IT-project van een half jaar. Met een gespecialiseerde tool of een aangepaste praktijksoftware-module is het in 1 tot 2 weken werkend, inclusief koppeling met je website, Voice AI en chatbot.
