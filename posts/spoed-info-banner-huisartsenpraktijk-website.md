@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Website", "Bereikbaarheid", "Spoed", "Huisartsenpraktijk"]
 cluster: "website"
 ---
-
 Het is zaterdagavond, kwart over negen. Een ongeruste ouder met een kind met hoge koorts pakt niet meteen de telefoon, maar zoekt eerst de naam van je praktijk op. Op je website staat een keurige pagina met openingstijden en een telefoonnummer dat nu niemand opneemt. Wat die ouder op dat moment nodig heeft, is één ding: waar moet ik nú zijn? Als je website dat antwoord niet direct geeft, gebeurt er meestal één van twee dingen. De ouder belt tóch je gesloten praktijk en luistert een bandje af, of hij twijfelt te lang over 112.
 
 Buiten kantooruren is je website vaak de eerste plek waar een patiënt kijkt, nog vóór de telefoon. En precies daar valt een gat: de praktijk is dicht, maar de vraag is er wel. Een spoed-info-banner vult dat gat. Het is een klein, altijd zichtbaar blok op je site dat patiënten buiten openingstijden meteen naar het juiste kanaal wijst. Geen nieuwe dienst, geen ingewikkeld systeem, maar een stuk website dat op het goede moment de weg wijst. Een [professionele huisartsenpraktijk-website](/gratis-website) hoort dit standaard goed te regelen.
@@ -64,6 +63,8 @@ De meeste banners falen op dezelfde punten. Loop ze even langs voor je publiceer
 Een goede spoed-info-banner is een eenvoudige ingreep met veel effect op je telefoondruk. Patiënten met echte spoed komen sneller bij de spoedpost of 112, patiënten met een vraag die kan wachten vinden de online route, en jouw gesloten praktijk krijgt 's avonds minder onnodige belletjes op het antwoordapparaat die maandag alsnog terugkomen.
 
 De oproepen die dan nog binnenkomen buiten kantooruren, zijn vaak de patiënten die tóch even een stem willen horen. Die vang je op met een [ai telefonist voor huisartsen](/voice-ai), die de beller rustig naar dezelfde drie routes verwijst en een terugbelverzoek noteert voor niet-spoed. En voor de stroom routinevragen overdag, van herhaalrecept tot openingstijden, neemt een [chatbot op je website](/chatbot) een flink deel van het werk over. De banner, de telefonist en de chatbot vertellen zo alledrie hetzelfde verhaal, op elk moment van de dag.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/faq-pagina-huisartsenpraktijk-welke-vragen-erop" class="text-dark fw-semibold">FAQ-pagina huisartsenpraktijk: welke vragen zet je erop?</a> →</p></div></div></div>
 
 ## Aan de slag
 
