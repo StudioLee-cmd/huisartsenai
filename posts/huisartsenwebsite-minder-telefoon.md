@@ -8,7 +8,6 @@ image: "/images/blog/huisartsenwebsite-minder-telefoon.png"
 tags: ["Website", "Telefoon", "Digitalisering"]
 cluster: "website"
 ---
-
 ## Het telefoonprobleem in de huisartsenpraktijk
 
 Elke huisartsenpraktijk kent het: de telefoon staat 's ochtends roodgloeiend. Patiënten bellen voor afspraken, herhaalrecepten, uitslagen en vragen. De assistente kan het nauwelijks bijhouden, patiënten hangen in de wacht en de sfeer raakt gespannen.
@@ -56,6 +55,8 @@ Je website moet samenwerken met je HIS (Huisarts Informatie Systeem):
 - **Herhaalrecepten**: aanvragen worden verwerkt in het voorschrijfsysteem
 
 De meeste moderne HIS-systemen (Medicom, Promedico, CGM) bieden koppelingen met online portalen. Vraag je ICT-leverancier naar de mogelijkheden — de meeste functionaliteit is al beschikbaar, maar niet geactiveerd. Lees ook hoe [technologie het personeelstekort](/blog/personeelstekort-huisartsenpraktijk-technologie) helpt oplossen.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/patient-intake-online-huisarts" class="text-dark fw-semibold">Online intake als huisarts: minder telefoon, betere voorbereiding</a> →</p></div></div></div>
 
 ## Conclusie
 
