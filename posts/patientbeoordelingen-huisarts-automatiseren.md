@@ -46,7 +46,7 @@ De ideale strategie is beide platforms actief houden. Automatisering kan afwisse
 
 ## De impact op het aantrekken van nieuwe patiënten
 
-Praktijken met 40+ Google Reviews en een score boven de 4,3 krijgen aantoonbaar meer aanmeldingen van nieuwe patiënten. In wijken met meerdere huisartsenpraktijken is het verschil nog groter — beoordelingen zijn vaak de doorslaggevende factor.
+Praktijken met 40+ [Google Reviews](/reviews) en een score boven de 4,3 krijgen aantoonbaar meer aanmeldingen van nieuwe patiënten. In wijken met meerdere huisartsenpraktijken is het verschil nog groter — beoordelingen zijn vaak de doorslaggevende factor.
 
 Daarnaast versterken beoordelingen het vertrouwen bij bestaande patiënten. Het bevestigt dat ze bij een goede praktijk zitten.
 
@@ -78,6 +78,6 @@ Als vuistregel: 30+ beoordelingen voor zichtbaarheid in Google Maps, 50+ voor ee
 
 ## Conclusie
 
-Online beoordelingen zijn niet langer optioneel voor huisartsenpraktijken. Automatisering maakt het mogelijk om structureel meer beoordelingen te verzamelen zonder extra werkdruk voor het team. Meer beoordelingen, betere vindbaarheid, meer vertrouwen bij nieuwe patiënten.
+Online beoordelingen zijn niet langer optioneel voor huisartsenpraktijken. Automatisering maakt het mogelijk om structureel meer beoordelingen te verzamelen zonder extra werkdruk voor het team. Meer beoordelingen, betere vindbaarheid, meer vertrouwen bij [nieuwe patiënten](/blog/patient-aanmelding-huisarts-opvolging).
 
 Wil u weten hoe het er voor uw praktijk voorstaat? Start een [gratis scan](/gratis-scan) en ontvang binnen 24 uur een persoonlijk advies.
