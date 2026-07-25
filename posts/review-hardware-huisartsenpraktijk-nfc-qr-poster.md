@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Reviews", "Bereikbaarheid", "Praktijkmanagement"]
 cluster: "reviews"
 ---
-
 ## De tevreden patient die nooit iets achterlaat
 
 Je praktijk draait goed. Patienten worden vriendelijk te woord gestaan, de assistente denkt mee, de wachttijd valt mee. En toch: als je op je Google-profiel kijkt, staan er een handvol beoordelingen, waarvan de helft van iemand die ooit een keer geen afspraak kon krijgen. De tevreden meerderheid zegt het aan de balie of tegen de dokter, maar laat online niets achter.
@@ -92,6 +91,8 @@ Nee. De kaarten, stickers en posters koop je eenmalig en gebruik je onbeperkt. A
 
 **Hoeveel reviews kan ik verwachten?**
 Dat hangt af van je patientenaantal en hoe zichtbaar je het maakt. Praktijken die een kaart bij de balie combineren met een poster en een automatische opvolging, zien doorgaans een duidelijke stijging binnen enkele maanden.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/reviews-automatiseren-huisartsenpraktijk" class="text-dark fw-semibold">Reviews automatiseren als huisartsenpraktijk</a> →</p></div></div></div>
 
 ## Kies wat bij jouw patienten past
 
