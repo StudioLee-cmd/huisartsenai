@@ -8,7 +8,6 @@ image: "/images/blog/branding-huisartsenpraktijk.png"
 tags: ["branding", "huisartsenpraktijk", "vertrouwen"]
 cluster: "branding"
 ---
-
 Huisartsenpraktijken hadden vroeger geen marketing nodig. Patienten gingen naar de dichtstbijzijnde huisarts en bleven er hun hele leven. Die tijd is voorbij. Patienten vergelijken praktijken online, lezen reviews en kiezen bewust.
 
 Branding betekent niet dat je reclame gaat maken. Het betekent dat je bewust werkt aan het beeld dat patienten van je praktijk hebben — en dat dat beeld vertrouwen wekt.
@@ -62,7 +61,7 @@ Elke interactie telt. Van de assistente aan de telefoon tot de huisarts in de sp
 
 ### 4. Sociaal bewijs
 
-Patienten vertrouwen andere patienten. Reviews, testimonials en mond-tot-mond zijn je krachtigste marketinginstrumenten.
+Patienten [vertrouwen](/reviews) andere patienten. Reviews, testimonials en mond-tot-mond zijn je krachtigste marketinginstrumenten.
 
 ## Branding vs. commercieel overkomen
 
