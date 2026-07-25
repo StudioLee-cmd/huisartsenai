@@ -8,14 +8,13 @@ image: "/images/blog/klanttevredenheid-huisartsenpraktijk-verbeteren.jpg"
 tags: ["Patiënttevredenheid", "Huisartsenzorg", "Verbetering"]
 cluster: "automatisering"
 ---
-
 ## Het belang van patiënttevredenheid
 
 De huisarts is voor de meeste Nederlanders het eerste aanspreekpunt in de zorg. Die positie brengt een grote verantwoordelijkheid met zich mee — niet alleen medisch, maar ook in de beleving van patiënten.
 
 Patiënttevredenheid beïnvloedt of mensen terugkomen, of ze je aanbevelen en hoe ze omgaan met je adviezen. Tevreden patiënten volgen behandeladviezen beter op, melden zich eerder bij klachten en zijn minder geneigd om te klagen.
 
-Voor de huisartsenpraktijk zelf betekent hogere tevredenheid: minder no-shows, betere reviews, een sterkere reputatie en meer aanmeldingen van nieuwe patiënten.
+Voor de huisartsenpraktijk zelf betekent hogere tevredenheid: minder no-shows, betere reviews, een sterkere [reputatie](/reviews) en meer aanmeldingen van nieuwe patiënten.
 
 ## Hoe meet je tevredenheid in de huisartsenpraktijk
 
