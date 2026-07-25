@@ -56,6 +56,6 @@ Een wachttijd van 10 tot 15 minuten is voor de meeste patienten acceptabel, zeke
 
 ## Conclusie: meer zorg leveren met dezelfde capaciteit
 
-Strategische overbooking is geen trucje. Het is datagedreven planning die je helpt om meer patienten te helpen met dezelfde capaciteit. Combineer het met automatische herinneringen en je hebt een systeem dat no-shows minimaliseert en je praktijk efficienter laat draaien.
+Strategische overbooking is geen trucje. Het is datagedreven planning die je helpt om meer patienten te helpen met dezelfde capaciteit. Combineer het met automatische [herinneringen](/automatisering) en je hebt een systeem dat no-shows minimaliseert en je praktijk efficienter laat draaien.
 
 Wil je weten hoe automatische herinneringen en slimme planning werken voor jouw praktijk? Vraag een [gratis scan](/gratis-scan) aan en ontdek de mogelijkheden.
