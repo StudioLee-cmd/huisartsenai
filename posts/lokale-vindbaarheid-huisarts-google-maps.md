@@ -69,8 +69,10 @@ Informatieve online aanwezigheid is geen marketing in traditionele zin. Het is s
 
 Reageer kalm en professioneel. Deel nooit medische informatie. Nodig de patiënt uit voor een persoonlijk gesprek. Vaak kun je de situatie oplossen en past de patiënt de review aan.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/huisartsenpraktijk-vindbaar-google-lokale-seo" class="text-dark fw-semibold">Huisartsenpraktijk vindbaar op Google: lokale SEO in 8 stappen</a> →</p></div></div></div>
+
 ## Conclusie
 
-Lokale vindbaarheid als huisarts is geen luxe maar een manier om de juiste patiënten te bereiken. Begin met je Google Bedrijfsprofiel, zorg voor een informatieve website en reageer op reviews.
+Lokale [vindbaarheid](/seo) als huisarts is geen luxe maar een manier om de juiste patiënten te bereiken. Begin met je Google Bedrijfsprofiel, zorg voor een informatieve website en reageer op reviews.
 
 Wil je weten hoe HuisartsenAI je online vindbaarheid versterkt? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het — jij helpt patiënten.
