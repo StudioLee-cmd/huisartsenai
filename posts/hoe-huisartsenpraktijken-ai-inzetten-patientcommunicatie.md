@@ -8,7 +8,6 @@ image: "/images/blog/hoe-huisartsenpraktijken-ai-inzetten-patientcommunicatie.pn
 tags: ["AI", "Automatisering", "Huisartsen"]
 cluster: "automatisering"
 ---
-
 Huisartsenpraktijken staan onder druk. Wachttijden lopen op, de telefoon staat roodgloeiend en administratie neemt een groot deel van de werkdag in beslag. AI biedt concrete oplossingen — zonder dat het ten koste gaat van de kwaliteit van zorg.
 
 ## Wat AI doet voor huisartsenpraktijken
@@ -33,6 +32,8 @@ AI in de zorg moet voldoen aan AVG en NEN 7510. Nederlandse AI-oplossingen voor 
 **Stap 1**: Activeer online afsprakenbeheer via je patiëntenportaal.
 **Stap 2**: Implementeer digitale herhaalrecepten.
 **Stap 3**: Stel automatische herinneringen in voor chronische zorgafspraken.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/griepvaccinatie-campagne-huisartsenpraktijk-6-weken-protocol" class="text-dark fw-semibold">Griepvaccinatie-campagne: 6-weken protocol voor 60-plus</a> →</p></div></div></div>
 
 ## Conclusie
 
