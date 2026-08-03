@@ -105,7 +105,7 @@ Je hoeft niet alles tegelijk te doen. Start met wat de meeste impact heeft:
 
 AI maakt de huisartsenpraktijk niet onpersoonlijker — het maakt de praktijk juist menselijker. Door routinetaken te automatiseren, houd je meer tijd over voor de patiënten die écht een gesprek nodig hebben.
 
-Met [HuisartsenAI](/) helpen we praktijken bij het stap voor stap implementeren van AI-oplossingen. Onze managed service kost slechts 15 minuten van je tijd per maand — wij regelen de techniek. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico: geen meetbare verbetering? Dan betaal je niet.
+Met [HuisartsenAI](/) helpen we praktijken bij het stap voor stap implementeren van AI-oplossingen. Onze managed service kost slechts 15 minuten van je tijd per maand — wij regelen de techniek. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Plan een [gratis adviesgesprek](https://cal.com/studiolee) en ontdek wat AI voor jouw praktijk kan betekenen.
 

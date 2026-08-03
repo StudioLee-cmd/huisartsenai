@@ -86,7 +86,7 @@ Kun je alle zeven afvinken, dan is de overstap geen gok meer maar een gepland pr
 
 ## Wat StudioLee voor je regelt
 
-HuisartsenAI is geen HIS en wil dat ook niet zijn. Wij verzorgen de laag eromheen: de bereikbaarheid en communicatie die tijdens én na je migratie gewoon moeten doorlopen. Denk aan telefoonopvang in de wenweken, afspraakherinneringen die blijven versturen en een [crm voor huisartsen](/crm) voor de niet-medische communicatie rond je patiëntcontact. Jij helpt patiënten, wij regelen de bereikbaarheid. En met de Groei-of-Geld-Terug Garantie loop je geen risico: levert het niet op wat we afspreken, dan betaal je niet.
+HuisartsenAI is geen HIS en wil dat ook niet zijn. Wij verzorgen de laag eromheen: de bereikbaarheid en communicatie die tijdens én na je migratie gewoon moeten doorlopen. Denk aan telefoonopvang in de wenweken, afspraakherinneringen die blijven versturen en een [crm voor huisartsen](/crm) voor de niet-medische communicatie rond je patiëntcontact. Jij helpt patiënten, wij regelen de bereikbaarheid. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Wil je weten waar jouw praktijk staat qua bereikbaarheid voordat je aan een migratie begint? Vraag de [gratis AI-scan voor huisartsen](/gratis-scan) aan en je ziet binnen een paar dagen waar de telefoondruk vandaan komt en wat daar nu al aan te doen is.
 

@@ -111,7 +111,7 @@ Preventieve zorg is geen solo-actie van de huisarts. Het hele praktijkteam speel
 
 Geen tijd om naast de dagelijkse zorg ook nog voorlichtingscampagnes te plannen? Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. Seizoenscommunicatie, herinneringen, online content — het wordt voor je opgepakt.
 
-De Groei-of-Geld-Terug Garantie maakt het risicovloos: geen groei in bereik? Geld terug. Het risico ligt 100% bij ons.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe je preventieve zorg effectiever kunt promoten.
 

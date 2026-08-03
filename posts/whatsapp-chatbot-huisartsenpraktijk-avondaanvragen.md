@@ -69,6 +69,6 @@ Nee. Het haalt het routinematige uitzoekwerk weg, zodat de assistente tijd overh
 
 Een WhatsApp-chatbot lost het echte probleem op: niet dat patiënten te veel vragen, maar dat al die vragen op één moment en via één lijn binnenkomen. Door de avond-aanvragen op te vangen, te sorteren op urgentie en spoed direct de juiste kant op te sturen, wordt de ochtend weer werkbaar.
 
-Wil je weten waar in jouw praktijk de meeste bereikbaarheidswinst zit? Doe de [gratis AI-scan voor huisartsen](/gratis-scan) van HuisartsenAI en je ziet precies waar de telefoondruk vandaan komt. Werken we daarna samen aan je bereikbaarheid, dan doen we dat met onze Groei-of-Geld-Terug Garantie: levert het binnen de afgesproken periode niet op wat we beloven, dan krijg je je geld terug.
+Wil je weten waar in jouw praktijk de meeste bereikbaarheidswinst zit? Doe de [gratis AI-scan voor huisartsen](/gratis-scan) van HuisartsenAI en je ziet precies waar de telefoondruk vandaan komt. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 [Lees ook: WhatsApp-flow voor de huisartsenpraktijk: vraag tot review](/blog/whatsapp-flow-huisartsenpraktijk-vraag-tot-review)

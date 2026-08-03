@@ -60,7 +60,7 @@ Bij negatieve beoordelingen: reageer altijd professioneel. Erken het gevoel zond
 
 Een managed service neemt het volledige traject over: het instellen van de automatisering, het monitoren van beoordelingen, het opstellen van reacties (altijd na goedkeuring van de praktijk) en het optimaliseren van uw Google Bedrijfsprofiel.
 
-Bij [StudioLee](/tarieven) besteedt u er slechts 15 minuten per maand aan. De rest wordt volledig verzorgd. Met de Groei-of-Geld-Terug Garantie loopt u geen risico: geen meetbare groei? Geld terug.
+Bij [StudioLee](/tarieven) besteedt u er slechts 15 minuten per maand aan. De rest wordt volledig verzorgd. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 ## Veelgestelde vragen
 

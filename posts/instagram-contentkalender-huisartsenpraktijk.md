@@ -118,6 +118,6 @@ Nee. Beantwoord nooit inhoudelijk een individuele klacht online. Verwijs vriende
 
 Een contentkalender vervangt de dagelijkse twijfel door een vast, voorspelbaar ritme dat ook in drukke weken doorloopt. Begin met de spelregels, kies je vijf rubrieken en plan je eerste maand in één blok vooruit.
 
-Wil je weten waar voor jouw praktijk de meeste winst zit in je online aanwezigheid? Doe de [gratis AI-scan voor huisartsen](/gratis-scan) en je ziet precies waar de kansen liggen. Werken we daarna samen aan je social media en bereikbaarheid, dan doen we dat met onze Groei-of-Geld-Terug Garantie: levert het binnen de afgesproken periode niet op wat we beloven, dan krijg je je geld terug.
+Wil je weten waar voor jouw praktijk de meeste winst zit in je online aanwezigheid? Doe de [gratis AI-scan voor huisartsen](/gratis-scan) en je ziet precies waar de kansen liggen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 [Lees ook: Social media voor huisartsen: bereik meer patiënten en versterk je praktijk online](/blog/social-media-huisartsen-patienten)

@@ -122,7 +122,7 @@ Wil je weten hoe groot je tijdwinst kan zijn voor jouw praktijk specifiek, plan 
 
 ## Wat StudioLee voor jou doet
 
-Een AVG-conforme AI-chatbot inclusief de 4 vraag-categorieen, de 5 escalatie-regels, de praktijksysteem-koppeling en de continue verbetering door wekelijkse review-loop, zit inbegrepen in onze Managed Pro vanaf €179 per maand exclusief BTW. Plus de [Groei-of-Geld-Terug Garantie](/tarieven): als na 3 maanden je assistente-belasting op chat-vragen niet meetbaar omlaag is, krijg je je geld terug.
+Een AVG-conforme AI-chatbot inclusief de 4 vraag-categorieen, de 5 escalatie-regels, de praktijksysteem-koppeling en de continue verbetering door wekelijkse review-loop, zit inbegrepen in onze Managed Pro vanaf €179 per maand exclusief BTW. Onze [Groei-of-Geld-Terug Garantie](/tarieven) geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Wat we niet doen: een chatbot leveren die de [voice ai voor huisartsen](/voice-ai) volledig vervangt. De chatbot is voor schriftelijke vragen via de website. De voice AI is voor telefoongesprekken. Samen dekken ze ~70% van het patient-contact dat tot nu door een mens werd afgehandeld, met de overige 30% naar de huisarts of triage-lijn.
 
