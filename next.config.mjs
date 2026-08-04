@@ -27,6 +27,9 @@ const nextConfig = {
             { source: '/blog/huisarts-vindbaarheid-online', destination: '/blog/huisarts-online-vindbaar-nieuwe-patienten', permanent: true },
             { source: '/blog/google-bedrijfsprofiel-huisarts-nieuwe-patienten', destination: '/blog/google-bedrijfsprofiel-huisarts', permanent: true },
             { source: '/blog/telefoon-druk-huisartsenpraktijk-verlagen', destination: '/blog/telefoondruk-huisartsenpraktijk-verlagen', permanent: true },
+            { source: '/blog/reviews-automatiseren-huisartsenpraktijk', destination: '/blog/meer-google-reviews-huisartsenpraktijk', permanent: true },
+            { source: '/blog/huisarts-online-vindbaar-nieuwe-patienten', destination: '/blog/nieuwe-patienten-werven-huisarts-online', permanent: true },
+            { source: '/blog/klanttevredenheid-huisarts', destination: '/blog/klanttevredenheid-huisartsenpraktijk-verbeteren', permanent: true },
         ];
     },
 };

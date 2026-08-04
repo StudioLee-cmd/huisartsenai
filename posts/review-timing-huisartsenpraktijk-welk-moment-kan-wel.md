@@ -83,7 +83,7 @@ Wat je daarin vastlegt is beperkt en steeds hetzelfde:
 4. **Het kanaal.** Hetzelfde kanaal waarin het contact liep, want een verzoek uit het niets via een ander kanaal leest als reclame.
 5. **De stop.** Eén herinnering, en daarna niets meer.
 
-Dat is precies het soort regel dat [automatische herinneringen voor huisartsen](/automatisering) uitvoeren zonder dat de assistente ernaar omkijkt, en het is meteen de reden dat dit onderwerp bij de praktijkorganisatie hoort en niet bij marketing. Hoe die flows er in de praktijk uitzien staat in [het overzicht van reviews automatiseren](/blog/reviews-automatiseren-huisartsenpraktijk).
+Dat is precies het soort regel dat [automatische herinneringen voor huisartsen](/automatisering) uitvoeren zonder dat de assistente ernaar omkijkt, en het is meteen de reden dat dit onderwerp bij de praktijkorganisatie hoort en niet bij marketing. Hoe die flows er in de praktijk uitzien staat in [het overzicht van reviews automatiseren](/blog/meer-google-reviews-huisartsenpraktijk).
 
 Voor patiënten die liever iets in de hand hebben dan een bericht ontvangen, blijft een fysieke drager aan de balie een goede aanvulling. Wat daarvan in een wachtruimte werkt is apart uitgezocht, en een [review pakket voor huisartsen](/review-pakket) bestaat uit precies die combinatie van digitale flow en fysieke kaart.
 
