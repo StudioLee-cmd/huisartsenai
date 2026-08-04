@@ -1,7 +1,7 @@
 ---
 title: "Praktijkinformatie up-to-date als huisarts"
 slug: praktijkinformatie-up-to-date-huisarts-nap
-date: 2026-04-29
+date: "2026-04-29"
 cluster: "website"
 excerpt: "Praktijkinformatie up-to-date houden over GBP, ZorgkaartNederland, huisartsenwijzer en je website. Multi-platform NAP-discipline en een kwartaal-checklist."
 image: "/images/blog/praktijkinformatie-up-to-date-huisarts-nap.jpg"
