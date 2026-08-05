@@ -25,12 +25,12 @@ Voordat je technologie inzet, moet je weten waar het probleem zit. Een gemiddeld
 
 | Taak | Uren/dag | Percentage |
 |------|---------|-----------|
-| Consulten (arts) | 10 | 30% |
-| Telefoon (assistentes) | 8 | 24% |
-| Administratie | 6 | 18% |
-| Recepten/verwijzingen | 4 | 12% |
-| Huisbezoeken | 2 | 6% |
-| Overig | 3 | 10% |
+| Consulten (arts) | 10 van de 33 | 30% |
+| Telefoon (assistentes) | 8 van de 33 | 24% |
+| Administratie | 6 van de 33 | 18% |
+| Recepten/verwijzingen | 4 van de 33 | 12% |
+| Huisbezoeken | 2 van de 33 | 6% |
+| Overig | 3 van de 33 | 10% |
 
 De twee grootste tijdvreters na consulten: telefoon en administratie. Beide zijn deels te automatiseren.
 
@@ -38,7 +38,7 @@ De twee grootste tijdvreters na consulten: telefoon en administratie. Beide zijn
 
 ### 1. Online afspraken boeken
 
-De telefoon ontlasten begint hier. 25% van alle telefoontjes gaat over het maken van afspraken. Met een online boekingssysteem:
+De telefoon ontlasten begint hier. Een groot deel van alle telefoontjes gaat over het maken van afspraken. Met een online boekingssysteem:
 - Patient boekt zelf een afspraak via de website
 - Kiest uit beschikbare tijdsloten
 - Ontvangt automatische bevestiging en herinnering
@@ -48,7 +48,7 @@ Besparing: 2 uur telefoonwerk per dag.
 
 ### 2. Digitale herhaalrecepten
 
-20% van de telefoontjes betreft herhaalrecepten. Een digitaal formulier op de website:
+Een aanzienlijk deel van de telefoontjes betreft herhaalrecepten. Een digitaal formulier op de website:
 - Patient selecteert medicijn uit zijn medicatielijst
 - Arts keurt goed met een klik
 - Apotheek wordt automatisch geinformeerd
@@ -57,7 +57,7 @@ Besparing: 1.5 uur per dag.
 
 ### 3. Automatische herinneringen
 
-No-shows kosten een huisartsenpraktijk gemiddeld 5-10% van de consultcapaciteit. Automatische [herinneringen](/automatisering) (SMS, 24 uur + 2 uur voor de afspraak) reduceren no-shows met 40-50%.
+No-shows kosten een huisartsenpraktijk een substantieel deel van de consultcapaciteit. Automatische [herinneringen](/automatisering) (SMS, 24 uur + 2 uur voor de afspraak) reduceren no-shows fors.
 
 Bij 10 consulten per arts per dag is dat 1-2 extra consulten die niet verloren gaan.
 
@@ -111,7 +111,7 @@ De grootste stap. Implementeer een triageformulier en train je team in de beoord
 
 ### "Mijn patienten zijn te oud voor digitaal"
 
-De meerderheid van de 65-plussers is digitaal vaardig. Maar bied altijd een telefonisch alternatief. Het gaat er niet om dat iedereen digitaal gaat — als 50% het doet, is de druk al significant lager.
+De meerderheid van de 65-plussers is digitaal vaardig. Maar bied altijd een telefonisch alternatief. Het gaat er niet om dat iedereen digitaal gaat — als een flink deel het doet, is de druk al significant lager.
 
 ### "Het kost te veel"
 
