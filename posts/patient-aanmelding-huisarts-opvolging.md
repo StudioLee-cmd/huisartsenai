@@ -42,7 +42,7 @@ De oplossing combineert drie stappen:
 
 Praktijken die binnen 24 uur reageren op aanmeldingen:
 
-- **Verliezen 60 procent minder nieuwe patiënten** aan concurrerende praktijken.
+- **Verliezen fors minder nieuwe patiënten** aan concurrerende praktijken.
 - **Besparen de assistente twee tot drie uur per week** aan handmatige opvolging en telefoontjes over de status.
 - **Krijgen betere reviews:** een soepele eerste ervaring leidt tot hogere tevredenheid en meer aanbevelingen.
 
