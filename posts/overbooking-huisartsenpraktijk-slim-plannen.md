@@ -10,7 +10,7 @@ tags: ["No-shows", "Huisarts", "Planning"]
 ---
 ## Het no-show probleem in de huisartsenpraktijk
 
-In de gemiddelde huisartsenpraktijk verschijnt 5 tot 10 procent van de patienten niet op hun afspraak. Bij een praktijk met 40 consulten per dag zijn dat 2 tot 4 lege plekken, dagelijks. Vermenigvuldig dat met het gemiddelde consulttarief en je praat over duizenden euro's per maand aan verloren capaciteit.
+Reken met 5 tot 10 procent van de patienten die niet op hun afspraak verschijnt. Bij een praktijk met 40 consulten per dag zijn dat 2 tot 4 lege plekken, dagelijks. Vermenigvuldig dat met het gemiddelde consulttarief en je praat over duizenden euro's per maand aan verloren capaciteit.
 
 Maar het gaat niet alleen om geld. Die lege plekken hadden kunnen worden ingevuld door patienten die nu twee weken moeten wachten op een afspraak. No-shows raken dus niet alleen je praktijkvoering, maar ook de toegankelijkheid van zorg.
 
@@ -22,7 +22,7 @@ Overbooking betekent dat je bewust meer afspraken inplant dan je agenda eigenlij
 
 Het verschil met willekeurig overboeken is data. Je baseert het op je eigen cijfers: hoeveel procent van je patienten verschijnt gemiddeld niet? Op welke dagen en tijdstippen zijn no-shows het hoogst? Welke patientgroepen hebben een hoger risico?
 
-Met die informatie boek je gericht bij. Niet overal 10 procent extra, maar specifiek op de momenten waarop je weet dat no-shows het vaakst voorkomen.
+Met die informatie boek je gericht bij. Niet overal een vast percentage extra, maar specifiek op de momenten waarop je weet dat no-shows het vaakst voorkomen.
 
 ## Stap 1: meet je no-show percentage per dagdeel
 
@@ -34,7 +34,7 @@ Typische patronen die je zult zien: maandagochtend heeft het hoogste no-show per
 
 ## Stap 2: bereken je overbookingmarge
 
-De formule is eenvoudig: als je no-show percentage op maandagochtend 12 procent is en je hebt 20 slots, boek je 2 tot 3 extra patienten in. Je verwacht dat 2 tot 3 niet komen, dus je eindigt op je normale capaciteit.
+De formule is eenvoudig: stel je no-show percentage op maandagochtend is 12 procent en je hebt 20 slots, dan boek je 2 tot 3 extra patienten in. Je verwacht dat 2 tot 3 niet komen, dus je eindigt op je normale capaciteit.
 
 Belangrijk: begin conservatief. Start met de helft van je no-show percentage als overbookingmarge. Na twee weken evalueer je of er wachtkamerdrukte ontstond en pas je aan. Liever een keer te weinig overboekt dan een overvolle wachtkamer.
 
