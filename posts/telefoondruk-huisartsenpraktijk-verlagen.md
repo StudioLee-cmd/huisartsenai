@@ -16,18 +16,18 @@ Dit is geen incident — het is de dagelijkse realiteit voor de meeste huisartse
 
 ## Waarom patiënten bellen (en wanneer het niet hoeft)
 
-Een analyse van inkomende telefoontjes laat een opvallend patroon zien:
+Zo ziet de verdeling van inkomende telefoontjes er in een typische praktijk uit:
 
 | Type telefoontje | Percentage | Kan geautomatiseerd? |
 |-----------------|-----------|---------------------|
-| Afspraak maken | 35% | Ja — online boeken |
-| Herhaalrecept aanvragen | 20% | Ja — digitaal formulier |
-| Uitslagen opvragen | 10% | Ja — patiëntportaal |
-| Afspraak verzetten/afzeggen | 10% | Ja — online beheer |
-| Administratieve vragen | 10% | Deels — FAQ + chatbot |
-| Medische triage | 15% | Nee — altijd menselijk |
+| Afspraak maken | reken met 35% | Ja — online boeken |
+| Herhaalrecept aanvragen | reken met 20% | Ja — digitaal formulier |
+| Uitslagen opvragen | reken met 10% | Ja — patiëntportaal |
+| Afspraak verzetten/afzeggen | reken met 10% | Ja — online beheer |
+| Administratieve vragen | reken met 10% | Deels — FAQ + chatbot |
+| Medische triage | reken met 15% | Nee — altijd menselijk |
 
-Dat betekent dat 70-85% van de telefoontjes niet per se telefonisch hoeven. Toch bellen patiënten — omdat ze geen alternatief kennen of het alternatief te ingewikkeld is.
+Dat betekent dat het overgrote deel van de telefoontjes niet per se telefonisch hoeft. Toch bellen patiënten — omdat ze geen alternatief kennen of het alternatief te ingewikkeld is.
 
 ## 5 oplossingen die direct werken
 
@@ -41,7 +41,7 @@ Het klinkt basaal, maar veel praktijken bieden nog steeds geen online boekingsmo
 
 ### 2. Digitaal herhaalrecepten aanvragen
 
-20% van alle telefoontjes gaat over herhaalrecepten. Een simpel online formulier lost dit op:
+Een aanzienlijk deel van alle telefoontjes gaat over herhaalrecepten. Een simpel online formulier lost dit op:
 - Patiënt vult in welk medicijn, dosering en hoeveelheid
 - Het verzoek komt in de wachtrij van de huisarts
 - Na goedkeuring krijgt de patiënt een melding
@@ -76,7 +76,7 @@ Voorkom telefoontjes door informatie te sturen voordat patiënten erom vragen:
 ## De resultaten in de praktijk
 
 Praktijken die deze maatregelen combineren, rapporteren:
-- 30-40% minder inkomende telefoontjes
+- Fors minder inkomende telefoontjes
 - Wachttijden van gemiddeld 12 minuten naar 3-4 minuten
 - Minder werkstress bij assistentes
 - [Hogere patiënttevredenheid](/blog/patienttevredenheid-ai)
