@@ -10,7 +10,7 @@ cluster: "vindbaarheid"
 ## In het kort
 
 - **ChatGPT, Perplexity en Google AI Overviews kiezen welke huisartsenpraktijk ze noemen** op basis van autoriteit, reviews en gestructureerde data, niet op basis van klassieke Google-ranking.
-- **Een gemiddelde Nederlandse huisartsenpraktijk wordt door ChatGPT in minder dan 4 procent van de relevante prompts genoemd**, terwijl ketens als Co-Med en grote zorggroepen 50 tot 70 procent halen.
+- **Een gemiddelde Nederlandse huisartsenpraktijk wordt door ChatGPT zelden in relevante prompts genoemd**, terwijl ketens als Co-Med en grote zorggroepen daar juist stelselmatig opduiken.
 - **Drie hefbomen werken bewezen:** vraag-antwoord content over praktische zorg, MedicalClinic schema markup en externe vermeldingen op zorgplatformen.
 - **Verwacht resultaat:** binnen 8 tot 12 weken meetbare stijging van AI-search citaties; binnen 6 maanden tien tot twintig procent meer inschrijvingen van nieuwe patiënten.
 - **Wie het moet overwegen:** elke solo- of groepspraktijk die nu slecht zichtbaar is bij zoekopdrachten als "huisarts in de buurt aannemend" of "beste huisarts [stad]".
@@ -41,7 +41,7 @@ Hieronder zeven concrete acties, gerangschikt op verwachte impact in de eerste d
 
 **2. Implementeer MedicalClinic schema markup.** Voeg JSON-LD toe aan elke pagina van je website met MedicalClinic als hoofdtype, OpeningHoursSpecification voor je openingstijden, `medicalSpecialty` voor je specialisaties en `availableService` voor je dienstenmenu. Test via Google's Rich Results Test of het foutloos wordt gelezen.
 
-**3. Verzamel reviews op platformen die ChatGPT leest.** ChatGPT en Perplexity wegen reviews op Google, ZorgkaartNederland, Independer en Trustpilot zwaar mee. Een praktijk met 80 Google-reviews en een 4.7-gemiddelde wordt veel vaker genoemd dan één met 12 reviews. Stuur na een passend consult een SMS met een review-link. Houd er rekening mee: in de zorg ligt de review-conversie lager dan in andere sectoren (gemiddeld 8 tot 12 procent), dus volume opbouwen kost meer tijd.
+**3. Verzamel reviews op platformen die ChatGPT leest.** ChatGPT en Perplexity wegen reviews op Google, ZorgkaartNederland, Independer en Trustpilot zwaar mee. Een praktijk met 80 Google-reviews en een 4.7-gemiddelde wordt veel vaker genoemd dan één met 12 reviews. Stuur na een passend consult een SMS met een review-link. Houd er rekening mee: in de zorg ligt de review-conversie lager dan in andere sectoren, dus volume opbouwen kost meer tijd.
 
 **4. Zorg voor minimaal drie externe vermeldingen per kwartaal.** Schrijf een gastblog op een gezondheidsplatform, geef commentaar in een lokale krant over een actueel onderwerp (griepseizoen, hittegolf-gezondheidstips), of laat je interviewen voor een vakmedium als Medisch Contact. Drie vermeldingen per kwartaal op middel- tot zware autoriteit-domeinen verhoogt je AI-citaties merkbaar.
 
@@ -65,7 +65,7 @@ Het derde veld is **availableService**, een array waarin je specifieke voorzieni
 
 ## Reviews en autoriteit: waarom ChatGPT ZorgkaartNederland leest
 
-Toen wij in maart 2026 onze eerste AI-search audit deden voor 30 Nederlandse huisartsenpraktijken, was de bevinding ondubbelzinnig: praktijken met minder dan 25 Google-reviews werden in ChatGPT-prompts vrijwel nooit genoemd. Praktijken met 80 of meer reviews verspreid over Google en ZorgkaartNederland en een gemiddelde van 4.5 of hoger werden in 55 tot 65 procent van de relevante prompts geciteerd.
+Toen wij in maart 2026 onze eerste AI-search audit deden voor 30 Nederlandse huisartsenpraktijken, was de bevinding ondubbelzinnig: praktijken met minder dan 25 Google-reviews werden in ChatGPT-prompts vrijwel nooit genoemd. Praktijken met 80 of meer reviews verspreid over Google en ZorgkaartNederland en een gemiddelde van 4.5 of hoger werden in het merendeel van de relevante prompts geciteerd.
 
 Reviews op Google zijn de basis. Maar AI-modellen lezen ook andere bronnen. ZorgkaartNederland, Independer en zelfs Facebook-reviews wegen mee. Het patroon dat we zien: hoe diverser de review-bronnen, hoe groter de kans op vermelding. Vijftig Google-reviews wegen minder zwaar dan 30 Google-reviews plus 15 ZorgkaartNederland-reviews plus 10 Independer-reviews. AI-modellen interpreteren spreiding als bewijs van authenticiteit.
 
@@ -77,7 +77,7 @@ AI-modellen extraheren content op een hele specifieke manier. Drie regels die he
 
 **Schrijf antwoorden voor de openingszin van een paragraaf, niet voor de afsluiter.** ChatGPT pakt vrijwel altijd de eerste zin onder een H2- of H3-kop. Zet daar het concrete antwoord neer. Een paragraaf die opent met "Eerst wat context: griepvaccinatie is al jaren een onderwerp van discussie..." wordt overgeslagen. Een paragraaf die opent met "De griepvaccinatie wordt jaarlijks tussen oktober en december aangeboden aan iedereen boven de 60 jaar en aan risicogroepen" wordt geciteerd.
 
-**Gebruik concrete getallen.** "De meeste afspraken" wordt nooit geciteerd. "85 procent van de afspraken kunnen binnen 48 uur worden ingepland" wel. Front-load percentages, doorlooptijden en concrete patiëntaantallen waar mogelijk.
+**Gebruik concrete getallen.** "De meeste afspraken" wordt nooit geciteerd. "[X] procent van de afspraken kunnen binnen 48 uur worden ingepland" wel. Front-load percentages, doorlooptijden en concrete patiëntaantallen waar mogelijk.
 
 **Vermijd promotie-taal.** ChatGPT is getraind om reclame eruit te filteren. Een zin als "Bij ons krijg je de beste zorg" wordt overgeslagen. Een zin als "Onze praktijk werkt sinds 2018 met digitale triage en heeft sindsdien de gemiddelde wachttijd voor consult-aanvragen teruggebracht van 4 dagen naar 1.5 dag" wordt opgepakt omdat het feitelijk en verifieerbaar is.
 
@@ -104,7 +104,7 @@ In de eerste maand zijn drie acties uitgevoerd: MedicalClinic schema markup geï
 
 In maand drie was het Google-review-aantal gegroeid naar 41. Een gastblog over hittegolf-gezondheidstips voor ouderen was geplaatst op een lokaal nieuwsplatform. In de hertest van dezelfde 25 prompts werd de praktijk in 6 prompts genoemd, inclusief twee specialisatie-prompts ("kaderhuisarts diabetes Haarlem" en "huisartsenpraktijk met POH-GGZ Haarlem"). In maand zes, met 67 reviews verspreid over Google en ZorgkaartNederland en zes externe vermeldingen, was dat opgelopen naar 11 prompts van de 25.
 
-De impact op echte inschrijvingen: 16 procent meer nieuwe patiëntinschrijvingen in mei en juni 2026 vergeleken met dezelfde maanden een jaar eerder. Een deel hiervan is toe te schrijven aan klassieke Google-ranking die ook verbeterde, maar bij vier nieuwe patiënten gaf de aanvrager expliciet aan via ChatGPT te zijn gekomen.
+De impact op echte inschrijvingen: merkbaar meer nieuwe patiëntinschrijvingen in mei en juni 2026 vergeleken met dezelfde maanden een jaar eerder. Een deel hiervan is toe te schrijven aan klassieke Google-ranking die ook verbeterde, maar bij vier nieuwe patiënten gaf de aanvrager expliciet aan via ChatGPT te zijn gekomen.
 
 ## Veelgestelde vragen
 
@@ -114,7 +114,7 @@ Bij goede uitvoering zie je eerste citaties na 8 tot 12 weken. AI-modellen index
 
 ### Werkt dit ook voor Perplexity en Google AI Overviews?
 
-Ja, voor 80 procent overlapt de aanpak. Perplexity weegt directe quotes en gestructureerde data zelfs nog zwaarder dan ChatGPT. Google AI Overviews leunt sterker op klassieke Google-ranking, dus daar telt traditionele SEO meer mee. De zeven tactieken hierboven werken voor alle drie.
+Ja, de aanpak overlapt grotendeels. Perplexity weegt directe quotes en gestructureerde data zelfs nog zwaarder dan ChatGPT. Google AI Overviews leunt sterker op klassieke Google-ranking, dus daar telt traditionele SEO meer mee. De zeven tactieken hierboven werken voor alle drie.
 
 ### Moet ik mijn klassieke Google SEO laten vallen?
 
