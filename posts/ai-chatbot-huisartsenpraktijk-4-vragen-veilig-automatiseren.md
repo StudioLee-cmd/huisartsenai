@@ -27,7 +27,7 @@ Een [ai chatbot voor huisartsen](/chatbot) die deze drie zaken op orde heeft, is
 
 ## De 4 vraag-categorieen die een AI-chatbot wel mag automatiseren
 
-### Categorie 1: Praktijk-informatie en openingstijden (de grootste stroom)
+### Categorie 1: Praktijk-informatie en openingstijden (35% van het volume)
 
 Dit zijn vragen over openingstijden, hoe je je inschrijft als nieuwe patient, of de praktijk wel of niet open is op Koningsdag, welke verzekeringen worden geaccepteerd, en hoe je het pand bereikt. Geen enkele van deze vragen raakt patient-gezondheid; het zijn pure operations-vragen.
 
@@ -35,7 +35,7 @@ Dit zijn vragen over openingstijden, hoe je je inschrijft als nieuwe patient, of
 
 **Waarom dit een no-brainer is om te automatiseren:** een typische huisartsenpraktijk krijgt 25 tot 40 van deze vragen per maand via de website-chat. Bij gemiddeld 75 seconden per antwoord door de assistente kost dat 30-50 minuten per maand. Een AI doet hetzelfde in 0 minuten assistente-tijd, en is bovendien 24/7 beschikbaar (handig voor de patient die om 22:30 wil weten of jullie zaterdag open zijn).
 
-### Categorie 2: Afspraken verzetten, annuleren of inplannen (de tweede stroom)
+### Categorie 2: Afspraken verzetten, annuleren of inplannen (25% van het volume)
 
 Dit is de gouden categorie en de reden dat veel huisartsenpraktijken hier voor het eerst in geinteresseerd raken. Een patient die zijn afspraak van dinsdag wil verzetten naar volgende week donderdag, kan dat zelf in 30 seconden in de chat doen, zonder de assistente te storen, zonder telefoontje.
 
@@ -49,7 +49,7 @@ Dit is de gouden categorie en de reden dat veel huisartsenpraktijken hier voor h
 
 De agenda-koppeling vereist een werkende API tussen de chat en jouw praktijksysteem (Promedico, Medicom, MicroHIS X, etc.). Dit is technisch meer werk dan categorie 1, maar de tijdwinst is significant: 15 tot 25 afspraak-mutaties per maand zelf-handelen door de patient in plaats van handmatig door de assistente.
 
-### Categorie 3: Herhaalrecepten aanvragen (een forse stroom)
+### Categorie 3: Herhaalrecepten aanvragen (20% van het volume)
 
 Bij praktijken die het herhaalrecept-proces digitaal hebben staan, is dit de meest tijdbesparende categorie. Een patient kan via chat zijn herhaalrecept aanvragen, AI controleert of het medicament in aanmerking komt voor automatische herhaling (op basis van de tabel die de huisarts heeft vrijgegeven), en stuurt het door naar de apotheek bij goedkeuring.
 
@@ -64,7 +64,7 @@ De 2024-handreiking van de medische beroepsgroepen is hier expliciet: medicament
 
 ![Drukke huisartsenpraktijk-balie in middaglicht: stethoscoop op een houten balie, een open agenda-boek met handgeschreven afspraken, een ouderwetse pillenpot, een glas water, een opengevouwen patient-folder, en op de achtergrond een rustige wachtkamer met groene planten, geen leesbare tekst, geen mensen in beeld](/images/blog/ai-chatbot-huisartsenpraktijk-4-vragen-veilig-automatiseren-2.jpg)
 
-### Categorie 4: Algemene gezondheid-FAQ uit de praktijk-bibliotheek (de rest van het volume)
+### Categorie 4: Algemene gezondheid-FAQ uit de praktijk-bibliotheek (20% van het volume)
 
 Dit is de meest gevoelige van de 4 categorieen, en de meeste praktijken twijfelen hier. Maar mits goed afgebakend werkt het prima.
 
@@ -97,10 +97,10 @@ Voor een typische huisartsenpraktijk met 4.500 patienten en 60 tot 100 chat-vrag
 **Zonder AI-chatbot:**
 - 80 vragen per maand × 90 seconden = 120 minuten = 2 uur assistente-tijd per maand
 - Plus context-switching: elke vraag onderbreekt iets anders, kost gemiddeld 2-3 extra minuten herstart-tijd
-- Plus haast-fouten: een deel van de antwoorden bevat een kleine onnauwkeurigheid die later opnieuw uitgelegd moet worden
+- Plus haast-fouten: 5-10% van de antwoorden bevat een kleine onnauwkeurigheid die later opnieuw uitgelegd moet worden
 
 **Met AI-chatbot (4 categorieen):**
-- Reken met 80 vragen en 80% afhandeling door AI = 64 vragen autonoom = 0 assistente-tijd
+- 80 × 80% afhandeling door AI = 64 vragen autonoom = 0 assistente-tijd
 - 16 vragen escaleren naar mens, in totaal ~25 minuten assistente-tijd (want vooraf gestructureerd)
 - Plus 24/7 beschikbaarheid (avond/weekend) zonder extra kosten
 
@@ -122,9 +122,9 @@ Wil je weten hoe groot je tijdwinst kan zijn voor jouw praktijk specifiek, plan 
 
 ## Wat StudioLee voor jou doet
 
-Een AVG-conforme AI-chatbot inclusief de 4 vraag-categorieen, de 5 escalatie-regels, de praktijksysteem-koppeling en de continue verbetering door wekelijkse review-loop, zit inbegrepen in onze Managed Pro vanaf €179 per maand exclusief BTW. Onze [Groei-of-Geld-Terug Garantie](/tarieven) geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
+Een AVG-conforme AI-chatbot inclusief de 4 vraag-categorieen, de 5 escalatie-regels, de praktijksysteem-koppeling en de continue verbetering door wekelijkse review-loop, zit inbegrepen in onze Managed Groei Pro. Onze [Groei-of-Geld-Terug Garantie](/tarieven) geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
-Wat we niet doen: een chatbot leveren die de [voice ai voor huisartsen](/voice-ai) volledig vervangt. De chatbot is voor schriftelijke vragen via de website. De voice AI is voor telefoongesprekken. Samen dekken ze het grootste deel van het patient-contact dat tot nu door een mens werd afgehandeld; de rest gaat naar de huisarts of triage-lijn.
+Wat we niet doen: een chatbot leveren die de [voice ai voor huisartsen](/voice-ai) volledig vervangt. De chatbot is voor schriftelijke vragen via de website. De voice AI is voor telefoongesprekken. Samen dekken ze ~70% van het patient-contact dat tot nu door een mens werd afgehandeld, met de overige 30% naar de huisarts of triage-lijn.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/chatbot-functies-huisartsenpraktijk" class="text-dark fw-semibold">Chatbot-functies huisartsenpraktijk: wat moet hij kunnen?</a> →</p></div></div></div>
 
@@ -132,6 +132,6 @@ Wat we niet doen: een chatbot leveren die de [voice ai voor huisartsen](/voice-a
 
 De assistente met 3 patienten in de wachtrij, telefoon rinkelend en 4 chat-pings tegelijk is een werkelijkheid die elke huisartsenpraktijk-manager herkent. De vraag is niet of dat moet veranderen. De vraag is wat veilig overgenomen kan worden zonder kwaliteit van zorg te verliezen.
 
-De 4 categorieen zijn helder: praktijk-info, afspraak-mutaties, herhaalrecepten binnen de vrijgegeven tabel, en gezondheid-FAQ uit de gecureerde bibliotheek. Alles daarbuiten blijft mens. Met deze afbakening haal je het leeuwendeel van het chat-volume af van de assistente, zonder dat de AI ooit een medische beslissing neemt. Dat is geen vervanging van zorg, dat is het ontlasten van zorg zodat er meer ruimte is voor de patient die wel echt een mens nodig heeft.
+De 4 categorieen zijn helder: praktijk-info, afspraak-mutaties, herhaalrecepten binnen de vrijgegeven tabel, en gezondheid-FAQ uit de gecureerde bibliotheek. Alles daarbuiten blijft mens. Met deze afbakening haal je 80% van het chat-volume af van de assistente, zonder dat de AI ooit een medische beslissing neemt. Dat is geen vervanging van zorg, dat is het ontlasten van zorg zodat er meer ruimte is voor de patient die wel echt een mens nodig heeft.
 
 **Lees ook:** [Bereikbaarheid huisartsenpraktijk verbeteren](/blog/bereikbaarheid-huisartsenpraktijk-verbeteren), de bredere uitleg over hoe je telefoondruk en website-druk samen aanpakt.
