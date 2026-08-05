@@ -15,7 +15,7 @@ Tussen die bellers zitten niet alleen bestaande patiënten. Er bellen ook mensen
 
 ## Gemiste oproepen kosten je inschrijvingen
 
-Uit onderzoek blijkt dat huisartsenpraktijken gemiddeld 20 tot 30 procent van hun inkomende oproepen missen tijdens piekuren. Dat zijn geen gemiste griepjes, dat zijn gemiste kansen om je praktijk te laten groeien.
+Huisartsenpraktijken missen tijdens piekuren een fors deel van hun inkomende oproepen. Dat zijn geen gemiste griepjes, dat zijn gemiste kansen om je praktijk te laten groeien.
 
 Een nieuwe patiënt die belt en geen gehoor krijgt, belt daarna niet nog eens terug. Diegene zoekt op Google naar "huisarts [wijk]" en schrijft zich in bij de eerste praktijk die wel opneemt. De concurrent hoeft niet beter te zijn, alleen bereikbaarder.
 
@@ -25,7 +25,7 @@ Voor praktijken die willen groeien of hun patiëntenbestand op peil willen houde
 
 De meeste huisartsenpraktijken zijn telefonisch bereikbaar vanaf 8:00 uur. Precies dan bellen de meeste patiënten: spoedvragen, herhaalrecepten, afspraken verzetten en nieuwe inschrijvingen. Alles komt tegelijk.
 
-Tussen 8:00 en 10:00 uur verwerk je 60 tot 70 procent van het dagelijkse belverkeer. Na 10:00 uur is het vaak rustig genoeg. Maar de schade is dan al aangericht: gefrustreerde patiënten die niet doorkwamen en nieuwe inschrijvingen die elders terechtkwamen.
+Tussen 8:00 en 10:00 uur verwerk je het merendeel van het dagelijkse belverkeer. Na 10:00 uur is het vaak rustig genoeg. Maar de schade is dan al aangericht: gefrustreerde patiënten die niet doorkwamen en nieuwe inschrijvingen die elders terechtkwamen.
 
 De oplossing zit niet in meer personeel aannemen voor twee uur werk. Het zit in slimmer omgaan met de piekmomenten.
 
@@ -54,7 +54,7 @@ Sommige praktijken blokkeren het eerste uur van het spreekuur voor telefonische 
 ## Wat zeggen de cijfers?
 
 Praktijken die hun telefonische bereikbaarheid verbeteren zien meetbare resultaten:
-- 15 tot 25 procent minder gemiste oproepen
+- Merkbaar minder gemiste oproepen
 - Hogere patiënttevredenheid in enquêtes
 - Meer nieuwe inschrijvingen per maand
 - Minder klachten bij de klachtenfunctionaris
