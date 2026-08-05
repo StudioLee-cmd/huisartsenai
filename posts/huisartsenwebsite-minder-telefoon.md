@@ -12,7 +12,7 @@ cluster: "website"
 
 Elke huisartsenpraktijk kent het: de telefoon staat 's ochtends roodgloeiend. Patiënten bellen voor afspraken, herhaalrecepten, uitslagen en vragen. De assistente kan het nauwelijks bijhouden, patiënten hangen in de wacht en de sfeer raakt gespannen.
 
-Het probleem is niet de patiënt — het is de website. Als je website patiënten niet helpt om zaken online te regelen, grijpen ze naar de telefoon. Een goed ingerichte website kan 40-60% van het telefoonverkeer overnemen. Lees ook hoe je als huisartsenpraktijk [beter gevonden wordt online](/blog/hoe-huisartsenpraktijken-ai-inzetten-patientcommunicatie).
+Het probleem is niet de patiënt — het is de website. Als je website patiënten niet helpt om zaken online te regelen, grijpen ze naar de telefoon. Een goed ingerichte website kan een fors deel van het telefoonverkeer overnemen. Lees ook hoe je als huisartsenpraktijk [beter gevonden wordt online](/blog/hoe-huisartsenpraktijken-ai-inzetten-patientcommunicatie).
 
 ## Online herhaalrecepten en e-consult
 
@@ -60,4 +60,4 @@ De meeste moderne HIS-systemen (Medicom, Promedico, CGM) bieden koppelingen met 
 
 ## Conclusie
 
-Je huisartsenwebsite kan de telefoondruk aanzienlijk verlagen. Met online herhaalrecepten, e-consult, een goede FAQ-pagina en HIS-integratie regel je 40-60% van het telefoonverkeer online. Begin met de twee grootste quick wins: herhaalrecepten online en een FAQ-pagina. Wil je ontdekken hoe je praktijk digitaal efficiënter kan werken? Vraag een [gratis scan](/gratis-scan) aan.
+Je huisartsenwebsite kan de telefoondruk aanzienlijk verlagen. Met online herhaalrecepten, e-consult, een goede FAQ-pagina en HIS-integratie regel je een fors deel van het telefoonverkeer online. Begin met de twee grootste quick wins: herhaalrecepten online en een FAQ-pagina. Wil je ontdekken hoe je praktijk digitaal efficiënter kan werken? Vraag een [gratis scan](/gratis-scan) aan.
