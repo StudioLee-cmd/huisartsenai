@@ -9,19 +9,19 @@ tags: ["Huisarts", "No-shows", "Patiëntcommunicatie", "Automatisering"]
 ---
 Een gemiddelde huisartsenpraktijk in Nederland heeft een no-show-ratio tussen de 4 en 9 procent. Op 120 afspraken per dag zijn dat 5 tot 11 gaten per dag, wat neerkomt op 25 tot 55 uur aan verloren productiviteit per maand. Elke no-show kost de praktijk gemiddeld €18 aan directe middelen (assistentenuren, gereserveerd consult-tijd) plus indirecte kosten doordat de wachttijd voor andere patiënten langer wordt.
 
-No-shows verminderen is daarom niet een administratief doel, maar een operationele noodzaak. In deze gids staat de drie-kanaal herinnering-flow die, goed geïmplementeerd, de no-show-ratio binnen drie maanden halveert (van bijvoorbeeld 7 procent naar 3 procent) zonder dat de assistente er één minuut extra werk van heeft.
+No-shows verminderen is daarom niet een administratief doel, maar een operationele noodzaak. In deze gids staat de drie-kanaal herinnering-flow die, goed geïmplementeerd, de no-show-ratio binnen drie maanden halveert (reken met een daling van 7 procent naar 3 procent) zonder dat de assistente er één minuut extra werk van heeft.
 
 ## Waarom één herinnering niet genoeg is
 
-De klassieke herinnering is een SMS 24 uur voor de afspraak. Dat werkt voor patiënten die hun agenda op orde hebben en gewoon even een reminder nodig hebben. Dat zijn ongeveer 70 procent van de patiënten, die komen altijd al.
+De klassieke herinnering is een SMS 24 uur voor de afspraak. Dat werkt voor patiënten die hun agenda op orde hebben en gewoon even een reminder nodig hebben. Dat is het grootste deel van de patiënten, die komen altijd al.
 
-Voor de overige 30 procent werkt één SMS niet. Het zijn mensen die:
+Voor de rest werkt één SMS niet. Het zijn mensen die:
 - De SMS gemist hebben (zit vast in een volle inbox)
 - De afspraak in het moment hebben vergeten
 - Iets tussendoor hebben gekregen dat belangrijker voelt
 - Onzeker zijn geworden of de afspraak nog wel nodig is
 
-Deze 30 procent is waar de no-shows vandaan komen. Een extra herinnering via een ander kanaal verandert direct de dynamiek.
+Deze groep is waar de no-shows vandaan komen. Een extra herinnering via een ander kanaal verandert direct de dynamiek.
 
 ## Het 3-kanaal systeem in detail
 
@@ -32,7 +32,7 @@ Eerste herinnering komt 48 uur vóór de afspraak per SMS. Dit is het "ver-genoe
 **Inhoud:**
 "Hoi [voornaam], je hebt een afspraak bij [praktijk] op [dag] om [tijd] bij [naam huisarts]. Klopt dit nog? Antwoord JA of NEE."
 
-Dit is kort, duidelijk en vraagt één concrete actie. Respons-ratio op JA/NEE is rond de 55-65 procent. De NEE-antwoorden komen vroeg genoeg binnen om de slot opnieuw te vullen via de wachtlijst of no-gap-flow.
+Dit is kort, duidelijk en vraagt één concrete actie. De respons-ratio op JA/NEE is hoog. De NEE-antwoorden komen vroeg genoeg binnen om de slot opnieuw te vullen via de wachtlijst of no-gap-flow.
 
 ### Kanaal 2: WhatsApp 2 uur vooraf
 
@@ -41,17 +41,17 @@ Tweede herinnering komt 2 uur vóór de afspraak via WhatsApp. Dit is het "last-
 **Inhoud:**
 "Hi [voornaam], over 2 uur verwachten we je om [tijd] bij [naam huisarts]. Mocht er toch iets tussenkomen, laat het nu even weten via deze WhatsApp of bel [nummer]."
 
-De toon is vriendelijk maar concreet. Het kanaal WhatsApp is belangrijk: open-rate in Nederland ligt rond de 95 procent versus 35-45 procent voor SMS en 15-25 procent voor e-mail. Het bericht wordt écht gelezen. Respons-ratio op dit bericht is 35-45 procent.
+De toon is vriendelijk maar concreet. Het kanaal WhatsApp is belangrijk: de open-rate in Nederland ligt ver boven die van SMS, en die van SMS weer ver boven e-mail. Het bericht wordt écht gelezen. Ook de respons-ratio op dit bericht ligt hoog.
 
 Een [AI chatbot](/chatbot) gekoppeld aan WhatsApp Business API kan deze reminders automatisch uitsturen met patiënt-specifieke variabelen.
 
 ### Kanaal 3: telefoontje bij "blauwe vinkjes maar geen reactie"
 
-Derde stap, alleen voor patiënten die beide eerdere berichten hebben gelezen maar niet hebben gereageerd. Dit is het signaal dat er iets niet klopt, en het verschil tussen 4 procent en 7 procent no-show zit in deze specifieke interventie.
+Derde stap, alleen voor patiënten die beide eerdere berichten hebben gelezen maar niet hebben gereageerd. Dit is het signaal dat er iets niet klopt, en het verschil tussen een lage en een hoge no-show-ratio zit in deze specifieke interventie.
 
 **Wie belt:** een assistente of een [AI telefonist](/voice-ai) die het call-script uitvoert: "Hallo [naam], ik bel over je afspraak over een uurtje bij [huisarts]. Nog steeds aanwezig?", dat is een heel ander vertrouwenssignaal dan een SMS en triggert een eerlijk antwoord.
 
-**Wat dit oplevert:** van de patiënten die tot dit punt niet hebben gereageerd, komt na dit telefoontje 85-90 procent toch of herplant op een betere dag. De overgebleven 10-15 procent zegt nu wel af zodat de slot opnieuw gevuld kan worden.
+**Wat dit oplevert:** van de patiënten die tot dit punt niet hebben gereageerd, komt na dit telefoontje vrijwel iedereen toch of herplant op een betere dag. De rest zegt nu wel af zodat de slot opnieuw gevuld kan worden.
 
 Deze stap is arbeidsintensief voor de assistente als je 100+ afspraken per dag hebt. Daarom automatiseren steeds meer praktijken dit met een Voice AI die de eenvoudige vragen zelf afhandelt en alleen bij complexiteit doorschakelt.
 
@@ -66,7 +66,7 @@ Het herinnering-systeem werkt alleen optimaal als je de vrijkomende slots ook sn
 - Automatische trigger van wachtlijst-alert bij vrije slot
 - Korte tijdslimiet op de alert (bijvoorbeeld eerste patiënt die reageert binnen 30 minuten krijgt de slot)
 
-Praktijken die dit correct inrichten, vullen 70-85 procent van de vrijgekomen slots binnen een uur. Dat betekent dat no-shows niet alleen worden voorkomen maar de operationele impact van de resterende no-shows ook wordt geneutraliseerd.
+Praktijken die dit correct inrichten, vullen het overgrote deel van de vrijgekomen slots binnen een uur. Dat betekent dat no-shows niet alleen worden voorkomen maar de operationele impact van de resterende no-shows ook wordt geneutraliseerd.
 
 ## Belangrijke randvoorwaarden voor GGZ-praktijken en specifieke patiëntgroepen
 
