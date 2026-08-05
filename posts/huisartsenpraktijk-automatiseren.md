@@ -12,15 +12,15 @@ tags: ["Automatisering", "Huisarts", "Werkdruk"]
 
 Het is maandagochtend 8:00. De telefoon gaat al voordat de praktijk open is. Assistentes nemen gelijktijdig drie lijnen op. Patiënten die een herhaalrecept willen, een verwijsbrief nodig hebben, een afspraak willen maken of "even snel een vraag" hebben. Tegen de tijd dat het spreekuur begint, is de wachtrij al opgebouwd.
 
-Het NHG schat dat 30 tot 40 procent van de telefoontjes naar een huisartsenpraktijk niet per se telefonisch afgehandeld hoeven worden. Dat zijn honderden gesprekken per week die een automatisch systeem kan overnemen.
+Volgens het NHG hoeft 30 tot 40 procent van de telefoontjes naar een huisartsenpraktijk niet per se telefonisch afgehandeld te worden. Dat zijn honderden gesprekken per week die een automatisch systeem kan overnemen.
 
 ## Wat kun je automatiseren?
 
 ### Online afspraken plannen
 
-Patiënten willen zelf hun afspraak inplannen. 45 procent van alle [online afspraken](/blog/online-afspraken-maken-huisartsenpraktijk) wordt buiten kantooruren gemaakt. Een patiëntportaal waar ze zelf een tijdslot kiezen:
+Patiënten willen zelf hun afspraak inplannen. Een groot deel van alle [online afspraken](/blog/online-afspraken-maken-huisartsenpraktijk) wordt buiten kantooruren gemaakt. Een patiëntportaal waar ze zelf een tijdslot kiezen:
 
-- Vermindert telefoonverkeer met 30 procent
+- Vermindert het telefoonverkeer merkbaar
 - Geeft patiënten controle over hun eigen zorg
 - Maakt tijd vrij voor urgente telefoontjes
 
@@ -48,7 +48,7 @@ Het aanvragen van herhaalrecepten is een van de meest voorkomende redenen om de 
 
 ### Afspraakherinneringen
 
-Automatische herinneringen 48 uur en 2 uur voor de afspraak via SMS. Vermindert no-shows met 40 tot 60 procent. Elke no-show is een gemist spreekuurslot dat een andere patiënt had kunnen gebruiken.
+Automatische herinneringen 48 uur en 2 uur voor de afspraak via SMS. Vermindert no-shows fors. Elke no-show is een gemist spreekuurslot dat een andere patiënt had kunnen gebruiken.
 
 ### Spraakgestuurd rapporteren
 
@@ -69,8 +69,8 @@ De huisartsenzorg kampt met een structureel personeelstekort. Minder assistentes
 
 ## Concrete resultaten
 
-- 30 procent minder telefoonverkeer
-- 40 tot 60 procent minder no-shows
+- Merkbaar minder telefoonverkeer
+- Fors minder no-shows
 - 1,5 uur per dag bespaard op verslaglegging
 - Hogere patiënttevredenheid door betere bereikbaarheid
 
