@@ -24,7 +24,7 @@ Het probleem is herkenbaar: maandagochtend, 08:00, 40 bellers in de wacht. AI-ge
 - **Slimme doorschakeling** — urgente gevallen direct naar de assistente, niet-urgent naar digitaal formulier
 - **24/7 beschikbaar** — patiënten kunnen buiten openingstijden al hun klacht doorgeven
 
-Het resultaat: 40-60% minder telefoondruk op de assistentes, zonder dat patiënten het gevoel krijgen dat ze niet welkom zijn.
+Het resultaat: fors minder telefoondruk op de assistentes, zonder dat patiënten het gevoel krijgen dat ze niet welkom zijn.
 
 ### 2. Digitale triage — snellere en consistentere beoordeling
 
@@ -39,7 +39,7 @@ Dit is geen vervanging van de menselijke triage — het is een voorbereiding. De
 
 ### 3. Herhaalrecepten en administratie
 
-Herhaalrecepten vormen 15-20% van alle telefoontjes naar de praktijk. Met AI-ondersteuning wordt dit:
+Herhaalrecepten vormen een vast en aanzienlijk deel van alle telefoontjes naar de praktijk. Met AI-ondersteuning wordt dit:
 
 - Patiënt vraagt herhaalrecept aan via digitaal formulier
 - Systeem controleert of het recept past bij de voorgeschiedenis
@@ -83,7 +83,7 @@ Een gemiddelde praktijk met 2.500 patiënten:
 
 | Besparing | Per week | Per jaar |
 |---|---|---|
-| Minder telefoonverkeer (40%) | 8 uur | 416 uur |
+| Minder telefoonverkeer (reken met 40%) | 8 uur | 416 uur |
 | Snellere herhaalrecepten | 3 uur | 156 uur |
 | Automatische communicatie | 2 uur | 104 uur |
 | **Totale tijdsbesparing** | **13 uur** | **676 uur** |
@@ -94,9 +94,9 @@ Een gemiddelde praktijk met 2.500 patiënten:
 
 Je hoeft niet alles tegelijk te doen. Start met wat de meeste impact heeft:
 
-1. **Maand 1**: Online afspraken boeken — reduceert direct 25% telefoonverkeer
+1. **Maand 1**: Online afspraken boeken — reduceert het telefoonverkeer direct merkbaar
 2. **Maand 2**: Digitaal herhaalreceptformulier — bespaart 3 uur per week
-3. **Maand 3**: Automatische afspraakherinneringen — vermindert no-shows met 30%
+3. **Maand 3**: Automatische afspraakherinneringen — vermindert no-shows aanzienlijk
 4. **Maand 4-6**: Digitale triage + AI-telefoonbeantwoording — de grootste transformatie
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/seizoenscampagnes-huisarts" class="text-dark fw-semibold">Seizoenscampagnes als huisarts: het juiste moment voor preventie</a> →</p></div></div></div>
