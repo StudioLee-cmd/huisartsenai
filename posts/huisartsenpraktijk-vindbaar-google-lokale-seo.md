@@ -10,7 +10,7 @@ tags: ["SEO", "Huisartsenpraktijk", "Vindbaarheid"]
 ---
 ## Waarom vindbaarheid voor huisartsenpraktijken echt relevant is
 
-Een gezin verhuist naar een nieuwe stad. Hun huidige huisarts is te ver weg. Wat doen ze? Niet de Telefoongids erbij pakken, niet de gemeente bellen. Ze openen Google en typen "huisarts [nieuwe stad]" of "huisartsenpraktijk in de buurt". De drie praktijken die in het kaartresultaat verschijnen krijgen 80 procent van de kliks.
+Een gezin verhuist naar een nieuwe stad. Hun huidige huisarts is te ver weg. Wat doen ze? Niet de Telefoongids erbij pakken, niet de gemeente bellen. Ze openen Google en typen "huisarts [nieuwe stad]" of "huisartsenpraktijk in de buurt". De drie praktijken die in het kaartresultaat verschijnen krijgen het leeuwendeel van de kliks.
 
 Lokale vindbaarheid is voor huisartsenpraktijken belangrijker dan veel praktijkmanagers denken. Het is niet alleen voor commerciele bedrijven. Patienten verhuizen, hebben een tweede huis, of zoeken een nieuwe huisarts omdat ze niet tevreden zijn over hun huidige. Sta je niet in Google, dan ben je voor deze mensen onzichtbaar.
 
@@ -47,7 +47,7 @@ Wat moet er allemaal in je profiel?
 - **Website** — link naar je homepage
 - **Beschrijving** — 750 tekens. Vertel wat je praktijk doet, voor wie, wat je specialisaties zijn (chronische zorg, kindergeneeskunde, vrouwengezondheid), en in welke wijk(en) je werkt
 
-Een compleet profiel scoort tot 70 procent beter dan een halfvol profiel. Dit is de basis.
+Een compleet profiel scoort duidelijk beter dan een halfvol profiel. Dit is de basis.
 
 ## Stap 3: NHG-richtlijnen en privacy
 
@@ -80,7 +80,7 @@ Elke dienst die je toevoegt vergroot de kans dat je verschijnt voor zoekopdracht
 
 ## Stap 5: Foto's die werken
 
-Bedrijven met meer dan 10 foto's krijgen 35 procent meer kliks dan zonder. Voor huisartsenpraktijken werkt dit ook, maar met aandacht voor privacy.
+Bedrijven met meer dan 10 foto's krijgen merkbaar meer kliks dan zonder. Voor huisartsenpraktijken werkt dit ook, maar met aandacht voor privacy.
 
 Wat je toevoegt:
 
@@ -118,7 +118,7 @@ Je website en je Google Bedrijfsprofiel werken samen. Een trage of onhandige web
 Wat een huisartsenpraktijk-website moet hebben:
 
 - **Snelle laadtijd** (onder 3 seconden)
-- **Mobielvriendelijk** — 70 procent van zoekopdrachten komt via mobiel
+- **Mobielvriendelijk** — de meeste zoekopdrachten komen via mobiel
 - **Klikbaar telefoonnummer** bovenaan elke pagina
 - **Een duidelijk inloopspreekuur of afsprakensysteem** (online inschrijven indien mogelijk)
 - **Informatie over inschrijven als nieuwe patient** — dit is een veelvoorkomende zoekvraag
