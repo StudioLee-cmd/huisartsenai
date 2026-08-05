@@ -19,7 +19,7 @@ Dit artikel laat zien hoe je een digitale wachtlijst inricht voor je huisartsenp
 
 Een onderzoek van zorggroep HZW toonde aan dat handmatig wachtlijstbeheer per nieuwe aanmelding gemiddeld 35 minuten administratie kost: telefoon aannemen, gegevens noteren, in een apart bestand bijhouden, periodieke check, en uiteindelijk de uitnodiging sturen. Voor een praktijk met 10 nieuwe aanmeldingen per week is dat ruim 5 uur per week, of 260 uur per jaar. Bij een loonkosten van 30 euro per uur is dat 7.800 euro op jaarbasis, alleen aan administratie van mensen die nog niet eens patiënt zijn.
 
-Een digitale wachtlijst reduceert dat tot 5 minuten per aanmelding (alleen review en uitnodigingsmoment). Tijdsbesparing 85 procent, frustratie 100 procent weg. Voor de patiënt ook prettig: geen telefonisch afgewezen worden, wel een concrete plek in een transparant systeem.
+Een digitale wachtlijst reduceert dat tot 5 minuten per aanmelding (alleen review en uitnodigingsmoment). De tijdsbesparing is fors, de frustratie 100 procent weg. Voor de patiënt ook prettig: geen telefonisch afgewezen worden, wel een concrete plek in een transparant systeem.
 
 ## Wanneer open je de wachtlijst, wanneer sluit je 'm?
 
@@ -65,7 +65,7 @@ De grootste lek in handmatig wachtlijstbeheer: telefoontjes die buiten kantoorur
 - Een [Voice AI telefonist](/voice-ai) die buiten kantoortijden of bij bezet-signaal opneemt, vraagt naar de aard van het gesprek, en bij wachtlijst-aanvraag de patiënt direct doorverwijst naar het digitale formulier (via SMS-link). Geen verloren leads.
 - Een AI-chatbot op de website die nieuwe bezoekers actief vraagt of ze zich willen aanmelden, het formulier presenteert en gegevens valideert voor opslag.
 
-Combinatie van beide vangt 95 procent van de potentiële aanmeldingen op, ook degenen die buiten kantooruren beslissen om naar een andere praktijk te zoeken.
+Combinatie van beide vangt vrijwel alle potentiële aanmeldingen op, ook degenen die buiten kantooruren beslissen om naar een andere praktijk te zoeken.
 
 ## Communicatiecadans: updates elke 3 maanden zonder de balie te belasten
 
@@ -75,7 +75,7 @@ Een wachtlijst die niemand aanraakt wordt een dood archief. Een wachtlijst die d
 - Maand 6: "Hoi [naam], 6 maanden op de lijst. We zien dat we waarschijnlijk in [maand] ruimte hebben. Sta je nog open?"
 - Maand 9 (indien nog niet aangenomen): "Hoi [naam], we hebben helaas nog niet kunnen plaatsen. Wil je op de lijst blijven of liever een andere praktijk benaderen?"
 
-Elke ronde valt 10 tot 20 procent af die intussen elders is ingeschreven. Dat is geen verlies, dat is een gezonde lijstopschoning.
+Elke ronde valt een deel af dat intussen elders is ingeschreven. Dat is geen verlies, dat is een gezonde lijstopschoning.
 
 ## Wachtlijst opschonen: de 6-maanden-check en uitruil met andere praktijken
 
