@@ -9,7 +9,7 @@ tags: ["Digitale Triage", "Huisarts", "Efficientie"]
 ---
 ## De telefoon is het knelpunt
 
-Maandagochtend half negen. De telefoon gaat onafgebroken, de wachtrij loopt op tot twintig minuten en de assistenten proberen tegelijkertijd patienten te woord te staan, door te verbinden en afspraken in te plannen. Drie op de tien bellers hangen op voordat ze iemand spreken.
+Maandagochtend half negen. De telefoon gaat onafgebroken, de wachtrij loopt op tot twintig minuten en de assistenten proberen tegelijkertijd patienten te woord te staan, door te verbinden en afspraken in te plannen. Een flink deel van de bellers hangt op voordat ze iemand spreken.
 
 Dit scenario herkennen de meeste huisartsenpraktijken. De telefoon is het smalste punt in de hele organisatie. Alles loopt erdoor: acute klachten, herhaalrecepten, uitslagen opvragen, afspraken maken en administratieve vragen.
 
@@ -31,7 +31,7 @@ Digitale triage is geen vervanging van de huisarts of de assistente. Het is een 
 
 ### 1. Kortere wachttijden
 
-Praktijken die digitale triage invoeren, rapporteren een daling van 40 tot 60 procent in telefonische wachttijden. Niet omdat er minder patienten zijn, maar omdat een groot deel van de instroom digitaal wordt afgehandeld.
+Praktijken die digitale triage invoeren, rapporteren een forse daling in telefonische wachttijden. Niet omdat er minder patienten zijn, maar omdat een groot deel van de instroom digitaal wordt afgehandeld.
 
 ### 2. Minder druk op assistenten
 
@@ -53,7 +53,7 @@ Wanneer de huisarts een patient ziet, heeft hij al de digitale intake gelezen. H
 
 **Stap 2: Definieer je vragenlijst.** Baseer de vragen op de NHG-triagestandaarden. Houd het kort: vijf tot acht vragen per klacht. Te veel vragen en de patient haakt af.
 
-**Stap 3: Communiceer het naar patienten.** Vermeld op je website, voicemail en in de wachtkamer dat patienten hun klacht ook digitaal kunnen indienen. De eerste weken zullen de meeste patienten nog bellen. Na twee tot drie maanden verschuift 30 tot 40 procent naar het digitale kanaal.
+**Stap 3: Communiceer het naar patienten.** Vermeld op je website, voicemail en in de wachtkamer dat patienten hun klacht ook digitaal kunnen indienen. De eerste weken zullen de meeste patienten nog bellen. Na twee tot drie maanden verschuift een substantieel deel naar het digitale kanaal.
 
 **Stap 4: Evalueer na drie maanden.** Meet de telefonische wachttijd voor en na. Meet het aantal digitale inzendingen. Vraag assistenten wat ze merken. Pas de vragenlijst aan op basis van feedback.
 
