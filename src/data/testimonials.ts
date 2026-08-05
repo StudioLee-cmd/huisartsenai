@@ -1,75 +1,56 @@
 import { ITestimonial } from "@/types";
 
+// ─────────────────────────────────────────────────────────────────────────────────────
+// BOUWSTEEN 8 — HET BEWIJS-BLOK. Toon-regel 3 van het boodschap-frame: bewijs is echt,
+// of het staat er niet (alpha1/ventures/studiolee/projects/niche-sites-upgrade-programma.md
+// §HET BOODSCHAP-FRAME).
+//
+// Tim, keur 173 (01-08): de tien verzonnen klant-quotes gaan eraf en er komt GEEN
+// vervangende constructie voor in de plaats. Het blok bestaat alleen zolang er ECHTE
+// klant-quotes zijn; is die lijst leeg, dan staat de sectie niet op de pagina.
+//
+// ⭐ ÉÉN ECHTE QUOTE TOEVOEGEN IS GENOEG. Zet 'm in `testimonials` hieronder en de sectie
+//    verschijnt vanzelf, kop en al. Er is geen tweede plek om te bewerken:
+//    `Testimonials.tsx` en `page.tsx` lezen allebei uit `proofBlock`.
+// ─────────────────────────────────────────────────────────────────────────────────────
 
-export const testimonials: ITestimonial[] = [
-    {
-        name: 'Dr. Van Gelder',
-        role: 'Huisartsenpraktijk West, Utrecht',
-        message: 'Bent u net bezig met een lastig consult, gaat de telefoon. Voorheen nam de assistente niet altijd op door drukte aan de balie, nu pakt de AI het direct op en plant de afspraak in. Ideaal voor de rust in de praktijk.',
-        avatar: '/images/testimonials/testimonial-1.jpg',
-        stars: 5
-    },
-    {
-        name: 'Houssam El Mansouri',
-        role: 'Gezondheidscentrum de Brug, Rotterdam',
-        message: 'Ik was bang dat het klinisch of robotachtig zou klinken, maar patiënten merken het verschil niet. Ze zijn blij dat ze direct geholpen worden terwijl wij bezig zijn met de patiëntenzorg.',
-        avatar: '/images/testimonials/testimonial-2.png',
-        stars: 5
-    },
-    {
-        name: 'Dr. Sophie Bakker',
-        role: 'Huisartsenpraktijk de Linde, Amsterdam',
-        message: 'Verslaglegging na een lange dag spreekuur was altijd een zware dobber. Nu doet het AI-systeem het voorbereidende werk. Ik heb weer tijd voor mijn gezin.',
-        avatar: '/images/testimonials/testimonial-3.png',
-        stars: 5
-    },
-    {
-        name: 'Kees de Boer',
-        role: 'Praktijkmanager Viataal, Den Haag',
-        message: 'Geen dubbele boekingen meer en een slimmer spreekuur. Het systeem begrijpt de urgentie van verschillende klachten. Scheelt onze assistentes uren per week.',
-        avatar: '/images/testimonials/testimonial-4.jpg',
-        stars: 5
-    },
-    {
-        name: 'Dr. Van den Berg',
-        role: 'Brabant Medisch, Eindhoven',
-        message: 'Als we visites rijden, kunnen we de telefoon niet aannemen. Nu krijg ik gewoon een overzicht van de triage-uitslagen op mijn telefoon. Een top oplossing voor de moderne praktijk.',
-        avatar: '/images/testimonials/testimonial-5.png',
-        stars: 5
-    },
-    {
-        name: 'Anita de Groot',
-        role: 'Hoofdassistente De Groot, Arnhem',
-        message: 'De automatische herhaalrecepten-service is goud waard. Patiënten bellen door, AI regelt het direct met de apotheek. Vroeger deden we dat handmatig, nu gaat het vanzelf.',
-        avatar: '/images/testimonials/testimonial-6.png',
-        stars: 5
-    },
-    {
-        name: 'Dr. Martin van Dijk',
-        role: 'Huisartsenpost Noord, Groningen',
-        message: 'Onze assistente was ziek op een drukke maandagochtend, maar de praktijk draaide gewoon door. De AI voerde de eerste triage uit. Het redde onze ochtend.',
-        avatar: '/images/testimonials/testimonial-7.png',
-        stars: 5
-    },
-    {
-        name: 'Wouter Meijer',
-        role: 'Medisch Centrum Zwolle',
-        message: 'De "Gemiste Oproep Callback" service is fantastisch. Mensen hangen minder snel op als ze weten dat ze direct een bevestiging of terugbelafspraak krijgen.',
-        avatar: '/images/testimonials/testimonial-8.jpg',
-        stars: 5
-    },
-    {
-        name: 'Frank de Jong',
-        role: 'Zorgpraktijk de Kern, Tilburg',
-        message: 'Ik ben arts, geen ICT-er. Maar dit systeem is zeer intuïtief. Een duidelijk dashboard zonder overbodige poespas.',
-        avatar: '/images/testimonials/testimonial-9.jpg',
-        stars: 5
-    },
-    {
-        name: 'Dr. Veenstra',
-        role: 'Huisartsenpraktijk Veenstra, Maastricht',
-        message: 'De investering dubbel en dwars waard. De werkdruk is aanzienlijk gedaald en de patiënttevredenheid is gestegen. Niet twijfelen, gewoon implementeren.',
-        avatar: '/images/testimonials/testimonial-10.png',
-        stars: 5
-    },
-];
+/**
+ * ECHTE klant-quotes van dit merk. Leeg = er is er vandaag nog geen.
+ * Vullen = het blok toont ze meteen, zonder dat er iets anders aangepast hoeft te worden.
+ * Illustratieve, gegenereerde of "voorbeeld"-quotes horen hier NIET in — dat is precies
+ * wat keur 173 eraf haalde.
+ */
+export const testimonials: ITestimonial[] = [];
+
+/** Kop + subkop van de sectie; `null` laat de hele sectie van de pagina verdwijnen. */
+export interface IProofSection {
+    title: string;
+    description: string;
+}
+
+export interface IProofBlock {
+    /** `null` = de sectie wordt niet gerenderd (page.tsx laat 'm dan weg). */
+    section: IProofSection | null;
+    /** De quotes die getoond worden. Leeg/afwezig = geen marquee. */
+    quotes?: ITestimonial[];
+}
+
+/**
+ * DE KOP BOVEN HET BLOK. Eén constante, want tot 31-07 stond deze zin twee keer letterlijk
+ * in deze file — mét de merknaam erin. Dat is de dubbele hardcode die RULE 3 verbiedt: bij
+ * de rollout naar de andere merken volgt een agent de gedocumenteerde "één regel" en laat
+ * de tweede staan. Eén constante = één string per repo om te vervangen.
+ */
+const echteQuotesSection: IProofSection = {
+    title: 'Wat Onze Klanten Zeggen',
+    description: 'Ervaringen van bedrijven die al werken met HuisartsenAI.',
+};
+
+/**
+ * DE ENIGE BRON DIE DE PAGINA LEEST. Geen echte quotes = geen sectie; zodra er één echte
+ * quote in `testimonials` staat is de kop waar en verschijnt het blok.
+ */
+export const proofBlock: IProofBlock =
+    testimonials.length > 0
+        ? { section: echteQuotesSection, quotes: testimonials }
+        : { section: null };
