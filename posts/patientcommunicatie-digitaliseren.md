@@ -30,7 +30,7 @@ Het voordeel: digitale informatie is altijd actueel. Een papieren folder over di
 De meest directe winst: automatische afspraakbevestigingen en herinneringen per SMS of e-mail:
 
 - **Bij boeking**: directe bevestiging met datum, tijd en eventuele voorbereidingsinstructies
-- **24 uur voor de afspraak**: herinnering — vermindert no-shows met 30-40%
+- **24 uur voor de afspraak**: herinnering — vermindert no-shows aanzienlijk
 - **Na de afspraak**: bedankbericht met eventuele vervolginstructies
 
 De meeste HIS-systemen (Medicom, Promedico) ondersteunen dit. Het kost eenmalig een uur om in te stellen en bespaart daarna dagelijks telefoonwerk. Lees meer over hoe je de [telefoondruk verlaagt](/blog/telefoondruk-huisartsenpraktijk-verlagen) in je praktijk.
