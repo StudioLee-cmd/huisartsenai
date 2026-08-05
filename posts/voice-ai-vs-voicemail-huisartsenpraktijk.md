@@ -17,7 +17,7 @@ Maandagochtend, kwart over acht. De receptietelefoon staat al twintig minuten ro
 
 Voicemail is geen slecht systeem. Het is gewoon een systeem dat niet ontworpen is voor een omgeving waarin tien bellers tegelijk een echte vraag hebben. Een patiënt die belt om half negen, hoort: *"De praktijk is op dit moment niet bereikbaar. Spreek uw bericht in na de toon."* Daarop volgt voor de meeste bellers een korte mentale rekensom: *moet ik dit nu inspreken, of bel ik straks opnieuw?* Het overgrote deel kiest opnieuw bellen — wat de telefoonpiek verlengt in plaats van afzwakt.
 
-In de Nederlandse markt blijkt dat minder dan één op de vijf bellers een voicemailbericht achterlaat. De overige 80% hangt op. Voor een commerciële MKB-onderneming is dat al pijnlijk; voor een huisartsenpraktijk is het complexer. Een deel van die ophangers belt zo terug; een deel meldt zich elders of laat de klacht sluimeren. Geen van beide is wenselijk, en de praktijkassistente verliest tijd én sturing op het ophanger-volume.
+In de Nederlandse markt blijkt dat maar een klein deel van de bellers een voicemailbericht achterlaat. De rest hangt op. Voor een commerciële MKB-onderneming is dat al pijnlijk; voor een huisartsenpraktijk is het complexer. Een deel van die ophangers belt zo terug; een deel meldt zich elders of laat de klacht sluimeren. Geen van beide is wenselijk, en de praktijkassistente verliest tijd én sturing op het ophanger-volume.
 
 ## Wat een voice AI in een praktijk daadwerkelijk doet
 
