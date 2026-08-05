@@ -105,9 +105,9 @@ Wat praktijken die deze combinatie sinds 2024 hebben ingevoerd terugzien:
 De kostenrange voor een complete pieklast-oplossing in 2026:
 
 - **Online afspraken:** vaak inbegrepen in HIS-abonnement of €19-49/maand extra
-- **Voice AI voor huisartsenpraktijken:** €149-349/maand afhankelijk van NHG-protocol-koppeling
-- **Digitale triage:** €99-199/maand
-- **Slimme terugbelservice:** €49-129/maand
+- **Voice AI voor huisartsenpraktijken:** het zwaarste onderdeel, en de prijs hangt af van de NHG-protocol-koppeling
+- **Digitale triage:** komt daarna, afhankelijk van hoeveel klachtenstromen je inricht
+- **Slimme terugbelservice:** het lichtste onderdeel om mee te beginnen
 - **WhatsApp Business automation:** €19-49/maand
 
 Voor de complete kostenbreakdown, zie de [tarieven voor huisartsenpraktijken](https://www.huisartsenai.nl/tarieven). De ROI: een gemiddelde praktijk bespaart 0,4 tot 0,7 FTE doktersassistente-tijd per week, oftewel €1.800 tot €3.200 per maand aan opportuniteitskosten — meer dan voldoende om de tools te dekken.
