@@ -21,7 +21,7 @@ Huisartsenpraktijken staan onder druk. Wachttijden lopen op, de telefoon staat r
 
 De meest tijdrovende taak voor assistentes is het triageren van telefonische aanvragen. AI-gestuurde triagetools helpen patiënten online zelf de urgentie van hun klacht in te schatten — waardoor alleen spoedeisende gevallen direct telefonisch contact hebben.
 
-Praktijken die digitale triage inzetten, rapporteren 30–40% minder telefonische druk op piekuren.
+Praktijken die digitale triage inzetten, rapporteren duidelijk minder telefonische druk op piekuren.
 
 ## Privacyveilig werken met AI
 
