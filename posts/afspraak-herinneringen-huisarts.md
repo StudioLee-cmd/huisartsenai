@@ -12,7 +12,7 @@ tags: ["Herinneringen", "Huisarts", "No-shows"]
 
 De assistent had 10 minuten gereserveerd. De patiënt komt niet. Geen afmelding. Het volgende consult begint over 3 minuten — het gat is niet meer op te vullen.
 
-Bij een gemiddelde huisartsenpraktijk met 2.400 patiënten en 4% no-show-rate zijn dat 2-3 gemiste consulten per dag. Per week 12-15. Per jaar honderden — allemaal plekken die een andere patiënt had kunnen gebruiken.
+Reken met een gemiddelde huisartsenpraktijk met 2.400 patiënten en 4% no-show-rate: dat zijn 2-3 gemiste consulten per dag. Per week 12-15. Per jaar honderden — allemaal plekken die een andere patiënt had kunnen gebruiken.
 
 ## De impact op de praktijk
 
@@ -29,7 +29,7 @@ Bij een gemiddelde huisartsenpraktijk met 2.400 patiënten en 4% no-show-rate zi
 
 De meest effectieve methode. Stuur 24 uur van tevoren: "Herinnering: je afspraak bij huisarts [naam] is morgen om [tijd]. Kun je niet? Bel [nummer] om te verzetten."
 
-Praktijken die WhatsApp-herinneringen gebruiken rapporteren een daling van 40-60% in no-shows.
+Praktijken die WhatsApp-herinneringen gebruiken rapporteren een forse daling in no-shows.
 
 ### Dubbele bevestiging
 
