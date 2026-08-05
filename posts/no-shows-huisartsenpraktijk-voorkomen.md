@@ -19,7 +19,7 @@ Veel huisartsenpraktijken accepteren no-shows als onvermijdelijk. "Het hoort erb
 
 ## Automatische herinneringen via SMS en WhatsApp
 
-De eenvoudigste oplossing is vaak de effectiefste. Een automatische herinnering via SMS of WhatsApp 24 uur voor het consult vermindert no-shows met 30 tot 50 procent.
+De eenvoudigste oplossing is vaak de effectiefste. Een automatische herinnering via SMS of WhatsApp 24 uur voor het consult vermindert no-shows fors.
 
 ![Doktersbureau in een huisartsenpraktijk](/images/blog/no-shows-huisartsenpraktijk-voorkomen-2.jpg)
 
