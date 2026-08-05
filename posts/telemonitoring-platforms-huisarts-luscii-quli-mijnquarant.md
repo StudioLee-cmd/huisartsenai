@@ -106,7 +106,7 @@ Een proefopstelling met één platform tijdens een verkoopgesprek geeft een te r
 Een telemonitoring-platform staat niet op zichzelf. De stroom monitoring-data moet ergens landen, getrieerd worden, en vertaald naar een actie (terugbellen, controle plannen, recept aanpassen, niets doen). Daar zit het verschil tussen "een platform aangeschaft" en "monitoring werkt in de praktijk".
 
 De drie elementen die het verschil maken:
-- **Triage van afwijkende metingen.** Niet elke afwijking is een actie. Een platform dat 80 procent ruis genereert pleegt aanslag op de assistente-lijn. Een [ai chatbot voor huisartsen](/chatbot) kan de patiënt vooraf vragen stellen ("benauwd in rust of na inspanning?") en pas escalleren bij echt onrustwekkende combinaties.
+- **Triage van afwijkende metingen.** Niet elke afwijking is een actie. Een platform dat overwegend ruis genereert pleegt aanslag op de assistente-lijn. Een [ai chatbot voor huisartsen](/chatbot) kan de patiënt vooraf vragen stellen ("benauwd in rust of na inspanning?") en pas escalleren bij echt onrustwekkende combinaties.
 - **Centraal klantbeeld.** De monitoring-data, de consult-historie, de uitslagen, het herhaalrecept-overzicht: alles in één plek raadpleegbaar. Een [crm voor huisartsen](/crm) dat met telemonitoring koppelt voorkomt dat de huisarts drie schermen open moet hebben tijdens het consult.
 - **Na-uren opvang.** Een hartfalen-patiënt die om 21:30 een alarm-meting heeft hoeft niet altijd HAP-zorg. Een [ai telefonist voor huisartsen](/voice-ai) kan de niet-spoedeisende vragen opvangen en alleen escaleren bij echte rode-vlag-signalen.
 
