@@ -85,7 +85,7 @@ Dit kost de eerste keer 60-90 minuten omdat je de spreadsheet opbouwt. Vanaf het
 
 ## Speciale momenten waar dit fout gaat
 
-Vier momenten waar 80% van de fouten ontstaat:
+Vier momenten waar de meeste fouten ontstaan:
 
 **1. Vakantieweken.** Een huisarts die met zomerverlof gaat, vergeet vaak op één van de vier surfaces de afwijkende openingstijden of de waarneem-regeling toe te voegen. Patiënten die voor een dichte deur staan zijn een direct probleem en een lange-termijn vertrouwens-issue.
 
@@ -111,13 +111,13 @@ Voor de bredere [lokale seo voor huisartsen](/seo) strategie hangt deze sync-dis
 
 Een onderschatte maar krachtige feedback-loop: Google's eigen Insights-dashboard binnen je Bedrijfsprofiel laat zien hoe vaak patiënten op je profiel landen, wat ze aanklikken (route, telefoon, website) en op welke zoekwoorden je verschijnt. Een plotselinge daling in een van deze cijfers — vooral telefoon-clicks — is vaak het eerste signaal dat een veld ergens niet meer klopt.
 
-Check Insights wekelijks (5 minuten). Een drop van 20-30% in week-op-week telefoongesprekken zonder duidelijke oorzaak is bijna altijd een NAP-issue ergens.
+Check Insights wekelijks (5 minuten). Een plotselinge drop in week-op-week telefoongesprekken zonder duidelijke oorzaak is bijna altijd een NAP-issue ergens.
 
 ## Veelgemaakte fouten
 
 **1. Eén platform "leiden" en de rest negeren.** Veel praktijken updaten alleen GBP en gaan ervan uit dat de rest "wel meekomt". Dat doet het niet.
 
-**2. Vakantie-openingstijden vergeten.** Standaard openingstijden staan goed, vakantie-uitzonderingen niet. Patiënten die voor een dichte deur staan tijdens Pasen of Hemelvaart hebben dat in 9 op de 10 keer als oorzaak.
+**2. Vakantie-openingstijden vergeten.** Standaard openingstijden staan goed, vakantie-uitzonderingen niet. Patiënten die voor een dichte deur staan tijdens Pasen of Hemelvaart hebben dat vrijwel altijd als oorzaak.
 
 **3. Inconsistente naamspelling.** "Huisartsenpraktijk Dr. Bos" vs "Huisartsenpraktijk dr. Bos" vs "Huisartsenpraktijk Bos" — Google ziet dit als drie verschillende entiteiten en weegt af.
 
