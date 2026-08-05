@@ -31,6 +31,6 @@ Een extra assistente voor de telefoon kost 1.500 tot 2.500 euro per maand. En ze
 
 ## Het effect op patienttevredenheid
 
-Praktijken die telefonische triage en online afspraken combineren, rapporteren een daling van 30 tot 50 procent in telefoontjes naar de balie. De wachttijd daalt, de frustatie verdwijnt en de assistente heeft meer tijd voor de patienten die in de praktijk zijn.
+Praktijken die telefonische triage en online afspraken combineren, rapporteren een stevige daling in telefoontjes naar de balie. De wachttijd daalt, de frustatie verdwijnt en de assistente heeft meer tijd voor de patienten die in de praktijk zijn.
 
 Bekijk de [tarieven](/tarieven) voor een overzicht van de mogelijkheden, of vraag een [gratis scan](/gratis-scan) aan om te ontdekken wat er mogelijk is voor jouw praktijk.
