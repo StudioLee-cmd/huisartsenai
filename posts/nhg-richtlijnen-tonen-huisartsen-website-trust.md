@@ -10,8 +10,8 @@ cluster: "website"
 ---
 
 **In het kort:**
-- 82 procent van huisartsenwebsite-bezoekers (patienten die nieuwe praktijk zoeken plus huidige patienten die kwaliteit checken) bekijkt actief trust-signalen voordat ze inschrijven of een afspraak boeken. NHG-richtlijn-compliance, NPA-keurmerk, NHG-praktijkaccreditatie en transparante kwaliteitsindicatoren zijn de 4 hoofd-signalen. Praktijken die deze zichtbaar tonen verhogen inschrijf-conversie met 22 tot 38 procent.
-- Het NPA-keurmerk (NHG Praktijkaccreditatie) heeft 67 procent van Nederlandse huisartsenpraktijken in 2025, maar slechts 28 procent toont het zichtbaar op de website. Wie het wel toont haalt 15 tot 25 procent meer inschrijvingen plus 12 tot 22 posities hoger in lokale Google-resultaten (E-E-A-T-versterking voor YMYL-categorie).
+- De ruime meerderheid van huisartsenwebsite-bezoekers (patienten die nieuwe praktijk zoeken plus huidige patienten die kwaliteit checken) bekijkt actief trust-signalen voordat ze inschrijven of een afspraak boeken. NHG-richtlijn-compliance, NPA-keurmerk, NHG-praktijkaccreditatie en transparante kwaliteitsindicatoren zijn de 4 hoofd-signalen. Praktijken die deze zichtbaar tonen verhogen de inschrijf-conversie merkbaar.
+- Het NPA-keurmerk (NHG Praktijkaccreditatie) heeft een ruime meerderheid van de Nederlandse huisartsenpraktijken in 2025, maar slechts een minderheid toont het zichtbaar op de website. Wie het wel toont haalt merkbaar meer inschrijvingen plus 12 tot 22 posities hoger in lokale Google-resultaten (E-E-A-T-versterking voor YMYL-categorie).
 - De 5 plekken waar trust-signalen MOETEN staan: footer-balk (zichtbaar op elke pagina), "Over ons" pagina met expliciete NHG-uitleg, team-pagina per arts (BIG-nummer, NHG-accreditatie, specialisaties), inschrijf-pagina (laatste impressie voor commitment), en de kwaliteits-pagina (transparante cijfers van NPA-jaarrapport).
 - Een [chatbot voor huisartsen](/chatbot) op je website met aparte route "Hoe zit het met de kwaliteit van jullie praktijk?" beantwoordt deze vragen 24/7. Een [reviews-flow voor huisartsen](/reviews) verzamelt patient-quotes die naast de NHG-keurmerken extra sociaal-bewijs leveren.
 
@@ -30,7 +30,7 @@ Resultaat: huisartsen die NHG-keurmerken en kwaliteitsindicatoren expliciet tone
 
 ### 1. NPA-keurmerk (NHG Praktijkaccreditatie)
 
-Het NPA-keurmerk is een vrijwillige accreditatie van NHG voor huisartsenpraktijken die voldoen aan plus actief werken aan een kwaliteitssysteem. 67 procent van NL-praktijken heeft het in 2025. Beoordeling om de 3 jaar via een onafhankelijke visitatie.
+Het NPA-keurmerk is een vrijwillige accreditatie van NHG voor huisartsenpraktijken die voldoen aan plus actief werken aan een kwaliteitssysteem. Een ruime meerderheid van de NL-praktijken heeft het in 2025. Beoordeling om de 3 jaar via een onafhankelijke visitatie.
 
 **Waarom dit conversie kost als je het NIET toont:** patienten die googelen "huisarts NPA-erkend [stad]" of "NHG-praktijk-accreditatie [regio]" en jouw site bezoeken kunnen de status niet vinden, verlaten de site, kiezen een andere.
 
@@ -83,7 +83,7 @@ Bij elke huisarts:
 
 ### Plek 4: Inschrijf-pagina
 
-Net voordat de patient inschrijft als nieuwe patient: trust-elementen herhalen. Op deze pagina: NPA-keurmerk plus recente Google-reviews plus kwaliteitsindicator (bijvoorbeeld "Gemiddelde wachttijd consult: 2,4 dagen, landelijk gemiddelde: 4,1 dagen"). Verhoogt inschrijf-conversie met 15 tot 25 procent.
+Net voordat de patient inschrijft als nieuwe patient: trust-elementen herhalen. Op deze pagina: NPA-keurmerk plus recente Google-reviews plus kwaliteitsindicator (bijvoorbeeld "Gemiddelde wachttijd consult: 2,4 dagen, landelijk gemiddelde: 4,1 dagen"). Verhoogt de inschrijf-conversie merkbaar.
 
 ### Plek 5: Dedicated "Kwaliteit" pagina
 
@@ -101,7 +101,7 @@ Een [seo voor huisartsen](/seo) traject focust onder andere op deze E-E-A-T-vers
 
 ## Wat NIET helpt: 4 typische valkuilen
 
-**Valkuil 1: NPA-keurmerk alleen vermelden zonder logo of geldigheid-datum.** Een tekstuele vermelding "Wij zijn NPA-geaccrediteerd" zonder logo plus geldigheid-jaar wordt door 60 tot 70 procent van bezoekers genegeerd. Toon altijd het officiele NPA-logo plus geldigheid-datum prominent.
+**Valkuil 1: NPA-keurmerk alleen vermelden zonder logo of geldigheid-datum.** Een tekstuele vermelding "Wij zijn NPA-geaccrediteerd" zonder logo plus geldigheid-jaar wordt door het merendeel van de bezoekers genegeerd. Toon altijd het officiele NPA-logo plus geldigheid-datum prominent.
 
 **Valkuil 2: Verouderde kwaliteitsindicatoren tonen.** Cijfers van 2 jaar oud zijn slechter dan geen cijfers. Stel kwartaal-reminder in voor update of bouw een automatische NPA-cijfers-koppeling via een [crm voor huisartsen](/crm).
 
