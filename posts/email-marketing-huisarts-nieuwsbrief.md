@@ -68,7 +68,7 @@ De meeste huisartsenpraktijken komen prima uit met Mailchimp. Maak een template 
 
 ## Resultaat meten
 
-- **Open rate**: hoeveel patienten openen de mail? 30-40% is normaal voor gezondheidscommunicatie
+- **Open rate**: hoeveel patienten openen de mail? Reken met 30-40% als normaal voor gezondheidscommunicatie
 - **Klik rate**: hoeveel klikken op links (online aanmelden griepvaccinatie, e-consult)?
 - **Telefoondruk**: vergelijk het aantal telefoontjes in de week na de nieuwsbrief met een normale week
 - **Online receptaanvragen**: stijgt het gebruik van digitale diensten na promotie via de nieuwsbrief?
