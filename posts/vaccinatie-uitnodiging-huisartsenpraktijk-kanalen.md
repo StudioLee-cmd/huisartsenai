@@ -10,11 +10,11 @@ cluster: "automatisering"
 
 ## In het kort
 
-- **De gemiddelde Nederlandse huisartsenpraktijk haalt 60-72% vaccinatiegraad** met alleen brief-uitnodiging, en 78-86% met een drie-kanaals-aanpak.
+- **De gemiddelde Nederlandse huisartsenpraktijk haalt een matige vaccinatiegraad** met alleen brief-uitnodiging, en een duidelijk hogere met een drie-kanaals-aanpak.
 - **Brief blijft de basis voor de doelgroep 70+** maar werkt slecht voor patiënten onder de 60.
 - **SMS en WhatsApp halen open-rates van 90+ procent** binnen het uur, ideaal voor herinnering of bevestiging.
-- **Patiënten-portal of app werkt alleen** als minimaal 60% van de doelgroep al een actief account heeft.
-- **De grootste fout: één-kanaal-uitnodiging zonder herinneringen.** Daar verlies je 15-25% van je doelgroep.
+- **Patiënten-portal of app werkt alleen** als een ruime meerderheid van de doelgroep al een actief account heeft.
+- **De grootste fout: één-kanaal-uitnodiging zonder herinneringen.** Daar verlies je een fors deel van je doelgroep.
 
 ## Waarom kanaalkeuze in 2026 anders ligt dan vijf jaar geleden
 
@@ -37,18 +37,18 @@ Voor patiënten boven de 75, en in mindere mate voor patiënten boven de 65, bli
 - B1-taalniveau (korte zinnen, geen medische jargon)
 - Een QR-code of URL voor de patiënten die online willen bevestigen of verzetten
 
-**Verwachte respons-rate (alleen brief, doelgroep 75+):** 75-82% binnen drie weken na verzending, mits de patiënt al meerdere jaren bij de praktijk staat ingeschreven.
+**Verwachte respons-rate (alleen brief, doelgroep 75+):** hoog binnen drie weken na verzending, mits de patiënt al meerdere jaren bij de praktijk staat ingeschreven.
 
 **Kosten per uitnodiging:** ongeveer €0.85-€1.10 (papier, envelop, postzegel, print, eventueel afdrukcentrale-fee). Voor een praktijk met 800 doelgroep-patiënten betekent dat €680-€880 per ronde, vier of vijf ronden per jaar. Niet onbetekenend, maar voor de 75+-doelgroep is het deze kosten waard.
 
 **Wanneer brief NIET werkt:**
-- Patiënten onder de 60 lezen brieven steeds slechter; respons-rate zakt naar 40-55%
+- Patiënten onder de 60 lezen brieven steeds slechter; de respons-rate zakt daar fors
 - Praktijken in stedelijke gebieden waar veel patiënten zonder vast huisadres zitten (studenten, expats, dakloze populaties)
 - Korte termijn-campagnes waarbij respons binnen 5 dagen nodig is. Brief is dan te traag
 
 ## Kanaal 2: SMS, beste open-rate maar beperkt in volume
 
-SMS heeft van alle digitale kanalen de hoogste open-rate: gemiddeld 95-98% binnen tien minuten na verzending. Voor een huisartsenpraktijk is dit het ideale herinneringskanaal, en voor jongere doelgroepen werkt het ook als hoofd-uitnodiging.
+SMS heeft van alle digitale kanalen de hoogste open-rate: vrijwel iedereen opent het bericht binnen tien minuten na verzending. Voor een huisartsenpraktijk is dit het ideale herinneringskanaal, en voor jongere doelgroepen werkt het ook als hoofd-uitnodiging.
 
 **Wat werkt in een SMS:**
 - Maximaal 160 tekens (geen lange uitleg, geen multimedia)
@@ -57,9 +57,9 @@ SMS heeft van alle digitale kanalen de hoogste open-rate: gemiddeld 95-98% binne
 - Verzonden van een herkenbaar nummer of korte code (geen anonieme afzender)
 
 **Verwachte respons-rate (SMS als enig kanaal):**
-- Doelgroep 18-65: 65-78% binnen 48 uur
-- Doelgroep 65-75: 50-65% binnen 48 uur
-- Doelgroep 75+: 30-45% (te lage respons om alleen op SMS te leunen)
+- Doelgroep 18-65: het merendeel binnen 48 uur
+- Doelgroep 65-75: ruim de helft binnen 48 uur
+- Doelgroep 75+: een minderheid (te lage respons om alleen op SMS te leunen)
 
 **Kosten per SMS:** €0.05-€0.08 via een zorg-gespecialiseerde provider (Spryng, MessageBird, CM.com). Voor 800 patiënten betekent dat €40-€64 per ronde. Twintig keer goedkoper dan brief.
 
@@ -85,10 +85,10 @@ WhatsApp Business is in 2026 het veelzijdigste kanaal voor vaccinatie-uitnodigin
 - Een vervolg-flow waarin de patiënt direct kan plannen via een link
 
 **Verwachte respons-rate:**
-- Doelgroep 18-50: 78-90% binnen 24 uur (de hoogste van alle kanalen)
-- Doelgroep 50-65: 70-80% binnen 24 uur
-- Doelgroep 65-75: 55-68% (sterk afhankelijk van of de patiënt al WhatsApp gebruikt)
-- Doelgroep 75+: 25-40% (te laag om als hoofdkanaal in te zetten)
+- Doelgroep 18-50: het overgrote deel binnen 24 uur (de hoogste van alle kanalen)
+- Doelgroep 50-65: het merendeel binnen 24 uur
+- Doelgroep 65-75: ruim de helft (sterk afhankelijk van of de patiënt al WhatsApp gebruikt)
+- Doelgroep 75+: een minderheid (te laag om als hoofdkanaal in te zetten)
 
 **Kosten per WhatsApp Business message:** €0.04-€0.07 voor een conversation-gebaseerde tarief in Nederland. Vergelijkbaar met SMS in kosten, hoger in waarde door de interactiviteit.
 
@@ -104,7 +104,7 @@ Eén kanaal alleen is voor de meeste praktijken niet genoeg. Hier is de aanbevol
 2. **SMS-herinnering** voor non-responders in week 2 (alleen als WhatsApp niet beantwoord)
 3. **E-mail backup** voor patiënten zonder mobiel. Niet als hoofdkanaal
 
-Verwachte vaccinatiegraad: 80-88%
+Verwachte vaccinatiegraad: hoog, met de digitale kanalen als motor
 
 ### Doelgroep 50-70: hybride
 
@@ -112,7 +112,7 @@ Verwachte vaccinatiegraad: 80-88%
 2. **SMS-herinnering** twee weken later in week 3 (alle non-responders)
 3. **WhatsApp-bevestiging** dag voor de afspraak op dag X-1
 
-Verwachte vaccinatiegraad: 78-85%
+Verwachte vaccinatiegraad: hoog, mits de SMS-herinnering echt uitgaat
 
 ### Doelgroep 70+: brief-eerst
 
@@ -120,7 +120,7 @@ Verwachte vaccinatiegraad: 78-85%
 2. **Telefoongesprek** voor non-responders na drie weken in week 4
 3. **SMS-herinnering** dag voor de afspraak (alleen als de patiënt heeft bevestigd) op dag X-1
 
-Verwachte vaccinatiegraad: 78-86%
+Verwachte vaccinatiegraad: hoog, dankzij het telefonische vangnet
 
 Deze flow is geen statische blauwdruk. Pas hem aan op je patiëntenpopulatie. Praktijken in academisch milieu hebben vaker e-mail-actieve 70-jarigen dan praktijken in landelijke gebieden.
 
@@ -148,11 +148,11 @@ Vaccinatie-uitnodigingen vallen onder bijzondere persoonsgegevens (gezondheidsge
 
 ## Veelgemaakte fouten
 
-**Eén kanaal voor alle leeftijden.** Een 35-jarige werknemer en een 78-jarige weduwe vragen om totaal verschillende kanaal-strategieën. Een algemene brief-naar-iedereen-aanpak verliest 20-30% van je jongere doelgroep.
+**Eén kanaal voor alle leeftijden.** Een 35-jarige werknemer en een 78-jarige weduwe vragen om totaal verschillende kanaal-strategieën. Een algemene brief-naar-iedereen-aanpak verliest een fors deel van je jongere doelgroep.
 
-**Te lange teksten in SMS of WhatsApp.** Een SMS van 600 tekens wordt opgeknipt in vier berichten en leest verwarrend. Een WhatsApp van vijf alinea's haakt 40% van de patiënten af. Hou het kort.
+**Te lange teksten in SMS of WhatsApp.** Een SMS van 600 tekens wordt opgeknipt in vier berichten en leest verwarrend. Een WhatsApp van vijf alinea's haakt een groot deel van de patiënten af. Hou het kort.
 
-**Geen herinneringen na non-respons.** 30-40% van je doelgroep reageert niet op de eerste uitnodiging. Een tweede touchpoint via een ander kanaal pikt 60-70% van die non-responders alsnog op. Sla dit niet over.
+**Geen herinneringen na non-respons.** Een substantieel deel van je doelgroep reageert niet op de eerste uitnodiging. Een tweede touchpoint via een ander kanaal pikt het merendeel van die non-responders alsnog op. Sla dit niet over.
 
 **Toestemmingen niet bijhouden.** Een WhatsApp-bericht naar een patiënt zonder opt-in is een AVG-overtreding. Bouw je intake-formulier zo dat opt-ins automatisch worden geregistreerd, of gebruik onze [gratis website voor huisartsen](/gratis-website) waar dit standaard ingebouwd zit.
 
@@ -162,11 +162,11 @@ Vaccinatie-uitnodigingen vallen onder bijzondere persoonsgegevens (gezondheidsge
 
 Bij twee Nederlandse huisartsenpraktijken die we het afgelopen jaar hebben begeleid bij de overstap van een één-kanaals naar drie-kanaals vaccinatieflow:
 
-- **Vaccinatiegraad griep (doelgroep 65+):** van 71% naar 84% in de eerste herfst
-- **Vaccinatiegraad pneumokokken (doelgroep 60+):** van 58% naar 73%
+- **Vaccinatiegraad griep (doelgroep 65+):** fors omhoog in de eerste herfst
+- **Vaccinatiegraad pneumokokken (doelgroep 60+):** eveneens fors omhoog
 - **Tijd per ronde voor de assistente:** van 42 uur naar 8 uur
-- **Telefoonverkeer rond vaccinatie-vragen:** -45% (patiënten plannen zelf via de link)
-- **Patiëntklachten over communicatie:** -60%
+- **Telefoonverkeer rond vaccinatie-vragen:** flink lager (patiënten plannen zelf via de link)
+- **Patiëntklachten over communicatie:** sterk gedaald
 
 Voor een gemiddelde praktijk met 7.500 patiënten en vier vaccinatie-rondes per jaar betekent dit een tijdsbesparing van ongeveer 130 uur per jaar voor de assistente, plus een hogere vaccinatiegraad die direct bijdraagt aan praktijk-kwaliteitsindicatoren. Lees ook onze gids over [preventieve ketenzorg-recall](/blog/preventieve-ketenzorg-recall-huisartspraktijk-risicopatienten-kwartaal) voor het bredere recall-systeem dat hier op aansluit.
 
@@ -182,7 +182,7 @@ Dit zijn meestal patiënten boven de 80. Voor deze doelgroep blijft brief plus t
 
 ### Werkt e-mail nog als kanaal?
 
-Voor uitnodigingen werkt e-mail matig (open-rate 25-40% bij vaccinatie-onderwerp). Voor uitgebreide informatie of follow-up wel. Combineer e-mail nooit als enig kanaal voor de uitnodiging zelf.
+Voor uitnodigingen werkt e-mail matig (lage open-rate bij vaccinatie-onderwerp). Voor uitgebreide informatie of follow-up wel. Combineer e-mail nooit als enig kanaal voor de uitnodiging zelf.
 
 ### Hoeveel kost een complete drie-kanaals-flow per jaar?
 
