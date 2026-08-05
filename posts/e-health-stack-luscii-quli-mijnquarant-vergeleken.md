@@ -33,7 +33,7 @@ Quli ligt in een iets ander segment. Het is officieel een MedMij-erkend persoons
 
 ![Tablet op huisartsen-balie met open dashboard, stethoscoop en patiëntenlijst-clipboard ernaast](/images/blog/e-health-stack-luscii-quli-mijnquarant-vergeleken-2.jpg)
 
-Het zwakke punt: omdat Quli primair patiënt-gestuurd is, hangt veel van het succes af van de digitale geletterdheid van je populatie. Bij een praktijk met een oudere of laaggeletterde patiëntenpopulatie wordt het platform door minder dan 30% van de uitgenodigde patiënten daadwerkelijk gebruikt. Voor stadse praktijken met jongere chronisch-zieken werkt het beter dan voor dorpspraktijken met een gemiddelde leeftijd boven de 60.
+Het zwakke punt: omdat Quli primair patiënt-gestuurd is, hangt veel van het succes af van de digitale geletterdheid van je populatie. Bij een praktijk met een oudere of laaggeletterde patiëntenpopulatie wordt het platform door een minderheid van de uitgenodigde patiënten daadwerkelijk gebruikt. Voor stadse praktijken met jongere chronisch-zieken werkt het beter dan voor dorpspraktijken met een gemiddelde leeftijd boven de 60.
 
 Kosten in 2026: het basisplatform is gratis voor de patiënt. De praktijk betaalt voor het zorgverlener-portaal en de integraties, meestal in de bandbreedte van €3 tot €7 per actieve patiënt per maand. NZa-vergoeding is mogelijk maar afhankelijk van het specifieke zorgpad en de zorgverzekeraar, dus check vooraf bij je preferente verzekeraar of de specifieke verrichting wordt vergoed.
 
@@ -49,7 +49,7 @@ Kosten in 2026: circa €350 tot €600 per maand voor de hele praktijk (niet pe
 
 De rekensom voor een solopraktijk met 2.500 patiënten en circa 200 chronisch-zieken die in aanmerking komen voor telemonitoring:
 
-- **Luscii:** 200 × €7 gemiddeld = €1.400 per maand, met mogelijk 60-80% NZa-terugvordering bij de juiste zorgpaden = netto €280 tot €560 per maand
+- **Luscii:** 200 × €7 gemiddeld = €1.400 per maand; reken met 60-80% NZa-terugvordering bij de juiste zorgpaden = netto €280 tot €560 per maand
 - **Quli:** 200 × €5 gemiddeld = €1.000 per maand, met variabele terugvordering = netto €400 tot €700 per maand bij gemiddelde activatie-graad
 - **MijnQuarant:** vast €500 per maand ongeacht patiëntaantal, NZa-terugvordering volgt de zorgpaden = netto €100 tot €300 per maand
 
