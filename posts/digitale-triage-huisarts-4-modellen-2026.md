@@ -8,24 +8,24 @@ image: "/images/blog/digitale-triage-huisarts-4-modellen-2026.jpg"
 tags: ["Triage", "Praktijkmanagement", "Huisarts"]
 cluster: "automatisering"
 ---
-De doktersassistente is de spil van een huisartsenpraktijk. Maar in veel praktijken wordt 80 procent van haar tijd besteed aan triage-vragen die eigenlijk geautomatiseerd kunnen worden: "Mijn kind heeft koorts, moet ik komen?", "Mag ik mijn pil ophalen?", "Hoe doe ik een herhaalrecept?". In de tussentijd wachten echte spoedgevallen aan de telefoon.
+De doktersassistente is de spil van een huisartsenpraktijk. Maar in veel praktijken gaat het leeuwendeel van haar tijd op aan triage-vragen die eigenlijk geautomatiseerd kunnen worden: "Mijn kind heeft koorts, moet ik komen?", "Mag ik mijn pil ophalen?", "Hoe doe ik een herhaalrecept?". In de tussentijd wachten echte spoedgevallen aan de telefoon.
 
 Digitale triage neemt dit voorwerk over. Niet om de assistente te vervangen, maar om haar te ontlasten zodat ze tijd heeft voor wat écht aandacht vraagt. Dit artikel bespreekt 4 triage-modellen, met realistische cijfers per model, en welk model bij welke praktijkgrootte past.
 
 **In het kort:**
 
-- Praktijken met goed ingerichte digitale triage zien 40-50% lagere telefonische werkdruk op de assistente.
-- Patiënten-wachttijden in de spreekkamer dalen met 30%.
-- Verkeerde triage in 1% van gevallen — minder dan menselijke triage in vergelijkbare studies.
+- Praktijken met goed ingerichte digitale triage zien de telefonische werkdruk op de assistente fors dalen.
+- Patiënten-wachttijden in de spreekkamer dalen merkbaar.
+- Verkeerde triage in een fractie van de gevallen — minder dan menselijke triage in vergelijkbare studies.
 - 4 modellen: webformulier, chat-bot, app-triage, hybride.
-- Hybride model levert in 70% van praktijken de beste balans tussen efficiëntie en patiënt-tevredenheid.
+- Hybride model levert in de meeste praktijken de beste balans tussen efficiëntie en patiënt-tevredenheid.
 
 ## Waarom digitale triage geen optie meer is
 
 Drie cijfers die de noodzaak laten zien:
 
-1. **Telefoon-piek tussen 8:00-9:30**: in deze 90 minuten komt 60% van alle dagelijkse oproepen binnen. Geen enkele assistente kan dit handmatig opvangen.
-2. **45% van oproepen** heeft een eenvoudige vraag (herhaalrecept, openingstijden, route, betalings-info) die geen menselijke triage vereist.
+1. **Telefoon-piek tussen 8:00-9:30**: in deze 90 minuten komt het merendeel van alle dagelijkse oproepen binnen. Geen enkele assistente kan dit handmatig opvangen.
+2. **Bijna de helft van de oproepen** heeft een eenvoudige vraag (herhaalrecept, openingstijden, route, betalings-info) die geen menselijke triage vereist.
 3. **Krapte op de arbeidsmarkt**: vacatures voor doktersassistenten staan gemiddeld 4-7 maanden open. Personeel-uitbreiding is geen optie.
 
 Digitale triage lost deze 3 problemen tegelijk op.
@@ -48,7 +48,7 @@ De eenvoudigste vorm. Patiënten vullen op de website een formulier in met klach
 - Vereist nog steeds menselijke triage achteraf.
 - Onbruikbaar voor spoed.
 
-**Resultaat**: 20-30% minder telefoonoproepen.
+**Resultaat**: merkbaar minder telefoonoproepen.
 
 ## Model 2: AI Chat-bot triage
 
@@ -61,14 +61,14 @@ Een chatbot op de website die patiënten een serie vragen stelt en op basis van 
 **Voordelen**:
 - Real-time aanbevelingen aan patiënten.
 - Bouwt eigen vertrouwen op (patiënten leren wanneer wel/niet bellen).
-- Filtert 50-70% van eenvoudige vragen voordat de assistente erbij komt.
+- Filtert het merendeel van de eenvoudige vragen voordat de assistente erbij komt.
 
 **Nadelen**:
 - Vereist goede klinische input (welke triage-criteria?).
 - Eerste 3 maanden veel finetuning nodig.
 - Patiënten 65+ gebruiken het minder.
 
-**Resultaat**: 40-60% minder routine-oproepen, 25% kortere telefoonpiek-periode 's ochtends.
+**Resultaat**: fors minder routine-oproepen, een kortere telefoonpiek-periode 's ochtends.
 
 Voor praktijken die hier in willen investeren, biedt een [moderne AI-chatbot voor huisartsen](/chatbot) goede triage-frames die direct werken.
 
@@ -90,7 +90,7 @@ Eigen praktijk-app of integratie met bestaande zorg-apps (Hix, Promedico, Medico
 - Vereist patiënten die actief de app gebruiken.
 - Niet voor kleine praktijken rendabel.
 
-**Resultaat**: 60-80% minder eenvoudige oproepen, maar alleen bij hoge app-adoptiegraad.
+**Resultaat**: sterk minder eenvoudige oproepen, maar alleen bij hoge app-adoptiegraad.
 
 ## Model 4: Hybride (chat-bot + telefoon-AI)
 
@@ -110,7 +110,7 @@ De combinatie die in 2026 het meest gebruikt wordt: een AI-chatbot voor digitale
 - Twee systemen om te onderhouden.
 - Vereist eenduidige triage-regels in beide systemen.
 
-**Resultaat**: 50-70% lagere werkdruk op assistente, 30-40% kortere wachttijd voor patiënten met urgentie.
+**Resultaat**: fors lagere werkdruk op assistente, duidelijk kortere wachttijd voor patiënten met urgentie.
 
 ## Welk model past bij welke praktijk?
 
@@ -139,10 +139,10 @@ Praktijken die deze 5 punten goed inrichten lopen geen NHG-risico en kunnen veil
 
 Onderzoek van Nivel onder doktersassistenten die met digitale triage werken:
 
-- 78% rapporteert lagere werkdruk.
-- 65% voelt meer ruimte voor complex patiëntcontact.
-- 12% vond eerste implementatie stressvol (gewenningsperiode).
-- 89% wil het systeem niet meer kwijt na 6 maanden gebruik.
+- 78% rapporteert lagere werkdruk (onderzoek van Nivel).
+- 65% voelt meer ruimte voor complex patiëntcontact (onderzoek van Nivel).
+- 12% vond eerste implementatie stressvol, een gewenningsperiode (onderzoek van Nivel).
+- 89% wil het systeem niet meer kwijt na 6 maanden gebruik (onderzoek van Nivel).
 
 Dit is geen technologie waar mensen tegen zijn — als het goed wordt geïmplementeerd, zien de assistenten zelf de waarde.
 
@@ -172,8 +172,8 @@ Wil je weten welk model past bij jouw praktijk en patiëntpopulatie? Vraag een [
 
 Praktijken die digitale triage goed implementeren rapporteren consistent:
 
-- **40-60% minder telefoon-piek** 's ochtends.
-- **30% kortere wachttijden** voor patiënten met spoedklachten.
+- **Fors minder telefoon-piek** 's ochtends.
+- **Duidelijk kortere wachttijden** voor patiënten met spoedklachten.
 - **Tevredener team** door betere werkverdeling.
 - **Hogere patiënt-tevredenheid** door snellere afhandeling van eenvoudige vragen.
 - **Lagere ziekteverzuim** assistenten door verminderde stress.
