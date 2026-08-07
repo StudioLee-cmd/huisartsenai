@@ -40,7 +40,7 @@ Reageer professioneel op reviews. Bij positieve reviews: bedank kort. Bij negati
 
 Een van de meest gezochte informatie over huisartsenpraktijken is de bereikbaarheid. Zorg dat je Google-profiel altijd de juiste openingstijden toont, ook op feestdagen en tijdens vakanties.
 
-Gebruik de Q&A-functie van Google Bedrijfsprofiel om veelgestelde vragen te beantwoorden: "Hoe schrijf ik me in?", "Nemen jullie nieuwe patienten aan?", "Wat zijn de wachttijden?" Door deze vragen zelf te plaatsen en te beantwoorden, voorkom je dat anderen onjuiste informatie geven.
+De vragensectie waarin bezoekers iets op je profiel konden vragen bestaat niet meer: Google faseerde die vanaf 3 december 2025 uit, nadat het op 3 november 2025 de koppeling ernaartoe had stopgezet. De vragen blijven wel: "Hoe schrijf ik me in?", "Nemen jullie nieuwe patienten aan?", "Wat zijn de wachttijden?" Zorg dat het antwoord op elk daarvan letterlijk in je bedrijfsomschrijving en op je website staat, want daar leest Google het nu uit. Wat er precies veranderd is staat in [Google Q&A huisartsenpraktijk: weg, wat nu telt](/blog/google-qa-sectie-huisartsenpraktijk).
 
 Vermeld ook je spoedprocedure: wat moet een patient doen buiten openingstijden? Een duidelijk bericht hierover op je profiel kan letterlijk levens redden.
 
