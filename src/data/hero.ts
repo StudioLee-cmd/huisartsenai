@@ -1,5 +1,5 @@
 export const heroDetails = {
     heading: 'De grootste kans voor huisartsen sinds de uitvinding van de stethoscoop.',
-    subheading: 'Bespaar zeeën van tijd en zeg vaarwel tegen administratieve rompslomp. HuisartsenAI regelt uw agenda, triage en patiëntencontact volledig automatisch. Zo kunt u zich ongestoord richten op wat echt telt: de patiënt.',
+    subheading: "Wij maken de website voor jouw huisartsenpraktijk. Chatbot, telefoon en marketing sluit je erop aan via je pakket, zodat jij kunt doen waar je goed in bent.",
     centerImageSrc: '/images/hero-image.png',
 }
