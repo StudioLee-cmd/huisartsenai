@@ -8,6 +8,7 @@ import { getAuthorBySlug } from '@/data/authors';
 import { siteDetails } from '@/data/siteDetails';
 import Container from '@/components/Container';
 import BlogContent from '@/components/BlogContent';
+import BlogScanCta from '@/components/BlogScanCta';
 import { FiArrowLeft, FiClock } from 'react-icons/fi';
 
 const SITE_URL = 'https://www.huisartsenai.nl';
@@ -56,6 +57,11 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
     }
 
     const contentHtml = await getPostHtml(slug);
+    // The scan card sits before the article's second section, so a reader meets it in the first third.
+    const firstH2 = contentHtml.indexOf('<h2');
+    const secondH2 = firstH2 === -1 ? -1 : contentHtml.indexOf('<h2', firstH2 + 3);
+    const contentStart = secondH2 > 0 ? contentHtml.slice(0, secondH2) : contentHtml;
+    const contentRest = secondH2 > 0 ? contentHtml.slice(secondH2) : '';
     const author = getAuthorBySlug(post.authorSlug);
 
 
@@ -148,7 +154,10 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
                         </div>
                     </div>
 
-                    <BlogContent content={contentHtml} />
+                    <BlogContent content={contentStart} />
+                    {contentRest && <BlogScanCta slug={slug} place="midden" />}
+                    {contentRest && <BlogContent content={contentRest} />}
+                    <BlogScanCta slug={slug} place="einde" />
 
                     {author && (
                         <div className="mt-12 p-6 bg-[var(--card-background)] rounded-2xl border border-[var(--card-border)]">
