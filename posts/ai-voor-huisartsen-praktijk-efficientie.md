@@ -107,6 +107,6 @@ AI maakt de huisartsenpraktijk niet onpersoonlijker — het maakt de praktijk ju
 
 Met [HuisartsenAI](/) helpen we praktijken bij het stap voor stap implementeren van AI-oplossingen. Onze managed service kost slechts 15 minuten van je tijd per maand — wij regelen de techniek. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
-Plan een [gratis adviesgesprek](https://cal.com/studiolee) en ontdek wat AI voor jouw praktijk kan betekenen.
+Plan een [gratis adviesgesprek](/demo) en ontdek wat AI voor jouw praktijk kan betekenen.
 
 Lees ook onze andere artikelen over [online groei voor huisartsenpraktijken](/blog).
