@@ -12,7 +12,7 @@ import { getPlatformIconByName } from '@/utils';
 const Footer: React.FC = () => {
     return (
         <footer className="bg-hero-background text-foreground py-10">
-            <div className="max-w-7xl w-full mx-auto px-6 grid grid-cols-1 md:grid-cols-4 gap-10">
+            <div className="max-w-7xl w-full mx-auto px-6 grid grid-cols-1 md:grid-cols-4 lg:grid-cols-5 gap-10">
                 <div>
                     <Link href="/" className="flex items-center gap-2">
                         <Image
@@ -32,6 +32,16 @@ const Footer: React.FC = () => {
                     <ul className="text-foreground-accent">
                         {footerDetails.services.map(link => (
                             <li key={link.text} className="mb-2">
+                                <Link href={link.url} className="hover:text-foreground">{link.text}</Link>
+                            </li>
+                        ))}
+                    </ul>
+                </div>
+                <div>
+                    <h4 className="text-lg font-semibold mb-4">Gidsen</h4>
+                    <ul className="text-foreground-accent">
+                        {footerDetails.guides.map(link => (
+                            <li key={link.url} className="mb-2">
                                 <Link href={link.url} className="hover:text-foreground">{link.text}</Link>
                             </li>
                         ))}
