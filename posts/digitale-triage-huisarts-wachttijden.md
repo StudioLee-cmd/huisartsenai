@@ -63,4 +63,4 @@ Wanneer de huisarts een patient ziet, heeft hij al de digitale intake gelezen. H
 
 Het huisartsentekort groeit. De werklast per praktijk stijgt. Meer assistenten aannemen is duur en lost het structurele probleem niet op. Digitale triage wel. Het maakt je praktijk efficienter, je patienten tevredener en je team minder overbelast.
 
-Wil je weten hoe jouw huisartsenpraktijk efficienter en beter vindbaar wordt? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen. Inclusief onze Groei-of-Geld-Terug Garantie.
+Wil je weten hoe jouw huisartsenpraktijk efficienter en beter vindbaar wordt? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen.

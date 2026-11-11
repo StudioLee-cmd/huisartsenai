@@ -79,7 +79,7 @@ Na 30 minuten heb je een eerlijke score per datapunt versus drie vergelijkbare p
 
 Sorteer de datapunten waar jij het laagst scoort. Pak het ene of twee dat het meest verschil maakt voor de patiëntenkeuze (vaak Google reviews of website-fundamentals) en werk daar de komende vier weken aan. Vergelijk daarna opnieuw.
 
-Wanneer dit voelt als veel handwerk: een [gratis ai scan voor huisartsen](/gratis-scan) doet exact deze zes datapunten plus dieper inzicht in 45 minuten met een specialist. Inclusief actieplan. De [tarieven HuisartsenAI](/tarieven) voor het complete pakket beginnen bij een vast maandbedrag. Geen meetbare verbetering binnen 90 dagen? Dan krijg je je investering terug. Groei-of-Geld-Terug Garantie.
+Wanneer dit voelt als veel handwerk: een [gratis ai scan voor huisartsen](/gratis-scan) doet exact deze zes datapunten plus dieper inzicht in 45 minuten met een specialist. Inclusief actieplan. De [tarieven HuisartsenAI](/tarieven) voor het complete pakket beginnen bij een vast maandbedrag. Geen meetbare verbetering binnen 90 dagen?
 
 Wil je [hoger in Google komen als huisarts](/seo) of structureel boven de concurrentie uit groeien, dan is dit het startpunt: weten waar je staat. De zes datapunten geven je dat in een uur waarvan 30 minuten echte meting is.
 

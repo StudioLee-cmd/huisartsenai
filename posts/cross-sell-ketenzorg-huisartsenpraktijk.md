@@ -85,6 +85,6 @@ Alleen met toestemming en binnen de AVG. Je legt vast via welk kanaal een patië
 
 Terug naar de patiënt van de kwartaalcontrole. In een praktijk zonder gekoppeld overzicht loopt zij de deur uit en zijn haar griepprik en bevolkingsonderzoek afhankelijk van of iemand er toevallig aan denkt. In een praktijk met een centraal overzicht en geautomatiseerde opvolging staat haar volgende stap al klaar op het moment dat ze de eerste afrondt. Dat is geen verkopen, dat is de zorg afmaken die je toch al levert. Jij helpt patiënten, wij regelen de bereikbaarheid.
 
-Benieuwd waar in jouw praktijk zorgmomenten nu tussen wal en schip vallen? Vraag de [gratis ai scan voor huisartsen](/gratis-scan) aan, dan zie je binnen een paar dagen waar de opvolging hapert. Met de Groei-of-Geld-Terug Garantie loop je daarbij geen risico.
+Benieuwd waar in jouw praktijk zorgmomenten nu tussen wal en schip vallen? Vraag de [gratis ai scan voor huisartsen](/gratis-scan) aan, dan zie je binnen een paar dagen waar de opvolging hapert.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-show-protocol-huisartsenpraktijk-3-modellen" class="text-dark fw-semibold">No-show-protocol huisartsenpraktijk: 3 modellen</a> →</p></div></div></div>

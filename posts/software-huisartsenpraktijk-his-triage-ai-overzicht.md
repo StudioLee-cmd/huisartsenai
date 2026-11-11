@@ -93,4 +93,4 @@ Dat moet je eisen. Werk alleen met partijen die een verwerkersovereenkomst teken
 
 ## Van los speelgoed naar één systeem
 
-De grootste winst zit niet in nog een tool, maar in drie lagen die op elkaar aansluiten. Wil je weten waar in jouw praktijk nu de meeste tijd weglekt en welke laag het snelst rendeert, dan brengen we dat gratis voor je in kaart, met een Groei-of-Geld-Terug Garantie op wat we daarna opzetten. Vraag een [gratis AI-scan voor huisartsen](/gratis-scan) aan en je krijgt een concreet beeld van je telefoondruk, je bereikbaarheid en de eerste stap die het meeste oplevert. Jij helpt patiënten, wij regelen de bereikbaarheid.
+De grootste winst zit niet in nog een tool, maar in drie lagen die op elkaar aansluiten. Vraag een [gratis AI-scan voor huisartsen](/gratis-scan) aan en je krijgt een concreet beeld van je telefoondruk, je bereikbaarheid en de eerste stap die het meeste oplevert. Jij helpt patiënten, wij regelen de bereikbaarheid.

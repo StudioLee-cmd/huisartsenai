@@ -80,4 +80,4 @@ Reken op een vast maandbedrag in plaats van kosten per gesprek, zodat een drukke
 
 Terug naar die maandagochtend. Hetzelfde telefoontje, maar nu voert de AI-telefonist het gesprek in het Pools, plant de afspraak in en zet een Nederlandse samenvatting klaar voor je assistente, die ondertussen de patiënten aan de balie helpt. Geen terugbelafspraak, geen misverstand, [geen oproepen meer missen als huisarts](/voice-ai), ongeacht de taal aan de andere kant van de lijn.
 
-Jij helpt patiënten, wij regelen de bereikbaarheid. HuisartsenAI richt de meertalige telefonie voor je in, afgestemd op de talen van jouw wijk en met onze Groei-of-Geld-Terug Garantie als zekerheid. Vraag de [gratis ai scan voor huisartsen](/gratis-scan) aan en zie binnen een paar dagen hoeveel anderstalige oproepen jouw praktijk nu laat lopen.
+Jij helpt patiënten, wij regelen de bereikbaarheid. Vraag de [gratis ai scan voor huisartsen](/gratis-scan) aan en zie binnen een paar dagen hoeveel anderstalige oproepen jouw praktijk nu laat lopen.

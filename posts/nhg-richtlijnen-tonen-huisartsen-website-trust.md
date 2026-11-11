@@ -120,7 +120,6 @@ Bij HuisartsenAI helpen we huisartsenpraktijken hun trust-signalen professioneel
 - Een [chatbot voor huisartsen](/chatbot) die NHG-vragen plus kwaliteit-vragen 24/7 beantwoordt
 - Een [crm voor huisartsen](/crm) met automatische kwartaal-reminders voor cijfers-update
 - Dedicated kwaliteit-pagina-template met NPA-cijfers-visualisatie
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor huisartsen](/gratis-scan) of bekijk onze [tarieven HuisartsenAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

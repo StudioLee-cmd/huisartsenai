@@ -50,4 +50,4 @@ In een wijk waar meerdere praktijken concurreren om nieuwe patiënten, is snelhe
 
 ## Direct verbeteren
 
-Elke nieuwe patiënt die je door trage opvolging verliest, gaat naar de concurrent. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe je het aanmeldproces kunt stroomlijnen. Groei-of-Geld-Terug Garantie.
+Elke nieuwe patiënt die je door trage opvolging verliest, gaat naar de concurrent. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe je het aanmeldproces kunt stroomlijnen.

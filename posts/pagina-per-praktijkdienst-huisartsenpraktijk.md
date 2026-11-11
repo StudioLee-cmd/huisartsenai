@@ -102,4 +102,4 @@ Eén lijst met alle diensten is voor jou compleet en voor een zoekmachine leeg. 
 
 Kies daarom vier of vijf diensten waarover je het meest gebeld wordt. Geef ze elk een eigen pagina die vier dingen beantwoordt en verder niets. Link ze aan elkaar en aan je praktijkinformatie. En houd alles wat inhoudelijk is buiten die pagina's.
 
-Bij HuisartsenAI zetten we die structuur op vanuit de teksten die je al hebt, met de spoedregel op elke pagina en je chat die ernaar verwijst. Meer over de bouw staat op onze pagina over de [gratis website voor huisartsen](/gratis-website), en wat het kost op [tarieven HuisartsenAI](/tarieven). Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet meetbaar beter zichtbaar in Ahrefs, dan krijg je je geld terug.
+Bij HuisartsenAI zetten we die structuur op vanuit de teksten die je al hebt, met de spoedregel op elke pagina en je chat die ernaar verwijst. Meer over de bouw staat op onze pagina over de [gratis website voor huisartsen](/gratis-website), en wat het kost op [tarieven HuisartsenAI](/tarieven).

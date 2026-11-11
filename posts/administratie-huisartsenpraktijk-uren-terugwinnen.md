@@ -115,6 +115,4 @@ Dit doe je niet alleen. Een [gratis scan](/gratis-scan) van jouw huidige werkstr
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/his-migratie-draaiboek-huisartsenpraktijk" class="text-dark fw-semibold">HIS-migratie draaiboek: zo stap je over zonder dataverlies</a> →</p></div></div></div>
 
-## Groei-of-Geld-Terug Garantie
-
-Als je na zes maanden niet meetbaar minder uren aan administratie kwijt bent, krijg je je investering terug. Jij behandelt patiënten, wij zorgen dat alles eromheen minder tijd kost.
+Jij behandelt patiënten, wij zorgen dat alles eromheen minder tijd kost.

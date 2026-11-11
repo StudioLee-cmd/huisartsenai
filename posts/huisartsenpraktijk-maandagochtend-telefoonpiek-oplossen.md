@@ -116,6 +116,6 @@ Voor de complete kostenbreakdown, zie de [tarieven voor huisartsenpraktijken](ht
 
 Geen praktijk hoeft van vandaag op morgen alles in te voeren. Begin met online afspraken (de grootste impact, laagste kosten), voeg na drie maanden voice AI toe als de pieklast nog steeds significant is, en schaalt vervolgens in maand 6-9 op naar digitale triage en WhatsApp.
 
-Wil je weten hoe een [complete telefoondruk-oplossing voor jouw praktijk](https://www.huisartsenai.nl/voice-ai) eruit kan zien? Bekijk de uitgewerkte aanpak op de [gratis website voor huisartsenpraktijken](https://www.huisartsenai.nl/gratis-website) — inclusief Groei-of-Geld-Terug Garantie.
+Wil je weten hoe een [complete telefoondruk-oplossing voor jouw praktijk](https://www.huisartsenai.nl/voice-ai) eruit kan zien?
 
 Lees ook onze [andere artikelen over praktijkvoering en bereikbaarheid voor huisartsen](https://www.huisartsenai.nl/blog).

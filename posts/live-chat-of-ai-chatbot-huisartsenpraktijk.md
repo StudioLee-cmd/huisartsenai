@@ -86,6 +86,6 @@ Die geeft hij door aan de praktijk: als terugbelverzoek, samenvatting in de inbo
 
 Terug naar die ochtendpiek van 8:00 uur. De vraag is niet of live chat persoonlijker is dan een [ai-chatbot](/chatbot), want dat is zo. De vraag is wie het chatvenster bemant terwijl de telefoon roodgloeiend staat. Voor de meeste praktijken is het antwoord duidelijk: laat een digitale assistent de praktische vragen afvangen, zodat het team er is voor de patiënten die echt een mens nodig hebben. Jij helpt patiënten, wij regelen de bereikbaarheid.
 
-Benieuwd hoe zo'n chatbot op jouw praktijkwebsite past? Bekijk wat een [professionele website voor huisartsen](/gratis-website) inclusief chatfunctie inhoudt. Met de Groei-of-Geld-Terug Garantie loop je daarbij geen risico.
+Benieuwd hoe zo'n chatbot op jouw praktijkwebsite past? Bekijk wat een [professionele website voor huisartsen](/gratis-website) inclusief chatfunctie inhoudt.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/whatsapp-chatbot-huisartsenpraktijk-avondaanvragen" class="text-dark fw-semibold">WhatsApp-chatbot voor huisartsen: avond-aanvragen opvangen</a> →</p></div></div></div>

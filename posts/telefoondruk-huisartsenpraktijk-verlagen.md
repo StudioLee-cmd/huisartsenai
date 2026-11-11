@@ -85,7 +85,7 @@ Praktijken die deze maatregelen combineren, rapporteren:
 
 De telefoondruk in huisartsenpraktijken is een oplosbaar probleem. Niet door meer personeel aan te nemen, maar door slimmer te organiseren. De meeste telefoontjes hoeven geen telefoontjes te zijn.
 
-Met [HuisartsenAI](/) automatiseer je afspraken, herhaalrecepten en patiëntcommunicatie. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [HuisartsenAI](/) automatiseer je afspraken, herhaalrecepten en patiëntcommunicatie. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoeveel telefoondruk je kunt besparen.
 
