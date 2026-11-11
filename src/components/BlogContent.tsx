@@ -96,6 +96,74 @@ export default function BlogContent({ content }: BlogContentProps) {
                     margin-bottom: 0;
                 }
 
+                /* Tables: on a phone the table scrolls inside its own card, so the page itself never moves sideways
+                   and the last column stays reachable. The first column stays in place while the rest scrolls. */
+                .blog-content table {
+                    width: 100%;
+                    border: 1px solid var(--card-border);
+                    border-radius: 1rem;
+                    border-collapse: separate;
+                    border-spacing: 0;
+                    margin: 2rem 0;
+                    font-size: 1rem;
+                    line-height: 1.5;
+                    background: var(--card-background);
+                }
+                .blog-content th,
+                .blog-content td {
+                    padding: 0.75rem 1rem;
+                    text-align: left;
+                    vertical-align: top;
+                    border-bottom: 1px solid var(--card-border);
+                    min-width: 7.5rem;
+                }
+                .blog-content thead th {
+                    background: var(--hero-background);
+                    color: var(--foreground);
+                    font-weight: 600;
+                    white-space: nowrap;
+                }
+                .blog-content tbody tr:last-child td {
+                    border-bottom: 0;
+                }
+                .blog-content th:first-child,
+                .blog-content td:first-child {
+                    position: sticky;
+                    left: 0;
+                    z-index: 1;
+                    background: var(--card-background);
+                    min-width: 9rem;
+                }
+                .blog-content thead th:first-child {
+                    background: var(--hero-background);
+                }
+                @media (max-width: 640px) {
+                    .blog-content table {
+                        display: block;
+                        max-width: 100%;
+                        overflow-x: auto;
+                        -webkit-overflow-scrolling: touch;
+                        font-size: 0.875rem;
+                    }
+                    .blog-content th,
+                    .blog-content td,
+                    .blog-content thead th {
+                        padding: 0.5rem;
+                        min-width: 0;
+                        white-space: normal;
+                        hyphens: auto;
+                        overflow-wrap: anywhere;
+                    }
+                    .blog-content th:first-child,
+                    .blog-content td:first-child {
+                        min-width: 0;
+                    }
+                    .blog-content thead th {
+                        hyphens: manual;
+                        overflow-wrap: normal;
+                    }
+                }
+
                 .blog-content a {
                     color: var(--secondary);
                     text-decoration: underline;
