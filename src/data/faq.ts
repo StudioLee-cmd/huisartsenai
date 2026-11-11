@@ -15,7 +15,7 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Werkt dit samen met mijn huidige HIS?",
-        answer: "Ja, wij koppelen met gangbare systemen zoals Medicom, Promedico, Bricks en MicroHIS. Zo worden afspraken en verslagen direct in het juiste dossier gezet.",
+        answer: "Geen koppeling met je HIS, en dat is met opzet: patientgegevens blijven waar ze horen. De assistent neemt het verzoek aan, verwijst voor afspraken naar je eigen portaal (zoals Uw Zorg online) en zet alleen niet-medische terugbelverzoeken in je agenda.",
     },
     {
         question: "Wat als de AI een medische vraag niet weet?",
