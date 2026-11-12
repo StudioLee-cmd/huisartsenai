@@ -5,7 +5,7 @@ excerpt: "Mond-tot-mondreclame is de belangrijkste groeistrategie voor huisartse
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-huisarts.png"
-tags: ["Marketing", "Branding"]
+tags: ["Mond-tot-mond"]
 cluster: "branding"
 ---
 

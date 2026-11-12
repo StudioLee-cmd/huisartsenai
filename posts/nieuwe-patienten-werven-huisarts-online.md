@@ -5,7 +5,7 @@ date: "2026-04-03"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nieuwe-patienten-werven-huisarts-online.jpg"
-tags: ["Vindbaarheid", "Patiënten"]
+tags: ["Patiëntwerving"]
 ---
 ## Waarom huisartsen ook aan online zichtbaarheid moeten denken
 

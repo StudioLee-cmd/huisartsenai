@@ -5,7 +5,7 @@ excerpt: "Leer hoe je als huisartsenpraktijk je website inricht zodat patiënten
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/huisartsenwebsite-minder-telefoon.png"
-tags: ["Website", "Digitalisering"]
+tags: ["Website", "Telefoon"]
 cluster: "website"
 ---
 ## Het telefoonprobleem in de huisartsenpraktijk

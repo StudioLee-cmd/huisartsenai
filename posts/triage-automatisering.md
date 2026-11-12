@@ -4,7 +4,7 @@ excerpt: "Hoe AI-gestuurde triage helpt bij het prioriteren van zorgvragen en de
 date: "2026-02-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/triage-automatisering.png"
-tags: ["Triage", "Automatisering"]
+tags: ["Medische IT", "Triage"]
 cluster: "automatisering"
 ---
 

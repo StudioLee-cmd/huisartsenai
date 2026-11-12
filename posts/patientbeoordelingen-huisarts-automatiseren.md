@@ -5,7 +5,7 @@ date: "2026-04-04"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patientbeoordelingen-huisarts-automatiseren.jpg"
-tags: ["Reviews"]
+tags: ["Patiënttevredenheid"]
 ---
 ## Waarom online beoordelingen steeds belangrijker worden voor huisartsen
 

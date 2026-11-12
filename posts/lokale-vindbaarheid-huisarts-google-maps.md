@@ -5,7 +5,7 @@ date: "2026-04-03"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-vindbaarheid-huisarts-google-maps.jpg"
-tags: ["Lokale SEO", "Vindbaarheid"]
+tags: ["Lokale SEO", "Google Maps"]
 ---
 ## Waarom online vindbaarheid belangrijk is voor huisartsen
 

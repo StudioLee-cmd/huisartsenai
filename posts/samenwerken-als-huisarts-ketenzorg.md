@@ -5,7 +5,7 @@ excerpt: "Strategische samenwerkingen met fysiotherapeuten, psychologen en apoth
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-huisarts-ketenzorg.png"
-tags: ["Ketenzorg", "Branding"]
+tags: ["Samenwerkingen", "Ketenzorg"]
 cluster: "branding"
 ---
 

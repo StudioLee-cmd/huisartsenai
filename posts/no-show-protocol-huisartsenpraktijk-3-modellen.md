@@ -5,7 +5,7 @@ date: "2026-06-08"
 excerpt: "Een no-show-protocol is meer dan een boete sturen. Zo bouw je het op: preventie eerst, daarna drie modellen, van wegblijftarief tot uitschrijven."
 image: "/images/blog/no-show-protocol-huisartsenpraktijk-3-modellen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["No-shows", "Automatisering"]
+tags: ["No-shows", "Praktijkbeleid"]
 cluster: "automatisering"
 ---
 

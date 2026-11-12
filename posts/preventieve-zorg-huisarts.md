@@ -5,7 +5,7 @@ excerpt: "Preventie is beter dan genezen — maar hoe bereik je patiënten met v
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/preventieve-zorg-huisarts.png"
-tags: ["Preventieve zorg", "Groei"]
+tags: ["Preventieve zorg"]
 cluster: "automatisering"
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Niet elke huisartsenpraktijk hoeft hetzelfde te bieden. Ontdek hoe spe
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialiseren-huisartsenpraktijk.png"
-tags: ["Specialisatie", "Groei"]
+tags: ["Specialisatie"]
 cluster: "branding"
 ---
 

@@ -7,7 +7,7 @@ excerpt: "Patientbehoud is meer dan een volle praktijk. Het gaat om continuiteit
 image: "/images/blog/klantbehoud-huisarts-patientrelatie.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering"]
+tags: ["Klantbehoud"]
 cluster: "automatisering"
 ---
 

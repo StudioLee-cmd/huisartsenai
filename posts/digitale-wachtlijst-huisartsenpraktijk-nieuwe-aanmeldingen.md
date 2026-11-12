@@ -5,7 +5,7 @@ date: "2026-04-16"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/digitale-wachtlijst-huisartsenpraktijk-nieuwe-aanmeldingen.jpg"
-tags: ["Digitalisering"]
+tags: ["Wachtlijst"]
 ---
 ## Wat een digitale wachtlijst is — en waarom bellen "we zijn vol" niet langer werkt
 

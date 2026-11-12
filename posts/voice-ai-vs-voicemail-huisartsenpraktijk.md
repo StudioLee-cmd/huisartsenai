@@ -5,7 +5,7 @@ date: "2026-05-27"
 excerpt: "Minder dan één op de vijf bellers spreekt voicemail in. Bij een huisartsenpraktijk telt dat dubbel — wat een ai telefonist voor huisartsen anders doet."
 image: "/images/blog/voice-ai-vs-voicemail-huisartsenpraktijk.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "AI"]
+tags: ["Voice AI", "Telefonie"]
 cluster: "voice-ai"
 ---
 

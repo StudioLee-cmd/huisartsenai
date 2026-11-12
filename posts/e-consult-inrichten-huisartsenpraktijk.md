@@ -5,7 +5,7 @@ excerpt: "Een e-consult werkt alleen met een strakke workflow. Zo richt je het A
 date: "2026-07-17"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/e-consult-inrichten-huisartsenpraktijk.jpg"
-tags: ["Automatisering", "AVG"]
+tags: ["E-consult", "AVG"]
 cluster: "automatisering"
 ---
 Een e-consult belooft rust: patiënten stellen hun vraag digitaal, en jullie beantwoorden die op een rustig moment in plaats van tussen twee telefoontjes door. Maar zonder een doordachte workflow gebeurt er iets anders. De druk verplaatst zich van de telefoonlijn naar de inbox, en op een drukke maandag staat er een stapel onbeantwoorde e-consulten die net zo hard aan de assistente trekt als de rinkelende telefoon dat deed. Het e-consult zelf is niet het probleem; de manier waarop je het inricht bepaalt of het rust brengt of alleen verplaatst.

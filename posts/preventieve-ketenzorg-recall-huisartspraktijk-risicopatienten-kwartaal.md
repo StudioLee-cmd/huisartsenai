@@ -6,7 +6,7 @@ date: "2026-04-25"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/preventieve-ketenzorg-recall-huisartspraktijk-risicopatienten-kwartaal.jpg"
-tags: ["Ketenzorg", "Automatisering"]
+tags: ["Ketenzorg", "Recall"]
 ---
 In een gemiddelde Nederlandse huisartspraktijk staan op een willekeurige dinsdag in oktober 38 namen op een digitale "te bellen voor controle"-lijst van de praktijk-assistente. Diabetes-mellitus-patiënten die 8 maanden niet langs zijn geweest, COPD-patiënten die hun jaarlijkse spirometrie missen, CVRM-patiënten waar de bloeddruk-controle al twee kwartalen openstaat. De assistente begint om half tien — half elf staat ze op acht namen door, vier voicemails, twee teruggebelt-verzoeken, één patiënt die inmiddels naar een andere praktijk is gegaan. Tegen lunchtijd is ze bij naam veertien. De andere 24 schuiven door naar volgende week, en die week komen er weer 30 nieuwe namen bij.
 

@@ -6,7 +6,7 @@ cluster: "website"
 excerpt: "Praktijkinformatie up-to-date houden over GBP, ZorgkaartNederland, huisartsenwijzer en je website. Multi-platform NAP-discipline en een kwartaal-checklist."
 image: "/images/blog/praktijkinformatie-up-to-date-huisarts-nap.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Google Bedrijfsprofiel"]
+tags: ["NAP"]
 ---
 
 # Praktijkinformatie up-to-date houden als huisartsenpraktijk: een multi-platform discipline

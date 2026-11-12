@@ -5,7 +5,7 @@ date: "2026-04-21"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratie-huisartsenpraktijk-uren-terugwinnen.jpg"
-tags: ["Praktijkmanagement"]
+tags: ["Administratie"]
 ---
 Elke huisarts weet dat de administratieve lasten torenhoog zijn. De LHV berekende in 2023 dat een gemiddelde praktijkhouder 16-24 uur per week aan administratie en coördinatie besteedt — tijd die niet naar patiëntencontact gaat. Maar wat veel praktijken missen: een fors deel van die uren is automatiseerbaar, zonder dat je een nieuw HIS hoeft aan te schaffen of dat assistentes hun werk kwijtraken.
 

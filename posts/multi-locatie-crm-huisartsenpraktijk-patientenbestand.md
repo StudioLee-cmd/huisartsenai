@@ -5,7 +5,7 @@ date: "2026-07-28"
 excerpt: "Twee of meer vestigingen, en niemand weet wat de andere locatie al met een patiënt heeft afgesproken. Wat je centraal zet en wat je bewust apart houdt."
 image: "/images/blog/multi-locatie-crm-huisartsenpraktijk-patientenbestand.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "CRM"]
+tags: ["CRM", "Praktijkmanagement"]
 cluster: "automatisering"
 ---
 

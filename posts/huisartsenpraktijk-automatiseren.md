@@ -6,7 +6,7 @@ date: "2026-04-06"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/huisartsenpraktijk-automatiseren.jpg"
-tags: ["Automatisering", "Zorg"]
+tags: ["Automatisering", "Werkdruk"]
 ---
 ## De huisarts die niet meer toekomt aan huisartsenwerk
 

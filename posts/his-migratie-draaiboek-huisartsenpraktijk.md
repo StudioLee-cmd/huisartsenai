@@ -5,7 +5,7 @@ date: "2026-07-06"
 excerpt: "Overstappen naar een ander HIS zonder dossiers of declaraties kwijt te raken? Het draaiboek: dataconversie, oefenweken en go-live."
 image: "/images/blog/his-migratie-draaiboek-huisartsenpraktijk.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Software", "Automatisering"]
+tags: ["HIS", "Software"]
 cluster: "automatisering"
 ---
 
