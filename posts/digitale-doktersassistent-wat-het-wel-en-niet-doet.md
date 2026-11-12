@@ -59,6 +59,8 @@ Stel dat een praktijk tussen 08:00 en 11:00 in totaal 140 gesprekken voert. Na e
 
 ## Waar de grens ligt: alles met een oordeel blijft bij mensen
 
+![Waar de grens ligt: alles met een oordeel blijft bij mensen](/images/blog/digitale-doktersassistent-wat-het-wel-en-niet-doet-2.jpg)
+
 Dit is het belangrijkste deel van elke afspraak met een leverancier. Een digitale doktersassistent neemt geen medische beslissingen. Concreet betekent dat 5 harde regels:
 
 - **Geen inschatting van urgentie.** Hij bepaalt niet of iets vandaag, morgen of volgende week moet.
@@ -98,8 +100,6 @@ Een digitale assistent is zo goed als de overdracht. Als een terugbelverzoek in 
 Die vastgelegde verzoeken horen in een systeem waar het team ze terugvindt, zodat niemand dezelfde vraag 2 keer stelt. Daar dient een [crm voor huisartsen](/crm) voor: 1 plek waar berichten en verzoeken samenkomen. Het medisch dossier blijft in het HIS; de assistent schrijft daar niet zelf in, maar levert aan.
 
 ## Zo leg je de grens vast in 6 weken
-
-![Zo leg je de grens vast in 6 weken](/images/blog/digitale-doktersassistent-wat-het-wel-en-niet-doet-2.jpg)
 
 Voordat een digitale doktersassistent live gaat, is er voorwerk dat alleen de praktijk zelf kan doen. Het bepaalt of het systeem werkt. Dit is een volgorde in 3 blokken van 2 weken die past bij een praktijk met 1 tot 8 huisartsen. Reken per blok op 2 tot 4 uur werk voor het team, verspreid over een paar korte overleggen van 30 minuten.
 
