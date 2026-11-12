@@ -2,114 +2,157 @@
 title: "Digitale doktersassistent: wat het wel en niet doet"
 slug: digitale-doktersassistent-wat-het-wel-en-niet-doet
 date: "2026-11-12"
-excerpt: "Een digitale doktersassistent neemt vaste taken over aan telefoon en chat. Wat hij wel doet, wat hij nooit doet en hoe je die grens vastlegt."
-image: "/images/blog/digitale-triage-huisarts-4-modellen-2026.jpg"
+excerpt: "Wat een digitale doktersassistent overneemt aan de praktijklijn, waar de grens bij het medische oordeel ligt en hoe je die in 6 weken vastlegt."
+image: "/images/blog/digitale-doktersassistent-wat-het-wel-en-niet-doet.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["digitale doktersassistent", "praktijklijn", "voice ai", "automatisering"]
+tags: ["Automatisering"]
 cluster: "automatisering"
 ---
 
-Steeds vaker hoor je de term digitale doktersassistent. Een leverancier noemt het zo, een collega-praktijk heeft er een, en in een overleg valt de vraag: kan zo'n systeem niet een deel van het werk aan de balie overnemen? Het eerlijke antwoord is ja, voor een deel. Maar welk deel precies, en waar houdt het op? In dit artikel lees je wat een digitale doktersassistent concreet doet, wat hij nooit doet, en hoe je die grens als praktijkhouder of praktijkmanager zelf vastlegt voordat er iets live gaat.
+Maandagochtend, 08:02. De praktijklijn staat open, er hangen 9 bellers in de wacht en de assistente aan de balie heeft net haar 1e gesprek over een herhaalrecept afgerond. Het 2e gaat over de openingstijden met Pasen, het 3e over een adreswijziging. Pas het 4e gesprek vraagt echt haar kennis. In het overleg die middag valt de term die je de laatste tijd steeds vaker hoort: een digitale doktersassistent. Kan zo'n systeem niet een deel van dit werk overnemen?
 
-Het korte antwoord: een digitale doktersassistent neemt de vaste, herhaalbare vragen aan de telefoon en in de chat over, en geeft alles wat een oordeel vraagt direct door aan een mens. Hoe dat aan de telefoon werkt, zie je op de pagina over de [ai telefonist voor huisartsen](/voice-ai).
+Het eerlijke antwoord is ja, voor een deel. Een digitale doktersassistent neemt de vaste, herhaalbare vragen aan de telefoon en in de chat over en zet alles wat een oordeel vraagt direct door naar een mens. Aan de telefoon is dat een [ai telefonist voor huisartsen](/voice-ai), en wat er na het gesprek gebeurt, regel je met [workflow automatisering voor huisartsen](/automatisering). In dit artikel lees je wat zo'n assistent concreet doet, wat hij nooit doet, en hoe je als praktijkhouder of praktijkmanager die grens zelf vastlegt voordat er iets live gaat. Dit stuk gaat over het proces aan de praktijklijn, niet over medische inhoud.
+
+**In het kort:**
+
+- Een digitale doktersassistent is geen assistente in een computer, maar 3 lagen samen: een stem aan de telefoon, een chat op de website en de flows die na het gesprek lopen.
+- Hij neemt 5 soorten werk over: praktische vragen, afspraakverzoeken, herhaalreceptverzoeken klaarzetten, terugbelverzoeken en administratieve wijzigingen.
+- Hij doet nooit iets waar een medisch oordeel voor nodig is: geen urgentie inschatten, geen advies, geen uitslagen, geen duiding.
+- De grens leg je zelf vast in een lijst met 3 kleuren en een set signaalwoorden waarbij hij direct doorverbindt.
+- Reken op 6 weken van turven tot een eerste start in de avonduren, met de assistentes als eigenaar van de takenlijst.
 
 ## Wat een digitale doktersassistent is
 
-De term klinkt alsof er een volledige assistente in een computer zit. Dat is niet zo, en het helpt om dat vanaf het begin scherp te hebben. Een digitale doktersassistent is een AI-systeem dat het eerste contact met patiënten afhandelt: het neemt de telefoon op, beantwoordt berichten in de chat of via WhatsApp, legt verzoeken vast en zet ze klaar voor het team.
+De term klinkt alsof er een volledige assistente in software zit. Dat is niet zo, en het helpt om dat vanaf het eerste gesprek met een leverancier scherp te hebben. Een digitale doktersassistent is een AI-systeem dat het eerste contact met patiënten afhandelt: het neemt de telefoon op, beantwoordt berichten, legt verzoeken vast en zet ze klaar voor het team.
 
-Er zitten in de praktijk meestal drie lagen onder:
+### De 3 lagen eronder
 
-- **Een stem aan de telefoon.** De AI neemt op, vraagt waarvoor iemand belt en handelt de vaste vragen af. Dat is wat je een AI-telefonist of [voice ai voor huisartsen](/voice-ai) noemt.
-- **Een schriftelijke kant.** Dezelfde vragen komen ook binnen via de website en berichten. Daarvoor dient een [ai chatbot voor huisartsen](/chatbot).
-- **De flows eronder.** Wat er na het gesprek gebeurt: een terugbelverzoek dat in de juiste lijst komt, een bevestiging per bericht, een herinnering voor een afspraak.
+In de praktijk bestaat wat een leverancier een digitale doktersassistent noemt bijna altijd uit 3 onderdelen die samenwerken:
 
-Samen vormen die lagen wat in gesprekken een digitale doktersassistent heet. Het is geen vervanging van de assistente, maar een filter voor het werk dat haar nu het meest onderbreekt.
+1. **Een stem aan de telefoon.** De AI neemt op, vraagt waarvoor iemand belt, herhaalt wat hij hoort en handelt de vaste vragen af.
+2. **Een schriftelijke kant.** Dezelfde vragen komen binnen via de website en via berichten. Daarvoor dient een [ai chatbot voor huisartsen](/chatbot), met dezelfde regels als de telefoon.
+3. **De flows eronder.** Wat er na het gesprek gebeurt: een terugbelverzoek in de juiste lijst, een bevestiging per bericht, een herinnering voor een afspraak.
+
+Vraag een leverancier dus altijd welke van deze 3 lagen hij levert. Een stem zonder flows eronder verplaatst het werk alleen van de telefoon naar een mailbox.
+
+### Wat het niet is
+
+Het is geen vervanging van de assistente en geen triagesysteem. Het is een filter voor het werk dat haar nu het vaakst onderbreekt. Denk aan de vraag naar het adres van de huisartsenpost of het 10e receptverzoek van de ochtend. Wat overblijft voor de assistente, is het werk waarvoor haar opleiding en ervaring nodig zijn.
 
 ## Wat hij wel overneemt: de vaste, herhaalbare vragen
 
-Kijk eens naar een gewone ochtend aan de praktijklijn. Een groot deel van de gesprekken gaat niet over zorg zelf, maar over regelen. Precies dat deel kan een digitale assistent overnemen:
+Een groot deel van de gesprekken aan de praktijklijn gaat niet over zorg, maar over regelen. Precies dat deel kan een digitale assistent overnemen. Het gemeenschappelijke kenmerk: bij geen van deze taken hoeft iemand te beoordelen of iets medisch klopt. Het gaat om vastleggen, doorzetten en informeren.
 
-- **Praktische vragen.** Openingstijden, het adres, parkeren, hoe het werkt in de avond en het weekend en waar de patiënt dan terechtkan. Dit zijn vragen met één vast antwoord dat de praktijk zelf aanlevert.
-- **Afspraakverzoeken vastleggen.** De assistent noteert wie er belt, voor welke soort afspraak en wanneer de patiënt kan. Plant de praktijk bepaalde vrije plekken in voor zelf boeken, dan kan hij die aanbieden. Zo niet, dan zet hij het verzoek klaar voor de assistente.
-- **Herhaalrecepten aannemen.** Hij legt het verzoek vast en zet het klaar voor controle. Hij keurt niets goed en beoordeelt niets; dat blijft bij het team.
-- **Terugbelverzoeken noteren.** Naam, geboortedatum ter controle, telefoonnummer en de reden van het gesprek in de woorden van de patiënt. De assistente belt terug met alle informatie al voor zich.
-- **Administratieve verzoeken.** Een adreswijziging, een vraag over inschrijving, een formulier dat opgehaald moet worden.
+| Taak | Wat de digitale assistent doet | Waar het landt |
+|---|---|---|
+| Praktische vragen | Geeft het vaste antwoord dat de praktijk heeft aangeleverd: tijden, adres, parkeren, avond en weekend | Nergens, het gesprek is klaar |
+| Afspraakverzoek | Noteert wie belt, welk soort afspraak en wanneer de patiënt kan; biedt vrijgegeven plekken aan | In de agenda of op de lijst van de assistente |
+| Herhaalreceptverzoek | Neemt het verzoek aan en zet het klaar; keurt niets goed | Op de plek waar het team recepten al controleert |
+| Terugbelverzoek | Noteert naam, controlegegeven, nummer en de reden in de woorden van de patiënt | Op 1 terugbellijst, met tijdstip |
+| Administratief | Adreswijziging, vraag over inschrijving, formulier ophalen | Bij wie dat nu ook doet |
 
-Het gemeenschappelijke kenmerk: bij al deze taken hoeft niemand te beoordelen of iets medisch klopt. Het gaat om vastleggen, doorzetten en informeren. Dat is waar automatisering goed in is, en waar de assistente nu veel tijd aan kwijt is.
+Plant de praktijk bepaalde plekken in voor zelf boeken, dan kan de assistent die direct aanbieden. Zo niet, dan zet hij het verzoek klaar en belt de assistente terug met alle informatie voor zich.
 
-## Wat hij nooit doet: de grens bij het medische oordeel
+### Rekenvoorbeeld: een maandagochtend aan de praktijklijn
 
-Dit is het belangrijkste deel van elke afspraak met een leverancier. Een digitale doktersassistent neemt geen medische beslissingen. Concreet betekent dat:
+Stel dat een praktijk tussen 08:00 en 11:00 in totaal 140 gesprekken voert. Na een week turven blijken er 35 over praktische vragen te gaan, 30 over herhaalrecepten, 25 over afspraken verzetten of aanvragen en 15 over administratie. De overige 35 vragen een oordeel. Die eerste 4 groepen zijn samen 105 gesprekken. Bij gemiddeld 2 minuten per gesprek is dat 210 minuten, 3,5 uur aan de lijn op 1 ochtend. Neemt de digitale assistent de 35 praktische vragen volledig over en legt hij de 70 andere verzoeken vast, dan blijft er voor de assistente terugbel- en controlewerk over dat ze op een vast moment afwerkt, in plaats van 105 keer onderbroken te worden.
 
-- **Geen inschatting van urgentie.** Hij bepaalt niet of iets vandaag, morgen of volgende week moet. Die keuze hoort bij de assistente en de huisarts, volgens de werkwijze van de praktijk.
+## Waar de grens ligt: alles met een oordeel blijft bij mensen
+
+Dit is het belangrijkste deel van elke afspraak met een leverancier. Een digitale doktersassistent neemt geen medische beslissingen. Concreet betekent dat 5 harde regels:
+
+- **Geen inschatting van urgentie.** Hij bepaalt niet of iets vandaag, morgen of volgende week moet.
 - **Geen advies.** Hij zegt niet wat een patiënt moet doen, innemen of afwachten.
-- **Geen uitslagen.** Hij geeft geen informatie over onderzoeken of uitslagen door.
-- **Geen diagnose of duiding.** Ook niet als een patiënt erom vraagt.
+- **Geen uitslagen.** Hij geeft geen informatie over onderzoeken door.
+- **Geen duiding.** Ook niet als een patiënt er met aandrang om vraagt.
+- **Geen klachtafhandeling.** Een klacht over de praktijk gaat met het gesprek erbij naar een mens.
 
-Wat hij wel moet kunnen, is herkennen wanneer een gesprek niet bij hem hoort. Noemt een beller woorden die de praktijk als signaal heeft aangemerkt, dan verbindt hij direct door of verwijst hij naar de spoedroute die de praktijk zelf heeft vastgelegd. Hij redeneert daar niet over; hij volgt een regel die jullie hebben opgesteld.
+### Signaalwoorden: een regel, geen redenering
 
-Let op: triage zelf is een ander onderwerp. De digitale assistent kan een triagegesprek voorbereiden of doorzetten, maar het gesprek en de beslissing blijven bij mensen. Wil je de verschillende manieren van digitaal triëren naast elkaar zien, lees dan het overzicht van [vier modellen voor digitale triage](/blog/digitale-triage-huisarts-4-modellen-2026).
+Wat hij wel moet kunnen, is herkennen wanneer een gesprek niet bij hem hoort. Noemt een beller woorden die de praktijk als signaal heeft aangemerkt, dan verbindt hij direct door of verwijst hij naar de spoedroute die de praktijk zelf heeft vastgelegd. Hij redeneert daar niet over; hij volgt een regel die jullie hebben opgesteld. De lijst met signaalwoorden is een keuze van de huisartsen en het team, niet van de leverancier. Vraag bijvoorbeeld wat er gebeurt als een beller 2 seconden stil valt of een woord gebruikt dat niet op de lijst staat: het antwoord moet altijd zijn dat er een mens aan de lijn komt. Test de lijst voor de start met 20 zinnen die de assistentes zelf bedenken; bij alle 20 hoort de beller binnen 1 minuut een mens.
 
-## Telefoon en chat: dezelfde regels, twee kanalen
+### Triage is een taak, geen onderwerp van dit systeem
 
-Patiënten bellen, maar ze sturen ook berichten via de website of WhatsApp. Een veelgemaakte fout is om voor elk kanaal andere afspraken te maken. Dan krijgt een patiënt aan de telefoon een ander antwoord dan in de chat, en weet het team niet meer welke regel geldt.
+Triage zelf is een ander vak. De digitale assistent kan een triagegesprek voorbereiden of doorzetten, maar het gesprek en de beslissing blijven bij mensen. Wil je de verschillende manieren van digitaal triëren naast elkaar zien, lees dan het overzicht van [vier modellen voor digitale triage](/blog/digitale-triage-huisarts-4-modellen-2026). Hier gaat het alleen om wat er vóór en na dat gesprek gebeurt.
 
-Leg de afspraken daarom één keer vast en gebruik ze in beide kanalen:
+## Telefoon en chat: dezelfde regels in 2 kanalen
+
+Patiënten bellen, maar ze sturen ook berichten via de website of WhatsApp, vaak 's avonds na 18:00 of in het weekend. Een veelgemaakte fout is om voor elk kanaal andere afspraken te maken. Dan krijgt een patiënt aan de telefoon een ander antwoord dan in de chat, en weet het team niet meer welke regel geldt. Leg de afspraken daarom 1 keer vast en gebruik ze in beide kanalen:
 
 - dezelfde lijst met vragen die de assistent zelf mag beantwoorden;
 - dezelfde signaalwoorden waarbij hij direct doorzet;
-- dezelfde manier van vastleggen, zodat een terugbelverzoek uit de chat er hetzelfde uitziet als een uit een telefoongesprek.
+- dezelfde manier van vastleggen, zodat een terugbelverzoek uit de chat er hetzelfde uitziet als een uit een telefoongesprek;
+- dezelfde zin aan het begin, bijvoorbeeld "U spreekt met de digitale assistent van de praktijk", zodat niemand denkt dat hij een mens spreekt.
 
-Aan de telefoon gaat het om een rustige stem die duidelijk vraagt en herhaalt wat hij heeft gehoord. In de chat gaat het om korte, heldere antwoorden en een duidelijke knop of zin als de patiënt een mens wil spreken. De inhoud is hetzelfde; alleen de vorm verschilt.
+Aan de telefoon gaat het om een rustige stem die duidelijk vraagt en herhaalt wat hij heeft gehoord. In de chat gaat het om korte antwoorden van 2 of 3 zinnen en een knop waarmee de patiënt in 1 tik om een mens vraagt. Hoe je zo'n stem leert omgaan met de namen van medicijnen die patiënten noemen, lees je in [een ai telefonist trainen op medicijnnamen](/blog/ai-telefonist-trainen-huisartsenpraktijk-medicijnnamen).
 
 ## Waar het gesprek landt: de overdracht aan het team
 
-Een digitale assistent is zo goed als de overdracht. Als een terugbelverzoek in een mailbox belandt die niemand bijhoudt, heb je het werk alleen verplaatst. Bepaal daarom vooraf waar elk soort verzoek landt:
+Een digitale assistent is zo goed als de overdracht. Als een terugbelverzoek in een mailbox belandt die niemand bijhoudt, heb je het werk alleen verplaatst. Bepaal daarom vooraf voor elk soort verzoek 3 dingen: waar het landt, wie het oppakt en binnen hoeveel uur. Een terugbelverzoek dat om 08:15 binnenkomt, hoort bijvoorbeeld voor 12:00 afgehandeld te zijn.
 
-- **Terugbelverzoeken** in één lijst die de assistente op vaste momenten afwerkt, met de reden en het tijdstip erbij.
-- **Herhaalrecepten** op de plek waar het team ze al controleert.
-- **Administratieve verzoeken** bij degene die dat nu ook doet.
-- **Doorverbonden gesprekken** direct bij een mens, met een korte samenvatting van wat al gevraagd is.
+1. **Terugbelverzoeken** in 1 lijst die de assistente op 2 vaste momenten per dag afwerkt, bijvoorbeeld om 11:00 en om 15:00, met reden en tijdstip erbij.
+2. **Herhaalreceptverzoeken** op de plek waar het team ze al controleert.
+3. **Administratieve verzoeken** bij degene die dat nu ook doet.
+4. **Doorverbonden gesprekken** direct bij een mens, met een samenvatting van 2 of 3 regels van wat al gevraagd is.
 
-Die vastgelegde gegevens horen in een systeem waar het team ze terugvindt, zodat niemand dezelfde vraag twee keer stelt. Daar dient een [crm voor huisartsen](/crm) voor: één plek waar de berichten en verzoeken samenkomen. Het medisch dossier blijft in het HIS; de assistent schrijft daar niet zelf in, maar levert aan.
+Die vastgelegde verzoeken horen in een systeem waar het team ze terugvindt, zodat niemand dezelfde vraag 2 keer stelt. Daar dient een [crm voor huisartsen](/crm) voor: 1 plek waar berichten en verzoeken samenkomen. Het medisch dossier blijft in het HIS; de assistent schrijft daar niet zelf in, maar levert aan.
 
-## Zo leg je de grens vast in je praktijk
+## Zo leg je de grens vast in 6 weken
 
-Voordat een digitale doktersassistent live gaat, is er voorwerk dat alleen de praktijk zelf kan doen. Het kost tijd, maar het bepaalt of het systeem werkt. Een praktische volgorde:
+![Zo leg je de grens vast in 6 weken](/images/blog/digitale-doktersassistent-wat-het-wel-en-niet-doet-2.jpg)
 
-1. **Maak een takenlijst van de praktijklijn.** Laat de assistentes een week lang turven waar gesprekken over gaan. Geen namen, geen inhoud, alleen het soort vraag.
-2. **Deel de lijst in drie kleuren in.** Groen: de assistent handelt het zelf af. Oranje: de assistent legt vast en het team handelt af. Rood: direct doorverbinden of naar de spoedroute.
-3. **Schrijf de vaste antwoorden uit.** Voor elke groene vraag één antwoord in gewone taal, gecontroleerd door de praktijk.
-4. **Stel de signaalwoorden en de spoedroute vast.** Dit is een keuze van de huisarts en het team, niet van de leverancier.
-5. **Regel de privacy op papier.** Een verwerkersovereenkomst met de leverancier, duidelijkheid over waar gegevens staan en hoe lang, en een korte uitleg voor patiënten op de website.
-6. **Start klein.** Begin bijvoorbeeld met de avonduren of met één soort vraag, en breid uit als het team tevreden is.
-7. **Lees wekelijks mee.** Bekijk de samenvattingen van gesprekken. Waar ging het mis, welke vraag kwam vaker terug dan gedacht? Pas de lijst aan.
+Voordat een digitale doktersassistent live gaat, is er voorwerk dat alleen de praktijk zelf kan doen. Het bepaalt of het systeem werkt. Dit is een volgorde in 3 blokken van 2 weken die past bij een praktijk met 1 tot 8 huisartsen. Reken per blok op 2 tot 4 uur werk voor het team, verspreid over een paar korte overleggen van 30 minuten.
 
-Het afstemmen van al die stappen en de koppelingen ertussen valt onder [workflow automatisering voor huisartsen](/automatisering). Daar lees je hoe de flows na een gesprek worden ingericht.
+### Week 1 en 2: turven en kleuren
+
+Laat de assistentes 5 werkdagen turven waar gesprekken over gaan. Geen namen, geen inhoud, alleen het soort vraag. Deel de lijst daarna in 3 kleuren in:
+
+| Kleur | Betekenis | Voorbeelden |
+|---|---|---|
+| Groen | De assistent handelt het zelf af | Openingstijden, adres, avond en weekend |
+| Oranje | De assistent legt vast, het team handelt af | Afspraakverzoek, receptverzoek, terugbelverzoek |
+| Rood | Direct doorverbinden of naar de spoedroute | Alles met een signaalwoord, alles wat een oordeel vraagt |
+
+### Week 3 en 4: antwoorden, signaalwoorden en privacy
+
+Schrijf voor elke groene vraag 1 antwoord in gewone taal, gecontroleerd door de praktijk. Stel met de huisartsen de signaalwoorden en de spoedroute vast. Regel de privacy op papier: een verwerkersovereenkomst met de leverancier, een DPIA (de risicobeoordeling die de AVG vraagt zodra je de manier verandert waarop je patiëntgegevens verwerkt), duidelijkheid over waar gegevens staan en hoe lang, en een korte uitleg voor patiënten op de website. Leg ook vast dat de assistent niet meer noteert dan nodig is voor het verzoek.
+
+### Week 5 en 6: klein starten en meelezen
+
+Start bijvoorbeeld met de avonduren of met 1 soort vraag, zoals de praktische vragen. Lees de eerste 2 weken dagelijks 10 tot 15 samenvattingen mee. Waar ging het mis, welke vraag kwam vaker terug dan gedacht, welke viel ten onrechte in groen? Pas de lijst aan en breid pas uit als het team tevreden is.
 
 ## Wat het betekent voor de assistente
 
-Een digitale doktersassistent wordt soms gezien als bedreiging voor het team. In de praktijk werkt het andersom. De assistente houdt het werk waar haar kennis voor nodig is: het triagegesprek, de patiënt die ongerust is, de afweging wat vandaag moet. Wat ze kwijtraakt, is het deel dat haar nu steeds onderbreekt: de vraag naar openingstijden, het tiende receptverzoek van de ochtend, het adres van de huisartsenpost.
+Een digitale doktersassistent wordt soms gezien als bedreiging voor het team. In de praktijk werkt het andersom. De assistente houdt het werk waar haar kennis voor nodig is: het triagegesprek, de patiënt die ongerust is, de afweging wat vandaag moet. Wat ze kwijtraakt, is het deel dat haar nu steeds onderbreekt. In het rekenvoorbeeld hierboven zijn dat 105 van de 140 gesprekken op 1 ochtend: niet 105 keer opnemen, maar 2 keer per dag een lijst afwerken.
 
-Betrek de assistentes daarom vanaf het begin. Zij weten welke vragen steeds terugkomen en waar patiënten in vastlopen. Hun takenlijst is de basis van het hele systeem. En zij zijn degenen die na de start merken of de overdracht klopt.
+Betrek de assistentes daarom vanaf dag 1. Zij weten welke vragen steeds terugkomen en waar patiënten in vastlopen. Hun turflijst is de basis van het hele systeem, en zij merken na de start als eerste of de overdracht klopt. Maak 1 van hen eigenaar van de lijst met kleuren, met een vast moment van 30 minuten per maand om hem bij te werken.
 
 ## Veelgestelde vragen
 
-**Is een digitale doktersassistent hetzelfde als een chatbot?**
-Niet helemaal. Een chatbot is de schriftelijke kant. Een digitale doktersassistent omvat meestal ook de telefoon en de flows die na een gesprek lopen.
+Dit zijn de 5 vragen die praktijkhouders en praktijkmanagers het vaakst stellen als ze een digitale doktersassistent overwegen. De antwoorden gaan over het proces, want de medische keuzes blijven bij de praktijk en horen niet in een gesprek met een leverancier.
 
-**Mag een digitale assistent herhaalrecepten afhandelen?**
-Hij mag het verzoek aannemen en klaarzetten. De controle en het besluit blijven bij de praktijk.
+### Is een digitale doktersassistent hetzelfde als een chatbot?
 
-**Wat gebeurt er als een patiënt een mens wil spreken?**
-Dat moet altijd kunnen. Leg vast dat de assistent direct doorverbindt of een terugbelverzoek maakt zodra iemand daarom vraagt.
+Niet helemaal. Een chatbot is de schriftelijke kant. Een digitale doktersassistent omvat meestal ook de telefoon en de flows die na een gesprek lopen. Vraag een leverancier daarom welke van de 3 lagen hij levert, hoe ze dezelfde regels delen en of je 1 lijst met antwoorden voor beide kanalen bijhoudt.
 
-**Kan het systeem zelf leren wat urgent is?**
-Dat is niet de bedoeling. Urgentie blijft een menselijke beoordeling. De assistent volgt alleen de signaalwoorden en de route die de praktijk heeft vastgelegd.
+### Mag een digitale assistent herhaalrecepten afhandelen?
 
-**Hoe zit het met de AVG?**
-Sluit een verwerkersovereenkomst, weet waar de gegevens staan en vertel patiënten dat ze met een digitale assistent praten. Laat de assistent niet meer vastleggen dan nodig is voor het verzoek.
+Hij mag het verzoek aannemen, vastleggen en klaarzetten. De controle en het besluit blijven bij de praktijk. Leg in je kleurenlijst vast dat een receptverzoek altijd oranje is: vastleggen door de assistent, afhandelen door het team. Spreek ook af binnen hoeveel werkdagen het team een verzoek afhandelt, bijvoorbeeld 2, en laat de assistent dat aan de patiënt noemen.
 
-## Begin bij je eigen takenlijst
+### Wat gebeurt er als een patiënt een mens wil spreken?
 
-Een digitale doktersassistent is geen alles-of-niets-keuze. Begin met de vraag welke taken aan de praktijklijn vastleggen en informeren zijn, en welke een oordeel vragen. Die grens bepaal jij, niet het systeem. Wil je eerst weten hoe je praktijk er online voor staat, vraag dan een [gratis ai scan voor huisartsen](/gratis-scan) aan. Je krijgt een beoordeling van je vindbaarheid en je website, met de belangrijkste verbeterpunten.
+Dat moet altijd kunnen, op elk moment van het gesprek. Leg vast dat de assistent direct doorverbindt of een terugbelverzoek maakt zodra iemand daarom vraagt, en test dat in week 5 zelf door 3 keer te bellen en erom te vragen.
+
+### Kan het systeem zelf leren wat urgent is?
+
+Dat is niet de bedoeling en hoort ook niet in je afspraken met een leverancier. Urgentie blijft een menselijke beoordeling. De assistent volgt alleen de signaalwoorden en de route die de praktijk heeft vastgelegd, en bij twijfel komt er een mens aan de lijn.
+
+### Hoe zit het met de AVG?
+
+Sluit een verwerkersovereenkomst, laat vooraf een DPIA doen omdat je de manier verandert waarop je gegevens verwerkt, weet waar de gegevens staan en hoe lang, en vertel patiënten aan het begin van elk gesprek dat ze met een digitale assistent praten. Laat de assistent niet meer vastleggen dan nodig is voor het verzoek, en zet niets in het medisch dossier zonder dat het team het heeft gezien.
+
+## Aan de slag: begin bij je eigen takenlijst
+
+Een digitale doktersassistent is geen alles-of-niets-keuze tussen 0 en 100 taken. Begin met de vraag welke taken aan je praktijklijn vastleggen en informeren zijn, en welke een oordeel vragen. Die grens bepaal jij, niet het systeem. Laat deze week de assistentes 5 dagen turven en kleur de lijst met het team in. Dan weet je binnen 2 weken waar de winst zit en waar niet.
+
+Veel groene vragen kan je website al beantwoorden voordat iemand belt. Hoe goed die dat nu doet, laat de [gratis ai scan voor huisartsen](/gratis-scan) zien: een cijfer op vindbaarheid, conversie, AI-vindbaarheid en lokale signalen, met de belangrijkste verbeterpunten en 1 verbetering die je vandaag zelf doorvoert. Jij helpt patiënten, wij regelen de bereikbaarheid.
