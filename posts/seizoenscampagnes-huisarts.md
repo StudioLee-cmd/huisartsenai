@@ -5,7 +5,7 @@ excerpt: "Elk seizoen biedt kansen voor gerichte gezondheidscampagnes. Ontdek ho
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seizoenscampagnes-huisarts.png"
-tags: ["seizoenswerk", "huisarts", "preventie"]
+tags: ["Automatisering"]
 cluster: "automatisering"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-05-27"
 excerpt: "Een snelle audit van je huisartsenpraktijk versus lokale concurrenten in 6 datapunten. Wat te meten en welke acties direct rendement geven."
 image: "/images/blog/huisartsenpraktijk-benchmarken-6-datapunten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Branding", "Concurrentieanalyse", "Praktijkmanagement"]
+tags: ["Branding"]
 cluster: "branding"
 ---
 

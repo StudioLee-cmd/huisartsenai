@@ -6,7 +6,7 @@ date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraak-herinneringen-huisarts.jpg"
-tags: ["Herinneringen", "Huisarts", "No-shows"]
+tags: ["No-shows", "Automatisering"]
 ---
 ## Het consult dat niemand bijwoonde
 

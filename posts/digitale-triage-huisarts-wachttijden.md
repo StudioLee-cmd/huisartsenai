@@ -5,7 +5,7 @@ date: "2026-04-14"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/digitale-triage-huisarts-wachttijden.jpg"
-tags: ["Digitale Triage", "Huisarts", "Efficientie"]
+tags: ["Efficiëntie", "Triage"]
 ---
 ## De telefoon is het knelpunt
 

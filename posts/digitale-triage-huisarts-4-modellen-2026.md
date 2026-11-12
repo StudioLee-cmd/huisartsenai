@@ -5,7 +5,7 @@ excerpt: "Huisartsenpraktijken die digitale triage goed inzetten halveren de wer
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/digitale-triage-huisarts-4-modellen-2026.jpg"
-tags: ["Triage", "Praktijkmanagement", "Huisarts"]
+tags: ["Triage", "Praktijkmanagement"]
 cluster: "automatisering"
 ---
 De doktersassistente is de spil van een huisartsenpraktijk. Maar in veel praktijken gaat het leeuwendeel van haar tijd op aan triage-vragen die eigenlijk geautomatiseerd kunnen worden: "Mijn kind heeft koorts, moet ik komen?", "Mag ik mijn pil ophalen?", "Hoe doe ik een herhaalrecept?". In de tussentijd wachten echte spoedgevallen aan de telefoon.

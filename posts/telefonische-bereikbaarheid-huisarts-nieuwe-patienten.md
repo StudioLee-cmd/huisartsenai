@@ -5,7 +5,7 @@ date: "2026-04-11"
 cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/telefonische-bereikbaarheid-huisarts-nieuwe-patienten.jpg"
-tags: ["Bereikbaarheid", "Patiënten", "Groei"]
+tags: ["Bereikbaarheid", "Patiënten"]
 ---
 ## Het probleem dat elke huisartsenpraktijk herkent
 

@@ -5,7 +5,7 @@ excerpt: "Live chat vraagt om een assistente achter het scherm, precies wat er n
 date: "2026-07-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/live-chat-of-ai-chatbot-huisartsenpraktijk.jpg"
-tags: ["Chatbot", "Bereikbaarheid", "Website"]
+tags: ["Chatbot", "Bereikbaarheid"]
 cluster: "chatbot"
 ---
 

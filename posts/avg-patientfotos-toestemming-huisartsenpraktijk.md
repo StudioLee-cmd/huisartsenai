@@ -5,7 +5,7 @@ date: "2026-07-22"
 excerpt: "Een foto van een patiënt op je praktijk-Instagram vraagt om toestemming. Zo richt je dat proces in zonder dat het een papieren rompslomp wordt."
 image: "/images/blog/avg-patientfotos-toestemming-huisartsenpraktijk.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Privacy", "Social Media", "AVG", "Patiëntcommunicatie"]
+tags: ["Privacy", "Social Media", "AVG"]
 cluster: "social-media"
 ---
 

@@ -5,7 +5,7 @@ excerpt: "De telefoon staat roodgloeiend, de wachtrij loopt op, en je assistente
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/telefoondruk-huisartsenpraktijk-verlagen.png"
-tags: ["Huisarts", "Telefoondruk", "Bereikbaarheid"]
+tags: ["Bereikbaarheid", "Voice AI"]
 cluster: "voice-ai"
 ---
 ## De telefoondruk in huisartsenpraktijken is onhoudbaar

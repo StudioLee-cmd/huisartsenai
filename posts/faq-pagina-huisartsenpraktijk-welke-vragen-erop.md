@@ -5,7 +5,7 @@ date: "2026-07-24"
 excerpt: "De meeste praktijken publiceren de verkeerde veelgestelde vragen. Zo kies je de vragen die de telefoon echt ontlasten en houd je ze veilig actueel."
 image: "/images/blog/faq-pagina-huisartsenpraktijk-welke-vragen-erop.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Website", "Bereikbaarheid", "Praktijkorganisatie", "Patiëntcommunicatie"]
+tags: ["Website", "Bereikbaarheid"]
 cluster: "website"
 ---
 

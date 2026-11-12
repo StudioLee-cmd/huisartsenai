@@ -5,7 +5,7 @@ date: "2026-04-18"
 cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/bereikbaarheid-huisartsenpraktijk-verbeteren.jpg"
-tags: ["Bereikbaarheid", "Huisarts", "Automatisering"]
+tags: ["Bereikbaarheid"]
 ---
 ## Het telefonische knelpunt
 

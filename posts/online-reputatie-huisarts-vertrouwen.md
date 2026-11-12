@@ -7,7 +7,7 @@ excerpt: "Steeds meer patienten lezen online reviews voordat ze een huisarts kie
 image: "/images/blog/online-reputatie-huisarts-vertrouwen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["online reputatie", "huisarts", "vertrouwen"]
+tags: ["vertrouwen", "Reviews"]
 cluster: "reviews"
 ---
 ## Waarom online reputatie ertoe doet

@@ -5,7 +5,7 @@ excerpt: "Een diabetespatiënt valt vaak ook in de griepprik- en bevolkingsonder
 date: "2026-07-16"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/cross-sell-ketenzorg-huisartsenpraktijk.jpg"
-tags: ["Ketenzorg", "Automatisering", "Praktijkvoering"]
+tags: ["Ketenzorg", "Automatisering"]
 cluster: "automatisering"
 ---
 

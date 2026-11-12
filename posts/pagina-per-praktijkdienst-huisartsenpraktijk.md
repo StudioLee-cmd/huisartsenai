@@ -5,7 +5,7 @@ date: "2026-08-21"
 excerpt: "Al je diensten op één pagina laat Google raden waar iemand moet landen. Zo splits je ze op, zonder dat je site een doolhof wordt."
 image: "/images/blog/pagina-per-praktijkdienst-huisartsenpraktijk.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Website", "Praktijkvoering"]
+tags: ["Vindbaarheid", "Website"]
 cluster: "vindbaarheid"
 ---
 

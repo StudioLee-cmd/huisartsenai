@@ -5,7 +5,7 @@ date: "2026-07-27"
 excerpt: "Een AI telefonist is pas bruikbaar als hij medicijnnamen en patiëntnamen foutloos vastlegt. Welke data je praktijk nodig heeft, en de rollout in vier weken."
 image: "/images/blog/ai-telefonist-trainen-huisartsenpraktijk-medicijnnamen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "AVG"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

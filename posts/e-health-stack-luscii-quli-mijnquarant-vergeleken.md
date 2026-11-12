@@ -5,7 +5,7 @@ date: "2026-05-24"
 excerpt: "Luscii, Quli of MijnQuarant: welke e-health-platform past bij jouw praktijk-stack? Vergelijking op integratie, kosten en NZa-vergoeding."
 image: "/images/blog/e-health-stack-luscii-quli-mijnquarant-vergeleken.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["E-health", "Stack", "Huisarts"]
+tags: ["E-Health", "Automatisering"]
 cluster: "automatisering"
 ---
 

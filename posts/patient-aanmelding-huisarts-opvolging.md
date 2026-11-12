@@ -6,7 +6,7 @@ date: "2026-04-15"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patient-aanmelding-huisarts-opvolging.jpg"
-tags: ["Patiënten", "Aanmelding", "Automatisering"]
+tags: ["Patiënten", "Automatisering"]
 ---
 Een nieuwe bewoner in de wijk zoekt een huisarts. Ze gaat naar je website, vindt een aanmeldformulier, vult het in, en hoort vervolgens vier dagen niets. Ze belt de praktijk, maar het is druk en ze wordt doorgeschakeld naar een bandje. Na de tweede poging meldt ze zich aan bij de praktijk om de hoek die binnen een uur reageerde.
 

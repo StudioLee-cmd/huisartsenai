@@ -5,7 +5,7 @@ date: "2026-07-07"
 excerpt: "Welke software heeft je huisartsenpraktijk echt nodig? Een helder overzicht van de drie lagen, HIS, digitale triage en AI-assistentie, en hoe je kiest."
 image: "/images/blog/software-huisartsenpraktijk-his-triage-ai-overzicht.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Software", "Automatisering", "Huisartsenpraktijk"]
+tags: ["Software", "Automatisering"]
 cluster: "automatisering"
 ---
 

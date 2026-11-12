@@ -5,7 +5,7 @@ date: "2026-06-23"
 excerpt: "Eén WhatsApp-flow vangt elke patiëntvraag op, plant de afspraak, herinnert op tijd en vraagt netjes om een review. Zo houdt je assistente tijd voor zorg."
 image: "/images/blog/whatsapp-flow-huisartsenpraktijk-vraag-tot-review.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["WhatsApp", "Chatbot", "Bereikbaarheid"]
+tags: ["WhatsApp", "Chatbot"]
 cluster: "chatbot"
 ---
 

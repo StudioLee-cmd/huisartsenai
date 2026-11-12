@@ -5,7 +5,7 @@ date: "2026-06-29"
 excerpt: "Nooit meer twijfelen wat je plaatst. Een kant-en-klare 30-dagen social media contentkalender voor je huisartsenpraktijk, AVG-veilig en professioneel."
 image: "/images/blog/instagram-contentkalender-huisartsenpraktijk.jpg"
 authorSlug: tim-van-der-lee
-tags: ["Social media", "Instagram", "Patiëntcommunicatie"]
+tags: ["Social Media", "Instagram"]
 cluster: social-media
 ---
 

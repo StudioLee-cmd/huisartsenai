@@ -5,7 +5,7 @@ date: "2026-07-10"
 excerpt: "Vijf Instagram Reels formats die een huisartsenpraktijk kan filmen zonder patienten in beeld: veilig binnen de AVG en haalbaar naast de zorg."
 image: "/images/blog/instagram-reels-huisartsenpraktijk-avg-veilige-formats.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Instagram", "Social Media", "Privacy"]
+tags: ["Instagram", "Social Media"]
 cluster: "social-media"
 ---
 

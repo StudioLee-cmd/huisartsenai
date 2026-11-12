@@ -5,7 +5,7 @@ excerpt: "Van telefoonbeantwoording tot triage en herhaalrecepten: AI maakt de h
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-voor-huisartsen-praktijk-efficientie.png"
-tags: ["Huisarts", "AI", "Praktijkefficiëntie"]
+tags: ["AI", "Efficiëntie"]
 cluster: "automatisering"
 ---
 ## De huisartsenpraktijk staat onder druk

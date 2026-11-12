@@ -5,7 +5,7 @@ date: "2026-05-26"
 excerpt: "Luscii, Quli en MijnQuarant vergeleken voor de huisartspraktijk: kosten, NZa-vergoeding, integratie met het HIS en 5 vragen om te stellen voor je tekent."
 image: "/images/blog/telemonitoring-platforms-huisarts-luscii-quli-mijnquarant.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Telemonitoring", "E-Health", "Software vergelijking", "Huisartsenpraktijk"]
+tags: ["E-Health", "Vergelijking"]
 cluster: "automatisering"
 ---
 

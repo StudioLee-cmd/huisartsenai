@@ -6,7 +6,7 @@ date: "2026-04-09"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/overbooking-huisartsenpraktijk-slim-plannen.jpg"
-tags: ["No-shows", "Huisarts", "Planning"]
+tags: ["No-shows", "Automatisering"]
 ---
 ## Het no-show probleem in de huisartsenpraktijk
 

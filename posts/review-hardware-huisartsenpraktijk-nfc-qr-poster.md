@@ -5,7 +5,7 @@ date: "2026-07-08"
 excerpt: "Tevreden patienten vertellen het aan de balie, maar laten zelden een Google-review achter. NFC-kaart, QR-sticker of poster: wat werkt in de wachtkamer?"
 image: "/images/blog/review-hardware-huisartsenpraktijk-nfc-qr-poster.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Bereikbaarheid", "Praktijkmanagement"]
+tags: ["Reviews", "Bereikbaarheid"]
 cluster: "reviews"
 ---
 ## De tevreden patient die nooit iets achterlaat

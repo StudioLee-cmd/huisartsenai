@@ -6,7 +6,7 @@ date: "2026-04-12"
 cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patient-intake-online-huisarts.jpg"
-tags: ["Patiënten", "Digitalisering", "Groei"]
+tags: ["Patiënten", "Digitalisering"]
 ---
 ## Waarom het eerste telefoontje een probleem is
 

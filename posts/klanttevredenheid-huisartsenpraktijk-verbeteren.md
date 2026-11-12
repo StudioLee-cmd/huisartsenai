@@ -5,7 +5,7 @@ excerpt: "Ontdek hoe je als huisartsenpraktijk patiënttevredenheid structureel 
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-huisartsenpraktijk-verbeteren.jpg"
-tags: ["Patiënttevredenheid", "Huisartsenzorg", "Verbetering"]
+tags: ["Zorg", "Automatisering"]
 cluster: "automatisering"
 ---
 ## Het belang van patiënttevredenheid

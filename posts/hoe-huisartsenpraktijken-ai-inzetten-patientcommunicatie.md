@@ -5,7 +5,7 @@ excerpt: "AI helpt huisartsenpraktijken bij afsprakenbeheer, triagecommunicatie 
 date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-huisartsenpraktijken-ai-inzetten-patientcommunicatie.png"
-tags: ["AI", "Automatisering", "Huisartsen"]
+tags: ["AI", "Automatisering"]
 cluster: "automatisering"
 ---
 Huisartsenpraktijken staan onder druk. Wachttijden lopen op, de telefoon staat roodgloeiend en administratie neemt een groot deel van de werkdag in beslag. AI biedt concrete oplossingen — zonder dat het ten koste gaat van de kwaliteit van zorg.

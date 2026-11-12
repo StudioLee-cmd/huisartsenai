@@ -5,7 +5,7 @@ date: "2026-05-16"
 excerpt: "NHG-compliance, NPA-keurmerk en kwaliteitsindicatoren op je huisartsen-website verhogen patient-vertrouwen en E-E-A-T-score. Plekken en valkuilen 2026."
 image: "/images/blog/nhg-richtlijnen-tonen-huisartsen-website-trust.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Specialisatie", "NHG", "Trust", "Website", "Huisarts"]
+tags: ["Specialisatie", "Website"]
 cluster: "website"
 ---
 

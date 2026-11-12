@@ -5,7 +5,7 @@ date: "2026-06-12"
 excerpt: "Patiënten die geen Nederlands spreken aan de lijn? Zo vangt een meertalige AI-telefonist de intake op en ontlast je assistente, binnen duidelijke kaders."
 image: "/images/blog/meertalige-ai-telefonist-huisartsenpraktijk.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Taalbarrière"]
+tags: ["Voice AI", "Bereikbaarheid", "AI"]
 cluster: "voice-ai"
 ---
 

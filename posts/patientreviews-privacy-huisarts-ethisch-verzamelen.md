@@ -6,7 +6,7 @@ date: "2026-04-10"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patientreviews-privacy-huisarts-ethisch-verzamelen.jpg"
-tags: ["Reviews", "Huisarts", "Privacy"]
+tags: ["Reviews", "Privacy"]
 ---
 ## Reviews zijn belangrijk, privacy is heilig
 

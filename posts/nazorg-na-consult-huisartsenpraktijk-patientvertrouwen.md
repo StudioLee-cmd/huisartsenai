@@ -5,7 +5,7 @@ date: "2026-05-26"
 excerpt: "Vier momenten na het consult waarop patiëntvertrouwen meetbaar groeit, zonder dat je assistente meer uren in dezelfde week kwijt is aan handmatig bellen."
 image: "/images/blog/nazorg-na-consult-huisartsenpraktijk-patientvertrouwen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Nazorg", "Patiëntvertrouwen", "Automatisering", "CRM"]
+tags: ["Automatisering", "CRM"]
 cluster: "automatisering"
 ---
 

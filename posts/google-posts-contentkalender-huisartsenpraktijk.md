@@ -5,7 +5,7 @@ date: "2026-05-28"
 excerpt: "Welke Google Posts publiceer je als huisartsenpraktijk, en wanneer? Een kant-en-klare jaarkalender die je beter vindbaar maakt voor nieuwe patiënten."
 image: "/images/blog/google-posts-contentkalender-huisartsenpraktijk.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["vindbaarheid", "google-bedrijfsprofiel", "lokale-seo"]
+tags: ["Vindbaarheid", "Lokale SEO"]
 cluster: "vindbaarheid"
 ---
 

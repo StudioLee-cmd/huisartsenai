@@ -5,7 +5,7 @@ date: "2026-07-23"
 excerpt: "Elke herfst dezelfde chaos rond de griepprik? Met dit 6-weken protocol orchestreer je de campagne voor je 60-plus-groep zonder dat de telefoon overloopt."
 image: "/images/blog/griepvaccinatie-campagne-huisartsenpraktijk-6-weken-protocol.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Bereikbaarheid", "Praktijkorganisatie", "Patiëntcommunicatie"]
+tags: ["Automatisering"]
 cluster: "automatisering"
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Het huisartsentekort groeit. Technologie kan het gat niet volledig dic
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/personeelstekort-huisartsenpraktijk-technologie.png"
-tags: ["Huisarts", "Personeelstekort", "Technologie"]
+tags: ["Automatisering"]
 cluster: "automatisering"
 ---
 ## Het huisartsentekort in cijfers

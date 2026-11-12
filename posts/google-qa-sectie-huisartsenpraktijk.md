@@ -5,7 +5,7 @@ date: "2026-07-21"
 excerpt: "De vragensectie op het Google Bedrijfsprofiel van je praktijk bestaat niet meer. Waar de vragen over bereikbaarheid en inschrijving nu thuishoren."
 image: "/images/blog/google-qa-sectie-huisartsenpraktijk.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Google Bedrijfsprofiel", "Vindbaarheid", "Bereikbaarheid"]
+tags: ["Google Bedrijfsprofiel"]
 cluster: "vindbaarheid"
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Welke kanalen werken voor een vaccinatie-uitnodiging in 2026? Per kana
 date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/vaccinatie-uitnodiging-huisartsenpraktijk-kanalen.jpg"
-tags: ["Preventieve zorg", "Vaccinatie", "Patiëntcommunicatie"]
+tags: ["Preventieve zorg"]
 cluster: "automatisering"
 ---
 

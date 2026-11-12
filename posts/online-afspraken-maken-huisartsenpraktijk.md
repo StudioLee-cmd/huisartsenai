@@ -5,7 +5,7 @@ date: "2026-07-14"
 excerpt: "Je praktijk biedt online afspraken aan, maar de telefoon blijft roodgloeiend. Zo maak je de online route vindbaar zodat patiënten hem echt gebruiken."
 image: "/images/blog/online-afspraken-maken-huisartsenpraktijk.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Bereikbaarheid", "Huisartsenpraktijk"]
+tags: ["Automatisering"]
 cluster: "automatisering"
 ---
 

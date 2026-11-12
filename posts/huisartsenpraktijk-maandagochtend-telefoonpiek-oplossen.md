@@ -5,7 +5,7 @@ date: "2026-05-01"
 excerpt: "Maandagochtend belt iedereen tegelijk de huisarts. Vijf concrete systemen die de pieklast verlagen zonder personeel uit te branden of patiënten te frustreren."
 image: "/images/blog/huisartsenpraktijk-maandagochtend-telefoonpiek-oplossen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Telefoondrukte", "Bereikbaarheid", "Voice AI", "Triage", "Praktijkvoering"]
+tags: ["Bereikbaarheid", "Voice AI"]
 cluster: "voice-ai"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-04-22"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/huisartsenpraktijk-no-shows-herinnering-flow-drie-kanalen.jpg"
-tags: ["Huisarts", "No-shows", "Patiëntcommunicatie", "Automatisering"]
+tags: ["No-shows", "Automatisering"]
 ---
 Een gemiddelde huisartsenpraktijk in Nederland heeft een no-show-ratio tussen de 4 en 9 procent. Op 120 afspraken per dag zijn dat 5 tot 11 gaten per dag, wat neerkomt op 25 tot 55 uur aan verloren productiviteit per maand. Elke no-show kost de praktijk gemiddeld €18 aan directe middelen (assistentenuren, gereserveerd consult-tijd) plus indirecte kosten doordat de wachttijd voor andere patiënten langer wordt.
 

@@ -5,7 +5,7 @@ date: "2026-07-20"
 excerpt: "Patiënten zoeken maandelijks honderden keren wat de huisartsenpost kost. Die vraag hoort op je avondbandje, in één zin die klopt."
 image: "/images/blog/avondbandje-huisartsenpost-kosten-uitleggen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Praktijkvoering"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-07-15"
 excerpt: "Een spoed-info-banner op je huisartsenpraktijk-website wijst patiënten buiten kantooruren naar het juiste kanaal: 112, de spoedpost of de online route."
 image: "/images/blog/spoed-info-banner-huisartsenpraktijk-website.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Website", "Bereikbaarheid", "Spoed", "Huisartsenpraktijk"]
+tags: ["Website", "Bereikbaarheid"]
 cluster: "website"
 ---
 Het is zaterdagavond, kwart over negen. Een ongeruste ouder met een kind met hoge koorts pakt niet meteen de telefoon, maar zoekt eerst de naam van je praktijk op. Op je website staat een keurige pagina met openingstijden en een telefoonnummer dat nu niemand opneemt. Wat die ouder op dat moment nodig heeft, is één ding: waar moet ik nú zijn? Als je website dat antwoord niet direct geeft, gebeurt er meestal één van twee dingen. De ouder belt tóch je gesloten praktijk en luistert een bandje af, of hij twijfelt te lang over 112.

@@ -4,7 +4,7 @@ excerpt: "Voorkom no-shows in je huisartsenpraktijk met automatische SMS-herinne
 date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-huisartsenpraktijk-voorkomen.jpg"
-tags: ["No-shows", "Praktijkmanagement", "Groei"]
+tags: ["No-shows", "Groei"]
 cluster: "automatisering"
 ---
 ## Hoeveel kost een no-show je praktijk echt?

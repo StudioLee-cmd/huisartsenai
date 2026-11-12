@@ -7,7 +7,7 @@ excerpt: "Een praktijknieuwsbrief verlaagt de telefoondruk, verbetert de patient
 image: "/images/blog/email-marketing-huisarts-nieuwsbrief.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["email marketing", "huisarts", "communicatie"]
+tags: ["Communicatie", "Marketing"]
 cluster: "automatisering"
 ---
 

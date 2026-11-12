@@ -5,7 +5,7 @@ date: "2026-07-09"
 excerpt: "Hoe een AI-telefonist spoed-intentie van routinevragen zoals een vaccinatie-vraag schift en direct routeert, terwijl de medische triage bij je team blijft."
 image: "/images/blog/spoed-triage-telefoon-huisartsenpraktijk.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Triage", "AVG"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

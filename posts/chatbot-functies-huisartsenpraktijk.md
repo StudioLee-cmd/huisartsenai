@@ -5,7 +5,7 @@ date: "2026-07-13"
 excerpt: "Vijf functies die een chatbot voor de huisartsenpraktijk moet hebben: spoed-trigger, AVG-handover, NHG-conforme antwoorden, agenda en escalatie."
 image: "/images/blog/chatbot-functies-huisartsenpraktijk.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Bereikbaarheid", "AVG", "Praktijkmanagement"]
+tags: ["Chatbot", "Bereikbaarheid", "AVG"]
 cluster: "chatbot"
 ---
 

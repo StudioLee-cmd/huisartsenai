@@ -5,7 +5,7 @@ date: "2026-07-29"
 excerpt: "Direct na het consult voelt verkeerd, en dat klopt ook. Zo kies je het moment waarop een review-verzoek in een praktijk wel op zijn plaats is."
 image: "/images/blog/review-timing-huisartsenpraktijk-welk-moment-kan-wel.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Patientcommunicatie", "Automatisering", "Praktijkvoering"]
+tags: ["Reviews", "Automatisering"]
 cluster: "reviews"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-06-07"
 excerpt: "Een patiëntenportaal werkt alleen als patiënten het gebruiken. Vergelijk op AVG, HIS-koppeling en adoptie en kies het systeem dat bij je praktijk past."
 image: "/images/blog/patientenportaal-kiezen-huisartsenpraktijk.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Patiëntenportaal", "AVG"]
+tags: ["Automatisering", "AVG"]
 cluster: "automatisering"
 ---
 

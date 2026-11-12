@@ -6,7 +6,7 @@ date: "2026-04-08"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/huisartsenpraktijk-vindbaar-google-lokale-seo.jpg"
-tags: ["SEO", "Huisartsenpraktijk", "Vindbaarheid"]
+tags: ["Vindbaarheid"]
 ---
 ## Waarom vindbaarheid voor huisartsenpraktijken echt relevant is
 

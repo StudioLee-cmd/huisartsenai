@@ -5,7 +5,7 @@ date: "2026-06-30"
 excerpt: "Patiënten sturen ook buiten kantooruren berichten. Zo vangt een WhatsApp-chatbot die aanvragen AVG-veilig op, met spoed-triage en minder telefoondruk."
 image: "/images/blog/whatsapp-chatbot-huisartsenpraktijk-avondaanvragen.jpg"
 authorSlug: tim-van-der-lee
-tags: ["Chatbot", "WhatsApp", "Bereikbaarheid"]
+tags: ["Chatbot", "WhatsApp"]
 cluster: chatbot
 ---
 
