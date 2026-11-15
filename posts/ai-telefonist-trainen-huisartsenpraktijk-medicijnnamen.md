@@ -109,4 +109,4 @@ Vaak wel. In de praktijk weegt zwaarder dat er direct wordt opgenomen en dat het
 
 Je hebt geen enorme dataset nodig. Je hebt je praktijkinformatie nodig, de vijftien vragen die je assistente dagelijks herhaalt, je agenda-regels en je terugbelprotocol. Plus die ene woordenlijst die niemand anders kan maken: de medicijnnamen, apotheken en straatnamen die in jouw praktijk voorbijkomen. En daarbovenop de afspraak die alles draagt: de telefonist legt vast en bevestigt, de praktijk beoordeelt.
 
-Jij helpt patiënten, wij regelen de bereikbaarheid. Wil je eerst zien welke oproepen je praktijk nu misloopt en op welke momenten, vraag dan een [gratis ai scan voor huisartsen](/gratis-scan) aan. Met de Groei-of-Geld-Terug Garantie van HuisartsenAI zit je nergens aan vast als het niets oplevert.
+Jij helpt patiënten, wij regelen de bereikbaarheid. Wil je eerst zien welke oproepen je praktijk nu misloopt en op welke momenten, vraag dan een [gratis ai scan voor huisartsen](/gratis-scan) aan.

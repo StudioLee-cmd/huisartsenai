@@ -131,4 +131,4 @@ Niet drie zorgpaden tegelijk live. Een realistische volgorde:
 2. **Maand 2:** breid uit naar 25-30 patiënten, evalueer de alarm-flow, pas drempelwaarden aan.
 3. **Maand 3:** Beslismoment. Werkt het platform voor jou? Bouwt het programma zichzelf terug via M&I + POH-S-uren? Zo ja, ga door en breid uit. Zo nee, bouw af voor de kosten oplopen.
 
-Wil je weten welke van de drie platforms het beste past bij jouw praktijk-profiel en patiëntpopulatie? Vraag een [wat kost ai voor huisartsen](/tarieven) gesprek aan via Calendly, dan brengen we de keuze in een half uur in kaart. Onze Groei-of-Geld-Terug Garantie geldt op elk implementatie-traject dat hieruit komt.
+Wil je weten welke van de drie platforms het beste past bij jouw praktijk-profiel en patiëntpopulatie? Vraag een [wat kost ai voor huisartsen](/tarieven) gesprek aan via Calendly, dan brengen we de keuze in een half uur in kaart.

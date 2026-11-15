@@ -127,7 +127,7 @@ Het tegendeel is waar. Door routinetaken te automatiseren, heeft je team meer ti
 
 Technologie lost het personeelstekort niet op, maar het dicht een significant deel van het gat. Door telefoonwerk, administratie en herinneringen te automatiseren, win je uren per dag terug — uren die je team kan besteden aan patientenzorg.
 
-Met [HuisartsenAI](/) helpen we huisartsenpraktijken bij het digitaliseren van hun werkprocessen. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [HuisartsenAI](/) helpen we huisartsenpraktijken bij het digitaliseren van hun werkprocessen. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoeveel tijd je team terugwint.
 

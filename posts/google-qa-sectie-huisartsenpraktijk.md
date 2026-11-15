@@ -90,6 +90,6 @@ Zoek je praktijk op zoals een patiënt dat zou doen, op je telefoon en niet inge
 
 De parkeervraag van deze week komt volgende week terug, tenzij het antwoord dan ergens staat. Dat is de hele gedachte, en die is niet veranderd. Wat wel veranderd is, is de plek: niet meer een vakje op je profiel, maar je profielvelden en je eigen website. Elk logistiek antwoord dat je één keer goed opschrijft, hoeft de assistente daarna niet meer te herhalen.
 
-Wil je dat het hele digitale visitekaartje van je praktijk klopt, van profiel tot site? Bekijk dan wat een [gratis website voor huisartsen](/gratis-website) van HuisartsenAI voor je praktijk kan betekenen. We werken met een Groei-of-Geld-Terug Garantie, dus je loopt geen risico. Jij helpt patiënten, wij regelen de bereikbaarheid.
+Wil je dat het hele digitale visitekaartje van je praktijk klopt, van profiel tot site? Bekijk dan wat een [gratis website voor huisartsen](/gratis-website) van HuisartsenAI voor je praktijk kan betekenen. Jij helpt patiënten, wij regelen de bereikbaarheid.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/google-posts-contentkalender-huisartsenpraktijk" class="text-dark fw-semibold">Google Posts voor je huisartsenpraktijk: een jaarkalender</a> →</p>

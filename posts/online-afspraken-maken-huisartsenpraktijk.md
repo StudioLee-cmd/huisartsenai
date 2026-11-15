@@ -77,7 +77,7 @@ Reken het eens door. Als je praktijk enkele honderden afspraken per maand telefo
 
 De sleutel is dat het online kanaal geen bijzaak is die ergens aanstaat, maar de standaardroute die je vindbaar, moeiteloos en actief onder de aandacht brengt. Wil je dat je afspraakmodule op een [professionele website voor huisartsen](/gratis-website) staat die patiënten meteen naar de juiste knop leidt? Dan kijken we vrijblijvend met je mee.
 
-En de garantie: leidt de aanpak binnen de afgesproken periode niet tot minder telefoondruk en meer online afspraken, dan geldt onze **Groei-of-Geld-Terug Garantie**. Jij helpt patiënten, wij regelen de bereikbaarheid.
+Jij helpt patiënten, wij regelen de bereikbaarheid.
 
 ## Veelgestelde vragen
 

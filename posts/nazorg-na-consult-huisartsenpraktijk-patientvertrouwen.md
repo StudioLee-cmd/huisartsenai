@@ -83,4 +83,4 @@ Niet alle vier momenten hoeven tegelijk live. Een redelijke volgorde voor een pr
 3. Maand 2: Moment 2 (klachtontwikkelings-check) live op klinisch relevante consulten.
 4. Maand 3: Moment 3 (herhaal-controle cyclus) integreren met HIS en CRM.
 
-Wil je weten welke van de vier momenten in jouw praktijk de grootste tijdwinst oplevert? Vraag een [gratis ai scan voor huisartsen](/gratis-scan) aan, dan brengen we het in een uur in kaart. Onze Groei-of-Geld-Terug Garantie geldt op elk traject dat hieruit komt.
+Wil je weten welke van de vier momenten in jouw praktijk de grootste tijdwinst oplevert? Vraag een [gratis ai scan voor huisartsen](/gratis-scan) aan, dan brengen we het in een uur in kaart.

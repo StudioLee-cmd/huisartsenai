@@ -92,8 +92,6 @@ Na een jaar heb je een datagedreven campagne-kalender die je elk jaar kunt herha
 
 Bij StudioLee nemen we de seizoenscommunicatie over. Van [patientcommunicatie](/blog/patientcommunicatie-digitaliseren) tot content die patienten activeert. Met slechts **15 minuten per maand** aan jouw kant.
 
-De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
-
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe seizoenscampagnes jouw praktijk kunnen versterken.
 
 ## Conclusie
