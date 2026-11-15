@@ -1,0 +1,350 @@
+{
+ "administratie-huisartsenpraktijk-uren-terugwinnen": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "b391ef785435652900f9fc78150a04445342642ce81e88090129b91fe11a7e13"
+ },
+ "afspraak-herinneringen-huisarts": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "dce432d092ba111b0ea872558b8fee1ebf6b5587b134d191edba66a1079c466d"
+ },
+ "ai-chatbot-huisartsenpraktijk-4-vragen-veilig-automatiseren": {
+  "lastmod": "2026-08-05T10:12:16+02:00",
+  "sha256": "45603ffa1f76e6fb725d1c30aeed9ee1ed8dd925202367f3d9e6cf9cd765769a"
+ },
+ "ai-chatbot-trainen-huisartsenpraktijk-data": {
+  "lastmod": "2026-06-21T21:14:57+02:00",
+  "sha256": "13fc7a35a4b4fb3da5eea966ba069c227c8fbb8f64287a123e3036e7cc443e9c"
+ },
+ "ai-telefonist-trainen-huisartsenpraktijk-medicijnnamen": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "fd848b782ae5c11374a6e3e481a24c0016976d0da61c3edc9bdaceba81876caa"
+ },
+ "ai-verslaglegging-consult-huisartsenpraktijk": {
+  "lastmod": "2026-11-15T05:19:57+01:00",
+  "sha256": "7b27df9a0487e60cc16fc1f4127d211ec6fdd99f1787f30f13c3d8896da14058"
+ },
+ "ai-voor-huisartsen-praktijk-efficientie": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "51524e33798905ead00074df2086c190a4a5e1fb9fade221447c29dd49fac05f"
+ },
+ "avg-patientfotos-toestemming-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "61237ea708c71b06146fa08749318a2f866299eb4278403e852b7e7cfc95d71f"
+ },
+ "avondbandje-huisartsenpost-kosten-uitleggen": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "b7964424ccfab8a9b724349ad0af9680ac9003f31daa0d9076689d41ad61f6af"
+ },
+ "bereikbaarheid-huisartsenpraktijk-verbeteren": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "0ff4a7503f122a73ba802172c7daa41ef53e1b9861ed6c97bb6b2dfdbb8c694a"
+ },
+ "beste-his-systeem-2026": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "18ad6ff4764ebd32190e8da454173cdfe160c959242deb15068d191c371b3edf"
+ },
+ "branding-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "361c372c10b843f286e49f1acd9fcab9596c0eb67cac08e2dfca8273e69c2e75"
+ },
+ "chatbot-functies-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "a3f56eccb5b7287062a772b1a13a1d9c0d591c25390cb6d4000b35daaeb7cadb"
+ },
+ "crm-implementatie-huisartsenpraktijk": {
+  "lastmod": "2026-08-03T23:13:26+02:00",
+  "sha256": "5d2df2f9fc5b0fd44a3ffff6275a900b024de1e2f3aeb8d0d7640d751b45b7f0"
+ },
+ "cross-sell-ketenzorg-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "b6fc25abb9f035915bacc920d6b60dad7f778f3d3d776acc9df254f232d0b37d"
+ },
+ "digitale-doktersassistent-wat-het-wel-en-niet-doet": {
+  "lastmod": "2026-11-12T17:30:19+01:00",
+  "sha256": "c05e3385e920bdf8c08b1a1ce4c37b94777034d5c4b022aba5f87080ab28aa44"
+ },
+ "digitale-triage-huisarts-4-modellen-2026": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "72bd5a3440031274f5d2389dd1f9b81bd18600cf46ddeeae174e85642c0c816d"
+ },
+ "digitale-triage-huisarts-wachttijden": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "5745e52b9be6d598b85125cbafdd12c99adc9ec8bdd539376ec166ef57d8ef74"
+ },
+ "digitale-wachtlijst-huisartsenpraktijk-nieuwe-aanmeldingen": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "6be1266259d17236cbc726a559a886d33d7030c215815f26e055f622e90d7949"
+ },
+ "e-consult-inrichten-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "aade024ae4e84c74eec88007d2b94591ee53b45c4b3b4d599ef094a1e67c1505"
+ },
+ "e-health-stack-luscii-quli-mijnquarant-vergeleken": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "53dc8761a0532587eea9040c9d0aa20a47b70c9d3c549de29d76260cd46980d2"
+ },
+ "email-marketing-huisarts-nieuwsbrief": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "a74a0f1ddb21f6517a179c86e3ef5efb723e1e7660ee79a04b466cee9f013cb1"
+ },
+ "faq-pagina-huisartsenpraktijk-welke-vragen-erop": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "36d38646e7c737fb35ae7ad6fb54fdc2e62cc2ed5390d3b8d6239a28f7693f35"
+ },
+ "google-bedrijfsprofiel-huisarts": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "38c164515f502ec75fde8e522c27ad7b07369e75cced7e3870afe695dc3931c8"
+ },
+ "google-posts-contentkalender-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "ad8b7552202cdde8f28455879f8460db67d855ee58b156363ad6a4aba492deda"
+ },
+ "google-qa-sectie-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "80c029d6c06ac09c760843c0497efd430b5289830f43f3fc300bb755a3a54d61"
+ },
+ "griepvaccinatie-campagne-huisartsenpraktijk-6-weken-protocol": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "ef65a96f23278bbc0ec56011fe4066da95dac7a91dfd65d10f89e564632a0c55"
+ },
+ "his-migratie-draaiboek-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "29a5a9c9a5c0593ae68f04f61bb1773623919c889e32faabfc6a6a8e01f80dea"
+ },
+ "hoe-ai-huisartsen-helpt": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "a40e8df6e0c20bc42ab2c7a4eab7f80111f6436edbb41ef2c33287003073206f"
+ },
+ "hoe-huisartsenpraktijken-ai-inzetten-patientcommunicatie": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "39dccbef678c2894fb88ec51a6ddabc38c73826afa934b2eafe3c6be1dfe81e4"
+ },
+ "huisarts-vindbaar-chatgpt-ai-search": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "ee34756cc982676ef0a68569987dfe16319ae74500ddbadfb64bfc2795f58253"
+ },
+ "huisartsenpraktijk-automatiseren": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "f7eb941d3bdc66a47541878b6887d1c8eb9c349ce9c5642c9000e269a27dda33"
+ },
+ "huisartsenpraktijk-benchmarken-6-datapunten": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "273566f503d5af96ed36cfc35832dffed70d4babdb433513a3477146d650f149"
+ },
+ "huisartsenpraktijk-maandagochtend-telefoonpiek-oplossen": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "2d5cbfd999c0f9ec65fd754055a912657e8601aa70a826968ae24ece29881269"
+ },
+ "huisartsenpraktijk-no-shows-herinnering-flow-drie-kanalen": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "8b584a57f4fa7581ffd7449fb2ac5190b8558e1becb03c20673842aaf37017f8"
+ },
+ "huisartsenpraktijk-vindbaar-google-lokale-seo": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "588fc59b4274a73132c96fec117b85910677c9c95b28ba2bdef340fbab07969b"
+ },
+ "huisartsenwebsite-minder-telefoon": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "9300902c7100b4bfc96bf85c1853625f710ac34b38f66f1877cb9ce512052d03"
+ },
+ "instagram-contentkalender-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "46b84199e70e8cf20896b78febb31ba860fbdc39349188729d03d60404caf570"
+ },
+ "instagram-reels-huisartsenpraktijk-avg-veilige-formats": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "9d5df34c43ab73db43017ec93ff0632437836469d5bae6aebb7306b75f691fcb"
+ },
+ "klantbehoud-huisarts-patientrelatie": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "d886b29c78a762820c08ff5eb11664d5a02dca08a584c1f0d2e7ef515a810f94"
+ },
+ "klanttevredenheid-huisartsenpraktijk-verbeteren": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "fa9a116c2ffadae6d8013d8b44667e51d33117955dcf8389824f01de696f6f57"
+ },
+ "live-chat-of-ai-chatbot-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "3b21f8035b03bfa92f85e7940f8a42ea89fec9b2527017fc599fdbc3b0f9ff39"
+ },
+ "lokale-vindbaarheid-huisarts-google-maps": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "a50d64b58790a507aa11808f44f203e576dada265df59d8afc354c1deddc3f57"
+ },
+ "meer-google-reviews-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "2465d65b2bf25983aa6a77a78f357bafeb47bc4f0d8b35079fad9bd8e825b7d8"
+ },
+ "meertalige-ai-telefonist-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "e03dc3448897f7ae62d36473ee25ccfc628652b1f217b0c437a45805113d8847"
+ },
+ "mond-tot-mondreclame-huisarts": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "09fa375510ce57314d6309876df8edc00fbea374320bd4e4826d0a23894fef88"
+ },
+ "multi-locatie-crm-huisartsenpraktijk-patientenbestand": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "565d3274fcfd21e632859a1d80de0cc378ba0ad50e0b4bd8700e63755f77822d"
+ },
+ "nazorg-na-consult-huisartsenpraktijk-patientvertrouwen": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "57db3c3c9da3f89ceeba530a0c39000e07e91df0aad8eef721672bf5036752b7"
+ },
+ "nhg-richtlijnen-tonen-huisartsen-website-trust": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "6beee9e5c694d45fcafe2a34a35e8badd0ad055659e8d0f907329e4b9162d49c"
+ },
+ "nieuwe-patienten-werven-huisarts-online": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "d2836bbd9299e1861305332388b09e0554e706853132d326245fb4883f9cc04f"
+ },
+ "no-show-protocol-huisartsenpraktijk-3-modellen": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "548720ea75009963e801c23f1edc0c4ce95883cb06f0129a3152b8512febd1d0"
+ },
+ "no-shows-huisartsenpraktijk-voorkomen": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "720d8e6873054791901c6e9e581610436eb6b25124bb51cce269f0abe6400142"
+ },
+ "online-afspraken-maken-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "bbf8f0a38e3b99ea0470ce963a4ad4e02ceae9eed4908b45b311504f7b55ad1b"
+ },
+ "online-reputatie-huisarts-vertrouwen": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "df63606a93fe41995bdfd02bfcd5a2e930e3b6abfea94345709e16e2260e7c34"
+ },
+ "overbooking-huisartsenpraktijk-slim-plannen": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "a685d1176f3856f902f335d665440fbd6d5c19464d27f7c73b964728eb0b7570"
+ },
+ "pagina-per-praktijkdienst-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "dbe9e06e9908897ba0bac20b67b0d4ce276e2b8cfb90ca802593f1a202db5bb9"
+ },
+ "patient-aanmelding-huisarts-opvolging": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "c5d3680b127d3b4afbc0f95118432d90d63a7ce124ab89667415b2048d2c7234"
+ },
+ "patient-intake-online-huisarts": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "d530f17c7174fa19eef9dfd75a89273a4408751f2a28c8df988e071dedd1d55d"
+ },
+ "patientbeoordelingen-huisarts-automatiseren": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "5e7e60aa271b762d44b97aaa0328460f891e53a6a30c5caeccd9b595850196ae"
+ },
+ "patientcommunicatie-digitaliseren": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "4584e4e791d79c858ae82b982ccdb0b060c6e9753366f8a67f167c2ed73cab58"
+ },
+ "patientenportaal-kiezen-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "7490bc9e2e55f4b18f19993527214dd86bdf1179c5c73992ed5a5d1e023b3d39"
+ },
+ "patientreviews-privacy-huisarts-ethisch-verzamelen": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "6ab221caf53804233d761b74941fbe99ecc79034bbf8138540a1bf88c9c66261"
+ },
+ "patienttevredenheid-ai": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "3f41fa3fa0b68d00d4ec32fa6c9a1425c4e1cc3c7f811fe9244f54cecfc116c4"
+ },
+ "personeelstekort-huisartsenpraktijk-technologie": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "afc64c3386d0c59f2191dc77e22ce70242f034dbf6909eb2a2bfbf7ed19f6fab"
+ },
+ "praktijkinformatie-up-to-date-huisarts-nap": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "efec16a78ef7d419e70a30465ae1cee4b534913088bd053e52dd35ccd7f59a4b"
+ },
+ "praktijkmanager-huisartsenpraktijk-taken-weekritme": {
+  "lastmod": "2026-11-14T16:41:54+01:00",
+  "sha256": "f11e79d254442c99f5157cdf2f49af3ea9ce65f60f31a50307c9f8afd41bb3c7"
+ },
+ "preventieve-ketenzorg-recall-huisartspraktijk-risicopatienten-kwartaal": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "bb6ae8af39a72972187f20cbd619c78add406f3b467d2d4e0dff21bbf58a09fd"
+ },
+ "preventieve-zorg-huisarts": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "96e17158abde76f5e98f389ec9ae6a0e7518d130c931f773269983e7fe52c6df"
+ },
+ "review-hardware-huisartsenpraktijk-nfc-qr-poster": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "ba09eaed3ce9d1731ce941a62211c37f35d92322c70f8303bcbdf0218bf0fc13"
+ },
+ "review-timing-huisartsenpraktijk-welk-moment-kan-wel": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "addde686d3458d8b47cd8b4f59dd1637a3bbeaba0619f88e111b712739e7294d"
+ },
+ "reviews-verzamelen-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "e681ea907e0686a0293dc63af14e728e32f7ad1b7edb994543d247242e148686"
+ },
+ "samenwerken-als-huisarts-ketenzorg": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "efb257f06f10baf81495c010f551218404d3c9b85067948b1588afd782d3ba62"
+ },
+ "seizoenscampagnes-huisarts": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "afc5139121d178f3978802ae0f2e19666e6f74a24c9c7ea3bca29af3eb93f510"
+ },
+ "social-media-huisartsen-patienten": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "da051fac7c2e06a7c504a61e0184104bb0ecbcb5c474685aab4683ac7ab7414b"
+ },
+ "software-huisartsenpraktijk-his-triage-ai-overzicht": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "01a97e743ed975b410e0e0907f5ace58fa49f42911a76133524442e654e557d1"
+ },
+ "specialiseren-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "ce84a8a3e0618720f675c4e1cc0c1c2f2a1147f5130e569635284ce8fca2c837"
+ },
+ "spoed-info-banner-huisartsenpraktijk-website": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "8f71aee9e64fd8e5fbd8704f567a791d70544344d1bea2fb47f20e449380aca4"
+ },
+ "spoed-triage-telefoon-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "21840e9ef1e0e8b58cd0fc95c1bd0e87e5294c3d01a32ecaa853e11f12762e8f"
+ },
+ "telefonische-bereikbaarheid-huisarts-nieuwe-patienten": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "0ee0fe404ca7ffb8b08a7aa0ba338933704a56a06d6d82986f91bfa475b7dc89"
+ },
+ "telefoondruk-huisartsenpraktijk-verlagen": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "eb6c6ebb85d3a5db56ba79923f9c854eb34729e51e3960ac12cbf893047516a2"
+ },
+ "telemonitoring-platforms-huisarts-luscii-quli-mijnquarant": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "529d46d71d99d8fdfa9baec935eeb6c2e4fb6439c4e075e61d2a02b7757757d6"
+ },
+ "triage-automatisering": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "d34571fb1f818fc287b5837340f01e4eee9d46f8be0c5862e16df1ff35ac8113"
+ },
+ "vaccinatie-uitnodiging-huisartsenpraktijk-kanalen": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "1dc280816677be15efba5c856cf665a4723c918865c78d330a747dffc628af2b"
+ },
+ "voice-ai-vs-voicemail-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "0dbdef23109ada906f221d77d12a845115a123211fcfc7f4943f3de6b7c2cd26"
+ },
+ "wat-is-chatgpt-hoe-gebruik-je-het-als-huisartsenpraktijk": {
+  "lastmod": "2026-11-12T19:31:55+01:00",
+  "sha256": "a0d054fdabb4bca4fecbd78645b4cce1493365afa83565f0ca86ae49746769b0"
+ },
+ "whatsapp-chatbot-huisartsenpraktijk-avondaanvragen": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "f7087f7221a503ffd3e4bce4bcc881de5d975d251e3b8830c3db42b4c424ad89"
+ },
+ "whatsapp-flow-huisartsenpraktijk-vraag-tot-review": {
+  "lastmod": "2026-11-12T19:03:56+01:00",
+  "sha256": "2e67b42543ba6ca84ca99a675c59a9ed3bf5faf73f6e5efb14a1bb821d49de1f"
+ }
+}
