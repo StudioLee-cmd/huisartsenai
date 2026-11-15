@@ -82,4 +82,4 @@ Een formulier dat niemand vindt, wordt niet gebruikt. Zet het op drie plekken:
 
 Je hoeft niet direct een compleet systeem te bouwen. Begin met een Google Form of Jotform, link het op je website en kijk hoeveel inschrijvingen er in een maand binnenkomen via het formulier versus de telefoon. De meeste praktijken zien na een maand al een fors deel van de inschrijvingen online binnenkomen.
 
-Wil je weten hoe je je hele patiëntcommunicatie kunt digitaliseren? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je praktijk en concrete verbeterpunten. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je je hele patiëntcommunicatie kunt digitaliseren? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je praktijk en concrete verbeterpunten.

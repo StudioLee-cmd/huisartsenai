@@ -70,6 +70,5 @@ Wil je weten hoe dit voor jullie praktijk uitpakt? In de managed-service rolt Hu
 - AVG-conforme inrichting met heldere transcript-retentie en audio-verwijdering
 - Automatische opvolging via WhatsApp/SMS na afsluiting van het gesprek
 - Maandelijkse rapportage op ophanger-percentage, gemiddelde afhandeltijd en pieksnijding
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis ai scan voor huisartsen](/gratis-scan) — we kijken naar jullie inbound-volume, de maandagpiek en de uren die de assistente nu kwijt is aan terugbellen, en rekenen voor jullie uit wat een voice AI maandelijks zou besparen op administratie en kostenintensieve doorverwijzing. Geen verkooppraat: een rapport met cijfers, op één A4.

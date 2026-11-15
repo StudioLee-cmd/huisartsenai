@@ -78,7 +78,7 @@ Ja, en daar zit een groot deel van de waarde van een [24/7 chatbot voor huisarts
 
 Terug naar dat sollicitatiegesprek. Je zou een assistente nooit aannemen op haar vriendelijke toon alleen; je vraagt door op spoed, privacy en betrouwbaarheid. Geef een chatbot hetzelfde gesprek. De vijf functies uit dit stuk zijn de vragenlijst: spoed-trigger, AVG-handover, bronverwijzing, agenda-koppeling en escalatie. Elke functie die ontbreekt, betaal je later terug in risico of in teleurgestelde patiënten.
 
-Wil je eerst weten waar jouw praktijk nu staat qua digitale bereikbaarheid? Vraag de [gratis ai scan voor huisartsen](/gratis-scan) aan: je ziet dan precies waar aanvragen nu blijven liggen en wat een chatbot daarin kan opvangen. HuisartsenAI werkt met een Groei-of-Geld-Terug Garantie, dus het risico ligt bij ons.
+Wil je eerst weten waar jouw praktijk nu staat qua digitale bereikbaarheid? Vraag de [gratis ai scan voor huisartsen](/gratis-scan) aan: je ziet dan precies waar aanvragen nu blijven liggen en wat een chatbot daarin kan opvangen.
 
 Jij helpt patiënten, wij regelen de bereikbaarheid.
 

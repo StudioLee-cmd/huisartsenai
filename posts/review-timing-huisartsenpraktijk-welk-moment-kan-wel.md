@@ -136,6 +136,6 @@ Het beste moment om als praktijk om een review te vragen is niet het moment met 
 
 Begin dus niet met de vraag welk moment het meeste oplevert, maar met de vraag welke afgeronde stap in je praktijk al ergens wordt vastgelegd. Dat is je trigger. De rest is een uitsluitingslijst en een vertraging van een dag.
 
-Wil je weten waar in jouw praktijk die afgeronde momenten nu blijven liggen? Vraag een [gratis ai scan voor huisartsen](/gratis-scan) aan. Je krijgt inzicht in je huidige review-profiel en de contactmomenten die nu ongebruikt voorbijgaan, inclusief de Groei-of-Geld-Terug Garantie op het traject dat eruit volgt.
+Wil je weten waar in jouw praktijk die afgeronde momenten nu blijven liggen? Vraag een [gratis ai scan voor huisartsen](/gratis-scan) aan.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/review-hardware-huisartsenpraktijk-nfc-qr-poster" class="text-dark fw-semibold">Review-hardware huisartsenpraktijk: NFC, QR of poster?</a> →</p>

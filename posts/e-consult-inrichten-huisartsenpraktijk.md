@@ -70,7 +70,7 @@ Twee dingen houden het volume behapbaar. Zet aan de voorkant een filter: een [ai
 
 Goed ingericht verschuift een e-consult het contact van het drukste moment van de dag naar een rustig moment, en het vangt vragen af die anders de telefoon hadden belast. Dat geeft de assistente lucht op de ochtendpiek en de patiënt een laagdrempelig kanaal zonder in de wacht te staan. De winst zit niet in één groot getal maar in veel kleine: een paar telefoontjes minder per dag, een assistente die niet meer wordt onderbroken, en een patiënt die zich gehoord voelt. Wil je weten wat automatisering rond het e-consult je concreet aan tijd oplevert, dan geven onze [tarieven](/tarieven) je een beeld van de investering ertegenover.
 
-Zet je AI en automatisering breder in voor je praktijk, dan werken we met een **Groei-of-Geld-Terug Garantie**: levert het binnen de afgesproken periode geen aantoonbaar resultaat op, dan krijg je je investering terug. Zo ligt het risico bij ons, niet bij jou.
+Zo ligt het risico bij ons, niet bij jou.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klantbehoud-huisarts-patientrelatie" class="text-dark fw-semibold">Patientbehoud in de huisartsenpraktijk: een sterke relatie van eerste consult tot nazorg</a> →</p></div></div></div>
 

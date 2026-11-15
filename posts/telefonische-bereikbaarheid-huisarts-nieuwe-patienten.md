@@ -77,4 +77,4 @@ De meeste telefooncentrales bieden deze gegevens standaard. Als je ze niet bijho
 
 Goede zorg begint voordat de patiënt in de spreekkamer zit. Het begint bij de eerste keer dat iemand contact probeert te leggen met je praktijk. Als dat contactmoment soepel verloopt, heb je er een patiënt bij. Als het frustrerend is, verlies je diegene aan de concurrent.
 
-Wil je weten hoe bereikbaar jouw praktijk nu is en waar de verbeterpunten liggen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je online vindbaarheid, bereikbaarheid en concrete stappen om meer patiënten te werven. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe bereikbaar jouw praktijk nu is en waar de verbeterpunten liggen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je online vindbaarheid, bereikbaarheid en concrete stappen om meer patiënten te werven.

@@ -80,6 +80,5 @@ In de managed service van HuisartsenAI nemen we dit voor je uit handen:
 - We schrijven AVG-veilige, neutrale posttekst zonder patiëntgegevens of medisch advies
 - We koppelen je Posts aan je reviewstroom zodat beide signalen elkaar versterken
 - We zorgen voor een vast publicatieritme zonder extra werk voor de assistente
-- Alles met een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Vraag een gratis ai scan voor huisartsen aan](/gratis-scan) — we bekijken je huidige Google Bedrijfsprofiel, laten zien welke posttypes je mist en op welke lokale zoekopdrachten je nu kansen laat liggen. Geen verkooppraat, gewoon een helder overzicht op één A4.

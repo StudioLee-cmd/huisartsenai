@@ -55,7 +55,7 @@ Een AI aan de telefoon is pas waardevol als je ziet wat ze oplevert. Houd drie c
 
 Het tweede is de **doorschakeltijd bij spoed**: hoe snel staat een acute beller bij een mens? Die tijd hoort in seconden te tellen, niet in minuten. Het derde is de **routine-afhandeling**: welk deel van de administratieve vragen wordt volledig zonder je team afgehandeld? Hoe hoger dat percentage, hoe meer ademruimte je assistente overhoudt voor de wachtkamer.
 
-Wil je weten hoeveel oproepen je praktijk nu misloopt in de piekuren, dan maakt een [gratis ai scan voor huisartsen](/gratis-scan) dat in één keer zichtbaar. Onze managed service richt de complete telefoonschifting voor je in, met een Groei-of-Geld-Terug Garantie, zodat de bereikbaarheid zich eerst bewijst voordat het iets kost.
+Wil je weten hoeveel oproepen je praktijk nu misloopt in de piekuren, dan maakt een [gratis ai scan voor huisartsen](/gratis-scan) dat in één keer zichtbaar.
 
 ## Veelgestelde vragen
 
