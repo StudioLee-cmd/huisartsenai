@@ -11,7 +11,7 @@ cluster: "automatisering"
 
 ## Waarom digitale communicatie de toekomst is
 
-De meeste huisartsenpraktijken communiceren nog deels via papieren brieven, folders in de wachtkamer en telefoon. Dat kost tijd, geld en is foutgevoelig. Patiënten verwachten in 2026 dat ze digitaal kunnen communiceren met hun praktijk — net zoals ze dat doen met hun bank, verzekeraar en webshop.
+De meeste huisartsenpraktijken communiceren nog deels via papieren brieven, folders in de wachtkamer en telefoon. Dat kost tijd, geld en is foutgevoelig. Patiënten verwachten in 2026 dat ze digitaal kunnen communiceren met hun praktijk, net zoals ze dat doen met hun bank, verzekeraar en webshop.
 
 Digitalisering van patiëntcommunicatie bespaart tijd voor zowel de praktijk als de patiënt. Minder telefoon, minder papier, minder misverstanden. Begin met de stappen die het meeste opleveren en bouw van daaruit verder.
 
@@ -30,7 +30,7 @@ Het voordeel: digitale informatie is altijd actueel. Een papieren folder over di
 De meest directe winst: automatische afspraakbevestigingen en herinneringen per SMS of e-mail:
 
 - **Bij boeking**: directe bevestiging met datum, tijd en eventuele voorbereidingsinstructies
-- **24 uur voor de afspraak**: herinnering — vermindert no-shows aanzienlijk
+- **24 uur voor de afspraak**: herinnering die no-shows aanzienlijk vermindert
 - **Na de afspraak**: bedankbericht met eventuele vervolginstructies
 
 De meeste HIS-systemen (Medicom, Promedico) ondersteunen dit. Het kost eenmalig een uur om in te stellen en bespaart daarna dagelijks telefoonwerk. Lees meer over hoe je de [telefoondruk verlaagt](/blog/telefoondruk-huisartsenpraktijk-verlagen) in je praktijk.
@@ -40,7 +40,7 @@ De meeste HIS-systemen (Medicom, Promedico) ondersteunen dit. Het kost eenmalig 
 Een patiëntenportaal is de volgende stap in digitalisering:
 
 - **Herhaalrecepten aanvragen**: de patiënt klikt, de huisarts beoordeelt, de apotheek ontvangt
-- **E-consult**: niet-urgente vragen schriftelijk beantwoorden — scheelt een consult
+- **E-consult**: niet-urgente vragen schriftelijk beantwoorden (scheelt een consult)
 - **Lab-uitslagen**: patiënten bekijken hun eigen uitslagen, met uitleg erbij
 - **Medische gegevens**: inzage in het eigen dossier (wettelijk recht)
 
@@ -59,4 +59,4 @@ Afspraakherinneringen vallen onder de behandelrelatie en vereisen geen aparte to
 
 ## Conclusie
 
-Digitalisering van patiëntcommunicatie bespaart tijd, vermindert fouten en verbetert de patiëntervaring. Begin met automatische afspraakherinneringen — die leveren de snelste winst op. Bouw dan uit naar een patiëntenportaal en digitale informatievoorziening. Wil je ontdekken hoe je praktijk efficiënter kan werken? Vraag een [gratis scan](/gratis-scan) aan.
+Digitalisering van patiëntcommunicatie bespaart tijd, vermindert fouten en verbetert de patiëntervaring. Begin met automatische afspraakherinneringen, want die leveren de snelste winst op. Bouw dan uit naar een patiëntenportaal en digitale informatievoorziening. Wil je ontdekken hoe je praktijk efficiënter kan werken? Vraag een [gratis scan](/gratis-scan) aan.

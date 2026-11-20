@@ -7,7 +7,7 @@ authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratie-huisartsenpraktijk-uren-terugwinnen.jpg"
 tags: ["Administratie"]
 ---
-Elke huisarts weet dat de administratieve lasten torenhoog zijn. De LHV berekende in 2023 dat een gemiddelde praktijkhouder 16-24 uur per week aan administratie en coördinatie besteedt — tijd die niet naar patiëntencontact gaat. Maar wat veel praktijken missen: een fors deel van die uren is automatiseerbaar, zonder dat je een nieuw HIS hoeft aan te schaffen of dat assistentes hun werk kwijtraken.
+Elke huisarts weet dat de administratieve lasten torenhoog zijn. De LHV berekende in 2023 dat een gemiddelde praktijkhouder 16-24 uur per week aan administratie en coördinatie besteedt: tijd die niet naar patiëntencontact gaat. Maar wat veel praktijken missen: een fors deel van die uren is automatiseerbaar, zonder dat je een nieuw HIS hoeft aan te schaffen of dat assistentes hun werk kwijtraken.
 
 Deze gids behandelt concreet vijf processen waar huisartsenpraktijken structureel uren per week verliezen, en hoe je ze aanpakt met bestaande tools of kleine automatisering-toevoegingen. De realistische winst voor een praktijk van één of twee huisartsen: 8 tot 12 uur per week terug. Voor grotere groepspraktijken: 15 tot 25 uur. Geen magie, wel discipline in het herinrichten van vijf specifieke werkstromen.
 
@@ -31,7 +31,7 @@ Concrete automatisering:
 
 - **Telefoonmenu met sleuteloptie** voor standaardvragen: "Druk 1 voor herhaalrecepten, 2 voor uitslagen, 3 voor afspraken verzetten, 4 voor nieuwe afspraken, 9 voor andere vragen."
 - **AI-triage bij optie 9** die in natuurlijke taal vraagt wat er is en de urgentie inschat. Niet-urgente zaken worden afgehandeld door de AI of doorgestuurd naar assistente-mail; urgente zaken worden direct naar een mens doorverbonden.
-- **Webformulier voor niet-urgente zaken** die de patiënt zelf kan invullen — dit omzeilt de telefoon volledig voor een aanzienlijk deel van de reguliere vragen.
+- **Webformulier voor niet-urgente zaken** die de patiënt zelf kan invullen. Dit omzeilt de telefoon volledig voor een aanzienlijk deel van de reguliere vragen.
 
 Een [AI telefonist](/voice-ai) die deze triage doet in het Nederlands met medische gevoeligheid is beschikbaar en wordt binnen enkele weken geïntegreerd. Typische winst: een fors lagere telefonische belasting op assistentes, waarmee zij zich kunnen richten op het werk dat echt mensenhanden vereist.
 
@@ -87,7 +87,7 @@ Praktijken die deze drie automatiseringen combineren, zien no-shows ongeveer hal
 
 ## De indirecte winst: minder personeelstekort-druk
 
-Een onderschatte winst van deze automatisering is dat de werkdruk op assistentes terugloopt — waardoor je in de huidige arbeidsmarkt minder snel mensen kwijtraakt en makkelijker nieuwe kunt aannemen. Een assistente die een substantieel deel van haar tijd niet meer verliest aan repetitieve telefoontjes, rapporteert meetbaar hogere werkplezier-scores en langere dienstverbanden.
+Een onderschatte winst van deze automatisering is dat de werkdruk op assistentes terugloopt, waardoor je in de huidige arbeidsmarkt minder snel mensen kwijtraakt en makkelijker nieuwe kunt aannemen. Een assistente die een substantieel deel van haar tijd niet meer verliest aan repetitieve telefoontjes, rapporteert meetbaar hogere werkplezier-scores en langere dienstverbanden.
 
 In indirecte zin werkt een [AI chatbot](/chatbot) op je website hier ook in mee: patiëntvragen worden afgehandeld zonder dat ze eerst op de intake-flow van de assistente belanden. Dat bespaart weer tijd die aan echt werk kan worden besteed, en het signaleert naar potentieel personeel dat jouw praktijk een moderne plek is om te werken.
 
@@ -109,7 +109,7 @@ Een realistisch plan voor een gemiddelde huisartsenpraktijk:
 - **Maand 2:** Herhaalrecept-automatisering en batch-review protocol.
 - **Maand 3:** Afspraakherinneringen en online verzet-optie.
 - **Maand 4:** Verwijsbrief-templates met AI-assistentie.
-- **Maand 5-6:** HIS-evaluatie voor ICPC en kwaliteitsregistratie — eventueel migratie als het huidige systeem te beperkt is.
+- **Maand 5-6:** HIS-evaluatie voor ICPC en kwaliteitsregistratie, eventueel migratie als het huidige systeem te beperkt is.
 
 Dit doe je niet alleen. Een [gratis scan](/gratis-scan) van jouw huidige werkstromen brengt in kaart waar bij jouw praktijk de grootste winst zit. Wij bouwen deze complete administratie-reductie voor huisartsenpraktijken in onze managed service, in nauwe samenwerking met jouw HIS-leverancier. Meer over [tarieven](/tarieven) voor praktijken die het hele proces willen outsourcen. De [review-flow](/reviews) uit het afsprakensysteem trigger je ook automatisch voor positieve Google-reviews van tevreden patiënten.
 

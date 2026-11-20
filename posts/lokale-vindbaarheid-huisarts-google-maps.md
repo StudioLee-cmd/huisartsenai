@@ -29,7 +29,7 @@ Upload foto's van je praktijk: de wachtkamer, de balie, het gebouw van buiten. P
 
 ## Patiëntreviews: gevoelig maar waardevol
 
-Reviews bij huisartsen liggen gevoeliger dan bij een kapper of loodgieter. Toch zijn ze waardevol. Patiënten schrijven uit zichzelf reviews — zowel positieve als negatieve.
+Reviews bij huisartsen liggen gevoeliger dan bij een kapper of loodgieter. Toch zijn ze waardevol. Patiënten schrijven uit zichzelf reviews, zowel positieve als negatieve.
 
 Reageer op elke review:
 - **Positief:** Bedank de patiënt zonder medische details te noemen
@@ -75,4 +75,4 @@ Reageer kalm en professioneel. Deel nooit medische informatie. Nodig de patiënt
 
 Lokale [vindbaarheid](/seo) als huisarts is geen luxe maar een manier om de juiste patiënten te bereiken. Begin met je Google Bedrijfsprofiel, zorg voor een informatieve website en reageer op reviews.
 
-Wil je weten hoe HuisartsenAI je online vindbaarheid versterkt? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het — jij helpt patiënten.
+Wil je weten hoe HuisartsenAI je online vindbaarheid versterkt? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het. Jij helpt patiënten.

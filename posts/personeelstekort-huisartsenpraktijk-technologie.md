@@ -10,7 +10,7 @@ cluster: "automatisering"
 ---
 ## Het huisartsentekort in cijfers
 
-Nederland heeft een groeiend huisartsentekort. In 2026 zijn er naar schatting 1.000-1.500 huisartsen te weinig. Maar het probleem zit niet alleen bij de artsen — het tekort aan praktijkassistentes en praktijkondersteuners is minstens zo groot.
+Nederland heeft een groeiend huisartsentekort. In 2026 zijn er naar schatting 1.000-1.500 huisartsen te weinig. Maar het probleem zit niet alleen bij de artsen: het tekort aan praktijkassistentes en praktijkondersteuners is minstens zo groot.
 
 De gevolgen zijn merkbaar:
 - Langere wachttijden voor patienten
@@ -91,7 +91,7 @@ Dit vermindert terugbelverzoeken en verhoogt patienttevredenheid.
 | Automatische nazorg | 0.5 uur | 10 uur |
 | **Totaal** | **6 uur/dag** | **120 uur/maand** |
 
-120 uur per maand is gelijk aan 0.75 FTE. Dat is bijna een volledige medewerker — zonder iemand aan te nemen.
+120 uur per maand is gelijk aan 0.75 FTE. Dat is bijna een volledige medewerker, zonder iemand aan te nemen.
 
 ## Implementatie: stap voor stap
 
@@ -111,7 +111,7 @@ De grootste stap. Implementeer een triageformulier en train je team in de beoord
 
 ### "Mijn patienten zijn te oud voor digitaal"
 
-De meerderheid van de 65-plussers is digitaal vaardig. Maar bied altijd een telefonisch alternatief. Het gaat er niet om dat iedereen digitaal gaat — als een flink deel het doet, is de druk al significant lager.
+De meerderheid van de 65-plussers is digitaal vaardig. Maar bied altijd een telefonisch alternatief. Het gaat er niet om dat iedereen digitaal gaat: als een flink deel het doet, is de druk al significant lager.
 
 ### "Het kost te veel"
 
@@ -125,7 +125,7 @@ Het tegendeel is waar. Door routinetaken te automatiseren, heeft je team meer ti
 
 ## Conclusie
 
-Technologie lost het personeelstekort niet op, maar het dicht een significant deel van het gat. Door telefoonwerk, administratie en herinneringen te automatiseren, win je uren per dag terug — uren die je team kan besteden aan patientenzorg.
+Technologie lost het personeelstekort niet op, maar het dicht een significant deel van het gat. Door telefoonwerk, administratie en herinneringen te automatiseren, win je uren per dag terug: uren die je team kan besteden aan patientenzorg.
 
 Met [HuisartsenAI](/) helpen we huisartsenpraktijken bij het digitaliseren van hun werkprocessen. Onze managed service kost slechts 15 minuten van je tijd per maand.
 

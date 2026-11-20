@@ -10,7 +10,7 @@ cluster: "automatisering"
 ---
 ## Het belang van patiënttevredenheid
 
-De huisarts is voor de meeste Nederlanders het eerste aanspreekpunt in de zorg. Die positie brengt een grote verantwoordelijkheid met zich mee — niet alleen medisch, maar ook in de beleving van patiënten.
+De huisarts is voor de meeste Nederlanders het eerste aanspreekpunt in de zorg. Die positie brengt een grote verantwoordelijkheid met zich mee: niet alleen medisch, maar ook in de beleving van patiënten.
 
 Patiënttevredenheid beïnvloedt of mensen terugkomen, of ze je aanbevelen en hoe ze omgaan met je adviezen. Tevreden patiënten volgen behandeladviezen beter op, melden zich eerder bij klachten en zijn minder geneigd om te klagen.
 
@@ -21,7 +21,7 @@ Voor de huisartsenpraktijk zelf betekent hogere tevredenheid: minder no-shows, b
 Meten is weten, ook in de huisartsenzorg:
 
 - **CQI-vragenlijst**: de standaard in de Nederlandse huisartsenzorg, meet specifieke ervaringen
-- **NPS-score**: één simpele vraag — "Zou u onze praktijk aanbevelen?" — geeft een helder beeld
+- **NPS-score**: één simpele vraag ("Zou u onze praktijk aanbevelen?") geeft een helder beeld
 - **Google Reviews**: monitor wat patiënten online zeggen
 - **Klachtenregistratie**: houd bij waar klachten over gaan en zoek patronen
 
@@ -61,7 +61,7 @@ Goede communicatie is de basis van patiënttevredenheid:
 - **Vat samen en check begrip**: "Begrijpt u wat ik bedoel? Heeft u nog vragen?"
 - **Communiceer over vervolgstappen**: wat kan de patiënt verwachten, wanneer terugkomen, wie belt er
 
-Patiënten die zich gehoord voelen, zijn aanzienlijk meer tevreden — zelfs als de medische uitkomst niet verandert.
+Patiënten die zich gehoord voelen, zijn aanzienlijk meer tevreden, zelfs als de medische uitkomst niet verandert.
 
 ## Structureel werken aan tevredenheid
 
@@ -75,6 +75,6 @@ Maak patiënttevredenheid een vast onderdeel van je praktijkvoering:
 
 Dit hoeft geen groot project te zijn. Kleine, consistente verbeteringen leveren na een jaar een merkbaar verschil op in tevredenheid, reviews en aanbevelingen.
 
-De huisartsenpraktijken die hier structureel aan werken, zijn de praktijken waar patiënten graag naartoe gaan — en die ze aanbevelen aan familie en vrienden.
+De huisartsenpraktijken die hier structureel aan werken, zijn de praktijken waar patiënten graag naartoe gaan en die ze aanbevelen aan familie en vrienden.
 
 Wil je weten hoe jouw praktijk scoort? [Vraag een gratis scan aan](https://www.huisartsenai.nl/gratis-scan) en ontdek je verbeterpunten.

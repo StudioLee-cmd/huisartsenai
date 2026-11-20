@@ -10,9 +10,9 @@ tags: ["Herinneringen", "No-shows"]
 ---
 ## Het consult dat niemand bijwoonde
 
-De assistent had 10 minuten gereserveerd. De patiënt komt niet. Geen afmelding. Het volgende consult begint over 3 minuten — het gat is niet meer op te vullen.
+De assistent had 10 minuten gereserveerd. De patiënt komt niet. Geen afmelding. Het volgende consult begint over 3 minuten, dus het gat is niet meer op te vullen.
 
-Reken met een gemiddelde huisartsenpraktijk met 2.400 patiënten en 4% no-show-rate: dat zijn 2-3 gemiste consulten per dag. Per week 12-15. Per jaar honderden — allemaal plekken die een andere patiënt had kunnen gebruiken.
+Reken met een gemiddelde huisartsenpraktijk met 2.400 patiënten en 4% no-show-rate: dat zijn 2-3 gemiste consulten per dag. Per week 12-15. Per jaar honderden, allemaal plekken die een andere patiënt had kunnen gebruiken.
 
 ## De impact op de praktijk
 
@@ -49,9 +49,9 @@ Stuur via WhatsApp alleen logistieke informatie (datum, tijd, locatie). Geen med
 
 Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als huisarts.
 
-Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in, ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
 
-Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [reviews](/reviews) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [reviews](/reviews): we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
 ## Conclusie
 

@@ -17,7 +17,7 @@ const pillars = [
     {
         title: "Je spreekuur blijft overzichtelijk",
         subtitle: "Meer afspraken",
-        description: "Elke beller wordt te woord gestaan en elke aanvraag komt in je agenda — ook als jij met een patiënt in de spreekkamer zit.",
+        description: "Elke beller wordt te woord gestaan en elke aanvraag komt in je agenda, ook als jij met een patiënt in de spreekkamer zit.",
         icon: <FiTrendingUp size={32} />,
         pillarLinks: [{ href: "/voice-ai", anchor: "ai telefonist voor huisartsen" }, { href: "/chatbot", anchor: "ai chatbot voor huisartsen" }],
     },

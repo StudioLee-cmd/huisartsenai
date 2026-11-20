@@ -16,7 +16,7 @@ Digitale triage neemt dit voorwerk over. Niet om de assistente te vervangen, maa
 
 - Praktijken met goed ingerichte digitale triage zien de telefonische werkdruk op de assistente fors dalen.
 - Patiënten-wachttijden in de spreekkamer dalen merkbaar.
-- Verkeerde triage in een fractie van de gevallen — minder dan menselijke triage in vergelijkbare studies.
+- Verkeerde triage in een fractie van de gevallen, minder dan menselijke triage in vergelijkbare studies.
 - 4 modellen: webformulier, chat-bot, app-triage, hybride.
 - Hybride model levert in de meeste praktijken de beste balans tussen efficiëntie en patiënt-tevredenheid.
 
@@ -144,7 +144,7 @@ Onderzoek van Nivel onder doktersassistenten die met digitale triage werken:
 - 12% vond eerste implementatie stressvol, een gewenningsperiode (onderzoek van Nivel).
 - 89% wil het systeem niet meer kwijt na 6 maanden gebruik (onderzoek van Nivel).
 
-Dit is geen technologie waar mensen tegen zijn — als het goed wordt geïmplementeerd, zien de assistenten zelf de waarde.
+Dit is geen technologie waar mensen tegen zijn: als het goed wordt geïmplementeerd, zien de assistenten zelf de waarde.
 
 ## Implementatie-fouten om te vermijden
 
