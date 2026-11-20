@@ -1,6 +1,6 @@
 ---
 title: "Patiëntbeoordelingen automatiseren als huisartsenpraktijk"
-excerpt: "Ontdek hoe huisartsenpraktijken automatisch patiëntbeoordelingen verzamelen en hun online reputatie versterken — zonder extra werkdruk voor het team."
+excerpt: "Ontdek hoe huisartsenpraktijken automatisch patiëntbeoordelingen verzamelen en hun online reputatie versterken, zonder extra werkdruk voor het team."
 date: "2026-04-04"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
@@ -21,9 +21,9 @@ De oplossing: automatisering die naadloos in het bestaande proces past.
 
 ## Hoe automatische beoordelingen werken voor huisartsen
 
-Na elk consult — of na elk eerste bezoek van een nieuwe patiënt — wordt automatisch een bericht verstuurd. Dit kan via SMS of e-mail, afhankelijk van de voorkeur van de praktijk en de AVG-afspraken:
+Na elk consult (of na elk eerste bezoek van een nieuwe patiënt) wordt automatisch een bericht verstuurd. Dit kan via SMS of e-mail, afhankelijk van de voorkeur van de praktijk en de AVG-afspraken:
 
-- **Na het consult:** Een kort bericht — "Hoe was uw ervaring bij [Praktijknaam]? Uw mening helpt andere patiënten de juiste huisarts te vinden."
+- **Na het consult:** Een kort bericht: "Hoe was uw ervaring bij [Praktijknaam]? Uw mening helpt andere patiënten de juiste huisarts te vinden."
 - **Directe link:** Naar Google Reviews of een extern beoordelingsplatform zoals ZorgkaartNederland
 - **AVG-compliant:** Geen medische gegevens in het bericht, alleen een algemene vraag naar de ervaring
 
@@ -46,7 +46,7 @@ De ideale strategie is beide platforms actief houden. Automatisering kan afwisse
 
 ## De impact op het aantrekken van nieuwe patiënten
 
-Praktijken met 40+ [Google Reviews](/reviews) en een score boven de 4,3 krijgen aantoonbaar meer aanmeldingen van nieuwe patiënten. In wijken met meerdere huisartsenpraktijken is het verschil nog groter — beoordelingen zijn vaak de doorslaggevende factor.
+Praktijken met 40+ [Google Reviews](/reviews) en een score boven de 4,3 krijgen aantoonbaar meer aanmeldingen van nieuwe patiënten. In wijken met meerdere huisartsenpraktijken is het verschil nog groter: beoordelingen zijn vaak de doorslaggevende factor.
 
 Daarnaast versterken beoordelingen het vertrouwen bij bestaande patiënten. Het bevestigt dat ze bij een goede praktijk zitten.
 

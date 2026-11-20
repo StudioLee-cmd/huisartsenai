@@ -16,7 +16,7 @@ Nieuwe patienten googelen je praktijk voordat ze zich inschrijven. Ze lezen [Goo
 
 Maar ook bestaande patienten worden beinvloed door wat ze online lezen. Een reeks negatieve reviews kan twijfel zaaien bij patienten die al jaren bij je komen.
 
-Online reputatie is niet iets dat je overkomt — het is iets dat je actief beheert.
+Online reputatie is niet iets dat je overkomt. Het is iets dat je actief beheert.
 
 ## Google reviews monitoren en reageren
 
@@ -24,7 +24,7 @@ Online reputatie is niet iets dat je overkomt — het is iets dat je actief behe
 
 **Reageer op elke review binnen 24 uur**. Positief: bedank de patient persoonlijk. "Dank u voor uw vriendelijke woorden. Fijn om te horen dat u zich welkom voelt in onze praktijk."
 
-**Houd het kort en professioneel**. Geen lange verhalen, geen defensieve toon. Een review is een openbaar gesprek — andere patienten lezen mee.
+**Houd het kort en professioneel**. Geen lange verhalen, geen defensieve toon. Een review is een openbaar gesprek: andere patienten lezen mee.
 
 ## Negatieve reviews professioneel afhandelen
 

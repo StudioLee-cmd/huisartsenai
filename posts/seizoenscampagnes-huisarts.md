@@ -9,7 +9,7 @@ tags: ["Seizoenswerk", "Preventie"]
 cluster: "automatisering"
 ---
 
-De telefoon staat rood in griepseizoen, maar in de zomer is het rustig. Herkenbaar? Die seizoenspatronen zijn niet alleen een operationeel gegeven — ze zijn een kans. Door gerichte seizoenscampagnes te voeren, spreid je de werkdruk en versterk je de band met je patienten.
+De telefoon staat rood in griepseizoen, maar in de zomer is het rustig. Herkenbaar? Die seizoenspatronen zijn niet alleen een operationeel gegeven. Ze zijn een kans. Door gerichte seizoenscampagnes te voeren, spreid je de werkdruk en versterk je de band met je patienten.
 
 ## Waarom seizoensgebonden campagnes werken
 
@@ -24,7 +24,7 @@ Timing is alles bij preventieve communicatie.
 
 ## Campagne-kalender voor huisartsen
 
-### Q1 — Januari t/m maart
+### Q1: januari t/m maart
 
 | Thema | Actie | Doelgroep |
 |-------|-------|-----------|
@@ -32,7 +32,7 @@ Timing is alles bij preventieve communicatie.
 | Griepnazorg | Evaluatie vaccinatiecampagne | Risicogroepen |
 | Winterdepressie | Voorlichting mentale gezondheid | 18-45 jaar |
 
-### Q2 — April t/m juni
+### Q2: april t/m juni
 
 | Thema | Actie | Doelgroep |
 |-------|-------|-----------|
@@ -40,7 +40,7 @@ Timing is alles bij preventieve communicatie.
 | Tekenbeten | Lyme-preventie voorlichting | Buitensporters |
 | Zonnebescherming | Huidkankerpreventie | Alle patienten |
 
-### Q3 — Juli t/m september
+### Q3: juli t/m september
 
 | Thema | Actie | Doelgroep |
 |-------|-------|-----------|
@@ -48,7 +48,7 @@ Timing is alles bij preventieve communicatie.
 | Terug-naar-school | Vaccinaties kinderen | Ouders |
 | [Preventieve checks](/blog/preventieve-zorg-huisarts) | Jaarlijkse controles | 50-plussers |
 
-### Q4 — Oktober t/m december
+### Q4: oktober t/m december
 
 | Thema | Actie | Doelgroep |
 |-------|-------|-----------|

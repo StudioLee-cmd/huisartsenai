@@ -12,7 +12,7 @@ cluster: "voice-ai"
 
 Maandagochtend 08:00. De telefoon gaat. En gaat. En gaat. Binnen het eerste uur ontvangt een gemiddelde huisartsenpraktijk 80-120 telefoontjes. De assistentes werken onder hoge druk, patiënten hangen lang in de wacht, en de sfeer op de praktijk lijdt eronder.
 
-Dit is geen incident — het is de dagelijkse realiteit voor de meeste huisartsenpraktijken in Nederland. En het wordt erger: het huisartsentekort groeit, patiëntenpopulaties nemen toe, en de werkdruk stijgt.
+Dit is geen incident. Het is de dagelijkse realiteit voor de meeste huisartsenpraktijken in Nederland. En het wordt erger: het huisartsentekort groeit, patiëntenpopulaties nemen toe, en de werkdruk stijgt.
 
 ## Waarom patiënten bellen (en wanneer het niet hoeft)
 
@@ -20,14 +20,14 @@ Zo ziet de verdeling van inkomende telefoontjes er in een typische praktijk uit:
 
 | Type telefoontje | Percentage | Kan geautomatiseerd? |
 |-----------------|-----------|---------------------|
-| Afspraak maken | reken met 35% | Ja — online boeken |
-| Herhaalrecept aanvragen | reken met 20% | Ja — digitaal formulier |
-| Uitslagen opvragen | reken met 10% | Ja — patiëntportaal |
-| Afspraak verzetten/afzeggen | reken met 10% | Ja — online beheer |
-| Administratieve vragen | reken met 10% | Deels — FAQ + chatbot |
-| Medische triage | reken met 15% | Nee — altijd menselijk |
+| Afspraak maken | reken met 35% | Ja, online boeken |
+| Herhaalrecept aanvragen | reken met 20% | Ja, digitaal formulier |
+| Uitslagen opvragen | reken met 10% | Ja, patiëntportaal |
+| Afspraak verzetten/afzeggen | reken met 10% | Ja, online beheer |
+| Administratieve vragen | reken met 10% | Deels: FAQ + chatbot |
+| Medische triage | reken met 15% | Nee, altijd menselijk |
 
-Dat betekent dat het overgrote deel van de telefoontjes niet per se telefonisch hoeft. Toch bellen patiënten — omdat ze geen alternatief kennen of het alternatief te ingewikkeld is.
+Dat betekent dat het overgrote deel van de telefoontjes niet per se telefonisch hoeft. Toch bellen patiënten, omdat ze geen alternatief kennen of het alternatief te ingewikkeld is.
 
 ## 5 oplossingen die direct werken
 
@@ -37,7 +37,7 @@ Het klinkt basaal, maar veel praktijken bieden nog steeds geen online boekingsmo
 - Toont beschikbare tijdslots in realtime
 - Laat patiënten zelf kiezen (regulier consult, telefonisch consult, dubbel consult)
 - Stuurt automatisch een bevestiging en herinnering
-- Is 24/7 beschikbaar — ook 's avonds als patiënten tijd hebben
+- Is 24/7 beschikbaar, ook 's avonds als patiënten tijd hebben
 
 ### 2. Digitaal herhaalrecepten aanvragen
 
@@ -56,7 +56,7 @@ Veel telefoontjes zijn voorspelbaar:
 - "Kan ik mijn afspraak verzetten?"
 - "Hoe vraag ik een verwijsbrief aan?"
 
-Een AI-chatbot op je website of een automatisch telefoonmenu beantwoordt deze vragen direct — zonder menselijke tussenkomst.
+Een AI-chatbot op je website of een automatisch telefoonmenu beantwoordt deze vragen direct, zonder menselijke tussenkomst.
 
 ### 4. Slim telefoonverkeer sturen
 

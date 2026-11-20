@@ -11,7 +11,7 @@ tags: ["Patiëntwerving"]
 
 Het lijkt tegenstrijdig: huisartsenpraktijken zitten vaak vol. Maar de werkelijkheid is genuanceerder. Sommige praktijken willen groeien, anderen willen het juiste type patiënten aantrekken, en nieuwe praktijken moeten hun bestand opbouwen.
 
-Daarnaast verhuizen mensen continu. Elke maand zoeken nieuwe inwoners in elke gemeente naar een huisarts. Ze googelen "huisarts [stad] aanmelden" — en jij wilt daar verschijnen.
+Daarnaast verhuizen mensen continu. Elke maand zoeken nieuwe inwoners in elke gemeente naar een huisarts. Ze googelen "huisarts [stad] aanmelden", en jij wilt daar verschijnen.
 
 ## Je aanmeldproces optimaliseren
 
@@ -58,7 +58,7 @@ Deze geautomatiseerde flow zorgt dat nieuwe patiënten zich welkom voelen en wet
 
 ### Is het ethisch om als huisarts patiënten te werven?
 
-Informatieve online aanwezigheid is geen werving maar service. Je helpt mensen de juiste huisarts te vinden — dat is een maatschappelijke bijdrage. Geen pushy marketing, maar beschikbaarheid.
+Informatieve online aanwezigheid is geen werving maar service. Je helpt mensen de juiste huisarts te vinden, en dat is een maatschappelijke bijdrage. Geen pushy marketing, maar beschikbaarheid.
 
 ### Hoe selecteer ik de juiste patiënten als ik vol zit?
 
@@ -68,4 +68,4 @@ Communiceer duidelijk op je website welke patiënten je aanneemt (werkgebied, le
 
 [Online zichtbaarheid](/social-media) als huisarts is geen marketing maar bereikbaarheid. Een duidelijke website, een soepel aanmeldproces en automatische opvolging zorgen dat nieuwe patiënten je vinden en zich welkom voelen.
 
-Wil je weten hoe HuisartsenAI je online aanwezigheid versterkt? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het — jij helpt patiënten.
+Wil je weten hoe HuisartsenAI je online aanwezigheid versterkt? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het. Jij helpt patiënten.

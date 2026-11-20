@@ -1,7 +1,7 @@
 ---
 title: "Preventieve zorg promoten als huisarts: gezondheidsvoorlichting die werkt"
 seoTitle: "Preventieve zorg promoten als huisarts"
-excerpt: "Preventie is beter dan genezen — maar hoe bereik je patiënten met voorlichting? Ontdek effectieve strategieën voor preventieve zorg in de huisartsenpraktijk."
+excerpt: "Preventie is beter dan genezen, maar hoe bereik je patiënten met voorlichting? Ontdek effectieve strategieën voor preventieve zorg in de huisartsenpraktijk."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/preventieve-zorg-huisarts.png"
@@ -9,9 +9,9 @@ tags: ["Preventieve zorg"]
 cluster: "automatisering"
 ---
 
-Elke huisarts weet het: voorkomen is beter dan genezen. Toch besteden de meeste praktijken het overgrote deel van hun tijd aan curatieve zorg. De patiënt belt als het al te laat is — hoge bloeddruk die niet is gecontroleerd, diabetes die eerder ontdekt had kunnen worden, griepvaccinaties die zijn overgeslagen.
+Elke huisarts weet het: voorkomen is beter dan genezen. Toch besteden de meeste praktijken het overgrote deel van hun tijd aan curatieve zorg. De patiënt belt als het al te laat is: hoge bloeddruk die niet is gecontroleerd, diabetes die eerder ontdekt had kunnen worden, griepvaccinaties die zijn overgeslagen.
 
-Het probleem is niet dat patiënten preventie niet belangrijk vinden. Het probleem is dat ze er niet aan denken — totdat ze ziek zijn. Door preventieve zorg actief te promoten, kun je als huisartsenpraktijk gezondheidswinst boeken voor je patiënten én je praktijk efficiënter laten draaien.
+Het probleem is niet dat patiënten preventie niet belangrijk vinden. Het probleem is dat ze er niet aan denken, totdat ze ziek zijn. Door preventieve zorg actief te promoten, kun je als huisartsenpraktijk gezondheidswinst boeken voor je patiënten én je praktijk efficiënter laten draaien.
 
 ## Waarom preventieve zorg promoten loont
 
@@ -25,29 +25,29 @@ Preventieve zorg verlaagt de werkdruk op de langere termijn. Een patiënt met go
 
 ### Patiënttevredenheid
 
-Patiënten waarderen een huisartsenpraktijk die proactief contact opneemt. Het geeft hen het gevoel dat hun huisarts om hen geeft — niet alleen als ze bellen met klachten, maar ook preventief. Dit versterkt de relatie en [het patientbehoud](/blog/telefoondruk-huisartsenpraktijk-verlagen).
+Patiënten waarderen een huisartsenpraktijk die proactief contact opneemt. Het geeft hen het gevoel dat hun huisarts om hen geeft, niet alleen als ze bellen met klachten, maar ook preventief. Dit versterkt de relatie en [het patientbehoud](/blog/telefoondruk-huisartsenpraktijk-verlagen).
 
 ## Welke preventieve zorg kun je promoten?
 
 ### Periodieke gezondheidscontroles
 
-- **Cardiovasculair risicomanagement (CVRM)** — bloeddruk, cholesterol, bloedsuiker checks voor 40-plussers
-- **Bevolkingsonderzoeken** — darmkanker, borstkanker, baarmoederhalskanker. Veel patiënten vergeten hun uitnodiging op te volgen
-- **Diabetes screening** — voor patiënten met risicofactoren
+- **Cardiovasculair risicomanagement (CVRM)**: bloeddruk, cholesterol, bloedsuiker checks voor 40-plussers
+- **Bevolkingsonderzoeken**: darmkanker, borstkanker, baarmoederhalskanker. Veel patiënten vergeten hun uitnodiging op te volgen
+- **Diabetes screening**: voor patiënten met risicofactoren
 
 ### Vaccinatieprogramma's
 
-- **Griepvaccinatie** — jaarlijks voor risicogroepen
-- **Pneumokokken** — voor 60-plussers en kwetsbare patiënten
-- **COVID-boosters** — seizoensgebonden vaccinaties
-- **Reizigersvaccinaties** — vooraf aan vakanties
+- **Griepvaccinatie**: jaarlijks voor risicogroepen
+- **Pneumokokken**: voor 60-plussers en kwetsbare patiënten
+- **COVID-boosters**: seizoensgebonden vaccinaties
+- **Reizigersvaccinaties**: vooraf aan vakanties
 
 ### Leefstijlbegeleiding
 
-- **Stoppen met roken** — de meest impactvolle interventie die een huisarts kan bieden
-- **Gewichtsmanagement** — gecombineerde leefstijlinterventie (GLI)
-- **Beweging** — doorverwijzing naar beweegprogramma's
-- **Alcoholgebruik** — screening en korte interventie
+- **Stoppen met roken**: de meest impactvolle interventie die een huisarts kan bieden
+- **Gewichtsmanagement**: gecombineerde leefstijlinterventie (GLI)
+- **Beweging**: doorverwijzing naar beweegprogramma's
+- **Alcoholgebruik**: screening en korte interventie
 
 ## Hoe bereik je patiënten met preventie?
 
@@ -75,7 +75,7 @@ Je praktijkwebsite is een uitstekend kanaal voor gezondheidsvoorlichting:
 - Informatie over beschikbare screenings
 - Online afspraken maken voor preventieve checks
 
-Dit verbetert ook je [online vindbaarheid](/blog/hoe-huisartsenpraktijken-ai-inzetten-patientcommunicatie) — patiënten die zoeken op gezondheidsonderwerpen vinden jouw praktijk.
+Dit verbetert ook je [online vindbaarheid](/blog/hoe-huisartsenpraktijken-ai-inzetten-patientcommunicatie): patiënten die zoeken op gezondheidsonderwerpen vinden jouw praktijk.
 
 ### Proactief bellen
 
@@ -103,13 +103,13 @@ Plan je preventieve activiteiten per seizoen:
 
 Preventieve zorg is geen solo-actie van de huisarts. Het hele praktijkteam speelt een rol:
 
-- **Praktijkondersteuner** — voert preventieve screenings uit en begeleidt leefstijlinterventies
-- **Doktersassistent** — signaleert kansen bij telefonisch contact ("U bent toe aan uw jaarlijkse controle")
-- **Huisarts** — bespreekt preventie tijdens reguliere consulten
+- **Praktijkondersteuner**: voert preventieve screenings uit en begeleidt leefstijlinterventies
+- **Doktersassistent**: signaleert kansen bij telefonisch contact ("U bent toe aan uw jaarlijkse controle")
+- **Huisarts**: bespreekt preventie tijdens reguliere consulten
 
 ## Laat preventiecommunicatie professioneel regelen
 
-Geen tijd om naast de dagelijkse zorg ook nog voorlichtingscampagnes te plannen? Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. Seizoenscommunicatie, herinneringen, online content — het wordt voor je opgepakt.
+Geen tijd om naast de dagelijkse zorg ook nog voorlichtingscampagnes te plannen? Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. Seizoenscommunicatie, herinneringen, online content: het wordt voor je opgepakt.
 
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe je preventieve zorg effectiever kunt promoten.
 

@@ -9,7 +9,7 @@ tags: ["Specialisatie"]
 cluster: "branding"
 ---
 
-Elke huisartsenpraktijk biedt dezelfde basiszorg. Maar de praktijken die het hardst groeien, hebben een extra focus die ze onderscheidt. Specialisatie maakt je praktijk aantrekkelijker voor specifieke patientengroepen — en helpt bij het binden van bestaande patienten.
+Elke huisartsenpraktijk biedt dezelfde basiszorg. Maar de praktijken die het hardst groeien, hebben een extra focus die ze onderscheidt. Specialisatie maakt je praktijk aantrekkelijker voor specifieke patientengroepen en helpt bij het binden van bestaande patienten.
 
 ## Waarom specialisatie werkt in de huisartsenzorg
 
@@ -20,7 +20,7 @@ Specialisatie levert:
 - Aantrekkelijkheid voor specifieke doelgroepen
 - Sterkere [mond-tot-mond](/blog/mond-tot-mondreclame-huisarts) binnen die doelgroep
 - Hogere patienttevredenheid
-- Beter team — medewerkers die werken vanuit passie
+- Beter team: medewerkers die werken vanuit passie
 
 ## Kansrijke specialisaties
 
@@ -35,10 +35,10 @@ Specialisatie levert:
 
 ## Hoe communiceer je je specialisatie?
 
-- **Website** — maak je focus direct duidelijk op je [homepage](/blog/huisartsenwebsite-minder-telefoon)
-- **Google** — optimaliseer je [bedrijfsprofiel](/blog/google-bedrijfsprofiel-huisarts) met relevante categorieen
-- **Content** — schrijf over je specialisatie op je blog en [social media](/blog/social-media-huisartsen-patienten)
-- **Reviews** — vraag patienten specifiek over hun ervaring met je specialistische zorg via [Google reviews](/blog/meer-google-reviews-huisartsenpraktijk)
+- **Website**: maak je focus direct duidelijk op je [homepage](/blog/huisartsenwebsite-minder-telefoon)
+- **Google**: optimaliseer je [bedrijfsprofiel](/blog/google-bedrijfsprofiel-huisarts) met relevante categorieen
+- **Content**: schrijf over je specialisatie op je blog en [social media](/blog/social-media-huisartsen-patienten)
+- **Reviews**: vraag patienten specifiek over hun ervaring met je specialistische zorg via [Google reviews](/blog/meer-google-reviews-huisartsenpraktijk)
 
 ## Specialisatie en samenwerking
 
@@ -50,7 +50,7 @@ Specialisatie betekent niet dat je stopt met reguliere huisartsenzorg. Het betek
 
 ## Specialisatie communiceren naar bestaande patienten
 
-Het is niet genoeg om een specialisatie te hebben — je moet het ook actief vertellen. Gebruik je wachtkamerscherm, nieuwsbrief en website om patienten te informeren over je extra expertise. Patienten die al bij je zijn ingeschreven en ontdekken dat je specifieke expertise hebt in hun klacht, waarderen dat enorm. Ze voelen zich beter begrepen en vertellen het door aan anderen.
+Het is niet genoeg om een specialisatie te hebben: je moet het ook actief vertellen. Gebruik je wachtkamerscherm, nieuwsbrief en website om patienten te informeren over je extra expertise. Patienten die al bij je zijn ingeschreven en ontdekken dat je specifieke expertise hebt in hun klacht, waarderen dat enorm. Ze voelen zich beter begrepen en vertellen het door aan anderen.
 
 ## Investeren in specialisatie
 

@@ -8,15 +8,15 @@ image: "/images/blog/reviews-verzamelen-huisartsenpraktijk.jpg"
 tags: ["Reviews"]
 cluster: "reviews"
 ---
-Wanneer iemand verhuist naar een nieuwe wijk, is een van de eerste zoekopdrachten: "huisarts bij mij in de buurt." Google toont dan een kaart met praktijken — en bij elke praktijk een sterrenscore. Die score bepaalt voor een groot deel bij welke huisarts de nieuwe bewoner zich aanmeldt.
+Wanneer iemand verhuist naar een nieuwe wijk, is een van de eerste zoekopdrachten: "huisarts bij mij in de buurt." Google toont dan een kaart met praktijken, en bij elke praktijk een sterrenscore. Die score bepaalt voor een groot deel bij welke huisarts de nieuwe bewoner zich aanmeldt.
 
-Toch zien veel huisartsenpraktijken reviews als iets dat ze niet actief hoeven te managen. Ze [vertrouwen](/reviews) op hun reputatie in de buurt. Maar de buurt is veranderd — het is nu digitaal.
+Toch zien veel huisartsenpraktijken reviews als iets dat ze niet actief hoeven te managen. Ze [vertrouwen](/reviews) op hun reputatie in de buurt. Maar de buurt is veranderd: het is nu digitaal.
 
 ## Waarom reviews belangrijk zijn voor huisartsenpraktijken
 
 ### Nieuwe patiënten kiezen op basis van reviews
 
-Bij een open patiëntenstop kiezen mensen de praktijk met de beste reviews, niet per se de dichtstbijzijnde. Een praktijk met 4.7 sterren en 80 reviews wint het van een praktijk met 3.8 sterren en 12 reviews — zelfs als die tweede praktijk 500 meter dichterbij is.
+Bij een open patiëntenstop kiezen mensen de praktijk met de beste reviews, niet per se de dichtstbijzijnde. Een praktijk met 4.7 sterren en 80 reviews wint het van een praktijk met 3.8 sterren en 12 reviews, zelfs als die tweede praktijk 500 meter dichterbij is.
 
 ### Reviews geven je inzicht in verbeterpunten
 
@@ -30,10 +30,10 @@ Google geeft voorrang aan praktijken met meer en betere reviews in de lokale zoe
 
 De timing is alles. De beste momenten voor een huisartsenpraktijk:
 
-- **Na een consult waarbij de patiënt duidelijk tevreden is** — de assistente kan het terloops noemen
-- **Na een langere behandeltraject** — wanneer het resultaat positief is
-- **Na een preventief onderzoek** — patiënten voelen zich dan goed verzorgd
-- **Bij de jaarlijkse griepprik of controle** — laagdrempelig moment
+- **Na een consult waarbij de patiënt duidelijk tevreden is**: de assistente kan het terloops noemen
+- **Na een langere behandeltraject**, wanneer het resultaat positief is
+- **Na een preventief onderzoek**, want patiënten voelen zich dan goed verzorgd
+- **Bij de jaarlijkse griepprik of controle**: laagdrempelig moment
 
 Niet geschikt: na een slechte diagnose, in de wachtkamer tijdens drukte, of bij klachten die niet opgelost zijn.
 
@@ -55,16 +55,16 @@ Train je praktijkassistenten om na een positief consult te zeggen: "Fijn dat we 
 
 Huisartsenpraktijken opereren in een gevoelige sector. Houd rekening met:
 
-- **Vraag nooit om specifieke medische details in reviews** — een algemene ervaring is voldoende
-- **Reageer nooit met medische informatie** op een review — ook niet als de patiënt dat zelf doet
+- **Vraag nooit om specifieke medische details in reviews**, want een algemene ervaring is voldoende
+- **Reageer nooit met medische informatie** op een review, ook niet als de patiënt dat zelf doet
 - **GDPR:** het vragen om een review is toegestaan, maar verzamel geen persoonsgegevens buiten je bestaande patiëntadministratie
-- **Doe het subtiel** — druk uitoefenen op patiënten is ongepast in de zorg
+- **Doe het subtiel**, want druk uitoefenen op patiënten is ongepast in de zorg
 
 ## Veelgestelde vragen
 
 ### Is het gepast om als huisarts om reviews te vragen?
 
-Ja, mits je het subtiel doet. Patiënten vinden het prima om gevraagd te worden — de meesten hadden er simpelweg niet aan gedacht. Het is informatie die andere patiënten helpt.
+Ja, mits je het subtiel doet. Patiënten vinden het prima om gevraagd te worden. De meesten hadden er simpelweg niet aan gedacht. Het is informatie die andere patiënten helpt.
 
 ### Hoeveel reviews moet mijn praktijk hebben?
 
@@ -82,6 +82,6 @@ Op negatieve reviews altijd. Op positieve reviews is het netjes om te bedanken, 
 
 ## Conclusie
 
-Reviews verzamelen is geen marketingtruc — het is een manier om je patiëntervaring zichtbaar te maken voor mensen die op zoek zijn naar een goede huisarts. Begin klein, doe het consistent en je bouwt een online reputatie die je praktijk versterkt.
+Reviews verzamelen is geen marketingtruc. Het is een manier om je patiëntervaring zichtbaar te maken voor mensen die op zoek zijn naar een goede huisarts. Begin klein, doe het consistent en je bouwt een online reputatie die je praktijk versterkt.
 
 Wil je weten hoe uw praktijk er online voor staat? [Vraag een gratis scan aan](/gratis-scan) en krijg direct inzicht in uw online zichtbaarheid.

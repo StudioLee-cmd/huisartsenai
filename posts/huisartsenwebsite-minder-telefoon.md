@@ -12,14 +12,14 @@ cluster: "website"
 
 Elke huisartsenpraktijk kent het: de telefoon staat 's ochtends roodgloeiend. Patiënten bellen voor afspraken, herhaalrecepten, uitslagen en vragen. De assistente kan het nauwelijks bijhouden, patiënten hangen in de wacht en de sfeer raakt gespannen.
 
-Het probleem is niet de patiënt — het is de website. Als je website patiënten niet helpt om zaken online te regelen, grijpen ze naar de telefoon. Een goed ingerichte website kan een fors deel van het telefoonverkeer overnemen. Lees ook hoe je als huisartsenpraktijk [beter gevonden wordt online](/blog/hoe-huisartsenpraktijken-ai-inzetten-patientcommunicatie).
+Het probleem is niet de patiënt. Het is de website. Als je website patiënten niet helpt om zaken online te regelen, grijpen ze naar de telefoon. Een goed ingerichte website kan een fors deel van het telefoonverkeer overnemen. Lees ook hoe je als huisartsenpraktijk [beter gevonden wordt online](/blog/hoe-huisartsenpraktijken-ai-inzetten-patientcommunicatie).
 
 ## Online herhaalrecepten en e-consult
 
 De twee grootste telefoonvreters: herhaalrecepten en niet-urgente vragen. Beide kunnen online:
 
 - **Herhaalrecepten**: een formulier op je website of via het patiëntportaal. De patiënt vult in welk medicijn, de huisarts beoordeelt en de apotheek ontvangt het recept
-- **E-consult**: een beveiligd formulier voor niet-urgente medische vragen. De huisarts beantwoordt het schriftelijk — geen consult nodig
+- **E-consult**: een beveiligd formulier voor niet-urgente medische vragen. De huisarts beantwoordt het schriftelijk, geen consult nodig
 
 Beide functies zijn beschikbaar via de meeste HIS-systemen. Het kost eenmalig inrichting, maar bespaart daarna dagelijks 1-2 uur telefoonwerk voor de assistente.
 
@@ -28,7 +28,7 @@ Beide functies zijn beschikbaar via de meeste HIS-systemen. Het kost eenmalig in
 Veel telefoontjes gaan over praktische zaken: openingstijden, bereikbaarheid tijdens vakantie, griepvaccinatie-momenten, wat te doen bij spoed. Publiceer deze informatie prominent op je website:
 
 - **Openingstijden**: duidelijk op de homepage, inclusief avondopenstelling
-- **Spoed-instructie**: groot en duidelijk — wanneer bellen, wanneer 112
+- **Spoed-instructie**: groot en duidelijk: wanneer bellen, wanneer 112
 - **Nieuwsberichten**: griepvaccinatie, zomerrooster, nieuwe medewerkers
 - **Veelgestelde vragen**: beantwoord de 10 meest gestelde telefoonvragen op je website
 
@@ -54,7 +54,7 @@ Je website moet samenwerken met je HIS (Huisarts Informatie Systeem):
 - **E-consult**: berichten komen binnen in het dossier
 - **Herhaalrecepten**: aanvragen worden verwerkt in het voorschrijfsysteem
 
-De meeste moderne HIS-systemen (Medicom, Promedico, CGM) bieden koppelingen met online portalen. Vraag je ICT-leverancier naar de mogelijkheden — de meeste functionaliteit is al beschikbaar, maar niet geactiveerd. Lees ook hoe [technologie het personeelstekort](/blog/personeelstekort-huisartsenpraktijk-technologie) helpt oplossen.
+De meeste moderne HIS-systemen (Medicom, Promedico, CGM) bieden koppelingen met online portalen. Vraag je ICT-leverancier naar de mogelijkheden: de meeste functionaliteit is al beschikbaar, maar niet geactiveerd. Lees ook hoe [technologie het personeelstekort](/blog/personeelstekort-huisartsenpraktijk-technologie) helpt oplossen.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/patient-intake-online-huisarts" class="text-dark fw-semibold">Online intake als huisarts: minder telefoon, betere voorbereiding</a> →</p></div></div></div>
 

@@ -9,13 +9,13 @@ cluster: "automatisering"
 ---
 ## Hoeveel kost een no-show je praktijk echt?
 
-Een standaard consult bij de huisarts duurt 10 minuten. Dat lijkt kort, maar bij vier no-shows per dag verlies je 40 minuten aan productieve consultentijd. Op jaarbasis zijn dat meer dan 160 verloren uren — bijna een maand aan consulten.
+Een standaard consult bij de huisarts duurt 10 minuten. Dat lijkt kort, maar bij vier no-shows per dag verlies je 40 minuten aan productieve consultentijd. Op jaarbasis zijn dat meer dan 160 verloren uren: bijna een maand aan consulten.
 
 De kosten zitten niet alleen in gemiste declaraties. Je assistente heeft de afspraak ingepland, het dossier geopend, en de wachtkamer verwacht een patiënt die niet komt. Die verstoring kost de hele praktijk efficiëntie.
 
 Daarnaast hebben no-shows een indirect effect op andere patiënten. Elke lege plek had gevuld kunnen worden door iemand die wél wil komen maar geen afspraak kon krijgen. In een tijd waarin wachttijden bij de huisarts steeds langer worden, is dat een extra pijnlijk gevolg.
 
-Veel huisartsenpraktijken accepteren no-shows als onvermijdelijk. "Het hoort erbij" is een veelgehoorde uitspraak. Maar met de juiste aanpak kun je het percentage significant terugbrengen — zonder extra personeel of grote investeringen.
+Veel huisartsenpraktijken accepteren no-shows als onvermijdelijk. "Het hoort erbij" is een veelgehoorde uitspraak. Maar met de juiste aanpak kun je het percentage significant terugbrengen, zonder extra personeel of grote investeringen.
 
 ## Automatische herinneringen via SMS en WhatsApp
 
@@ -27,11 +27,11 @@ Waarom SMS en WhatsApp werken:
 
 - Bijna iedereen leest een SMS of WhatsApp-bericht binnen 3 minuten
 - Het bericht is kort en concreet: "Morgen 09:30 consult bij huisarts. Bevestig of verzet via deze link."
-- Patiënten die niet kunnen komen, verzetten direct — en jij kunt de vrijgekomen plek opvullen
+- Patiënten die niet kunnen komen, verzetten direct, en jij kunt de vrijgekomen plek opvullen
 
-Met een AI-systeem worden deze herinneringen volledig automatisch verstuurd vanuit je praktijksoftware. Je assistente hoeft er niets voor te doen — het systeem controleert de agenda en verstuurt de berichten op het juiste moment.
+Met een AI-systeem worden deze herinneringen volledig automatisch verstuurd vanuit je praktijksoftware. Je assistente hoeft er niets voor te doen: het systeem controleert de agenda en verstuurt de berichten op het juiste moment.
 
-De ideale herinnering bevat een link waarmee de patiënt met één klik kan bevestigen of verzetten. Geen inlogcodes, geen apps installeren — gewoon tikken en klaar. Hoe minder moeite het kost, hoe meer patiënten reageren.
+De ideale herinnering bevat een link waarmee de patiënt met één klik kan bevestigen of verzetten. Geen inlogcodes, geen apps installeren: gewoon tikken en klaar. Hoe minder moeite het kost, hoe meer patiënten reageren.
 
 ## Online afspraken bevestigen en wijzigen
 
@@ -51,7 +51,7 @@ Een online portaal vermindert ook de werkdruk op je assistente. Minder telefoont
 
 ## Telefonische bereikbaarheid verbeteren
 
-Huisartsenpraktijken zijn berucht moeilijk bereikbaar. Drukke ochtenden, lange wachttijden aan de telefoon — patiënten haken af en bellen niet terug om hun afspraak te wijzigen.
+Huisartsenpraktijken zijn berucht moeilijk bereikbaar. Drukke ochtenden, lange wachttijden aan de telefoon: patiënten haken af en bellen niet terug om hun afspraak te wijzigen.
 
 Een AI-telefoniste lost dit op: 24 uur per dag bereikbaar, geen wachttijd, en patiënten kunnen direct hun afspraak bevestigen of wijzigen. Het resultaat: minder frustratie bij patiënten en minder no-shows voor jou.
 

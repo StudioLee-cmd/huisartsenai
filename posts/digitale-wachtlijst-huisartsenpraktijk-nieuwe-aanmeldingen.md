@@ -7,7 +7,7 @@ authorSlug: "tim-van-der-lee"
 image: "/images/blog/digitale-wachtlijst-huisartsenpraktijk-nieuwe-aanmeldingen.jpg"
 tags: ["Wachtlijst"]
 ---
-## Wat een digitale wachtlijst is — en waarom bellen "we zijn vol" niet langer werkt
+## Wat een digitale wachtlijst is en waarom bellen "we zijn vol" niet langer werkt
 
 De receptioniste pakt op. "Goedemorgen, ik wil me graag inschrijven bij jullie praktijk." Antwoord: "Sorry, we zijn vol op dit moment. U kunt het over zes maanden nog eens proberen." Klik. De patiënt belt verder, jij hoort hem nooit terug, en zes maanden later vergeet hij of hij belde.
 
@@ -83,7 +83,7 @@ Twee keer per jaar (juni en december) doe je een grote opschoning. Patiënten di
 
 Voor regio's waar meerdere praktijken vol zitten, is een lokale uitruil-afspraak met collega-praktijken waardevol. Patiënten van jouw lijst die geografisch beter passen bij een andere praktijk doorgeven, en omgekeerd. Veel gemeenten coördineren dit via een GGD-platform; vraag dat eens na in jouw regio.
 
-## AVG, NEN7510 en dataminimalisatie — wat je wel en niet mag opslaan
+## AVG, NEN7510 en dataminimalisatie: wat je wel en niet mag opslaan
 
 Een wachtlijst is een verwerking van persoonsgegevens en valt onder AVG. Praktische regels:
 

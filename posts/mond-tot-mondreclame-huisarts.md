@@ -53,11 +53,11 @@ Huisartsenpraktijken hoeven geen advertenties te draaien. De combinatie van exce
 
 De eerste indruk begint niet bij de afspraak, maar bij het eerste contact. Hoe snel wordt de telefoon opgenomen? Hoe vriendelijk is de assistente? Is er dezelfde dag nog een afspraak beschikbaar?
 
-Een praktijk die makkelijk bereikbaar is, snel reageert en een fijne sfeer uitstraalt, wordt spontaan aanbevolen. Investeer in je team, je wachtkamer en je telefonische bereikbaarheid — dat zijn de momenten waarover patienten praten met buren en collega's.
+Een praktijk die makkelijk bereikbaar is, snel reageert en een fijne sfeer uitstraalt, wordt spontaan aanbevolen. Investeer in je team, je wachtkamer en je telefonische bereikbaarheid: dat zijn de momenten waarover patienten praten met buren en collega's.
 
 ## Meten en verbeteren
 
-Stel bij intake altijd de vraag: "Hoe heeft u ons gevonden?" Registreer de antwoorden structureel. Je zult ontdekken dat mond-tot-mond veruit je grootste bron is — en dat bevestigt het belang van investeren in patientervaring boven advertenties.
+Stel bij intake altijd de vraag: "Hoe heeft u ons gevonden?" Registreer de antwoorden structureel. Je zult ontdekken dat mond-tot-mond veruit je grootste bron is, en dat bevestigt het belang van investeren in patientervaring boven advertenties.
 
 Gebruik deze inzichten ook om te ontdekken welke buurten de meeste doorverwijzingen opleveren. Daar kun je gericht je zichtbaarheid versterken.
 

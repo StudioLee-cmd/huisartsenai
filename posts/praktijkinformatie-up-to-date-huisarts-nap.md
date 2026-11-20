@@ -11,7 +11,7 @@ tags: ["NAP"]
 
 # Praktijkinformatie up-to-date houden als huisartsenpraktijk: een multi-platform discipline
 
-Patiënten zoeken een huisarts via Google, ZorgkaartNederland, huisartsenwijzer en zorgverzekeraar-portals. Op elk van die plaatsen staat jouw praktijkinformatie. Als die vier plaatsen niet exact gelijk zijn — andere openingstijden, een verkeerd telefoonnummer, een vergeten waarneming — bestraft Google je profiel met lagere ranking en verliezen patiënten vertrouwen voor ze gebeld hebben.
+Patiënten zoeken een huisarts via Google, ZorgkaartNederland, huisartsenwijzer en zorgverzekeraar-portals. Op elk van die plaatsen staat jouw praktijkinformatie. Als die vier plaatsen niet exact gelijk zijn (andere openingstijden, een verkeerd telefoonnummer, een vergeten waarneming), bestraft Google je profiel met lagere ranking en verliezen patiënten vertrouwen voor ze gebeld hebben.
 
 Dit artikel gaat niet over hoe je een Google Bedrijfsprofiel aanmaakt of optimaliseert (zie ons [Google Bedrijfsprofiel als huisarts pillar](/blog/google-bedrijfsprofiel-huisarts) artikel daarvoor). Het gaat over hoe je je praktijkinformatie het hele jaar door synchroon houdt over de vier plaatsen waar het toe doet, met een werkbare cadans en een kwartaal-checklist.
 
@@ -38,7 +38,7 @@ Voor een doorsnee MKB is dit al lastig. Voor huisartsenpraktijken is het complex
 - **Praktijknamen wisselen.** "Huisartsenpraktijk Dr. Bos" wordt na fusie "Gezondheidscentrum Maaszicht". Op alle vier de surfaces moet de naam tegelijk wijzigen.
 - **Telefoonnummers splitsen.** Veel praktijken hebben een gewoon nummer + spoednummer + administratienummer. Welke staat waar?
 - **Adressen multi-locatie.** Voor groepspraktijken met meerdere vestigingen is een fout op één surface al genoeg om Google's algoritme te verwarren.
-- **Openingstijden uitzonderingen.** Kerst, Pasen, Hemelvaart, Koningsdag, vakantieweken, waarneem-regelingen — deze staan vaker NIET dan WEL op alle surfaces gesynchroniseerd.
+- **Openingstijden uitzonderingen.** Kerst, Pasen, Hemelvaart, Koningsdag, vakantieweken, waarneem-regelingen: deze staan vaker NIET dan WEL op alle surfaces gesynchroniseerd.
 
 Volgens een 2025-onderzoek van Local Search heeft 73% van de Nederlandse huisartsenpraktijken minimaal één NAP-inconsistentie tussen GBP en ZorgkaartNederland. Dat resulteert in een 23% lagere klik-naar-bel ratio dan praktijken met perfecte sync.
 
@@ -65,7 +65,7 @@ Niet alle velden zijn even belangrijk. Hieronder de prioriteit:
 - Personeelslijst (artsen + paraveterinairen)
 - Reviews-respons
 
-Een wijziging in de hoge categorie (bijvoorbeeld een nieuw spoednummer) hoort dezelfde dag op alle vier de surfaces te staan. Een wijziging in de lage categorie kun je zelfs een paar weken laten — maar verlies de discipline niet, anders glijdt alles af.
+Een wijziging in de hoge categorie (bijvoorbeeld een nieuw spoednummer) hoort dezelfde dag op alle vier de surfaces te staan. Een wijziging in de lage categorie kun je zelfs een paar weken laten, maar verlies de discipline niet, anders glijdt alles af.
 
 ![Receptiebalie close-up: agenda met handgeschreven notities, een tablet face-up met een Google Bedrijfsprofiel info-pagina (geblurde tekst), een stethoscoop op de balie en een dampende mok thee, zachte ochtendzon door een hoog raam](/images/blog/praktijkinformatie-up-to-date-huisarts-nap-2.jpg)
 
@@ -76,7 +76,7 @@ Maak vier vaste momenten in het jaar waar je 30 minuten besteedt aan een synchro
 **Per kwartaal, in 30 minuten:**
 
 1. **Pak een spreadsheet** met de 4 surfaces als kolomkop (GBP / ZorgkaartNederland / Huisartsenwijzer / Website) en NAP-velden + openingstijden + waarneem-info als rijen.
-2. **Vul per surface in wat er nu staat.** Open elk in een tab en noteer de exacte waarden — geen veronderstellingen.
+2. **Vul per surface in wat er nu staat.** Open elk in een tab en noteer de exacte waarden, geen veronderstellingen.
 3. **Identificeer de discrepanties.** Markeer rijen met afwijkingen rood.
 4. **Corrigeer in volgorde van impact:** eerst hoge prioriteit, dan middel, dan laag.
 5. **Plan de volgende controle** voor 90 dagen later in je agenda.
@@ -109,7 +109,7 @@ Voor de bredere [lokale seo voor huisartsen](/seo) strategie hangt deze sync-dis
 
 ## GBP Insights als alarm-bel voor inconsistenties
 
-Een onderschatte maar krachtige feedback-loop: Google's eigen Insights-dashboard binnen je Bedrijfsprofiel laat zien hoe vaak patiënten op je profiel landen, wat ze aanklikken (route, telefoon, website) en op welke zoekwoorden je verschijnt. Een plotselinge daling in een van deze cijfers — vooral telefoon-clicks — is vaak het eerste signaal dat een veld ergens niet meer klopt.
+Een onderschatte maar krachtige feedback-loop: Google's eigen Insights-dashboard binnen je Bedrijfsprofiel laat zien hoe vaak patiënten op je profiel landen, wat ze aanklikken (route, telefoon, website) en op welke zoekwoorden je verschijnt. Een plotselinge daling in een van deze cijfers (vooral telefoon-clicks) is vaak het eerste signaal dat een veld ergens niet meer klopt.
 
 Check Insights wekelijks (5 minuten). Een plotselinge drop in week-op-week telefoongesprekken zonder duidelijke oorzaak is bijna altijd een NAP-issue ergens.
 
@@ -119,7 +119,7 @@ Check Insights wekelijks (5 minuten). Een plotselinge drop in week-op-week telef
 
 **2. Vakantie-openingstijden vergeten.** Standaard openingstijden staan goed, vakantie-uitzonderingen niet. Patiënten die voor een dichte deur staan tijdens Pasen of Hemelvaart hebben dat vrijwel altijd als oorzaak.
 
-**3. Inconsistente naamspelling.** "Huisartsenpraktijk Dr. Bos" vs "Huisartsenpraktijk dr. Bos" vs "Huisartsenpraktijk Bos" — Google ziet dit als drie verschillende entiteiten en weegt af.
+**3. Inconsistente naamspelling.** "Huisartsenpraktijk Dr. Bos" vs "Huisartsenpraktijk dr. Bos" vs "Huisartsenpraktijk Bos": Google ziet dit als drie verschillende entiteiten en weegt af.
 
 **4. 06-nummer als hoofdnummer op één surface, vast nummer op een ander.** Kies één hoofdnummer en gebruik dat overal.
 
@@ -129,7 +129,7 @@ Een [gratis ai scan voor huisartsen](/gratis-scan) brengt je vier surfaces in 30
 
 ## Hoe een ai telefonist NAP-consistentie versterkt
 
-Een onverwacht effect: een [ai telefonist voor huisartsen](/voice-ai) die buiten kantoortijden opneemt, verifieert tijdens elke oproep automatisch de praktijkinformatie ("u belt huisartsenpraktijk Bos in Amsterdam, openingstijden zijn maandag tot en met vrijdag van 8 tot 17 uur"). Dat is niet alleen een service-signaal — het is ook een test of de info nog klopt. Wijzigt iets in je praktijk, dan signaleert de AI je dat de scripts niet meer kloppen, voordat een verwarde patiënt het je vertelt.
+Een onverwacht effect: een [ai telefonist voor huisartsen](/voice-ai) die buiten kantoortijden opneemt, verifieert tijdens elke oproep automatisch de praktijkinformatie ("u belt huisartsenpraktijk Bos in Amsterdam, openingstijden zijn maandag tot en met vrijdag van 8 tot 17 uur"). Dat is niet alleen een service-signaal, maar ook een test of de info nog klopt. Wijzigt iets in je praktijk, dan signaleert de AI je dat de scripts niet meer kloppen, voordat een verwarde patiënt het je vertelt.
 
 ## Veelgestelde vragen
 
@@ -139,7 +139,7 @@ Per kwartaal volledig (30 min). Wekelijks GBP Insights checken (5 min). Bij elke
 
 ### Mag ik een online tool gebruiken om alles tegelijk bij te werken?
 
-Tools als BrightLocal, Whitespark of Yext beheren je vermeldingen op meerdere platforms tegelijk. Voor zorgcontext (huisartsenwijzer + ZorgkaartNederland) werken deze beperkt — die platforms hebben hun eigen workflows.
+Tools als BrightLocal, Whitespark of Yext beheren je vermeldingen op meerdere platforms tegelijk. Voor zorgcontext (huisartsenwijzer + ZorgkaartNederland) werken deze beperkt, want die platforms hebben hun eigen workflows.
 
 ### Wat als ZorgkaartNederland een verkeerde review of specialisatie toont en ik het niet kan wijzigen?
 

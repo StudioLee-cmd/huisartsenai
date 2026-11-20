@@ -13,7 +13,7 @@ cluster: "automatisering"
 
 ## Waarom patientbehoud belangrijk is
 
-Patientbehoud in de huisartsenpraktijk gaat niet over marketing of omzet — het gaat over continuiteit van zorg. Een patient die jaren bij dezelfde huisarts blijft, krijgt betere zorg. De huisarts kent de medische geschiedenis, begrijpt de context en kan eerder signaleren wanneer er iets verandert.
+Patientbehoud in de huisartsenpraktijk gaat niet over marketing of omzet. Het gaat over continuiteit van zorg. Een patient die jaren bij dezelfde huisarts blijft, krijgt betere zorg. De huisarts kent de medische geschiedenis, begrijpt de context en kan eerder signaleren wanneer er iets verandert.
 
 Toch wisselen steeds meer patienten van huisarts. De redenen zijn meestal niet medisch: lange wachttijden, moeilijk bereikbaar, het gevoel niet gehoord te worden of verhuizing. Op die eerste drie factoren heb je als praktijk invloed.
 
@@ -27,17 +27,17 @@ Het eerste consult met een nieuwe patient is bepalend. In die tien tot vijftien 
 
 **Leg de werkwijze uit**. Hoe werkt de praktijk? Hoe maak je een afspraak? Wanneer kun je bellen? Hoe werkt het [online portaal](/blog/huisartsenwebsite-minder-telefoon)? Duidelijke verwachtingen voorkomen frustratie later.
 
-**Geef een welkomstpakket**. Digitaal of fysiek: een overzicht van de praktijk, de huisartsen, de openingstijden en de spoedlijn. Het klinkt simpel, maar weinig praktijken doen het — en het maakt een professionele indruk.
+**Geef een welkomstpakket**. Digitaal of fysiek: een overzicht van de praktijk, de huisartsen, de openingstijden en de spoedlijn. Het klinkt simpel, maar weinig praktijken doen het. En het maakt een professionele indruk.
 
 ## Continuiteit van zorg waarborgen
 
 Continuiteit is de kern van goede huisartsenzorg. Patienten die steeds een andere huisarts zien, voelen zich minder verbonden met de praktijk.
 
-**Vaste huisarts toewijzen**. Waar mogelijk, koppel patienten aan een vaste huisarts. Niet voor elk consult — dat is praktisch onhaalbaar — maar voor chronische zorg en complexe casussen.
+**Vaste huisarts toewijzen**. Waar mogelijk, koppel patienten aan een vaste huisarts. Niet voor elk consult (dat is praktisch onhaalbaar), maar voor chronische zorg en complexe casussen.
 
 **Dossieroverdracht bij wisselingen**. Als een patient wel een andere huisarts in de praktijk ziet, zorg dan dat het dossier up-to-date is en dat de nieuwe arts de context kent. Een patient die opnieuw zijn hele verhaal moet vertellen, voelt zich niet serieus genomen.
 
-**Proactieve controles voor chronische patienten**. Patienten met diabetes, COPD of hartfalen hebben regelmatige controles nodig. Automatische herinneringen voor deze controles zorgen dat patienten niet uitvallen — en laten zien dat de praktijk meedenkt.
+**Proactieve controles voor chronische patienten**. Patienten met diabetes, COPD of hartfalen hebben regelmatige controles nodig. Automatische herinneringen voor deze controles zorgen dat patienten niet uitvallen, en laten zien dat de praktijk meedenkt.
 
 ## Digitale communicatie inzetten
 
@@ -49,7 +49,7 @@ Digitale tools kunnen de patient-relatie versterken zonder extra werkdruk voor d
 
 **[Email nieuwsbrief](/blog/email-marketing-huisarts-nieuwsbrief)**. Een kwartaalnieuwsbrief met gezondheidstips, informatie over griepvaccinaties of veranderingen in de praktijk. Dit houdt patienten betrokken en informeert zonder extra consulten.
 
-**Bereikbaarheid via meerdere kanalen**. Niet iedereen belt graag. Een contactformulier op de website, e-consult via de app of een terugbelverzoek — meerdere contactmogelijkheden verlagen de drempel.
+**Bereikbaarheid via meerdere kanalen**. Niet iedereen belt graag. Een contactformulier op de website, e-consult via de app of een terugbelverzoek: meerdere contactmogelijkheden verlagen de drempel.
 
 ## Patienttevredenheid meten
 
@@ -57,13 +57,13 @@ Je kunt patientbehoud niet verbeteren als je niet weet waar het probleem zit.
 
 **Jaarlijks patienttevredenheidsonderzoek**. Een korte enquete (vijf tot tien vragen) over bereikbaarheid, wachttijden, bejegening en informatie. Dit geeft je concrete verbeterpunten.
 
-**[Google reviews](/blog/meer-google-reviews-huisartsenpraktijk) monitoren**. Positieve reviews bevestigen wat goed gaat. Negatieve reviews — hoe pijnlijk ook — geven de eerlijkste feedback.
+**[Google reviews](/blog/meer-google-reviews-huisartsenpraktijk) monitoren**. Positieve reviews bevestigen wat goed gaat. Negatieve reviews geven, hoe pijnlijk ook, de eerlijkste feedback.
 
 **Uitschrijvingsanalyse**. Als patienten zich uitschrijven, vraag waarom. Niet om ze te overtuigen om te blijven, maar om patronen te herkennen. Als vijf patienten in een maand uitschrijven vanwege [bereikbaarheid](/blog/telefoondruk-huisartsenpraktijk-verlagen), is dat een signaal.
 
 ## Aan de slag
 
-Patientbehoud begint bij de basis: een warm welkom, duidelijke communicatie, continuiteit van zorg en bereikbaarheid. De praktijken die dit goed doen, hebben niet alleen een volle praktijk — ze leveren ook betere zorg.
+Patientbehoud begint bij de basis: een warm welkom, duidelijke communicatie, continuiteit van zorg en bereikbaarheid. De praktijken die dit goed doen, hebben niet alleen een volle praktijk: ze leveren ook betere zorg.
 
 Begin met een klein onderzoek onder je huidige patienten: wat gaat goed en wat kan beter? De antwoorden wijzen je de weg.
 

@@ -20,9 +20,9 @@ Tegelijk gelden voor huisartsen extra regels. Reviews mogen geen patientgegevens
 
 Google rangschikt lokale praktijken op:
 
-1. **Relevantie** — past je praktijk bij wat de zoeker vraagt?
-2. **Afstand** — hoe dicht ben je bij de zoeker?
-3. **Bekendheid** — hoeveel reviews heb je, hoe actief is je profiel, hoe goed werk je website?
+1. **Relevantie**: past je praktijk bij wat de zoeker vraagt?
+2. **Afstand**: hoe dicht ben je bij de zoeker?
+3. **Bekendheid**: hoeveel reviews heb je, hoe actief is je profiel, hoe goed werk je website?
 
 De eerste stel je in met de juiste categorieën. De tweede ligt vast (je locatie). De derde bouw je op door consequent reviews te verzamelen, je profiel up-to-date te houden, en een goede website te hebben.
 
@@ -38,14 +38,14 @@ Een ongeverifieerd profiel scoort altijd lager dan een geverifieerd profiel. Zon
 
 Wat moet er allemaal in je profiel?
 
-- **Praktijknaam** — exact zoals officieel geregistreerd
-- **Categorie primair** — Huisartsenpraktijk
-- **Categorie secundair** — Medisch centrum, Spoeddienst (alleen als je dat aanbiedt)
-- **Adres** — exact, met plattegrondpin op de juiste plek
-- **Telefoonnummer** — vast nummer
-- **Openingstijden** — exact, met aangegeven verschillen voor bijvoorbeeld inloopspreekuur
-- **Website** — link naar je homepage
-- **Beschrijving** — 750 tekens. Vertel wat je praktijk doet, voor wie, wat je specialisaties zijn (chronische zorg, kindergeneeskunde, vrouwengezondheid), en in welke wijk(en) je werkt
+- **Praktijknaam**: exact zoals officieel geregistreerd
+- **Categorie primair**: Huisartsenpraktijk
+- **Categorie secundair**: Medisch centrum, Spoeddienst (alleen als je dat aanbiedt)
+- **Adres**: exact, met plattegrondpin op de juiste plek
+- **Telefoonnummer**: vast nummer
+- **Openingstijden**: exact, met aangegeven verschillen voor bijvoorbeeld inloopspreekuur
+- **Website**: link naar je homepage
+- **Beschrijving**: 750 tekens. Vertel wat je praktijk doet, voor wie, wat je specialisaties zijn (chronische zorg, kindergeneeskunde, vrouwengezondheid), en in welke wijk(en) je werkt
 
 Een compleet profiel scoort duidelijk beter dan een halfvol profiel. Dit is de basis.
 
@@ -84,7 +84,7 @@ Bedrijven met meer dan 10 foto's krijgen merkbaar meer kliks dan zonder. Voor hu
 
 Wat je toevoegt:
 
-- **Foto van de gevel** — zodat patienten weten hoe je praktijk eruitziet
+- **Foto van de gevel**, zodat patienten weten hoe je praktijk eruitziet
 - **Foto van de wachtkamer** (leeg, geen patienten zichtbaar)
 - **Foto van een spreekkamer** (leeg, neutraal)
 - **Foto van het team** (met toestemming, professioneel)
@@ -93,7 +93,7 @@ Wat je toevoegt:
 
 Wat je vermijdt: foto's met patienten zonder schriftelijke toestemming, stockfoto's (Google detecteert ze), persoonlijke details van medewerkers die niet relevant zijn.
 
-## Stap 6: Reviews verzamelen — ethisch maar effectief
+## Stap 6: Reviews verzamelen, ethisch maar effectief
 
 Reviews zijn waar de meeste winst zit. Praktijken met 50+ reviews en een gemiddelde van 4,5 of hoger verschijnen significant vaker in de top drie van het kaartresultaat.
 
@@ -118,10 +118,10 @@ Je website en je Google Bedrijfsprofiel werken samen. Een trage of onhandige web
 Wat een huisartsenpraktijk-website moet hebben:
 
 - **Snelle laadtijd** (onder 3 seconden)
-- **Mobielvriendelijk** — de meeste zoekopdrachten komen via mobiel
+- **Mobielvriendelijk**, want de meeste zoekopdrachten komen via mobiel
 - **Klikbaar telefoonnummer** bovenaan elke pagina
 - **Een duidelijk inloopspreekuur of afsprakensysteem** (online inschrijven indien mogelijk)
-- **Informatie over inschrijven als nieuwe patient** — dit is een veelvoorkomende zoekvraag
+- **Informatie over inschrijven als nieuwe patient**, want dit is een veelvoorkomende zoekvraag
 - **Praktijkinformatie**: openingstijden, telefonische bereikbaarheid, spoedlijn
 - **Team-pagina** met huisartsen en assistenten (met toestemming)
 - **Praktische info**: locatie, parkeren, OV-bereikbaarheid
@@ -132,9 +132,9 @@ Een goede website in combinatie met een goed Bedrijfsprofiel is de basis voor [l
 
 Naast je profiel en website kun je je lokale aanwezigheid versterken met een paar acties:
 
-- **Vermelding op de website van je gemeente** — vraag erom
+- **Vermelding op de website van je gemeente**: vraag erom
 - **Vermelding op zorggidsen** zoals ZorgkaartNederland (vergelijkbaar met Google reviews maar specifiek voor de zorg)
-- **Lokale samenwerkingen vermelden** — met apotheek, fysiotherapie, ggz
+- **Lokale samenwerkingen vermelden**: met apotheek, fysiotherapie, ggz
 - **Sponsorvermeldingen** als je sportclubs of buurthuizen sponsort
 - **Actuele informatie op je website** over openingstijden tijdens vakantieperioden, vervangers, en wijzigingen
 

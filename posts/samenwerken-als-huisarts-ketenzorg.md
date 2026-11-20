@@ -9,7 +9,7 @@ tags: ["Samenwerkingen", "Ketenzorg"]
 cluster: "branding"
 ---
 
-De huisartsenpraktijk is de spil van de eerstelijnszorg. Maar geen huisarts kan alles alleen. Ketenzorg — gestructureerde samenwerking met andere zorgverleners — is de sleutel tot betere patientenzorg, minder werkdruk en een efficienter praktijk.
+De huisartsenpraktijk is de spil van de eerstelijnszorg. Maar geen huisarts kan alles alleen. Ketenzorg (gestructureerde samenwerking met andere zorgverleners) is de sleutel tot betere patientenzorg, minder werkdruk en een efficienter praktijk.
 
 ## Waarom ketenzorg essentieel is
 
@@ -25,10 +25,10 @@ Voordelen:
 
 | Partner | Samenwerking | Impact |
 |---------|-------------|--------|
-| Fysiotherapeut | Directe verwijzing bij bewegingsklachten | Hoog — vermindert consulten |
-| Psycholoog / POH-GGZ | Geestelijke gezondheidszorg | Zeer hoog — groeiende vraag |
-| Apotheker | Medicatieafstemming en -review | Hoog — veiligheid |
-| Wijkverpleging | Thuiszorg voor chronische patienten | Hoog — ontlast de praktijk |
+| Fysiotherapeut | Directe verwijzing bij bewegingsklachten | Hoog, vermindert consulten |
+| Psycholoog / POH-GGZ | Geestelijke gezondheidszorg | Zeer hoog, groeiende vraag |
+| Apotheker | Medicatieafstemming en -review | Hoog: veiligheid |
+| Wijkverpleging | Thuiszorg voor chronische patienten | Hoog, ontlast de praktijk |
 | Dietist | Leefstijlinterventies | Gemiddeld-hoog |
 
 ## Hoe organiseer je effectieve ketenzorg?
@@ -65,7 +65,7 @@ Registreer verwijzingen en terugrapportages. Analyseer welke samenwerkingen de m
 
 ## De toekomst van de huisartsenzorg is samenwerking
 
-De zorgvraag stijgt, de werkdruk neemt toe en het personeelstekort groeit. De enige duurzame oplossing is structurele samenwerking. Huisartsenpraktijken die investeren in ketenzorg — met fysiotherapeuten, psychologen, apothekers en wijkverpleging — leveren betere zorg, hebben een lagere werkdruk en hogere patienttevredenheid. Het is geen luxe meer, het is een noodzaak. Begin met een maandelijks multidisciplinair overleg met je drie belangrijkste samenwerkingspartners. Het kost een uur per maand en het verbetert de zorg voor al je patienten.
+De zorgvraag stijgt, de werkdruk neemt toe en het personeelstekort groeit. De enige duurzame oplossing is structurele samenwerking. Huisartsenpraktijken die investeren in ketenzorg (met fysiotherapeuten, psychologen, apothekers en wijkverpleging) leveren betere zorg, hebben een lagere werkdruk en hogere patienttevredenheid. Het is geen luxe meer, het is een noodzaak. Begin met een maandelijks multidisciplinair overleg met je drie belangrijkste samenwerkingspartners. Het kost een uur per maand en het verbetert de zorg voor al je patienten.
 
 ## Hulp nodig?
 

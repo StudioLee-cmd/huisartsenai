@@ -10,7 +10,7 @@ cluster: "branding"
 ---
 Huisartsenpraktijken hadden vroeger geen marketing nodig. Patienten gingen naar de dichtstbijzijnde huisarts en bleven er hun hele leven. Die tijd is voorbij. Patienten vergelijken praktijken online, lezen reviews en kiezen bewust.
 
-Branding betekent niet dat je reclame gaat maken. Het betekent dat je bewust werkt aan het beeld dat patienten van je praktijk hebben — en dat dat beeld vertrouwen wekt.
+Branding betekent niet dat je reclame gaat maken. Het betekent dat je bewust werkt aan het beeld dat patienten van je praktijk hebben, en dat dat beeld vertrouwen wekt.
 
 ## Waarom branding nu nodig is
 
@@ -75,14 +75,14 @@ Een veelgehoorde zorg: "Ik wil niet commercieel overkomen." Dat hoeft ook niet. 
 
 ## Praktische stappen
 
-1. **Google Bedrijfsprofiel** — Claim en optimaliseer het. Dit is je digitale voordeur.
-2. **Website updaten** — Professionele foto's, duidelijke informatie, online boeken.
-3. **Reviews verzamelen** — Vraag tevreden patienten om hun ervaring te delen.
-4. **Social media** — Deel [gezondheids-tips](/blog/social-media-huisartsen-patienten) en praktijknieuws.
-5. **Consistentie** — Zorg dat online en offline dezelfde ervaring bieden.
+1. **Google Bedrijfsprofiel**: claim en optimaliseer het. Dit is je digitale voordeur.
+2. **Website updaten**: professionele foto's, duidelijke informatie, online boeken.
+3. **Reviews verzamelen**: vraag tevreden patienten om hun ervaring te delen.
+4. **Social media**: deel [gezondheids-tips](/blog/social-media-huisartsen-patienten) en praktijknieuws.
+5. **Consistentie**: zorg dat online en offline dezelfde ervaring bieden.
 
 ## Hulp nodig?
 
-Bij HuisartsenAI helpen we huisartsenpraktijken met het opbouwen van een professioneel online imago dat vertrouwen wekt. Van website tot Google-profiel — alles voor slechts 15 minuten per maand van jouw tijd.
+Bij HuisartsenAI helpen we huisartsenpraktijken met het opbouwen van een professioneel online imago dat vertrouwen wekt. Van website tot Google-profiel: alles voor slechts 15 minuten per maand van jouw tijd.
 
 Vraag een [gratis AI-scan](/gratis-scan) aan en ontdek hoe jouw praktijk er online voor staat.
